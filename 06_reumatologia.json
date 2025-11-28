@@ -1,0 +1,498 @@
+{
+  "nombre": "Reumatología",
+  "capitulos": [
+    {
+      "nombre": "Aspectos generales de las enfermedades reumáticas",
+      "numero": 1,
+      "apartados": [
+        {
+          "nombre": "Estructura articular",
+          "numero": "1.1",
+          "numero_de_pagina": 2
+        },
+        {
+          "nombre": "Historia clínica y exploración física",
+          "numero": "1.2",
+          "numero_de_pagina": 3
+        },
+        {
+          "nombre": "Exámenes de laboratorio",
+          "numero": "1.3",
+          "numero_de_pagina": 4
+        },
+        {
+          "nombre": "Métodos de imagen en el diagnóstico de las enfermedades articulares",
+          "numero": "1.4",
+          "numero_de_pagina": 4
+        },
+        {
+          "nombre": "Tratamiento en Reumatología",
+          "numero": "1.5",
+          "numero_de_pagina": 5
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Enfermedades metabólicas óseas",
+      "numero": 2,
+      "apartados": [
+        {
+          "nombre": "Osteoporosis",
+          "numero": "2.1",
+          "numero_de_pagina": 8
+        },
+        {
+          "nombre": "Osteomalacia y raquitismo",
+          "numero": "2.2",
+          "numero_de_pagina": 12
+        },
+        {
+          "nombre": "Enfermedad de Paget",
+          "numero": "2.3",
+          "numero_de_pagina": 14
+        }
+      ],
+      "total_paginas": 10
+    },
+    {
+      "nombre": "Artritis reumatoide",
+      "numero": 3,
+      "apartados": [
+        {
+          "nombre": "Definición",
+          "numero": "3.1",
+          "numero_de_pagina": 18
+        },
+        {
+          "nombre": "Etiopatogenia y anatomía patológica",
+          "numero": "3.2",
+          "numero_de_pagina": 18
+        },
+        {
+          "nombre": "Manifestaciones clínicas",
+          "numero": "3.3",
+          "numero_de_pagina": 18
+        },
+        {
+          "nombre": "Evolución y pronóstico",
+          "numero": "3.4",
+          "numero_de_pagina": 21
+        },
+        {
+          "nombre": "Diagnóstico",
+          "numero": "3.5",
+          "numero_de_pagina": 21
+        },
+        {
+          "nombre": "Tratamiento",
+          "numero": "3.6",
+          "numero_de_pagina": 23
+        },
+        {
+          "nombre": "Artritis idiopática juvenil",
+          "numero": "3.7",
+          "numero_de_pagina": 25
+        },
+        {
+          "nombre": "Enfermedad de Still del adulto",
+          "numero": "3.8",
+          "numero_de_pagina": 26
+        }
+      ],
+      "total_paginas": 12
+    },
+    {
+      "nombre": "Espondiloartritis",
+      "numero": 4,
+      "apartados": [
+        {
+          "nombre": "Espondilitis anquilosante",
+          "numero": "4.1",
+          "numero_de_pagina": 30
+        },
+        {
+          "nombre": "Artritis reactiva",
+          "numero": "4.2",
+          "numero_de_pagina": 34
+        },
+        {
+          "nombre": "Artropatía psoriásica",
+          "numero": "4.3",
+          "numero_de_pagina": 36
+        },
+        {
+          "nombre": "Artritis asociada a la enfermedad inflamatoria intestinal",
+          "numero": "4.4",
+          "numero_de_pagina": 38
+        },
+        {
+          "nombre": "Espondiloartropatías en pacientes con el VIH",
+          "numero": "4.5",
+          "numero_de_pagina": 39
+        },
+        {
+          "nombre": "Otras espondiloartropatías y entidades relacionadas",
+          "numero": "4.6",
+          "numero_de_pagina": 40
+        }
+      ],
+      "total_paginas": 12
+    },
+    {
+      "nombre": "Artritis por microcristales",
+      "numero": 5,
+      "apartados": [
+        {
+          "nombre": "Hiperuricemia y gota",
+          "numero": "5.1",
+          "numero_de_pagina": 42
+        },
+        {
+          "nombre": "Artritis debida a depósito de cristales de calcio",
+          "numero": "5.2",
+          "numero_de_pagina": 46
+        }
+      ],
+      "total_paginas": 10
+    },
+    {
+      "nombre": "Infecciones osteoarticulares",
+      "numero": 6,
+      "apartados": [
+        {
+          "nombre": "Artritis séptica",
+          "numero": "6.1",
+          "numero_de_pagina": 52
+        },
+        {
+          "nombre": "Otras artritis infecciosas",
+          "numero": "6.2",
+          "numero_de_pagina": 54
+        },
+        {
+          "nombre": "Osteomielitis",
+          "numero": "6.3",
+          "numero_de_pagina": 55
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Artrosis",
+      "numero": 7,
+      "apartados": [
+        {
+          "nombre": "Definición",
+          "numero": "7.1",
+          "numero_de_pagina": 58
+        },
+        {
+          "nombre": "Clasificación",
+          "numero": "7.2",
+          "numero_de_pagina": 58
+        },
+        {
+          "nombre": "Anatomía patológica",
+          "numero": "7.3",
+          "numero_de_pagina": 58
+        },
+        {
+          "nombre": "Manifestaciones clínicas",
+          "numero": "7.4",
+          "numero_de_pagina": 58
+        },
+        {
+          "nombre": "Diagnóstico",
+          "numero": "7.5",
+          "numero_de_pagina": 59
+        },
+        {
+          "nombre": "Tratamiento",
+          "numero": "7.6",
+          "numero_de_pagina": 59
+        }
+      ],
+      "total_paginas": 4
+    },
+    {
+      "nombre": "Vasculitis",
+      "numero": 8,
+      "apartados": [
+        {
+          "nombre": "Definición",
+          "numero": "8.1",
+          "numero_de_pagina": 62
+        },
+        {
+          "nombre": "Clasificación",
+          "numero": "8.2",
+          "numero_de_pagina": 62
+        },
+        {
+          "nombre": "Patogenia",
+          "numero": "8.3",
+          "numero_de_pagina": 62
+        },
+        {
+          "nombre": "Diagnóstico",
+          "numero": "8.4",
+          "numero_de_pagina": 62
+        },
+        {
+          "nombre": "Tratamiento",
+          "numero": "8.5",
+          "numero_de_pagina": 63
+        },
+        {
+          "nombre": "Panarteritis nodosa",
+          "numero": "8.6",
+          "numero_de_pagina": 63
+        },
+        {
+          "nombre": "Vasculitis de pequeño vaso ANCA positivas",
+          "numero": "8.7",
+          "numero_de_pagina": 64
+        },
+        {
+          "nombre": "Vasculitis de vaso grande",
+          "numero": "8.8",
+          "numero_de_pagina": 66
+        },
+        {
+          "nombre": "Vasculitis IgA (púrpura de Schönlein-Henoch)",
+          "numero": "8.9",
+          "numero_de_pagina": 69
+        },
+        {
+          "nombre": "Vasculitis predominantemente cutáneas",
+          "numero": "8.10",
+          "numero_de_pagina": 69
+        },
+        {
+          "nombre": "Tromboangeítis obliterante (enfermedad de Buerger)",
+          "numero": "8.11",
+          "numero_de_pagina": 70
+        },
+        {
+          "nombre": "Síndrome de Behçet",
+          "numero": "8.12",
+          "numero_de_pagina": 71
+        },
+        {
+          "nombre": "Vasculitis crioglobulinémica",
+          "numero": "8.13",
+          "numero_de_pagina": 71
+        }
+      ],
+      "total_paginas": 12
+    },
+    {
+      "nombre": "Lupus eritematoso sistémico",
+      "numero": 9,
+      "apartados": [
+        {
+          "nombre": "Epidemiología",
+          "numero": "9.1",
+          "numero_de_pagina": 74
+        },
+        {
+          "nombre": "Etiopatogenia",
+          "numero": "9.2",
+          "numero_de_pagina": 74
+        },
+        {
+          "nombre": "Manifestaciones clínicas",
+          "numero": "9.3",
+          "numero_de_pagina": 74
+        },
+        {
+          "nombre": "Autoanticuerpos y otras alteraciones séricas",
+          "numero": "9.4",
+          "numero_de_pagina": 78
+        },
+        {
+          "nombre": "Diagnóstico",
+          "numero": "9.5",
+          "numero_de_pagina": 78
+        },
+        {
+          "nombre": "Tratamiento",
+          "numero": "9.6",
+          "numero_de_pagina": 80
+        },
+        {
+          "nombre": "Síndrome antifosfolípido",
+          "numero": "9.7",
+          "numero_de_pagina": 82
+        }
+      ],
+      "total_paginas": 12
+    },
+    {
+      "nombre": "Esclerosis sistémica",
+      "numero": 10,
+      "apartados": [
+        {
+          "nombre": "Definición",
+          "numero": "10.1",
+          "numero_de_pagina": 86
+        },
+        {
+          "nombre": "Epidemiología",
+          "numero": "10.2",
+          "numero_de_pagina": 86
+        },
+        {
+          "nombre": "Etiopatogenia",
+          "numero": "10.3",
+          "numero_de_pagina": 86
+        },
+        {
+          "nombre": "Manifestaciones clínicas",
+          "numero": "10.4",
+          "numero_de_pagina": 86
+        },
+        {
+          "nombre": "Clasificación",
+          "numero": "10.5",
+          "numero_de_pagina": 88
+        },
+        {
+          "nombre": "Diagnóstico",
+          "numero": "10.6",
+          "numero_de_pagina": 89
+        },
+        {
+          "nombre": "Evolución y pronóstico",
+          "numero": "10.7",
+          "numero_de_pagina": 90
+        },
+        {
+          "nombre": "Tratamiento",
+          "numero": "10.8",
+          "numero_de_pagina": 90
+        },
+        {
+          "nombre": "Síndromes esclerodermiformes",
+          "numero": "10.9",
+          "numero_de_pagina": 90
+        },
+        {
+          "nombre": "Enfermedad mixta del tejido conjuntivo",
+          "numero": "10.10",
+          "numero_de_pagina": 91
+        }
+      ],
+      "total_paginas": 8
+    },
+    {
+      "nombre": "Amiloidosis y síndromes autoinflamatorios",
+      "numero": 11,
+      "apartados": [
+        {
+          "nombre": "Amiloidosis",
+          "numero": "11.1",
+          "numero_de_pagina": 94
+        },
+        {
+          "nombre": "Síndromes autoinflamatorios",
+          "numero": "11.2",
+          "numero_de_pagina": 96
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Síndrome de Sjögren",
+      "numero": 12,
+      "apartados": [
+        {
+          "nombre": "Etiopatogenia",
+          "numero": "12.1",
+          "numero_de_pagina": 100
+        },
+        {
+          "nombre": "Manifestaciones clínicas",
+          "numero": "12.2",
+          "numero_de_pagina": 100
+        },
+        {
+          "nombre": "Diagnóstico",
+          "numero": "12.3",
+          "numero_de_pagina": 101
+        },
+        {
+          "nombre": "Tratamiento",
+          "numero": "12.4",
+          "numero_de_pagina": 102
+        }
+      ],
+      "total_paginas": 4
+    },
+    {
+      "nombre": "Miopatías inflamatorias",
+      "numero": 13,
+      "apartados": [
+        {
+          "nombre": "Etiología",
+          "numero": "13.1",
+          "numero_de_pagina": 104
+        },
+        {
+          "nombre": "Manifestaciones clínicas",
+          "numero": "13.2",
+          "numero_de_pagina": 104
+        },
+        {
+          "nombre": "Diagnóstico",
+          "numero": "13.3",
+          "numero_de_pagina": 105
+        },
+        {
+          "nombre": "Tratamiento",
+          "numero": "13.4",
+          "numero_de_pagina": 106
+        }
+      ],
+      "total_paginas": 4
+    },
+    {
+      "nombre": "Otras enfermedades",
+      "numero": 14,
+      "apartados": [
+        {
+          "nombre": "Policondritis recidivante",
+          "numero": "14.1",
+          "numero_de_pagina": 108
+        },
+        {
+          "nombre": "Fibromialgia",
+          "numero": "14.2",
+          "numero_de_pagina": 108
+        },
+        {
+          "nombre": "Enfermedad relacionada con IgG4 (ER-IgG4)",
+          "numero": "14.3",
+          "numero_de_pagina": 109
+        },
+        {
+          "nombre": "Artropatía neuropática (de Charcot)",
+          "numero": "14.4",
+          "numero_de_pagina": 110
+        },
+        {
+          "nombre": "Osteoartropatía hipertrófica",
+          "numero": "14.5",
+          "numero_de_pagina": 110
+        },
+        {
+          "nombre": "Síndrome VEXAS",
+          "numero": "14.6",
+          "numero_de_pagina": 111
+        }
+      ],
+      "total_paginas": 8
+    }
+  ]
+}

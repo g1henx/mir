@@ -1,0 +1,594 @@
+{
+  "nombre": "Enfermedades Infecciosas",
+  "capitulos": [
+    {
+      "nombre": "Generalidades",
+      "numero": 1,
+      "apartados": [
+        {
+          "nombre": "Principios básicos de microbiología y patogenia",
+          "numero": "1.1",
+          "numero_de_pagina": 2
+        },
+        {
+          "nombre": "Fiebre y fiebre de origen desconocido",
+          "numero": "1.2",
+          "numero_de_pagina": 3
+        },
+        {
+          "nombre": "Bacteriemia y sepsis",
+          "numero": "1.3",
+          "numero_de_pagina": 5
+        },
+        {
+          "nombre": "Endocarditis infecciosa",
+          "numero": "1.4",
+          "numero_de_pagina": 6
+        }
+      ],
+      "total_paginas": 12
+    },
+    {
+      "nombre": "Infecciones por cocos grampositivos",
+      "numero": 2,
+      "apartados": [
+        {
+          "nombre": "Staphylococcus aureus",
+          "numero": "2.1",
+          "numero_de_pagina": 14
+        },
+        {
+          "nombre": "Staphylococcus coagulasa negativo",
+          "numero": "2.2",
+          "numero_de_pagina": 15
+        },
+        {
+          "nombre": "Streptococcus",
+          "numero": "2.3",
+          "numero_de_pagina": 16
+        },
+        {
+          "nombre": "Enterococcus",
+          "numero": "2.4",
+          "numero_de_pagina": 18
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Infecciones por cocos gramnegativos",
+      "numero": 3,
+      "apartados": [
+        {
+          "nombre": "Neisseria meningitidis",
+          "numero": "3.1",
+          "numero_de_pagina": 20
+        },
+        {
+          "nombre": "Neisseria gonorrhoeae",
+          "numero": "3.2",
+          "numero_de_pagina": 22
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Infecciones por bacilos grampositivos",
+      "numero": 4,
+      "apartados": [
+        {
+          "nombre": "Corynebacterium diphtheriae",
+          "numero": "4.1",
+          "numero_de_pagina": 26
+        },
+        {
+          "nombre": "Listeria monocytogenes",
+          "numero": "4.2",
+          "numero_de_pagina": 27
+        },
+        {
+          "nombre": "Bacillus",
+          "numero": "4.3",
+          "numero_de_pagina": 28
+        },
+        {
+          "nombre": "Nocardia",
+          "numero": "4.4",
+          "numero_de_pagina": 28
+        }
+      ],
+      "total_paginas": 4
+    },
+    {
+      "nombre": "Infecciones por enterobacterias",
+      "numero": 5,
+      "apartados": [
+        {
+          "nombre": "Generalidades",
+          "numero": "5.1",
+          "numero_de_pagina": 30
+        },
+        {
+          "nombre": "Escherichia coli",
+          "numero": "5.2",
+          "numero_de_pagina": 30
+        },
+        {
+          "nombre": "Klebsiella",
+          "numero": "5.3",
+          "numero_de_pagina": 31
+        },
+        {
+          "nombre": "Salmonella",
+          "numero": "5.4",
+          "numero_de_pagina": 32
+        },
+        {
+          "nombre": "Shigella",
+          "numero": "5.5",
+          "numero_de_pagina": 34
+        },
+        {
+          "nombre": "Yersinia",
+          "numero": "5.6",
+          "numero_de_pagina": 34
+        }
+      ],
+      "total_paginas": 8
+    },
+    {
+      "nombre": "Infecciones por bacilos gramnegativos no fermentadores",
+      "numero": 6,
+      "apartados": [
+        {
+          "nombre": "Pseudomonas aeruginosa",
+          "numero": "6.1",
+          "numero_de_pagina": 38
+        },
+        {
+          "nombre": "Acinetobacter baumannii",
+          "numero": "6.2",
+          "numero_de_pagina": 39
+        }
+      ],
+      "total_paginas": 4
+    },
+    {
+      "nombre": "Otras infecciones por bacilos gramnegativos",
+      "numero": 7,
+      "apartados": [
+        {
+          "nombre": "Haemophilus influenzae",
+          "numero": "7.1",
+          "numero_de_pagina": 42
+        },
+        {
+          "nombre": "Legionella pneumophila",
+          "numero": "7.2",
+          "numero_de_pagina": 42
+        },
+        {
+          "nombre": "Bordetella pertussis",
+          "numero": "7.3",
+          "numero_de_pagina": 44
+        },
+        {
+          "nombre": "Brucella",
+          "numero": "7.4",
+          "numero_de_pagina": 44
+        },
+        {
+          "nombre": "Francisella tularensis",
+          "numero": "7.5",
+          "numero_de_pagina": 45
+        },
+        {
+          "nombre": "Bartonella",
+          "numero": "7.6",
+          "numero_de_pagina": 46
+        }
+      ],
+      "total_paginas": 8
+    },
+    {
+      "nombre": "Infecciones por anaerobios",
+      "numero": 8,
+      "apartados": [
+        {
+          "nombre": "Infecciones polimicrobianas por anaerobios",
+          "numero": "8.1",
+          "numero_de_pagina": 50
+        },
+        {
+          "nombre": "Clostridium",
+          "numero": "8.2",
+          "numero_de_pagina": 50
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Mycobacterias",
+      "numero": 9,
+      "apartados": [
+        {
+          "nombre": "Tuberculosis",
+          "numero": "9.1",
+          "numero_de_pagina": 56
+        },
+        {
+          "nombre": "Micobacterias no tuberculosas",
+          "numero": "9.2",
+          "numero_de_pagina": 66
+        },
+        {
+          "nombre": "Lepra",
+          "numero": "9.3",
+          "numero_de_pagina": 67
+        }
+      ],
+      "total_paginas": 14
+    },
+    {
+      "nombre": "Espiroquetas",
+      "numero": 10,
+      "apartados": [
+        {
+          "nombre": "Sífilis",
+          "numero": "10.1",
+          "numero_de_pagina": 70
+        },
+        {
+          "nombre": "Borreliosis de Lyme",
+          "numero": "10.2",
+          "numero_de_pagina": 73
+        },
+        {
+          "nombre": "Fiebre recurrente",
+          "numero": "10.3",
+          "numero_de_pagina": 74
+        },
+        {
+          "nombre": "Leptospirosis",
+          "numero": "10.4",
+          "numero_de_pagina": 75
+        }
+      ],
+      "total_paginas": 8
+    },
+    {
+      "nombre": "Rickettsias",
+      "numero": 11,
+      "apartados": [
+        {
+          "nombre": "Fiebre botonosa mediterránea",
+          "numero": "11.1",
+          "numero_de_pagina": 78
+        },
+        {
+          "nombre": "Fiebre Q",
+          "numero": "11.2",
+          "numero_de_pagina": 79
+        }
+      ],
+      "total_paginas": 4
+    },
+    {
+      "nombre": "Virus",
+      "numero": 12,
+      "apartados": [
+        {
+          "nombre": "Infección por virus del herpes simple",
+          "numero": "12.1",
+          "numero_de_pagina": 82
+        },
+        {
+          "nombre": "Infección por varicela-zóster",
+          "numero": "12.2",
+          "numero_de_pagina": 84
+        },
+        {
+          "nombre": "Infección por citomegalovirus",
+          "numero": "12.3",
+          "numero_de_pagina": 86
+        },
+        {
+          "nombre": "Virus de Epstein-Barr. Mononucleosis infecciosa",
+          "numero": "12.4",
+          "numero_de_pagina": 87
+        },
+        {
+          "nombre": "Otros herpesvirus",
+          "numero": "12.5",
+          "numero_de_pagina": 89
+        },
+        {
+          "nombre": "Infección por parvovirus B19",
+          "numero": "12.6",
+          "numero_de_pagina": 90
+        },
+        {
+          "nombre": "Fiebres hemorrágicas",
+          "numero": "12.7",
+          "numero_de_pagina": 91
+        }
+      ],
+      "total_paginas": 12
+    },
+    {
+      "nombre": "Infección por el VIH",
+      "numero": 13,
+      "apartados": [
+        {
+          "nombre": "Epidemiología",
+          "numero": "13.1",
+          "numero_de_pagina": 94
+        },
+        {
+          "nombre": "Virología e inmunopatogenia",
+          "numero": "13.2",
+          "numero_de_pagina": 94
+        },
+        {
+          "nombre": "Historia natural",
+          "numero": "13.3",
+          "numero_de_pagina": 95
+        },
+        {
+          "nombre": "Diagnóstico",
+          "numero": "13.4",
+          "numero_de_pagina": 96
+        },
+        {
+          "nombre": "Infecciones oportunistas",
+          "numero": "13.5",
+          "numero_de_pagina": 98
+        },
+        {
+          "nombre": "Neoplasias",
+          "numero": "13.6",
+          "numero_de_pagina": 103
+        },
+        {
+          "nombre": "Tratamiento",
+          "numero": "13.7",
+          "numero_de_pagina": 104
+        }
+      ],
+      "total_paginas": 16
+    },
+    {
+      "nombre": "Micosis",
+      "numero": 14,
+      "apartados": [
+        {
+          "nombre": "Candidiasis",
+          "numero": "14.1",
+          "numero_de_pagina": 110
+        },
+        {
+          "nombre": "Criptococosis",
+          "numero": "14.2",
+          "numero_de_pagina": 111
+        },
+        {
+          "nombre": "Aspergilosis",
+          "numero": "14.3",
+          "numero_de_pagina": 112
+        },
+        {
+          "nombre": "Mucormicosis",
+          "numero": "14.4",
+          "numero_de_pagina": 114
+        },
+        {
+          "nombre": "Neumocistosis",
+          "numero": "14.5",
+          "numero_de_pagina": 114
+        },
+        {
+          "nombre": "Micosis endémicas",
+          "numero": "14.6",
+          "numero_de_pagina": 115
+        }
+      ],
+      "total_paginas": 8
+    },
+    {
+      "nombre": "Parasitosis",
+      "numero": 15,
+      "apartados": [
+        {
+          "nombre": "Paludismo",
+          "numero": "15.1",
+          "numero_de_pagina": 118
+        },
+        {
+          "nombre": "Leishmaniasis",
+          "numero": "15.2",
+          "numero_de_pagina": 121
+        },
+        {
+          "nombre": "Tripanosomiasis",
+          "numero": "15.3",
+          "numero_de_pagina": 122
+        },
+        {
+          "nombre": "Toxoplasmosis",
+          "numero": "15.4",
+          "numero_de_pagina": 123
+        },
+        {
+          "nombre": "Otras parasitosis",
+          "numero": "15.5",
+          "numero_de_pagina": 124
+        }
+      ],
+      "total_paginas": 12
+    },
+    {
+      "nombre": "Infecciones nosocomiales",
+      "numero": 16,
+      "apartados": [
+        {
+          "nombre": "Definición y epidemiología",
+          "numero": "16.1",
+          "numero_de_pagina": 130
+        },
+        {
+          "nombre": "Infecciones asociadas a catéter",
+          "numero": "16.2",
+          "numero_de_pagina": 130
+        },
+        {
+          "nombre": "Neumonía nosocomial",
+          "numero": "16.3",
+          "numero_de_pagina": 131
+        },
+        {
+          "nombre": "Infección por Clostridioides difficile",
+          "numero": "16.4",
+          "numero_de_pagina": 132
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Infecciones del sistema nervioso central",
+      "numero": 17,
+      "apartados": [
+        {
+          "nombre": "Meningitis aguda",
+          "numero": "17.1",
+          "numero_de_pagina": 136
+        },
+        {
+          "nombre": "Meningitis crónica",
+          "numero": "17.2",
+          "numero_de_pagina": 140
+        },
+        {
+          "nombre": "Encefalitis",
+          "numero": "17.3",
+          "numero_de_pagina": 140
+        },
+        {
+          "nombre": "Absceso cerebral",
+          "numero": "17.4",
+          "numero_de_pagina": 142
+        }
+      ],
+      "total_paginas": 10
+    },
+    {
+      "nombre": "Infecciones de vías respiratorias",
+      "numero": 18,
+      "apartados": [
+        {
+          "nombre": "Infecciones respiratorias virales",
+          "numero": "18.1",
+          "numero_de_pagina": 146
+        },
+        {
+          "nombre": "Neumonía adquirida en la comunidad",
+          "numero": "18.2",
+          "numero_de_pagina": 148
+        },
+        {
+          "nombre": "Absceso pulmonar",
+          "numero": "18.3",
+          "numero_de_pagina": 153
+        }
+      ],
+      "total_paginas": 10
+    },
+    {
+      "nombre": "Infecciones gastrointestinales y abdominales",
+      "numero": 19,
+      "apartados": [
+        {
+          "nombre": "Gastroenteritis aguda",
+          "numero": "19.1",
+          "numero_de_pagina": 156
+        },
+        {
+          "nombre": "Peritonitis y abscesos intraabdominales",
+          "numero": "19.2",
+          "numero_de_pagina": 159
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Infecciones de la piel y partes blandas",
+      "numero": 20,
+      "apartados": [
+        {
+          "nombre": "Clasificación",
+          "numero": "20.1",
+          "numero_de_pagina": 162
+        },
+        {
+          "nombre": "Infecciones superficiales",
+          "numero": "20.2",
+          "numero_de_pagina": 162
+        },
+        {
+          "nombre": "Infecciones profundas",
+          "numero": "20.3",
+          "numero_de_pagina": 163
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Infecciones del paciente inmunodeprimido no VIH",
+      "numero": 21,
+      "apartados": [
+        {
+          "nombre": "Factores de riesgo",
+          "numero": "21.1",
+          "numero_de_pagina": 168
+        },
+        {
+          "nombre": "Manejo del paciente neutropénico",
+          "numero": "21.2",
+          "numero_de_pagina": 168
+        }
+      ],
+      "total_paginas": 4
+    },
+    {
+      "nombre": "Fármacos antimicrobianos",
+      "numero": 22,
+      "apartados": [
+        {
+          "nombre": "Principios generales",
+          "numero": "22.1",
+          "numero_de_pagina": 172
+        },
+        {
+          "nombre": "Antibacterianos",
+          "numero": "22.2",
+          "numero_de_pagina": 172
+        },
+        {
+          "nombre": "Antifúngicos",
+          "numero": "22.3",
+          "numero_de_pagina": 178
+        },
+        {
+          "nombre": "Antivirales",
+          "numero": "22.4",
+          "numero_de_pagina": 179
+        },
+        {
+          "nombre": "Antiparasitarios",
+          "numero": "22.5",
+          "numero_de_pagina": 180
+        }
+      ],
+      "total_paginas": 13
+    }
+  ]
+}

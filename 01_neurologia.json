@@ -1,0 +1,716 @@
+{
+  "nombre": "Neurología",
+  "capitulos": [
+    {
+      "nombre": "Introducción: anatomía, semiología y fisiología del sistema nervioso",
+      "numero": 1,
+      "apartados": [
+        {
+          "nombre": "Breve recuerdo anatómico",
+          "numero": "1.1",
+          "numero_de_pagina": 2
+        },
+        {
+          "nombre": "Alteraciones de las funciones superiores",
+          "numero": "1.2",
+          "numero_de_pagina": 3
+        },
+        {
+          "nombre": "Trastornos de la función motora",
+          "numero": "1.3",
+          "numero_de_pagina": 5
+        },
+        {
+          "nombre": "Trastornos de la sensibilidad",
+          "numero": "1.4",
+          "numero_de_pagina": 7
+        },
+        {
+          "nombre": "Trastornos de la coordinación. Ataxias",
+          "numero": "1.5",
+          "numero_de_pagina": 7
+        },
+        {
+          "nombre": "Alteración de los pares craneales",
+          "numero": "1.6",
+          "numero_de_pagina": 7
+        },
+        {
+          "nombre": "Trastornos campimétricos y pupilares",
+          "numero": "1.7",
+          "numero_de_pagina": 10
+        },
+        {
+          "nombre": "Síndromes lobares",
+          "numero": "1.8",
+          "numero_de_pagina": 11
+        },
+        {
+          "nombre": "Síndromes troncoencefálicos",
+          "numero": "1.9",
+          "numero_de_pagina": 12
+        },
+        {
+          "nombre": "Reflejos",
+          "numero": "1.10",
+          "numero_de_pagina": 13
+        },
+        {
+          "nombre": "Síndromes medulares",
+          "numero": "1.11",
+          "numero_de_pagina": 14
+        }
+      ],
+      "total_paginas": 16
+    },
+    {
+      "nombre": "Coma. Muerte encefálica",
+      "numero": 2,
+      "apartados": [
+        {
+          "nombre": "Coma",
+          "numero": "2.1",
+          "numero_de_pagina": 18
+        },
+        {
+          "nombre": "Signos de valor localizador",
+          "numero": "2.2",
+          "numero_de_pagina": 18
+        }
+      ],
+      "total_paginas": 4
+    },
+    {
+      "nombre": "Demencias",
+      "numero": 3,
+      "apartados": [
+        {
+          "nombre": "Concepto y clasificación",
+          "numero": "3.1",
+          "numero_de_pagina": 22
+        },
+        {
+          "nombre": "Enfermedad de Alzheimer",
+          "numero": "3.2",
+          "numero_de_pagina": 23
+        },
+        {
+          "nombre": "Demencia frontotemporal",
+          "numero": "3.3",
+          "numero_de_pagina": 24
+        },
+        {
+          "nombre": "Demencia vascular",
+          "numero": "3.4",
+          "numero_de_pagina": 25
+        },
+        {
+          "nombre": "Demencia por cuerpos de Lewy",
+          "numero": "3.5",
+          "numero_de_pagina": 26
+        },
+        {
+          "nombre": "Sinucleinopatías y tauopatías",
+          "numero": "3.6",
+          "numero_de_pagina": 26
+        }
+      ],
+      "total_paginas": 8
+    },
+    {
+      "nombre": "Enfermedades vasculares cerebrales",
+      "numero": 4,
+      "apartados": [
+        {
+          "nombre": "Territorios vasculares cerebrales",
+          "numero": "4.1",
+          "numero_de_pagina": 30
+        },
+        {
+          "nombre": "Clasificación y factores de riesgo",
+          "numero": "4.2",
+          "numero_de_pagina": 30
+        },
+        {
+          "nombre": "Enfermedades cerebrovasculares isquémicas",
+          "numero": "4.3",
+          "numero_de_pagina": 30
+        },
+        {
+          "nombre": "Hemorragia intraparenquimatosa",
+          "numero": "4.4",
+          "numero_de_pagina": 35
+        },
+        {
+          "nombre": "Malformaciones vasculares",
+          "numero": "4.5",
+          "numero_de_pagina": 36
+        },
+        {
+          "nombre": "Hemorragia subaracnoidea",
+          "numero": "4.6",
+          "numero_de_pagina": 38
+        }
+      ],
+      "total_paginas": 14
+    },
+    {
+      "nombre": "Trastornos del movimiento",
+      "numero": 5,
+      "apartados": [
+        {
+          "nombre": "Temblores",
+          "numero": "5.1",
+          "numero_de_pagina": 44
+        },
+        {
+          "nombre": "Distonías",
+          "numero": "5.2",
+          "numero_de_pagina": 45
+        },
+        {
+          "nombre": "Mioclonías",
+          "numero": "5.3",
+          "numero_de_pagina": 45
+        },
+        {
+          "nombre": "Tics",
+          "numero": "5.4",
+          "numero_de_pagina": 46
+        },
+        {
+          "nombre": "Corea. Enfermedad de Huntington",
+          "numero": "5.5",
+          "numero_de_pagina": 46
+        },
+        {
+          "nombre": "Enfermedad de Parkinson idiopática",
+          "numero": "5.6",
+          "numero_de_pagina": 47
+        },
+        {
+          "nombre": "Otros síndromes parkinsonianos",
+          "numero": "5.7",
+          "numero_de_pagina": 50
+        },
+        {
+          "nombre": "Síndrome de piernas inquietas",
+          "numero": "5.8",
+          "numero_de_pagina": 51
+        }
+      ],
+      "total_paginas": 10
+    },
+    {
+      "nombre": "Enfermedades por alteración de la mielina",
+      "numero": 6,
+      "apartados": [
+        {
+          "nombre": "Esclerosis múltiple",
+          "numero": "6.1",
+          "numero_de_pagina": 54
+        },
+        {
+          "nombre": "Otras enfermedades desmielinizantes",
+          "numero": "6.2",
+          "numero_de_pagina": 57
+        },
+        {
+          "nombre": "Encefalitis autoinmunes",
+          "numero": "6.3",
+          "numero_de_pagina": 57
+        }
+      ],
+      "total_paginas": 8
+    },
+    {
+      "nombre": "Epilepsia",
+      "numero": 7,
+      "apartados": [
+        {
+          "nombre": "Concepto",
+          "numero": "7.1",
+          "numero_de_pagina": 62
+        },
+        {
+          "nombre": "Clasificación",
+          "numero": "7.2",
+          "numero_de_pagina": 62
+        },
+        {
+          "nombre": "Diagnóstico",
+          "numero": "7.3",
+          "numero_de_pagina": 64
+        },
+        {
+          "nombre": "Etiología",
+          "numero": "7.4",
+          "numero_de_pagina": 64
+        },
+        {
+          "nombre": "Algunos síndromes epilépticos específicos",
+          "numero": "7.5",
+          "numero_de_pagina": 67
+        },
+        {
+          "nombre": "Tratamiento",
+          "numero": "7.6",
+          "numero_de_pagina": 69
+        },
+        {
+          "nombre": "Mujer y epilepsia",
+          "numero": "7.7",
+          "numero_de_pagina": 71
+        }
+      ],
+      "total_paginas": 12
+    },
+    {
+      "nombre": "Enfermedades degenerativas del sistema nervioso",
+      "numero": 8,
+      "apartados": [
+        {
+          "nombre": "Ataxia de Friedreich",
+          "numero": "8.1",
+          "numero_de_pagina": 74
+        },
+        {
+          "nombre": "Esclerosis lateral amiotrófica",
+          "numero": "8.2",
+          "numero_de_pagina": 74
+        }
+      ],
+      "total_paginas": 4
+    },
+    {
+      "nombre": "Enfermedades virales y priónicas del sistema nervioso",
+      "numero": 9,
+      "apartados": [
+        {
+          "nombre": "Encefalitis herpética y otras encefalitis virales",
+          "numero": "9.1",
+          "numero_de_pagina": 78
+        },
+        {
+          "nombre": "Leucoencefalopatía multifocal progresiva",
+          "numero": "9.2",
+          "numero_de_pagina": 79
+        },
+        {
+          "nombre": "Otras enfermedades víricas del SNC",
+          "numero": "9.3",
+          "numero_de_pagina": 79
+        },
+        {
+          "nombre": "Enfermedades priónicas",
+          "numero": "9.4",
+          "numero_de_pagina": 79
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Enfermedades nutricionales y metabólicas del sistema nervioso",
+      "numero": 10,
+      "apartados": [
+        {
+          "nombre": "Enfermedades neurológicas por déficits nutricionales",
+          "numero": "10.1",
+          "numero_de_pagina": 84
+        },
+        {
+          "nombre": "Encefalopatía anoxicoisquémica",
+          "numero": "10.2",
+          "numero_de_pagina": 84
+        }
+      ],
+      "total_paginas": 4
+    },
+    {
+      "nombre": "Neuropatías",
+      "numero": 11,
+      "apartados": [
+        {
+          "nombre": "Consideraciones generales",
+          "numero": "11.1",
+          "numero_de_pagina": 88
+        },
+        {
+          "nombre": "Síndrome de Guillain-Barré",
+          "numero": "11.2",
+          "numero_de_pagina": 90
+        },
+        {
+          "nombre": "Neuropatía diabética",
+          "numero": "11.3",
+          "numero_de_pagina": 92
+        },
+        {
+          "nombre": "Neuropatías en la infección por VIH",
+          "numero": "11.4",
+          "numero_de_pagina": 93
+        }
+      ],
+      "total_paginas": 8
+    },
+    {
+      "nombre": "Enfermedades de la placa motora",
+      "numero": 12,
+      "apartados": [
+        {
+          "nombre": "Miastenia gravis (MG)",
+          "numero": "12.1",
+          "numero_de_pagina": 96
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Miopatías",
+      "numero": 13,
+      "apartados": [
+        {
+          "nombre": "Distrofias musculares",
+          "numero": "13.1",
+          "numero_de_pagina": 102
+        }
+      ],
+      "total_paginas": 4
+    },
+    {
+      "nombre": "Cefaleas",
+      "numero": 14,
+      "apartados": [
+        {
+          "nombre": "Consideraciones generales",
+          "numero": "14.1",
+          "numero_de_pagina": 106
+        },
+        {
+          "nombre": "Cefalea tipo tensión",
+          "numero": "14.2",
+          "numero_de_pagina": 106
+        },
+        {
+          "nombre": "Migraña",
+          "numero": "14.3",
+          "numero_de_pagina": 106
+        },
+        {
+          "nombre": "Cefaleas trigeminoautonómicas",
+          "numero": "14.4",
+          "numero_de_pagina": 108
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Síndrome de hipertensión intracraneal",
+      "numero": 15,
+      "apartados": [
+        {
+          "nombre": "Síndrome de hipertensión intracraneal",
+          "numero": "15.1",
+          "numero_de_pagina": 112
+        },
+        {
+          "nombre": "Síndrome de hipertensión intracraneal benigna (seudotumor cerebri)",
+          "numero": "15.2",
+          "numero_de_pagina": 113
+        }
+      ],
+      "total_paginas": 4
+    },
+    {
+      "nombre": "Hidrocefalia",
+      "numero": 16,
+      "apartados": [
+        {
+          "nombre": "Concepto y clasificación",
+          "numero": "16.1",
+          "numero_de_pagina": 116
+        },
+        {
+          "nombre": "Etiopatogenia",
+          "numero": "16.2",
+          "numero_de_pagina": 116
+        },
+        {
+          "nombre": "Clínica",
+          "numero": "16.3",
+          "numero_de_pagina": 117
+        },
+        {
+          "nombre": "Tratamiento",
+          "numero": "16.4",
+          "numero_de_pagina": 117
+        },
+        {
+          "nombre": "Hidrocefalia crónica",
+          "numero": "16.5",
+          "numero_de_pagina": 118
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Tumores intracraneales",
+      "numero": 17,
+      "apartados": [
+        {
+          "nombre": "Consideraciones generales",
+          "numero": "17.1",
+          "numero_de_pagina": 122
+        },
+        {
+          "nombre": "Metástasis cerebrales",
+          "numero": "17.2",
+          "numero_de_pagina": 122
+        },
+        {
+          "nombre": "Gliomas",
+          "numero": "17.3",
+          "numero_de_pagina": 123
+        },
+        {
+          "nombre": "Meduloblastoma",
+          "numero": "17.4",
+          "numero_de_pagina": 126
+        },
+        {
+          "nombre": "Meningioma",
+          "numero": "17.5",
+          "numero_de_pagina": 126
+        },
+        {
+          "nombre": "Neurinoma del VIII par (Schwannoma vestibular)",
+          "numero": "17.6",
+          "numero_de_pagina": 127
+        },
+        {
+          "nombre": "Tumores de la región pineal",
+          "numero": "17.7",
+          "numero_de_pagina": 127
+        },
+        {
+          "nombre": "Tumores hipofisarios",
+          "numero": "17.8",
+          "numero_de_pagina": 128
+        },
+        {
+          "nombre": "Craneofaringioma",
+          "numero": "17.9",
+          "numero_de_pagina": 128
+        },
+        {
+          "nombre": "Linfoma cerebral primario",
+          "numero": "17.10",
+          "numero_de_pagina": 129
+        },
+        {
+          "nombre": "Hemangioblastoma",
+          "numero": "17.11",
+          "numero_de_pagina": 129
+        },
+        {
+          "nombre": "Características anatomopatológicas",
+          "numero": "17.12",
+          "numero_de_pagina": 129
+        },
+        {
+          "nombre": "Casos clínicos típicos",
+          "numero": "17.13",
+          "numero_de_pagina": 129
+        }
+      ],
+      "total_paginas": 12
+    },
+    {
+      "nombre": "Traumatismos craneoencefálicos",
+      "numero": 18,
+      "apartados": [
+        {
+          "nombre": "Escala de coma de Glasgow",
+          "numero": "18.1",
+          "numero_de_pagina": 134
+        },
+        {
+          "nombre": "Manejo del TCE en Urgencias",
+          "numero": "18.2",
+          "numero_de_pagina": 134
+        },
+        {
+          "nombre": "Fracturas craneales",
+          "numero": "18.3",
+          "numero_de_pagina": 135
+        },
+        {
+          "nombre": "Conmoción cerebral",
+          "numero": "18.4",
+          "numero_de_pagina": 136
+        },
+        {
+          "nombre": "Hematoma epidural",
+          "numero": "18.5",
+          "numero_de_pagina": 136
+        },
+        {
+          "nombre": "Hematoma subdural",
+          "numero": "18.6",
+          "numero_de_pagina": 136
+        },
+        {
+          "nombre": "Contusión cerebral hemorrágica",
+          "numero": "18.7",
+          "numero_de_pagina": 137
+        },
+        {
+          "nombre": "Lesión axonal difusa",
+          "numero": "18.8",
+          "numero_de_pagina": 137
+        },
+        {
+          "nombre": "Complicaciones y secuelas del neurotraumatismo central",
+          "numero": "18.9",
+          "numero_de_pagina": 137
+        },
+        {
+          "nombre": "Síndrome del trepinado",
+          "numero": "18.10",
+          "numero_de_pagina": 138
+        }
+      ],
+      "total_paginas": 8
+    },
+    {
+      "nombre": "Absceso cerebral y empiema subdural",
+      "numero": 19,
+      "apartados": [
+        {
+          "nombre": "Absceso cerebral",
+          "numero": "19.1",
+          "numero_de_pagina": 142
+        },
+        {
+          "nombre": "Empiema subdural",
+          "numero": "19.2",
+          "numero_de_pagina": 143
+        }
+      ],
+      "total_paginas": 4
+    },
+    {
+      "nombre": "Patología raquimedular",
+      "numero": 20,
+      "apartados": [
+        {
+          "nombre": "Dolor lumbar",
+          "numero": "20.1",
+          "numero_de_pagina": 146
+        },
+        {
+          "nombre": "Lumbociática. Hernia discal lumbar",
+          "numero": "20.2",
+          "numero_de_pagina": 146
+        },
+        {
+          "nombre": "Cervicobraquialgia. Hernia discal cervical",
+          "numero": "20.3",
+          "numero_de_pagina": 149
+        },
+        {
+          "nombre": "Estenosis del canal lumbar",
+          "numero": "20.4",
+          "numero_de_pagina": 150
+        },
+        {
+          "nombre": "Espondilolistesis",
+          "numero": "20.5",
+          "numero_de_pagina": 151
+        },
+        {
+          "nombre": "Espondilodiscitis",
+          "numero": "20.6",
+          "numero_de_pagina": 151
+        },
+        {
+          "nombre": "Tumores intraraquídeos",
+          "numero": "20.7",
+          "numero_de_pagina": 152
+        },
+        {
+          "nombre": "Absceso epidural espinal",
+          "numero": "20.8",
+          "numero_de_pagina": 153
+        },
+        {
+          "nombre": "Siringomielia",
+          "numero": "20.9",
+          "numero_de_pagina": 153
+        },
+        {
+          "nombre": "Hematoma epidural espinal",
+          "numero": "20.10",
+          "numero_de_pagina": 153
+        },
+        {
+          "nombre": "Anomalías de la unión craneocervical",
+          "numero": "20.11",
+          "numero_de_pagina": 154
+        }
+      ],
+      "total_paginas": 12
+    },
+    {
+      "nombre": "Anomalías del desarrollo",
+      "numero": 21,
+      "apartados": [
+        {
+          "nombre": "Craneosinostosis",
+          "numero": "21.1",
+          "numero_de_pagina": 158
+        },
+        {
+          "nombre": "Malformación de Chiari",
+          "numero": "21.2",
+          "numero_de_pagina": 158
+        }
+      ],
+      "total_paginas": 4
+    },
+    {
+      "nombre": "Neurocirugía funcional",
+      "numero": 22,
+      "apartados": [
+        {
+          "nombre": "Neuralgia del trigémino",
+          "numero": "22.1",
+          "numero_de_pagina": 162
+        },
+        {
+          "nombre": "Cirugía del dolor intratable",
+          "numero": "22.2",
+          "numero_de_pagina": 162
+        }
+      ],
+      "total_paginas": 4
+    },
+    {
+      "nombre": "Neuroimagen",
+      "numero": 23,
+      "apartados": [
+        {
+          "nombre": "Generalidades",
+          "numero": "23.1",
+          "numero_de_pagina": 166
+        },
+        {
+          "nombre": "Casos representativos",
+          "numero": "23.2",
+          "numero_de_pagina": 169
+        }
+      ],
+      "total_paginas": 8
+    }
+  ]
+}

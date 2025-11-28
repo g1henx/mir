@@ -1,0 +1,517 @@
+{
+  "nombre": "Cardiología",
+  "capitulos": [
+    {
+      "nombre": "Biología del aparato cardiovascular",
+      "numero": 1,
+      "apartados": [
+        {
+          "nombre": "Bases celulares de la fisiología cardíaca",
+          "numero": "1.1",
+          "numero_de_pagina": 2
+        },
+        {
+          "nombre": "El ciclo cardíaco",
+          "numero": "1.2",
+          "numero_de_pagina": 3
+        },
+        {
+          "nombre": "La función cardíaca",
+          "numero": "1.3",
+          "numero_de_pagina": 3
+        }
+      ],
+      "total_paginas": 3
+    },
+    {
+      "nombre": "Semiología cardíaca y vascular",
+      "numero": 2,
+      "apartados": [
+        {
+          "nombre": "Generalidades",
+          "numero": "2.1",
+          "numero_de_pagina": 5
+        },
+        {
+          "nombre": "Pulso arterial y segmentario",
+          "numero": "2.2",
+          "numero_de_pagina": 5
+        },
+        {
+          "nombre": "Pulso venoso yugular",
+          "numero": "2.3",
+          "numero_de_pagina": 7
+        },
+        {
+          "nombre": "Auscultación cardíaca",
+          "numero": "2.4",
+          "numero_de_pagina": 8
+        },
+        {
+          "nombre": "Soplos cardíacos",
+          "numero": "2.5",
+          "numero_de_pagina": 10
+        }
+      ],
+      "total_paginas": 7
+    },
+    {
+      "nombre": "Métodos diagnósticos en Cardiología",
+      "numero": 3,
+      "apartados": [
+        {
+          "nombre": "Electrocardiograma",
+          "numero": "3.1",
+          "numero_de_pagina": 12
+        },
+        {
+          "nombre": "Radiografía de tórax",
+          "numero": "3.2",
+          "numero_de_pagina": 14
+        },
+        {
+          "nombre": "Prueba de esfuerzo (ergometría)",
+          "numero": "3.3",
+          "numero_de_pagina": 16
+        },
+        {
+          "nombre": "Ecocardiograma",
+          "numero": "3.4",
+          "numero_de_pagina": 17
+        },
+        {
+          "nombre": "Cardiorresonancia magnética",
+          "numero": "3.5",
+          "numero_de_pagina": 17
+        },
+        {
+          "nombre": "Tomografía computarizada",
+          "numero": "3.6",
+          "numero_de_pagina": 18
+        },
+        {
+          "nombre": "Estudio electrofisiológico",
+          "numero": "3.7",
+          "numero_de_pagina": 18
+        },
+        {
+          "nombre": "Estudio hemodinámico",
+          "numero": "3.8",
+          "numero_de_pagina": 18
+        }
+      ],
+      "total_paginas": 7
+    },
+    {
+      "nombre": "Insuficiencia cardíaca",
+      "numero": 4,
+      "apartados": [
+        {
+          "nombre": "Introducción y mecanismos",
+          "numero": "4.1",
+          "numero_de_pagina": 19
+        },
+        {
+          "nombre": "Fisiopatología y formas clínicas",
+          "numero": "4.2",
+          "numero_de_pagina": 20
+        },
+        {
+          "nombre": "Manifestaciones clínicas",
+          "numero": "4.3",
+          "numero_de_pagina": 22
+        },
+        {
+          "nombre": "Diagnóstico",
+          "numero": "4.4",
+          "numero_de_pagina": 23
+        },
+        {
+          "nombre": "Tratamiento de la IC crónica",
+          "numero": "4.5",
+          "numero_de_pagina": 26
+        },
+        {
+          "nombre": "Tratamiento de la IC aguda",
+          "numero": "4.6",
+          "numero_de_pagina": 27
+        }
+      ],
+      "total_paginas": 12
+    },
+    {
+      "nombre": "Miocardiopatías",
+      "numero": 5,
+      "apartados": [
+        {
+          "nombre": "Introducción y clasificación de las miocardiopatías",
+          "numero": "5.1",
+          "numero_de_pagina": 31
+        },
+        {
+          "nombre": "Miocardiopatía dilatada",
+          "numero": "5.2",
+          "numero_de_pagina": 32
+        },
+        {
+          "nombre": "Taquicardia supraventricular",
+          "numero": "5.3",
+          "numero_de_pagina": 34
+        },
+        {
+          "nombre": "Miocardiopatía hipertrófica",
+          "numero": "5.4",
+          "numero_de_pagina": 36
+        },
+        {
+          "nombre": "Miocardiopatía restrictiva",
+          "numero": "5.5",
+          "numero_de_pagina": 38
+        },
+        {
+          "nombre": "Otras miocardiopatías",
+          "numero": "5.6",
+          "numero_de_pagina": 39
+        },
+        {
+          "nombre": "Miocarditis",
+          "numero": "5.7",
+          "numero_de_pagina": 41
+        }
+      ],
+      "total_paginas": 12
+    },
+    {
+      "nombre": "Valvulopatías",
+      "numero": 6,
+      "apartados": [
+        {
+          "nombre": "Generalidades / pautas de la enfermedad valvular",
+          "numero": "6.1",
+          "numero_de_pagina": 43
+        },
+        {
+          "nombre": "Valvulopatía aórtica",
+          "numero": "6.2",
+          "numero_de_pagina": 44
+        },
+        {
+          "nombre": "Valvulopatía mitral",
+          "numero": "6.3",
+          "numero_de_pagina": 49
+        },
+        {
+          "nombre": "Valvulopatía tricuspídea",
+          "numero": "6.4",
+          "numero_de_pagina": 53
+        },
+        {
+          "nombre": "Valvulopatía pulmonar",
+          "numero": "6.5",
+          "numero_de_pagina": 54
+        },
+        {
+          "nombre": "Afectación multiválvullar y prótesis valvulares",
+          "numero": "6.6",
+          "numero_de_pagina": 55
+        }
+      ],
+      "total_paginas": 18
+    },
+    {
+      "nombre": "Enfermedades del pericardio",
+      "numero": 7,
+      "apartados": [
+        {
+          "nombre": "Pericarditis aguda",
+          "numero": "7.1",
+          "numero_de_pagina": 61
+        },
+        {
+          "nombre": "Derrame pericárdico y taponamiento cardíaco",
+          "numero": "7.2",
+          "numero_de_pagina": 63
+        },
+        {
+          "nombre": "Pericarditis constrictiva",
+          "numero": "7.3",
+          "numero_de_pagina": 65
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Cardiopatías congénitas",
+      "numero": 8,
+      "apartados": [
+        {
+          "nombre": "Introducción",
+          "numero": "8.1",
+          "numero_de_pagina": 67
+        },
+        {
+          "nombre": "Comunicación interauricular. Hipertrofia pulmonar",
+          "numero": "8.2",
+          "numero_de_pagina": 68
+        },
+        {
+          "nombre": "Coartación",
+          "numero": "8.3",
+          "numero_de_pagina": 70
+        },
+        {
+          "nombre": "Estenosis obstructiva",
+          "numero": "8.4",
+          "numero_de_pagina": 71
+        },
+        {
+          "nombre": "Cianosis congénitas con cortocircuito derecha-izquierda",
+          "numero": "8.5",
+          "numero_de_pagina": 72
+        }
+      ],
+      "total_paginas": 12
+    },
+    {
+      "nombre": "Tumores y traumatismos cardíacos",
+      "numero": 9,
+      "apartados": [
+        {
+          "nombre": "Tumores cardíacos",
+          "numero": "9.1",
+          "numero_de_pagina": 79
+        },
+        {
+          "nombre": "Traumatismos cardíacos",
+          "numero": "9.2",
+          "numero_de_pagina": 80
+        }
+      ],
+      "total_paginas": 2
+    },
+    {
+      "nombre": "Arritmias",
+      "numero": 10,
+      "apartados": [
+        {
+          "nombre": "Bases de la electrofisiología cardíaca",
+          "numero": "10.1",
+          "numero_de_pagina": 81
+        },
+        {
+          "nombre": "Bradicardias",
+          "numero": "10.2",
+          "numero_de_pagina": 82
+        },
+        {
+          "nombre": "Generalidades de las taquicardias",
+          "numero": "10.3",
+          "numero_de_pagina": 84
+        },
+        {
+          "nombre": "Taquicardias supraventriculares",
+          "numero": "10.4",
+          "numero_de_pagina": 85
+        },
+        {
+          "nombre": "Taquicardias ventriculares",
+          "numero": "10.5",
+          "numero_de_pagina": 88
+        },
+        {
+          "nombre": "Ablación con catéter o cirugía",
+          "numero": "10.6",
+          "numero_de_pagina": 92
+        },
+        {
+          "nombre": "Sincope",
+          "numero": "10.7",
+          "numero_de_pagina": 93
+        },
+        {
+          "nombre": "Parada cardíaca o muerte súbita cardíaca",
+          "numero": "10.8",
+          "numero_de_pagina": 94
+        },
+        {
+          "nombre": "Fibrilación y flutter auricular",
+          "numero": "10.9",
+          "numero_de_pagina": 95
+        }
+      ],
+      "total_paginas": 18
+    },
+    {
+      "nombre": "Shock, parada cardíaca y reanimación cardiopulmonar",
+      "numero": 11,
+      "apartados": [
+        {
+          "nombre": "Shock (síndrome (shock) repaso fisiología)",
+          "numero": "11.1",
+          "numero_de_pagina": 99
+        },
+        {
+          "nombre": "Shock",
+          "numero": "11.2",
+          "numero_de_pagina": 100
+        },
+        {
+          "nombre": "Cardiopulmonar",
+          "numero": "11.3",
+          "numero_de_pagina": 101
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Síncope",
+      "numero": 12,
+      "apartados": [
+        {
+          "nombre": "Clasificación y características",
+          "numero": "12.1",
+          "numero_de_pagina": 105
+        },
+        {
+          "nombre": "Síncope vasovagal",
+          "numero": "12.2",
+          "numero_de_pagina": 106
+        }
+      ],
+      "total_paginas": 4
+    },
+    {
+      "nombre": "Enfermedad coronaria",
+      "numero": 13,
+      "apartados": [
+        {
+          "nombre": "Fisiopatología de la aterosclerosis",
+          "numero": "13.1",
+          "numero_de_pagina": 109
+        },
+        {
+          "nombre": "Cardiopatía isquémica y factores",
+          "numero": "13.2",
+          "numero_de_pagina": 110
+        },
+        {
+          "nombre": "Test anátomicos y funcionales. Coronariografía",
+          "numero": "13.3",
+          "numero_de_pagina": 111
+        },
+        {
+          "nombre": "Revascularización. Angioplastia coronaria. Detección de isquemia en pacientes asintomáticos",
+          "numero": "13.4",
+          "numero_de_pagina": 114
+        },
+        {
+          "nombre": "Angina estable",
+          "numero": "13.5",
+          "numero_de_pagina": 118
+        },
+        {
+          "nombre": "Síndrome coronario agudo sin elevación del segmento ST",
+          "numero": "13.6",
+          "numero_de_pagina": 119
+        },
+        {
+          "nombre": "Síndrome coronario agudo con elevación del segmento ST. Infarto agudo de miocardio",
+          "numero": "13.7",
+          "numero_de_pagina": 122
+        },
+        {
+          "nombre": "Complicaciones del infarto",
+          "numero": "13.8",
+          "numero_de_pagina": 130
+        }
+      ],
+      "total_paginas": 26
+    },
+    {
+      "nombre": "Hipertensión arterial",
+      "numero": 14,
+      "apartados": [
+        {
+          "nombre": "Clasificación y evaluación",
+          "numero": "14.1",
+          "numero_de_pagina": 135
+        },
+        {
+          "nombre": "Repercusiones orgánicas",
+          "numero": "14.2",
+          "numero_de_pagina": 136
+        },
+        {
+          "nombre": "Tratamiento de la hipertensión arterial",
+          "numero": "14.3",
+          "numero_de_pagina": 138
+        },
+        {
+          "nombre": "Hipertensión arterial secundaria",
+          "numero": "14.4",
+          "numero_de_pagina": 139
+        }
+      ],
+      "total_paginas": 8
+    },
+    {
+      "nombre": "Enfermedades de la aorta",
+      "numero": 15,
+      "apartados": [
+        {
+          "nombre": "Introducción",
+          "numero": "15.1",
+          "numero_de_pagina": 143
+        },
+        {
+          "nombre": "Aneurismas aórticos",
+          "numero": "15.2",
+          "numero_de_pagina": 144
+        },
+        {
+          "nombre": "Aneurisma de aorta abdominal",
+          "numero": "15.3",
+          "numero_de_pagina": 146
+        },
+        {
+          "nombre": "Rotura aórtica",
+          "numero": "15.4",
+          "numero_de_pagina": 150
+        }
+      ],
+      "total_paginas": 10
+    },
+    {
+      "nombre": "Enfermedades de los vasos periféricos",
+      "numero": 16,
+      "apartados": [
+        {
+          "nombre": "Arteriopatía periférica de miembros inferiores",
+          "numero": "16.1",
+          "numero_de_pagina": 153
+        },
+        {
+          "nombre": "Isquemia arterial aguda",
+          "numero": "16.2",
+          "numero_de_pagina": 158
+        },
+        {
+          "nombre": "Otras enfermedades arteriales",
+          "numero": "16.3",
+          "numero_de_pagina": 159
+        },
+        {
+          "nombre": "Enfermedad venosa",
+          "numero": "16.4",
+          "numero_de_pagina": 160
+        },
+        {
+          "nombre": "Enfermedades de arterias",
+          "numero": "16.5",
+          "numero_de_pagina": 160
+        }
+      ],
+      "total_paginas": 12
+    }
+  ]
+}

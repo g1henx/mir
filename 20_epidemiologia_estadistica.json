@@ -1,0 +1,395 @@
+{
+  "nombre": "Epidemiología, Estadística y Planificación y gestión",
+  "capitulos": [
+    {
+      "nombre": "Conceptos de epidemiología. Estudio de un test",
+      "numero": 1,
+      "apartados": [
+        {
+          "nombre": "Conceptos de epidemiología",
+          "numero": "1.1",
+          "numero_de_pagina": 2
+        },
+        {
+          "nombre": "Estudio de un test",
+          "numero": "1.2",
+          "numero_de_pagina": 3
+        },
+        {
+          "nombre": "Relación entre la prevalencia y los valores predictivos",
+          "numero": "1.3",
+          "numero_de_pagina": 4
+        },
+        {
+          "nombre": "Aceptabilidad de un método diagnóstico",
+          "numero": "1.4",
+          "numero_de_pagina": 5
+        },
+        {
+          "nombre": "Cribado",
+          "numero": "1.5",
+          "numero_de_pagina": 5
+        },
+        {
+          "nombre": "Errores en las pruebas de diagnóstico y cribado",
+          "numero": "1.6",
+          "numero_de_pagina": 6
+        },
+        {
+          "nombre": "Evaluación de la concordancia",
+          "numero": "1.7",
+          "numero_de_pagina": 6
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Formas de medida",
+      "numero": 2,
+      "apartados": [
+        {
+          "nombre": "Medidas de la frecuencia de la enfermedad",
+          "numero": "2.1",
+          "numero_de_pagina": 8
+        },
+        {
+          "nombre": "Medidas de asociación",
+          "numero": "2.2",
+          "numero_de_pagina": 9
+        },
+        {
+          "nombre": "Medidas de impacto o del efecto",
+          "numero": "2.3",
+          "numero_de_pagina": 10
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Validez y fiabilidad de los estudios epidemiológicos",
+      "numero": 3,
+      "apartados": [
+        {
+          "nombre": "Tipos de error",
+          "numero": "3.1",
+          "numero_de_pagina": 14
+        },
+        {
+          "nombre": "Validez y fiabilidad",
+          "numero": "3.2",
+          "numero_de_pagina": 15
+        },
+        {
+          "nombre": "Validez de un test diagnóstico",
+          "numero": "3.3",
+          "numero_de_pagina": 15
+        }
+      ],
+      "total_paginas": 4
+    },
+    {
+      "nombre": "Tipos de estudios epidemiológicos",
+      "numero": 4,
+      "apartados": [
+        {
+          "nombre": "Tipos de estudio",
+          "numero": "4.1",
+          "numero_de_pagina": 18
+        },
+        {
+          "nombre": "Estudios descriptivos",
+          "numero": "4.2",
+          "numero_de_pagina": 18
+        },
+        {
+          "nombre": "Estudios analíticos",
+          "numero": "4.3",
+          "numero_de_pagina": 19
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "El ensayo clínico",
+      "numero": 5,
+      "apartados": [
+        {
+          "nombre": "Introducción",
+          "numero": "5.1",
+          "numero_de_pagina": 24
+        },
+        {
+          "nombre": "Etapas en la realización de un ensayo clínico",
+          "numero": "5.2",
+          "numero_de_pagina": 25
+        },
+        {
+          "nombre": "Tipos de ensayos clínicos",
+          "numero": "5.3",
+          "numero_de_pagina": 27
+        },
+        {
+          "nombre": "Recomendaciones para la publicación de ensayos clínicos",
+          "numero": "5.4",
+          "numero_de_pagina": 29
+        },
+        {
+          "nombre": "Agencia Española de Medicamentos y Productos Sanitarios",
+          "numero": "5.5",
+          "numero_de_pagina": 29
+        }
+      ],
+      "total_paginas": 8
+    },
+    {
+      "nombre": "El metanálisis",
+      "numero": 6,
+      "apartados": [
+        {
+          "nombre": "Introducción",
+          "numero": "6.1",
+          "numero_de_pagina": 32
+        },
+        {
+          "nombre": "Etapas del metanálisis",
+          "numero": "6.2",
+          "numero_de_pagina": 32
+        }
+      ],
+      "total_paginas": 4
+    },
+    {
+      "nombre": "Medicina basada en la evidencia",
+      "numero": 7,
+      "apartados": [
+        {
+          "nombre": "Niveles de calidad de la evidencia científica",
+          "numero": "7.1",
+          "numero_de_pagina": 36
+        },
+        {
+          "nombre": "El método científico",
+          "numero": "7.2",
+          "numero_de_pagina": 38
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Estadística. Generalidades",
+      "numero": 8,
+      "apartados": [
+        {
+          "nombre": "Tipos de estadística",
+          "numero": "8.1",
+          "numero_de_pagina": 42
+        },
+        {
+          "nombre": "Población y muestra",
+          "numero": "8.2",
+          "numero_de_pagina": 42
+        },
+        {
+          "nombre": "Variables",
+          "numero": "8.3",
+          "numero_de_pagina": 42
+        },
+        {
+          "nombre": "Representación gráfica",
+          "numero": "8.4",
+          "numero_de_pagina": 43
+        },
+        {
+          "nombre": "Síntesis de los datos",
+          "numero": "8.5",
+          "numero_de_pagina": 43
+        },
+        {
+          "nombre": "Asimetría y curtosis",
+          "numero": "8.6",
+          "numero_de_pagina": 44
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Principales leyes de distribución de las variables aleatorias",
+      "numero": 9,
+      "apartados": [
+        {
+          "nombre": "Distribución binomial",
+          "numero": "9.1",
+          "numero_de_pagina": 48
+        },
+        {
+          "nombre": "Distribución de Poisson",
+          "numero": "9.2",
+          "numero_de_pagina": 48
+        },
+        {
+          "nombre": "Distribución normal o de Gauss",
+          "numero": "9.3",
+          "numero_de_pagina": 48
+        },
+        {
+          "nombre": "Estimación de medias",
+          "numero": "9.4",
+          "numero_de_pagina": 48
+        }
+      ],
+      "total_paginas": 4
+    },
+    {
+      "nombre": "El contraste de hipótesis",
+      "numero": 10,
+      "apartados": [
+        {
+          "nombre": "Hipótesis nula, hipótesis alternativa y grado de significación estadística",
+          "numero": "10.1",
+          "numero_de_pagina": 52
+        },
+        {
+          "nombre": "Errores α y β",
+          "numero": "10.2",
+          "numero_de_pagina": 52
+        },
+        {
+          "nombre": "Pruebas de significación estadística",
+          "numero": "10.3",
+          "numero_de_pagina": 52
+        },
+        {
+          "nombre": "Pruebas a una cola y a dos colas",
+          "numero": "10.4",
+          "numero_de_pagina": 54
+        },
+        {
+          "nombre": "Análisis multivariante",
+          "numero": "10.5",
+          "numero_de_pagina": 54
+        },
+        {
+          "nombre": "Regresión lineal",
+          "numero": "10.6",
+          "numero_de_pagina": 54
+        },
+        {
+          "nombre": "Regresión logística",
+          "numero": "10.7",
+          "numero_de_pagina": 55
+        },
+        {
+          "nombre": "Regresión de COX",
+          "numero": "10.8",
+          "numero_de_pagina": 56
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "El tamaño muestral",
+      "numero": 11,
+      "apartados": [
+        {
+          "nombre": "Las muestras",
+          "numero": "11.1",
+          "numero_de_pagina": 58
+        }
+      ],
+      "total_paginas": 2
+    },
+    {
+      "nombre": "La salud y los sistemas sanitarios",
+      "numero": 12,
+      "apartados": [
+        {
+          "nombre": "Introducción",
+          "numero": "12.1",
+          "numero_de_pagina": 60
+        },
+        {
+          "nombre": "Los sistemas sanitarios",
+          "numero": "12.2",
+          "numero_de_pagina": 60
+        },
+        {
+          "nombre": "El Sistema Nacional de Salud español",
+          "numero": "12.3",
+          "numero_de_pagina": 61
+        },
+        {
+          "nombre": "La planificación sanitaria",
+          "numero": "12.4",
+          "numero_de_pagina": 61
+        }
+      ],
+      "total_paginas": 4
+    },
+    {
+      "nombre": "La atención sanitaria",
+      "numero": 13,
+      "apartados": [
+        {
+          "nombre": "Atención primaria",
+          "numero": "13.1",
+          "numero_de_pagina": 64
+        },
+        {
+          "nombre": "Atención hospitalaria o especializada",
+          "numero": "13.2",
+          "numero_de_pagina": 64
+        }
+      ],
+      "total_paginas": 4
+    },
+    {
+      "nombre": "La evaluación económica",
+      "numero": 14,
+      "apartados": [
+        {
+          "nombre": "Eficacia, efectividad y eficiencia",
+          "numero": "14.1",
+          "numero_de_pagina": 68
+        },
+        {
+          "nombre": "Tipos de costes",
+          "numero": "14.2",
+          "numero_de_pagina": 68
+        },
+        {
+          "nombre": "Evaluación de la eficiencia: análisis de costes",
+          "numero": "14.3",
+          "numero_de_pagina": 69
+        }
+      ],
+      "total_paginas": 4
+    },
+    {
+      "nombre": "La calidad asistencial y la seguridad del paciente",
+      "numero": 15,
+      "apartados": [
+        {
+          "nombre": "Introducción",
+          "numero": "15.1",
+          "numero_de_pagina": 72
+        },
+        {
+          "nombre": "Componentes de la calidad asistencial",
+          "numero": "15.2",
+          "numero_de_pagina": 72
+        },
+        {
+          "nombre": "Monitorización, evaluación, normalización y certificación de la calidad. Modelos de gestión de la calidad",
+          "numero": "15.3",
+          "numero_de_pagina": 72
+        },
+        {
+          "nombre": "La seguridad del paciente",
+          "numero": "15.4",
+          "numero_de_pagina": 73
+        }
+      ],
+      "total_paginas": 6
+    }
+  ]
+}

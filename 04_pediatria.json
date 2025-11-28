@@ -1,0 +1,449 @@
+{
+  "nombre": "Pediatría",
+  "capitulos": [
+    {
+      "nombre": "Neonatología",
+      "numero": 1,
+      "apartados": [
+        {
+          "nombre": "Clasificación del recién nacido",
+          "numero": "1.1",
+          "numero_de_pagina": 2
+        },
+        {
+          "nombre": "Atención del recién nacido sano en paritorio",
+          "numero": "1.2",
+          "numero_de_pagina": 3
+        },
+        {
+          "nombre": "Atención del recién nacido sano",
+          "numero": "1.3",
+          "numero_de_pagina": 4
+        },
+        {
+          "nombre": "Examen físico del recién nacido sano",
+          "numero": "1.4",
+          "numero_de_pagina": 5
+        },
+        {
+          "nombre": "Traumatismos del parto",
+          "numero": "1.5",
+          "numero_de_pagina": 7
+        },
+        {
+          "nombre": "Trastornos respiratorios del recién nacido",
+          "numero": "1.6",
+          "numero_de_pagina": 8
+        },
+        {
+          "nombre": "Ictericia neonatal",
+          "numero": "1.7",
+          "numero_de_pagina": 11
+        },
+        {
+          "nombre": "Infecciones neonatales",
+          "numero": "1.8",
+          "numero_de_pagina": 14
+        },
+        {
+          "nombre": "Trastornos hematológicos del recién nacido",
+          "numero": "1.9",
+          "numero_de_pagina": 18
+        },
+        {
+          "nombre": "Hijo de madre con VIH positivo",
+          "numero": "1.10",
+          "numero_de_pagina": 20
+        },
+        {
+          "nombre": "Efectos del consumo de drogas durante el embarazo",
+          "numero": "1.11",
+          "numero_de_pagina": 21
+        },
+        {
+          "nombre": "Hijo de madre diabética",
+          "numero": "1.12",
+          "numero_de_pagina": 22
+        },
+        {
+          "nombre": "Retinopatía de la prematuridad",
+          "numero": "1.13",
+          "numero_de_pagina": 22
+        }
+      ],
+      "total_paginas": 26
+    },
+    {
+      "nombre": "Desarrollo y nutrición",
+      "numero": 2,
+      "apartados": [
+        {
+          "nombre": "Crecimiento y desarrollo",
+          "numero": "2.1",
+          "numero_de_pagina": 28
+        },
+        {
+          "nombre": "Alimentación del lactante",
+          "numero": "2.2",
+          "numero_de_pagina": 30
+        },
+        {
+          "nombre": "Malnutrición calórico-proteica",
+          "numero": "2.3",
+          "numero_de_pagina": 34
+        },
+        {
+          "nombre": "Deshidratación y rehidratación",
+          "numero": "2.4",
+          "numero_de_pagina": 36
+        },
+        {
+          "nombre": "Síndrome de realimentación",
+          "numero": "2.5",
+          "numero_de_pagina": 38
+        },
+        {
+          "nombre": "Litiasis urinaria",
+          "numero": "2.6",
+          "numero_de_pagina": 38
+        }
+      ],
+      "total_paginas": 16
+    },
+    {
+      "nombre": "Patología respiratoria pediátrica",
+      "numero": 3,
+      "apartados": [
+        {
+          "nombre": "Estridor congénito (laringomalacia)",
+          "numero": "3.1",
+          "numero_de_pagina": 44
+        },
+        {
+          "nombre": "Infecciones respiratorias",
+          "numero": "3.2",
+          "numero_de_pagina": 44
+        },
+        {
+          "nombre": "Laringitis aguda",
+          "numero": "3.3",
+          "numero_de_pagina": 45
+        },
+        {
+          "nombre": "Traqueítis bacteriana",
+          "numero": "3.4",
+          "numero_de_pagina": 46
+        },
+        {
+          "nombre": "Bronquiolitis aguda",
+          "numero": "3.5",
+          "numero_de_pagina": 47
+        },
+        {
+          "nombre": "Asma",
+          "numero": "3.6",
+          "numero_de_pagina": 48
+        },
+        {
+          "nombre": "Fibrosis quística",
+          "numero": "3.7",
+          "numero_de_pagina": 50
+        },
+        {
+          "nombre": "Aspiración de cuerpo extraño",
+          "numero": "3.8",
+          "numero_de_pagina": 53
+        }
+      ],
+      "total_paginas": 12
+    },
+    {
+      "nombre": "Patología digestiva pediátrica",
+      "numero": 4,
+      "apartados": [
+        {
+          "nombre": "Atresia y fístula traqueoesofágica",
+          "numero": "4.1",
+          "numero_de_pagina": 56
+        },
+        {
+          "nombre": "Hernia diafragmática congénita",
+          "numero": "4.2",
+          "numero_de_pagina": 57
+        },
+        {
+          "nombre": "Estenosis hipertrófica del píloro",
+          "numero": "4.3",
+          "numero_de_pagina": 58
+        },
+        {
+          "nombre": "Enfermedad de Hirschsprung",
+          "numero": "4.4",
+          "numero_de_pagina": 59
+        },
+        {
+          "nombre": "Invaginación intestinal",
+          "numero": "4.5",
+          "numero_de_pagina": 60
+        },
+        {
+          "nombre": "Divertículo de Meckel",
+          "numero": "4.6",
+          "numero_de_pagina": 61
+        },
+        {
+          "nombre": "Atresia y agenesia intestinales",
+          "numero": "4.7",
+          "numero_de_pagina": 62
+        },
+        {
+          "nombre": "Íleo meconial",
+          "numero": "4.8",
+          "numero_de_pagina": 63
+        },
+        {
+          "nombre": "Alergia a las proteínas de la leche de vaca",
+          "numero": "4.9",
+          "numero_de_pagina": 64
+        },
+        {
+          "nombre": "Diarrea crónica",
+          "numero": "4.10",
+          "numero_de_pagina": 65
+        },
+        {
+          "nombre": "Enfermedad celíaca",
+          "numero": "4.11",
+          "numero_de_pagina": 66
+        },
+        {
+          "nombre": "Intolerancia a la lactosa",
+          "numero": "4.12",
+          "numero_de_pagina": 68
+        },
+        {
+          "nombre": "Enterocolitis necrosante",
+          "numero": "4.13",
+          "numero_de_pagina": 68
+        }
+      ],
+      "total_paginas": 19
+    },
+    {
+      "nombre": "Patología nefrourológica pediátrica",
+      "numero": 5,
+      "apartados": [
+        {
+          "nombre": "Infección del tracto urinario",
+          "numero": "5.1",
+          "numero_de_pagina": 75
+        },
+        {
+          "nombre": "Reflujo vesicoureteral",
+          "numero": "5.2",
+          "numero_de_pagina": 77
+        },
+        {
+          "nombre": "Criptorquidia",
+          "numero": "5.3",
+          "numero_de_pagina": 78
+        },
+        {
+          "nombre": "Síndrome nefrótico",
+          "numero": "5.4",
+          "numero_de_pagina": 79
+        },
+        {
+          "nombre": "Síndrome hemolítico urémico atípico",
+          "numero": "5.5",
+          "numero_de_pagina": 81
+        },
+        {
+          "nombre": "Litiasis urinaria",
+          "numero": "5.6",
+          "numero_de_pagina": 82
+        }
+      ],
+      "total_paginas": 10
+    },
+    {
+      "nombre": "Oncología pediátrica",
+      "numero": 6,
+      "apartados": [
+        {
+          "nombre": "Tumores en la infancia. Generalidades",
+          "numero": "6.1",
+          "numero_de_pagina": 85
+        },
+        {
+          "nombre": "Neuroblastoma",
+          "numero": "6.2",
+          "numero_de_pagina": 86
+        },
+        {
+          "nombre": "Tumor de Wilms (nefroblastoma)",
+          "numero": "6.3",
+          "numero_de_pagina": 88
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Enfermedades infecciosas",
+      "numero": 7,
+      "apartados": [
+        {
+          "nombre": "Enfermedades exantemáticas víricas",
+          "numero": "7.1",
+          "numero_de_pagina": 91
+        },
+        {
+          "nombre": "Enfermedad por citomegalovirus en la infancia",
+          "numero": "7.2",
+          "numero_de_pagina": 100
+        },
+        {
+          "nombre": "Infección por VIH en la infancia",
+          "numero": "7.3",
+          "numero_de_pagina": 100
+        },
+        {
+          "nombre": "Púrpura de Schönlein-Henoch",
+          "numero": "7.4",
+          "numero_de_pagina": 102
+        }
+      ],
+      "total_paginas": 14
+    },
+    {
+      "nombre": "Síndrome de la muerte súbita del lactante",
+      "numero": 8,
+      "apartados": [
+        {
+          "nombre": "Definición",
+          "numero": "8.1",
+          "numero_de_pagina": 105
+        },
+        {
+          "nombre": "Etiología y epidemiología",
+          "numero": "8.2",
+          "numero_de_pagina": 105
+        },
+        {
+          "nombre": "Apnea",
+          "numero": "8.3",
+          "numero_de_pagina": 106
+        },
+        {
+          "nombre": "Prevención SMSL",
+          "numero": "8.4",
+          "numero_de_pagina": 106
+        },
+        {
+          "nombre": "Episodio aparentemente letal (ALTE)",
+          "numero": "8.5",
+          "numero_de_pagina": 107
+        }
+      ],
+      "total_paginas": 4
+    },
+    {
+      "nombre": "Maltrato infantil",
+      "numero": 9,
+      "apartados": [
+        {
+          "nombre": "Definición",
+          "numero": "9.1",
+          "numero_de_pagina": 109
+        },
+        {
+          "nombre": "Factores de riesgo",
+          "numero": "9.2",
+          "numero_de_pagina": 109
+        },
+        {
+          "nombre": "Tipos de maltrato",
+          "numero": "9.3",
+          "numero_de_pagina": 109
+        },
+        {
+          "nombre": "Indicadores físicos y conductuales",
+          "numero": "9.4",
+          "numero_de_pagina": 110
+        },
+        {
+          "nombre": "Tratamiento",
+          "numero": "9.5",
+          "numero_de_pagina": 111
+        },
+        {
+          "nombre": "Abuso sexual",
+          "numero": "9.6",
+          "numero_de_pagina": 111
+        }
+      ],
+      "total_paginas": 4
+    },
+    {
+      "nombre": "Vacunas",
+      "numero": 10,
+      "apartados": [
+        {
+          "nombre": "Generalidades",
+          "numero": "10.1",
+          "numero_de_pagina": 113
+        },
+        {
+          "nombre": "Calendario vacunal",
+          "numero": "10.2",
+          "numero_de_pagina": 114
+        },
+        {
+          "nombre": "Vacunación en situaciones especiales",
+          "numero": "10.3",
+          "numero_de_pagina": 120
+        }
+      ],
+      "total_paginas": 10
+    },
+    {
+      "nombre": "Metabolopatías",
+      "numero": 11,
+      "apartados": [
+        {
+          "nombre": "Generalidades",
+          "numero": "11.1",
+          "numero_de_pagina": 123
+        },
+        {
+          "nombre": "Aminoacidopatías",
+          "numero": "11.2",
+          "numero_de_pagina": 124
+        },
+        {
+          "nombre": "Errores del metabolismo de hidratos",
+          "numero": "11.3",
+          "numero_de_pagina": 125
+        },
+        {
+          "nombre": "Enfermedades por déficit enzimático",
+          "numero": "11.4",
+          "numero_de_pagina": 127
+        }
+      ],
+      "total_paginas": 8
+    },
+    {
+      "nombre": "Calendario quirúrgico pediátrico",
+      "numero": 12,
+      "apartados": [
+        {
+          "nombre": "Patologías quirúrgicas en pediatría",
+          "numero": "12.1",
+          "numero_de_pagina": 131
+        }
+      ],
+      "total_paginas": 5
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "nombre": "Radiología",
+  "capitulos": [
+    {
+      "nombre": "Tórax",
+      "numero": 1,
+      "apartados": [
+        {
+          "nombre": "Pruebas de imagen",
+          "numero": "1.1",
+          "numero_de_pagina": 2
+        },
+        {
+          "nombre": "Patología torácica",
+          "numero": "1.2",
+          "numero_de_pagina": 6
+        },
+        {
+          "nombre": "Patología mediastínica",
+          "numero": "1.3",
+          "numero_de_pagina": 10
+        }
+      ],
+      "total_paginas": 20
+    },
+    {
+      "nombre": "Abdomen",
+      "numero": 2,
+      "apartados": [
+        {
+          "nombre": "Patología del tubo digestivo superior",
+          "numero": "2.1",
+          "numero_de_pagina": 22
+        },
+        {
+          "nombre": "Patología del tubo digestivo inferior",
+          "numero": "2.2",
+          "numero_de_pagina": 28
+        },
+        {
+          "nombre": "Patología del hígado",
+          "numero": "2.3",
+          "numero_de_pagina": 37
+        },
+        {
+          "nombre": "Patología de la vesícula y la vía biliar",
+          "numero": "2.4",
+          "numero_de_pagina": 40
+        },
+        {
+          "nombre": "Patología del bazo",
+          "numero": "2.5",
+          "numero_de_pagina": 41
+        },
+        {
+          "nombre": "Páncreas",
+          "numero": "2.6",
+          "numero_de_pagina": 42
+        },
+        {
+          "nombre": "Patología del riñón y de la glándula adrenal",
+          "numero": "2.7",
+          "numero_de_pagina": 43
+        },
+        {
+          "nombre": "Patología genitourinaria",
+          "numero": "2.8",
+          "numero_de_pagina": 48
+        },
+        {
+          "nombre": "Patología de la uretra y la vejiga",
+          "numero": "2.9",
+          "numero_de_pagina": 51
+        },
+        {
+          "nombre": "Patología de la próstata",
+          "numero": "2.10",
+          "numero_de_pagina": 53
+        }
+      ],
+      "total_paginas": 36
+    },
+    {
+      "nombre": "Neurorradiología",
+      "numero": 3,
+      "apartados": [
+        {
+          "nombre": "Patología isquémica",
+          "numero": "3.1",
+          "numero_de_pagina": 58
+        },
+        {
+          "nombre": "Traumatismo craneal y patologías hemorrágicas",
+          "numero": "3.2",
+          "numero_de_pagina": 65
+        },
+        {
+          "nombre": "Patología infecciosa",
+          "numero": "3.3",
+          "numero_de_pagina": 65
+        },
+        {
+          "nombre": "Patología tumoral",
+          "numero": "3.4",
+          "numero_de_pagina": 66
+        },
+        {
+          "nombre": "Patología raquídea",
+          "numero": "3.5",
+          "numero_de_pagina": 68
+        },
+        {
+          "nombre": "Medicina nuclear",
+          "numero": "3.6",
+          "numero_de_pagina": 73
+        }
+      ],
+      "total_paginas": 24
+    },
+    {
+      "nombre": "Imagen cardíaca",
+      "numero": 4,
+      "apartados": [
+        {
+          "nombre": "Técnicas de imagen cardíaca",
+          "numero": "4.1",
+          "numero_de_pagina": 82
+        },
+        {
+          "nombre": "Patología cardíaca",
+          "numero": "4.2",
+          "numero_de_pagina": 87
+        }
+      ],
+      "total_paginas": 24
+    },
+    {
+      "nombre": "Musculoesquelético",
+      "numero": 5,
+      "apartados": [
+        {
+          "nombre": "Técnicas de imagen",
+          "numero": "5.1",
+          "numero_de_pagina": 106
+        },
+        {
+          "nombre": "Generalidades de las fracturas",
+          "numero": "5.2",
+          "numero_de_pagina": 107
+        },
+        {
+          "nombre": "Patología tumoral",
+          "numero": "5.3",
+          "numero_de_pagina": 108
+        },
+        {
+          "nombre": "Patología de las extremidades superiores",
+          "numero": "5.4",
+          "numero_de_pagina": 110
+        },
+        {
+          "nombre": "Patologías más frecuentes y casos clínicos por articulaciones del miembro inferior",
+          "numero": "5.5",
+          "numero_de_pagina": 116
+        }
+      ],
+      "total_paginas": 20
+    },
+    {
+      "nombre": "Ginecología",
+      "numero": 6,
+      "apartados": [
+        {
+          "nombre": "Mama",
+          "numero": "6.1",
+          "numero_de_pagina": 126
+        },
+        {
+          "nombre": "Aparato reproductor",
+          "numero": "6.2",
+          "numero_de_pagina": 134
+        }
+      ],
+      "total_paginas": 16
+    },
+    {
+      "nombre": "Pediatría",
+      "numero": 7,
+      "apartados": [
+        {
+          "nombre": "Generalidades",
+          "numero": "7.1",
+          "numero_de_pagina": 142
+        },
+        {
+          "nombre": "Ecografía neonatal",
+          "numero": "7.2",
+          "numero_de_pagina": 142
+        },
+        {
+          "nombre": "Neurorradiología pediátrica",
+          "numero": "7.3",
+          "numero_de_pagina": 147
+        },
+        {
+          "nombre": "Tórax",
+          "numero": "7.4",
+          "numero_de_pagina": 149
+        },
+        {
+          "nombre": "Abdomen",
+          "numero": "7.5",
+          "numero_de_pagina": 151
+        },
+        {
+          "nombre": "Genitourinario",
+          "numero": "7.6",
+          "numero_de_pagina": 155
+        },
+        {
+          "nombre": "Musculoesquelético",
+          "numero": "7.7",
+          "numero_de_pagina": 155
+        }
+      ],
+      "total_paginas": 18
+    },
+    {
+      "nombre": "Medicina nuclear",
+      "numero": 8,
+      "apartados": [
+        {
+          "nombre": "Concepto de medicina nuclear",
+          "numero": "8.1",
+          "numero_de_pagina": 160
+        },
+        {
+          "nombre": "Fundamentos básicos",
+          "numero": "8.2",
+          "numero_de_pagina": 160
+        },
+        {
+          "nombre": "Detección de la radiación",
+          "numero": "8.3",
+          "numero_de_pagina": 160
+        },
+        {
+          "nombre": "Equipos en medicina nuclear",
+          "numero": "8.4",
+          "numero_de_pagina": 160
+        },
+        {
+          "nombre": "Radiofármacos",
+          "numero": "8.5",
+          "numero_de_pagina": 161
+        },
+        {
+          "nombre": "Medicina nuclear en Oncología",
+          "numero": "8.6",
+          "numero_de_pagina": 161
+        }
+      ],
+      "total_paginas": 6
+    }
+  ]
+}

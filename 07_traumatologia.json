@@ -1,0 +1,286 @@
+{
+  "nombre": "Traumatología",
+  "capitulos": [
+    {
+      "nombre": "Fracturas",
+      "numero": 1,
+      "apartados": [
+        {
+          "nombre": "Concepto, manifestaciones clínicas y diagnóstico",
+          "numero": "1.1",
+          "numero_de_pagina": 2
+        },
+        {
+          "nombre": "Proceso de consolidación de las fracturas. Injertos y sustitutivos óseos",
+          "numero": "1.2",
+          "numero_de_pagina": 2
+        },
+        {
+          "nombre": "Principios generales del tratamiento",
+          "numero": "1.3",
+          "numero_de_pagina": 3
+        },
+        {
+          "nombre": "Complicaciones generales de las fracturas",
+          "numero": "1.4",
+          "numero_de_pagina": 7
+        },
+        {
+          "nombre": "Fracturas del miembro superior",
+          "numero": "1.5",
+          "numero_de_pagina": 12
+        },
+        {
+          "nombre": "Fracturas de pelvis y miembro inferior",
+          "numero": "1.6",
+          "numero_de_pagina": 19
+        },
+        {
+          "nombre": "Extremo proximal del quinto metatarsiano",
+          "numero": "1.7",
+          "numero_de_pagina": 28
+        }
+      ],
+      "total_paginas": 30
+    },
+    {
+      "nombre": "Luxaciones",
+      "numero": 2,
+      "apartados": [
+        {
+          "nombre": "Principios generales",
+          "numero": "2.1",
+          "numero_de_pagina": 32
+        },
+        {
+          "nombre": "Lesiones de la articulación acromioclavicular",
+          "numero": "2.2",
+          "numero_de_pagina": 32
+        },
+        {
+          "nombre": "Luxación glenohumeral",
+          "numero": "2.3",
+          "numero_de_pagina": 33
+        },
+        {
+          "nombre": "Luxación de codo",
+          "numero": "2.4",
+          "numero_de_pagina": 34
+        },
+        {
+          "nombre": "Luxaciones del carpo",
+          "numero": "2.5",
+          "numero_de_pagina": 35
+        },
+        {
+          "nombre": "Luxaciones de cadera",
+          "numero": "2.6",
+          "numero_de_pagina": 36
+        },
+        {
+          "nombre": "Luxación de rótula",
+          "numero": "2.7",
+          "numero_de_pagina": 36
+        },
+        {
+          "nombre": "Luxación de rodilla",
+          "numero": "2.8",
+          "numero_de_pagina": 36
+        },
+        {
+          "nombre": "Luxaciones del mediopié",
+          "numero": "2.9",
+          "numero_de_pagina": 37
+        }
+      ],
+      "total_paginas": 8
+    },
+    {
+      "nombre": "Lesiones traumáticas e inflamatorias de partes blandas",
+      "numero": 3,
+      "apartados": [
+        {
+          "nombre": "Lesiones ligamentosas y meniscales",
+          "numero": "3.1",
+          "numero_de_pagina": 40
+        },
+        {
+          "nombre": "Tendinitis, tenosinovitis, bursitis y entesitis",
+          "numero": "3.2",
+          "numero_de_pagina": 44
+        },
+        {
+          "nombre": "Enfermedad de Dupuytren",
+          "numero": "3.3",
+          "numero_de_pagina": 48
+        },
+        {
+          "nombre": "Roturas agudas del tendón de Aquiles",
+          "numero": "3.4",
+          "numero_de_pagina": 48
+        },
+        {
+          "nombre": "Insuficiencia del tendón del tibial posterior",
+          "numero": "3.5",
+          "numero_de_pagina": 49
+        }
+      ],
+      "total_paginas": 12
+    },
+    {
+      "nombre": "Sistema nervioso periférico",
+      "numero": 4,
+      "apartados": [
+        {
+          "nombre": "Principios generales",
+          "numero": "4.1",
+          "numero_de_pagina": 52
+        },
+        {
+          "nombre": "Lesiones traumáticas del plexo braquial del adulto",
+          "numero": "4.2",
+          "numero_de_pagina": 53
+        },
+        {
+          "nombre": "Lesiones de los troncos nerviosos principales de las extremidades",
+          "numero": "4.3",
+          "numero_de_pagina": 53
+        }
+      ],
+      "total_paginas": 8
+    },
+    {
+      "nombre": "Tumores y lesiones óseas seudotumorales. Tumores de partes blandas",
+      "numero": 5,
+      "apartados": [
+        {
+          "nombre": "Incidencia y clasificación",
+          "numero": "5.1",
+          "numero_de_pagina": 60
+        },
+        {
+          "nombre": "Clínica y diagnóstico",
+          "numero": "5.2",
+          "numero_de_pagina": 60
+        },
+        {
+          "nombre": "Orientación terapéutica",
+          "numero": "5.3",
+          "numero_de_pagina": 63
+        },
+        {
+          "nombre": "Características de los principales tumores óseos y lesiones seudotumorales",
+          "numero": "5.4",
+          "numero_de_pagina": 63
+        }
+      ],
+      "total_paginas": 12
+    },
+    {
+      "nombre": "Ortopedia infantil y del adolescente",
+      "numero": 6,
+      "apartados": [
+        {
+          "nombre": "Lesiones traumáticas propias de la infancia",
+          "numero": "6.1",
+          "numero_de_pagina": 72
+        },
+        {
+          "nombre": "Tortícolis muscular congénita",
+          "numero": "6.2",
+          "numero_de_pagina": 74
+        },
+        {
+          "nombre": "Deformidades de la cintura escapular y del miembro superior",
+          "numero": "6.3",
+          "numero_de_pagina": 74
+        },
+        {
+          "nombre": "Cadera infantil y del adolescente",
+          "numero": "6.4",
+          "numero_de_pagina": 75
+        },
+        {
+          "nombre": "Rodilla",
+          "numero": "6.5",
+          "numero_de_pagina": 81
+        },
+        {
+          "nombre": "Pie infantil",
+          "numero": "6.6",
+          "numero_de_pagina": 83
+        },
+        {
+          "nombre": "Ostecondrosis",
+          "numero": "6.7",
+          "numero_de_pagina": 84
+        }
+      ],
+      "total_paginas": 16
+    },
+    {
+      "nombre": "Cirugía reconstructiva del adulto",
+      "numero": 7,
+      "apartados": [
+        {
+          "nombre": "Principios generales",
+          "numero": "7.1",
+          "numero_de_pagina": 88
+        },
+        {
+          "nombre": "Artrodesis",
+          "numero": "7.2",
+          "numero_de_pagina": 88
+        },
+        {
+          "nombre": "Patología articular degenerativa e inflamatoria",
+          "numero": "7.3",
+          "numero_de_pagina": 89
+        },
+        {
+          "nombre": "Necrosis avascular de la cabeza femoral",
+          "numero": "7.4",
+          "numero_de_pagina": 92
+        },
+        {
+          "nombre": "Osteonecrosis de la rodilla",
+          "numero": "7.5",
+          "numero_de_pagina": 92
+        },
+        {
+          "nombre": "Hallux valgus",
+          "numero": "7.6",
+          "numero_de_pagina": 94
+        }
+      ],
+      "total_paginas": 8
+    },
+    {
+      "nombre": "Patología de la columna vertebral",
+      "numero": 8,
+      "apartados": [
+        {
+          "nombre": "Fracturas vertebrales",
+          "numero": "8.1",
+          "numero_de_pagina": 96
+        },
+        {
+          "nombre": "Escoliosis",
+          "numero": "8.2",
+          "numero_de_pagina": 99
+        },
+        {
+          "nombre": "Otras deformidades de la columna vertebral",
+          "numero": "8.3",
+          "numero_de_pagina": 102
+        },
+        {
+          "nombre": "Espondilolistesis y espondilolisis",
+          "numero": "8.4",
+          "numero_de_pagina": 103
+        }
+      ],
+      "total_paginas": 12
+    }
+  ]
+}

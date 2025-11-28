@@ -1,0 +1,496 @@
+{
+  "nombre": "Oftalmología",
+  "capitulos": [
+    {
+      "nombre": "Embriología, anatomía y fisiología oculares",
+      "numero": 1,
+      "apartados": [
+        {
+          "nombre": "Embriología",
+          "numero": "1.1",
+          "numero_de_pagina": 2
+        },
+        {
+          "nombre": "Anatomía",
+          "numero": "1.2",
+          "numero_de_pagina": 2
+        },
+        {
+          "nombre": "Semiología y exploración en oftalmología",
+          "numero": "1.3",
+          "numero_de_pagina": 5
+        }
+      ],
+      "total_paginas": 8
+    },
+    {
+      "nombre": "Refracción",
+      "numero": 2,
+      "apartados": [
+        {
+          "nombre": "Fisiología",
+          "numero": "2.1",
+          "numero_de_pagina": 10
+        },
+        {
+          "nombre": "Ametropías",
+          "numero": "2.2",
+          "numero_de_pagina": 10
+        }
+      ],
+      "total_paginas": 4
+    },
+    {
+      "nombre": "Párpados",
+      "numero": 3,
+      "apartados": [
+        {
+          "nombre": "Alteraciones inflamatorias",
+          "numero": "3.1",
+          "numero_de_pagina": 14
+        },
+        {
+          "nombre": "Alteraciones de la posición",
+          "numero": "3.2",
+          "numero_de_pagina": 14
+        },
+        {
+          "nombre": "Patología tumoral",
+          "numero": "3.3",
+          "numero_de_pagina": 15
+        }
+      ],
+      "total_paginas": 4
+    },
+    {
+      "nombre": "Órbita",
+      "numero": 4,
+      "apartados": [
+        {
+          "nombre": "Oftalmopatía tiroidea",
+          "numero": "4.1",
+          "numero_de_pagina": 18
+        },
+        {
+          "nombre": "Celulitis orbitaria",
+          "numero": "4.2",
+          "numero_de_pagina": 19
+        },
+        {
+          "nombre": "Tromboflebitis del seno cavernoso",
+          "numero": "4.3",
+          "numero_de_pagina": 20
+        },
+        {
+          "nombre": "Fístula carótido-cavernosa",
+          "numero": "4.4",
+          "numero_de_pagina": 20
+        },
+        {
+          "nombre": "Hemorragia orbitaria",
+          "numero": "4.5",
+          "numero_de_pagina": 21
+        },
+        {
+          "nombre": "Tumores orbitarios",
+          "numero": "4.6",
+          "numero_de_pagina": 21
+        },
+        {
+          "nombre": "Pseudotumor inflamatorio",
+          "numero": "4.7",
+          "numero_de_pagina": 21
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Aparato lagrimal",
+      "numero": 5,
+      "apartados": [
+        {
+          "nombre": "Dacrioadenitis",
+          "numero": "5.1",
+          "numero_de_pagina": 24
+        },
+        {
+          "nombre": "Ojo seco",
+          "numero": "5.2",
+          "numero_de_pagina": 24
+        },
+        {
+          "nombre": "Dacriocistitis",
+          "numero": "5.3",
+          "numero_de_pagina": 25
+        }
+      ],
+      "total_paginas": 4
+    },
+    {
+      "nombre": "Conjuntiva",
+      "numero": 6,
+      "apartados": [
+        {
+          "nombre": "Conjuntivitis infecciosas",
+          "numero": "6.1",
+          "numero_de_pagina": 28
+        },
+        {
+          "nombre": "Conjuntivitis de etiología inmunitaria",
+          "numero": "6.2",
+          "numero_de_pagina": 30
+        },
+        {
+          "nombre": "Proliferaciones conjuntivales",
+          "numero": "6.3",
+          "numero_de_pagina": 31
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Córnea y esclera",
+      "numero": 7,
+      "apartados": [
+        {
+          "nombre": "Úlceras corneales y queratitis",
+          "numero": "7.1",
+          "numero_de_pagina": 34
+        },
+        {
+          "nombre": "Distrofias, degeneraciones y ectasias corneales",
+          "numero": "7.2",
+          "numero_de_pagina": 36
+        },
+        {
+          "nombre": "Patología escleral",
+          "numero": "7.3",
+          "numero_de_pagina": 37
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Cristalino",
+      "numero": 8,
+      "apartados": [
+        {
+          "nombre": "Patología de la acomodación",
+          "numero": "8.1",
+          "numero_de_pagina": 40
+        },
+        {
+          "nombre": "Cataratas",
+          "numero": "8.2",
+          "numero_de_pagina": 40
+        },
+        {
+          "nombre": "Luxación y subluxación del cristalino",
+          "numero": "8.3",
+          "numero_de_pagina": 43
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Glaucoma",
+      "numero": 9,
+      "apartados": [
+        {
+          "nombre": "Glaucoma primario de ángulo abierto (glaucoma crónico simple)",
+          "numero": "9.1",
+          "numero_de_pagina": 46
+        },
+        {
+          "nombre": "Glaucoma primario de ángulo estrecho",
+          "numero": "9.2",
+          "numero_de_pagina": 49
+        },
+        {
+          "nombre": "Glaucoma congénito",
+          "numero": "9.3",
+          "numero_de_pagina": 50
+        },
+        {
+          "nombre": "Glaucoma secundario",
+          "numero": "9.4",
+          "numero_de_pagina": 50
+        }
+      ],
+      "total_paginas": 8
+    },
+    {
+      "nombre": "Uveítis",
+      "numero": 10,
+      "apartados": [
+        {
+          "nombre": "Uveítis anteriores",
+          "numero": "10.1",
+          "numero_de_pagina": 54
+        },
+        {
+          "nombre": "Uveítis posteriores",
+          "numero": "10.2",
+          "numero_de_pagina": 55
+        },
+        {
+          "nombre": "Uveítis típicas",
+          "numero": "10.3",
+          "numero_de_pagina": 56
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Vítreo y retina",
+      "numero": 11,
+      "apartados": [
+        {
+          "nombre": "Desprendimiento del vítreo posterior",
+          "numero": "11.1",
+          "numero_de_pagina": 60
+        },
+        {
+          "nombre": "Persistencia del vítreo primario hiperplásico",
+          "numero": "11.2",
+          "numero_de_pagina": 60
+        },
+        {
+          "nombre": "Desprendimiento de retina",
+          "numero": "11.3",
+          "numero_de_pagina": 61
+        },
+        {
+          "nombre": "Retinopatía diabética",
+          "numero": "11.4",
+          "numero_de_pagina": 60
+        },
+        {
+          "nombre": "Retinopatía esclerohipertensiva",
+          "numero": "11.5",
+          "numero_de_pagina": 61
+        },
+        {
+          "nombre": "Oclusión arterial retiniana",
+          "numero": "11.6",
+          "numero_de_pagina": 65
+        },
+        {
+          "nombre": "Obstrucción venosa retiniana",
+          "numero": "11.7",
+          "numero_de_pagina": 66
+        },
+        {
+          "nombre": "Degeneraciones retinianas",
+          "numero": "11.8",
+          "numero_de_pagina": 67
+        },
+        {
+          "nombre": "Retinopatía de la premadurez o fibroplasia retrolental",
+          "numero": "11.9",
+          "numero_de_pagina": 69
+        },
+        {
+          "nombre": "Tumores coroidorretinianos",
+          "numero": "11.10",
+          "numero_de_pagina": 70
+        }
+      ],
+      "total_paginas": 14
+    },
+    {
+      "nombre": "Estrabismo",
+      "numero": 12,
+      "apartados": [
+        {
+          "nombre": "Fisiopatología",
+          "numero": "12.1",
+          "numero_de_pagina": 74
+        },
+        {
+          "nombre": "Ambliopía",
+          "numero": "12.2",
+          "numero_de_pagina": 74
+        },
+        {
+          "nombre": "Estrabismos comitantes",
+          "numero": "12.3",
+          "numero_de_pagina": 75
+        },
+        {
+          "nombre": "Estrabismos incomitantes",
+          "numero": "12.4",
+          "numero_de_pagina": 76
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Neuroftalmología",
+      "numero": 13,
+      "apartados": [
+        {
+          "nombre": "Campimetría",
+          "numero": "13.1",
+          "numero_de_pagina": 80
+        },
+        {
+          "nombre": "Pupila",
+          "numero": "13.2",
+          "numero_de_pagina": 81
+        },
+        {
+          "nombre": "Nervio óptico",
+          "numero": "13.3",
+          "numero_de_pagina": 82
+        }
+      ],
+      "total_paginas": 8
+    },
+    {
+      "nombre": "Traumatismos oculares",
+      "numero": 14,
+      "apartados": [
+        {
+          "nombre": "Hiposfagma",
+          "numero": "14.1",
+          "numero_de_pagina": 88
+        },
+        {
+          "nombre": "Erosión corneoconjuntival",
+          "numero": "14.2",
+          "numero_de_pagina": 88
+        },
+        {
+          "nombre": "Cuerpo extraño corneal o conjuntival",
+          "numero": "14.3",
+          "numero_de_pagina": 88
+        },
+        {
+          "nombre": "Estallido ocular",
+          "numero": "14.4",
+          "numero_de_pagina": 88
+        },
+        {
+          "nombre": "Perforación ocular o traumatismo penetrante",
+          "numero": "14.5",
+          "numero_de_pagina": 88
+        },
+        {
+          "nombre": "Quemaduras oculares",
+          "numero": "14.6",
+          "numero_de_pagina": 88
+        },
+        {
+          "nombre": "Traumatismos oculares contusos",
+          "numero": "14.7",
+          "numero_de_pagina": 89
+        },
+        {
+          "nombre": "Fractura orbitaria",
+          "numero": "14.8",
+          "numero_de_pagina": 89
+        },
+        {
+          "nombre": "Síndrome del niño sacudido o bebé zarandeado",
+          "numero": "14.9",
+          "numero_de_pagina": 90
+        }
+      ],
+      "total_paginas": 4
+    },
+    {
+      "nombre": "Fármacos en oftalmología",
+      "numero": 15,
+      "apartados": [
+        {
+          "nombre": "Introducción",
+          "numero": "15.1",
+          "numero_de_pagina": 92
+        },
+        {
+          "nombre": "Fármacos de uso oftalmológico",
+          "numero": "15.2",
+          "numero_de_pagina": 92
+        },
+        {
+          "nombre": "Fármacos de uso sistémico con efectos secundarios oculares",
+          "numero": "15.3",
+          "numero_de_pagina": 93
+        }
+      ],
+      "total_paginas": 4
+    },
+    {
+      "nombre": "Oftalmología pediátrica",
+      "numero": 16,
+      "apartados": [
+        {
+          "nombre": "Corrección de las ametropías",
+          "numero": "16.1",
+          "numero_de_pagina": 96
+        },
+        {
+          "nombre": "Malformaciones",
+          "numero": "16.2",
+          "numero_de_pagina": 96
+        },
+        {
+          "nombre": "Afectación ocular en las facomatosis",
+          "numero": "16.3",
+          "numero_de_pagina": 97
+        },
+        {
+          "nombre": "Leucocoria",
+          "numero": "16.4",
+          "numero_de_pagina": 97
+        },
+        {
+          "nombre": "Manifestaciones oftalmológicas del maltrato infantil",
+          "numero": "16.5",
+          "numero_de_pagina": 97
+        }
+      ],
+      "total_paginas": 4
+    },
+    {
+      "nombre": "Tomografía de coherencia óptica",
+      "numero": 17,
+      "apartados": [
+        {
+          "nombre": "OCT en patología neurodegenerativa",
+          "numero": "17.1",
+          "numero_de_pagina": 100
+        },
+        {
+          "nombre": "OCT en glaucoma",
+          "numero": "17.2",
+          "numero_de_pagina": 100
+        },
+        {
+          "nombre": "OCT en patología macular",
+          "numero": "17.3",
+          "numero_de_pagina": 100
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Cirugía refractiva y láser en oftalmología",
+      "numero": 18,
+      "apartados": [
+        {
+          "nombre": "Cirugía refractiva",
+          "numero": "18.1",
+          "numero_de_pagina": 106
+        },
+        {
+          "nombre": "Láser en oftalmología",
+          "numero": "18.2",
+          "numero_de_pagina": 107
+        }
+      ],
+      "total_paginas": 6
+    }
+  ]
+}

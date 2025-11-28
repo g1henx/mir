@@ -1,0 +1,230 @@
+{
+  "nombre": "Urología",
+  "capitulos": [
+    {
+      "nombre": "Semiología urológica y definiciones. Cistitis intersticial",
+      "numero": 1,
+      "apartados": [
+        {
+          "nombre": "Definiciones",
+          "numero": "1.1",
+          "numero_de_pagina": 2
+        },
+        {
+          "nombre": "Diagnóstico diferencial de la hematuria microscópica",
+          "numero": "1.2",
+          "numero_de_pagina": 3
+        }
+      ],
+      "total_paginas": 2
+    },
+    {
+      "nombre": "Infecciones del tracto urinario",
+      "numero": 2,
+      "apartados": [
+        {
+          "nombre": "Pielonefritis y etiología",
+          "numero": "2.1",
+          "numero_de_pagina": 4
+        },
+        {
+          "nombre": "Diagnóstico",
+          "numero": "2.2",
+          "numero_de_pagina": 5
+        },
+        {
+          "nombre": "Infecciones del tracto urinario y la mujer",
+          "numero": "2.3",
+          "numero_de_pagina": 5
+        },
+        {
+          "nombre": "Tuberculosis genitourinaria",
+          "numero": "2.4",
+          "numero_de_pagina": 7
+        },
+        {
+          "nombre": "Cistitis intersticial",
+          "numero": "2.5",
+          "numero_de_pagina": 8
+        }
+      ],
+      "total_paginas": 8
+    },
+    {
+      "nombre": "Urolitiasis",
+      "numero": 3,
+      "apartados": [
+        {
+          "nombre": "Epidemiología",
+          "numero": "3.1",
+          "numero_de_pagina": 12
+        },
+        {
+          "nombre": "Clínica",
+          "numero": "3.2",
+          "numero_de_pagina": 12
+        },
+        {
+          "nombre": "Características",
+          "numero": "3.3",
+          "numero_de_pagina": 13
+        }
+      ],
+      "total_paginas": 7
+    },
+    {
+      "nombre": "Tumores renales",
+      "numero": 4,
+      "apartados": [
+        {
+          "nombre": "Carcinoma de células renales (adenocarcinoma renal, hipernefroma)",
+          "numero": "4.1",
+          "numero_de_pagina": 19
+        },
+        {
+          "nombre": "Otros tumores",
+          "numero": "4.2",
+          "numero_de_pagina": 22
+        }
+      ],
+      "total_paginas": 5
+    },
+    {
+      "nombre": "Hiperplasia prostática benigna y carcinoma prostático",
+      "numero": 5,
+      "apartados": [
+        {
+          "nombre": "Hiperplasia prostática benigna",
+          "numero": "5.1",
+          "numero_de_pagina": 24
+        },
+        {
+          "nombre": "Carcinoma del próstata",
+          "numero": "5.2",
+          "numero_de_pagina": 26
+        }
+      ],
+      "total_paginas": 8
+    },
+    {
+      "nombre": "Carcinomas del tracto urinario",
+      "numero": 6,
+      "apartados": [
+        {
+          "nombre": "Carcinoma urotelial",
+          "numero": "6.1",
+          "numero_de_pagina": 32
+        },
+        {
+          "nombre": "Carcinoma vesical",
+          "numero": "6.2",
+          "numero_de_pagina": 32
+        },
+        {
+          "nombre": "Tumores del tracto urinario superior",
+          "numero": "6.3",
+          "numero_de_pagina": 34
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Tumores testiculares",
+      "numero": 7,
+      "apartados": [
+        {
+          "nombre": "Etiología y epidemiología",
+          "numero": "7.1",
+          "numero_de_pagina": 38
+        },
+        {
+          "nombre": "Anatomía patológica",
+          "numero": "7.2",
+          "numero_de_pagina": 39
+        },
+        {
+          "nombre": "Clínica",
+          "numero": "7.3",
+          "numero_de_pagina": 40
+        },
+        {
+          "nombre": "Diagnóstico",
+          "numero": "7.4",
+          "numero_de_pagina": 40
+        },
+        {
+          "nombre": "Estadificación",
+          "numero": "7.5",
+          "numero_de_pagina": 40
+        },
+        {
+          "nombre": "Tratamiento",
+          "numero": "7.6",
+          "numero_de_pagina": 41
+        }
+      ],
+      "total_paginas": 5
+    },
+    {
+      "nombre": "Trasplante renal",
+      "numero": 8,
+      "apartados": [
+        {
+          "nombre": "Indicaciones",
+          "numero": "8.1",
+          "numero_de_pagina": 43
+        },
+        {
+          "nombre": "Contraindicaciones",
+          "numero": "8.2",
+          "numero_de_pagina": 44
+        }
+      ],
+      "total_paginas": 2
+    },
+    {
+      "nombre": "Uropatía obstructiva",
+      "numero": 9,
+      "apartados": [
+        {
+          "nombre": "Características",
+          "numero": "9.1",
+          "numero_de_pagina": 45
+        },
+        {
+          "nombre": "Clínica",
+          "numero": "9.2",
+          "numero_de_pagina": 46
+        },
+        {
+          "nombre": "Tratamiento",
+          "numero": "9.3",
+          "numero_de_pagina": 46
+        }
+      ],
+      "total_paginas": 3
+    },
+    {
+      "nombre": "Andrología",
+      "numero": 10,
+      "apartados": [
+        {
+          "nombre": "Disfunción eréctil",
+          "numero": "10.1",
+          "numero_de_pagina": 48
+        },
+        {
+          "nombre": "Eyaculación precoz",
+          "numero": "10.2",
+          "numero_de_pagina": 49
+        },
+        {
+          "nombre": "Enfermedad de Peyronie",
+          "numero": "10.3",
+          "numero_de_pagina": 49
+        }
+      ],
+      "total_paginas": 6
+    }
+  ]
+}

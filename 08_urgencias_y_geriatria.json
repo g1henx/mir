@@ -1,0 +1,110 @@
+{
+  "nombre": "Urgencias y Geriatría",
+  "capitulos": [
+    {
+      "nombre": "Triaje",
+      "numero": 1,
+      "apartados": [
+        {
+          "nombre": "Triaje extrahospitalario",
+          "numero": "1.1",
+          "numero_de_pagina": 2
+        },
+        {
+          "nombre": "Triaje hospitalario",
+          "numero": "1.2",
+          "numero_de_pagina": 3
+        }
+      ],
+      "total_paginas": 4
+    },
+    {
+      "nombre": "Técnicas diagnóstico-terapéuticas en Urgencias",
+      "numero": 2,
+      "apartados": [
+        {
+          "nombre": "Ecografía",
+          "numero": "2.1",
+          "numero_de_pagina": 6
+        },
+        {
+          "nombre": "Ventilación mecánica no invasiva",
+          "numero": "2.2",
+          "numero_de_pagina": 8
+        },
+        {
+          "nombre": "Ventilación mecánica invasiva",
+          "numero": "2.3",
+          "numero_de_pagina": 9
+        }
+      ],
+      "total_paginas": 8
+    },
+    {
+      "nombre": "Situaciones emergentes en Urgencias",
+      "numero": 3,
+      "apartados": [
+        {
+          "nombre": "Soporte vital",
+          "numero": "3.1",
+          "numero_de_pagina": 14
+        },
+        {
+          "nombre": "Atención inicial al paciente con politraumatismo",
+          "numero": "3.2",
+          "numero_de_pagina": 16
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Síndromes específicos de Urgencias",
+      "numero": 4,
+      "apartados": [
+        {
+          "nombre": "Shock",
+          "numero": "4.1",
+          "numero_de_pagina": 20
+        },
+        {
+          "nombre": "Sepsis",
+          "numero": "4.2",
+          "numero_de_pagina": 21
+        },
+        {
+          "nombre": "Coma",
+          "numero": "4.3",
+          "numero_de_pagina": 23
+        },
+        {
+          "nombre": "Síndrome de distrés respiratorio agudo",
+          "numero": "4.4",
+          "numero_de_pagina": 24
+        }
+      ],
+      "total_paginas": 8
+    },
+    {
+      "nombre": "Intoxicaciones",
+      "numero": 5,
+      "apartados": [
+        {
+          "nombre": "Intoxicaciones: clínica general",
+          "numero": "5.1",
+          "numero_de_pagina": 28
+        },
+        {
+          "nombre": "Técnicas de descontaminación y depuración",
+          "numero": "5.2",
+          "numero_de_pagina": 29
+        },
+        {
+          "nombre": "Sumisión química",
+          "numero": "5.3",
+          "numero_de_pagina": 32
+        }
+      ],
+      "total_paginas": 9
+    }
+  ]
+}

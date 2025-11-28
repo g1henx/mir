@@ -1,0 +1,437 @@
+{
+  "nombre": "Endocrinología",
+  "capitulos": [
+    {
+      "nombre": "Fisiología del sistema endocrino",
+      "numero": 1,
+      "apartados": [
+        {
+          "nombre": "Introducción",
+          "numero": "1.1",
+          "numero_de_pagina": 2
+        },
+        {
+          "nombre": "Hormonas hipotalámicas e hipofisarias",
+          "numero": "1.2",
+          "numero_de_pagina": 3
+        },
+        {
+          "nombre": "Hormonas tiroideas",
+          "numero": "1.3",
+          "numero_de_pagina": 8
+        },
+        {
+          "nombre": "Hormonas paratiroideas",
+          "numero": "1.4",
+          "numero_de_pagina": 11
+        },
+        {
+          "nombre": "Hormonas suprarrenales",
+          "numero": "1.5",
+          "numero_de_pagina": 12
+        },
+        {
+          "nombre": "Insulina",
+          "numero": "1.6",
+          "numero_de_pagina": 14
+        },
+        {
+          "nombre": "Hormonas ováricas",
+          "numero": "1.7",
+          "numero_de_pagina": 15
+        },
+        {
+          "nombre": "Sistema renina-angiotensina",
+          "numero": "1.8",
+          "numero_de_pagina": 16
+        },
+        {
+          "nombre": "Fisiología de ayuno y de los distintos macronutrientes",
+          "numero": "1.9",
+          "numero_de_pagina": 18
+        },
+        {
+          "nombre": "Neoplasias",
+          "numero": "1.10",
+          "numero_de_pagina": 18
+        }
+      ],
+      "total_paginas": 20
+    },
+    {
+      "nombre": "Enfermedades de la hipófisis",
+      "numero": 2,
+      "apartados": [
+        {
+          "nombre": "Hiperprolactinemia",
+          "numero": "2.1",
+          "numero_de_pagina": 22
+        },
+        {
+          "nombre": "Exceso de hormona del crecimiento: acromegalia y gigantismo",
+          "numero": "2.2",
+          "numero_de_pagina": 26
+        },
+        {
+          "nombre": "Déficit de hormona del crecimiento en el adulto",
+          "numero": "2.3",
+          "numero_de_pagina": 29
+        },
+        {
+          "nombre": "Alteraciones de las gonadotrofinas",
+          "numero": "2.4",
+          "numero_de_pagina": 30
+        },
+        {
+          "nombre": "Alteraciones de la tirotropina",
+          "numero": "2.5",
+          "numero_de_pagina": 31
+        },
+        {
+          "nombre": "Alteraciones de la corticotropina",
+          "numero": "2.6",
+          "numero_de_pagina": 32
+        },
+        {
+          "nombre": "Alteraciones de la neurohipófisis",
+          "numero": "2.7",
+          "numero_de_pagina": 32
+        },
+        {
+          "nombre": "Hipopituitarismo",
+          "numero": "2.8",
+          "numero_de_pagina": 34
+        },
+        {
+          "nombre": "Masas selares y otras alteraciones radiológicas",
+          "numero": "2.9",
+          "numero_de_pagina": 37
+        },
+        {
+          "nombre": "Otras lesiones hipofisarias",
+          "numero": "2.10",
+          "numero_de_pagina": 39
+        }
+      ],
+      "total_paginas": 23
+    },
+    {
+      "nombre": "Enfermedades de la glándula tiroides",
+      "numero": 3,
+      "apartados": [
+        {
+          "nombre": "Síndrome de eutirodeo enfermo o de enfermedad sistémica no tiroidea",
+          "numero": "3.1",
+          "numero_de_pagina": 45
+        },
+        {
+          "nombre": "Bocio simple",
+          "numero": "3.2",
+          "numero_de_pagina": 46
+        },
+        {
+          "nombre": "Hipotiroidismo",
+          "numero": "3.3",
+          "numero_de_pagina": 48
+        },
+        {
+          "nombre": "Hipertiroidismo",
+          "numero": "3.4",
+          "numero_de_pagina": 51
+        },
+        {
+          "nombre": "Tiroiditis",
+          "numero": "3.5",
+          "numero_de_pagina": 58
+        },
+        {
+          "nombre": "Nódulo tiroideo",
+          "numero": "3.6",
+          "numero_de_pagina": 59
+        },
+        {
+          "nombre": "Estudio citológico",
+          "numero": "3.7",
+          "numero_de_pagina": 62
+        },
+        {
+          "nombre": "Tumores malignos del tiroides",
+          "numero": "3.8",
+          "numero_de_pagina": 62
+        }
+      ],
+      "total_paginas": 25
+    },
+    {
+      "nombre": "Enfermedades de las glándulas suprarrenales",
+      "numero": 4,
+      "apartados": [
+        {
+          "nombre": "Síndrome de Cushing",
+          "numero": "4.1",
+          "numero_de_pagina": 70
+        },
+        {
+          "nombre": "Insuficiencia suprarrenal",
+          "numero": "4.2",
+          "numero_de_pagina": 75
+        },
+        {
+          "nombre": "Hiperandrogenismo suprarrenal",
+          "numero": "4.3",
+          "numero_de_pagina": 79
+        },
+        {
+          "nombre": "Hiperaldosteronismo",
+          "numero": "4.4",
+          "numero_de_pagina": 82
+        },
+        {
+          "nombre": "Feocromocitoma",
+          "numero": "4.5",
+          "numero_de_pagina": 84
+        }
+      ],
+      "total_paginas": 24
+    },
+    {
+      "nombre": "Diabetes mellitus",
+      "numero": 5,
+      "apartados": [
+        {
+          "nombre": "Epidemiología",
+          "numero": "5.1",
+          "numero_de_pagina": 94
+        },
+        {
+          "nombre": "Diagnóstico",
+          "numero": "5.2",
+          "numero_de_pagina": 95
+        },
+        {
+          "nombre": "Clasificación",
+          "numero": "5.3",
+          "numero_de_pagina": 96
+        },
+        {
+          "nombre": "Complicaciones agudas de la diabetes",
+          "numero": "5.4",
+          "numero_de_pagina": 99
+        },
+        {
+          "nombre": "Complicaciones crónicas de la diabetes",
+          "numero": "5.5",
+          "numero_de_pagina": 104
+        },
+        {
+          "nombre": "Tratamiento de la diabetes",
+          "numero": "5.6",
+          "numero_de_pagina": 110
+        },
+        {
+          "nombre": "Situaciones especiales",
+          "numero": "5.7",
+          "numero_de_pagina": 115
+        },
+        {
+          "nombre": "Aspectos especiales relacionados con la diabetes y el embarazo",
+          "numero": "5.8",
+          "numero_de_pagina": 118
+        }
+      ],
+      "total_paginas": 28
+    },
+    {
+      "nombre": "Hipoglucemia en el sujeto no diabético",
+      "numero": 6,
+      "apartados": [
+        {
+          "nombre": "Hipoglucemia no diabética",
+          "numero": "6.1",
+          "numero_de_pagina": 122
+        },
+        {
+          "nombre": "Insulinoma",
+          "numero": "6.2",
+          "numero_de_pagina": 124
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Dislipemia, obesidad y desnutrición",
+      "numero": 7,
+      "apartados": [
+        {
+          "nombre": "Dislipemias",
+          "numero": "7.1",
+          "numero_de_pagina": 128
+        },
+        {
+          "nombre": "Evaluación del riesgo cardiovascular en las dislipemias",
+          "numero": "7.2",
+          "numero_de_pagina": 131
+        },
+        {
+          "nombre": "Obesidad",
+          "numero": "7.3",
+          "numero_de_pagina": 140
+        },
+        {
+          "nombre": "Principios generales de nutrición",
+          "numero": "7.4",
+          "numero_de_pagina": 143
+        }
+      ],
+      "total_paginas": 24
+    },
+    {
+      "nombre": "Trastornos del metabolismo del calcio",
+      "numero": 8,
+      "apartados": [
+        {
+          "nombre": "Hipercalcemia",
+          "numero": "8.1",
+          "numero_de_pagina": 152
+        },
+        {
+          "nombre": "Hipocalcemia",
+          "numero": "8.2",
+          "numero_de_pagina": 156
+        },
+        {
+          "nombre": "Hiperfosfatemia",
+          "numero": "8.3",
+          "numero_de_pagina": 160
+        },
+        {
+          "nombre": "Hipofosfatemia",
+          "numero": "8.4",
+          "numero_de_pagina": 160
+        }
+      ],
+      "total_paginas": 12
+    },
+    {
+      "nombre": "Trastornos que afectan a múltiples órganos endocrinos",
+      "numero": 9,
+      "apartados": [
+        {
+          "nombre": "Neoplasias endocrinas múltiples",
+          "numero": "9.1",
+          "numero_de_pagina": 164
+        },
+        {
+          "nombre": "Otros trastornos neoplásicos con afectación endocrina",
+          "numero": "9.2",
+          "numero_de_pagina": 164
+        },
+        {
+          "nombre": "Síndromes poliglandulares autoinmunitarios",
+          "numero": "9.3",
+          "numero_de_pagina": 165
+        }
+      ],
+      "total_paginas": 4
+    },
+    {
+      "nombre": "Tumores neuroendocrinos gastroenteropancreáticos. Tumor y síndrome carcinoide",
+      "numero": 10,
+      "apartados": [
+        {
+          "nombre": "Introducción",
+          "numero": "10.1",
+          "numero_de_pagina": 168
+        },
+        {
+          "nombre": "Gastrinoma. Síndrome de Zollinger-Ellison",
+          "numero": "10.2",
+          "numero_de_pagina": 168
+        },
+        {
+          "nombre": "Insulinoma",
+          "numero": "10.3",
+          "numero_de_pagina": 168
+        },
+        {
+          "nombre": "VIPoma. Síndrome de Verner-Morrison",
+          "numero": "10.4",
+          "numero_de_pagina": 169
+        },
+        {
+          "nombre": "Glucagonoma",
+          "numero": "10.5",
+          "numero_de_pagina": 169
+        },
+        {
+          "nombre": "Somatostatinoma",
+          "numero": "10.6",
+          "numero_de_pagina": 169
+        },
+        {
+          "nombre": "Tumores neuroendocrinos GEP no funcionantes",
+          "numero": "10.7",
+          "numero_de_pagina": 170
+        },
+        {
+          "nombre": "Tumores carcinoides",
+          "numero": "10.8",
+          "numero_de_pagina": 170
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Trastornos del desarrollo sexual",
+      "numero": 11,
+      "apartados": [
+        {
+          "nombre": "Diferenciación sexual normal",
+          "numero": "11.1",
+          "numero_de_pagina": 174
+        },
+        {
+          "nombre": "Trastornos del desarrollo 46XX (virilizadas)",
+          "numero": "11.2",
+          "numero_de_pagina": 174
+        },
+        {
+          "nombre": "TDS con cariotipo 46XX y/o XY/mosaico",
+          "numero": "11.3",
+          "numero_de_pagina": 176
+        },
+        {
+          "nombre": "Trastornos del desarrollo sexual (que afectan a los cromosomas sexuales)",
+          "numero": "11.4",
+          "numero_de_pagina": 177
+        },
+        {
+          "nombre": "Alteraciones del desarrollo de genitales en mujeres",
+          "numero": "11.5",
+          "numero_de_pagina": 178
+        },
+        {
+          "nombre": "Variantes de normalidad de la pubertad",
+          "numero": "11.6",
+          "numero_de_pagina": 178
+        },
+        {
+          "nombre": "Pubertad precoz",
+          "numero": "11.7",
+          "numero_de_pagina": 179
+        },
+        {
+          "nombre": "Pubertad retrasada",
+          "numero": "11.8",
+          "numero_de_pagina": 179
+        },
+        {
+          "nombre": "Pubertad retrasada",
+          "numero": "11.9",
+          "numero_de_pagina": 180
+        }
+      ],
+      "total_paginas": 11
+    }
+  ]
+}

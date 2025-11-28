@@ -1,0 +1,393 @@
+{
+  "nombre": "Nefrología",
+  "capitulos": [
+    {
+      "nombre": "Recuerdo anatómico y fisiológico renal",
+      "numero": 1,
+      "apartados": [
+        {
+          "nombre": "Anatomía",
+          "numero": "1.1",
+          "numero_de_pagina": 2
+        },
+        {
+          "nombre": "Fisiología",
+          "numero": "1.2",
+          "numero_de_pagina": 3
+        }
+      ],
+      "total_paginas": 8
+    },
+    {
+      "nombre": "Alteraciones del equilibrio hidroelectrolítico",
+      "numero": 2,
+      "apartados": [
+        {
+          "nombre": "Introducción",
+          "numero": "2.1",
+          "numero_de_pagina": 10
+        },
+        {
+          "nombre": "Alteraciones del sodio",
+          "numero": "2.2",
+          "numero_de_pagina": 10
+        },
+        {
+          "nombre": "Alteraciones del potasio",
+          "numero": "2.3",
+          "numero_de_pagina": 12
+        },
+        {
+          "nombre": "Alteraciones del calcio",
+          "numero": "2.4",
+          "numero_de_pagina": 14
+        },
+        {
+          "nombre": "Alteraciones del fósforo",
+          "numero": "2.5",
+          "numero_de_pagina": 15
+        },
+        {
+          "nombre": "Alteraciones del magnesio",
+          "numero": "2.6",
+          "numero_de_pagina": 16
+        }
+      ],
+      "total_paginas": 8
+    },
+    {
+      "nombre": "Alteraciones del equilibrio ácido-base",
+      "numero": 3,
+      "apartados": [
+        {
+          "nombre": "Fisiología",
+          "numero": "3.1",
+          "numero_de_pagina": 18
+        },
+        {
+          "nombre": "Aproximación diagnóstica",
+          "numero": "3.2",
+          "numero_de_pagina": 18
+        },
+        {
+          "nombre": "Acidosis metabólica",
+          "numero": "3.3",
+          "numero_de_pagina": 19
+        },
+        {
+          "nombre": "Alcalosis metabólica",
+          "numero": "3.4",
+          "numero_de_pagina": 22
+        },
+        {
+          "nombre": "Acidosis respiratoria",
+          "numero": "3.5",
+          "numero_de_pagina": 23
+        },
+        {
+          "nombre": "Alcalosis respiratoria",
+          "numero": "3.6",
+          "numero_de_pagina": 24
+        },
+        {
+          "nombre": "Trastornos mixtos",
+          "numero": "3.7",
+          "numero_de_pagina": 24
+        }
+      ],
+      "total_paginas": 10
+    },
+    {
+      "nombre": "Fallo renal agudo",
+      "numero": 4,
+      "apartados": [
+        {
+          "nombre": "Concepto",
+          "numero": "4.1",
+          "numero_de_pagina": 28
+        },
+        {
+          "nombre": "Clasificación",
+          "numero": "4.2",
+          "numero_de_pagina": 28
+        },
+        {
+          "nombre": "Clínica",
+          "numero": "4.3",
+          "numero_de_pagina": 31
+        },
+        {
+          "nombre": "Tratamiento",
+          "numero": "4.4",
+          "numero_de_pagina": 32
+        }
+      ],
+      "total_paginas": 8
+    },
+    {
+      "nombre": "Enfermedad renal crónica",
+      "numero": 5,
+      "apartados": [
+        {
+          "nombre": "Definición y clasificación",
+          "numero": "5.1",
+          "numero_de_pagina": 36
+        },
+        {
+          "nombre": "Fisiopatología",
+          "numero": "5.2",
+          "numero_de_pagina": 36
+        },
+        {
+          "nombre": "Clínica",
+          "numero": "5.3",
+          "numero_de_pagina": 37
+        },
+        {
+          "nombre": "Tratamiento conservador",
+          "numero": "5.4",
+          "numero_de_pagina": 40
+        },
+        {
+          "nombre": "Tratamiento sustitutivo renal",
+          "numero": "5.5",
+          "numero_de_pagina": 42
+        }
+      ],
+      "total_paginas": 12
+    },
+    {
+      "nombre": "Síndrome nefrótico",
+      "numero": 6,
+      "apartados": [
+        {
+          "nombre": "Definición",
+          "numero": "6.1",
+          "numero_de_pagina": 48
+        },
+        {
+          "nombre": "Etiología",
+          "numero": "6.2",
+          "numero_de_pagina": 48
+        },
+        {
+          "nombre": "Clínica",
+          "numero": "6.3",
+          "numero_de_pagina": 49
+        },
+        {
+          "nombre": "Tratamiento",
+          "numero": "6.4",
+          "numero_de_pagina": 50
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Síndrome nefrítico",
+      "numero": 7,
+      "apartados": [
+        {
+          "nombre": "Definición",
+          "numero": "7.1",
+          "numero_de_pagina": 54
+        },
+        {
+          "nombre": "Glomerulonefritis aguda postinfecciosa",
+          "numero": "7.2",
+          "numero_de_pagina": 54
+        },
+        {
+          "nombre": "Nefropatía IgA",
+          "numero": "7.3",
+          "numero_de_pagina": 56
+        },
+        {
+          "nombre": "Otras glomerulonefritis",
+          "numero": "7.4",
+          "numero_de_pagina": 57
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Glomerulonefritis rápidamente progresiva",
+      "numero": 8,
+      "apartados": [
+        {
+          "nombre": "Concepto",
+          "numero": "8.1",
+          "numero_de_pagina": 60
+        },
+        {
+          "nombre": "Clasificación y etiopatogenia",
+          "numero": "8.2",
+          "numero_de_pagina": 60
+        },
+        {
+          "nombre": "Clínica",
+          "numero": "8.3",
+          "numero_de_pagina": 61
+        },
+        {
+          "nombre": "Tratamiento",
+          "numero": "8.4",
+          "numero_de_pagina": 62
+        }
+      ],
+      "total_paginas": 4
+    },
+    {
+      "nombre": "Nefropatía diabética",
+      "numero": 9,
+      "apartados": [
+        {
+          "nombre": "Epidemiología",
+          "numero": "9.1",
+          "numero_de_pagina": 64
+        },
+        {
+          "nombre": "Fisiopatología",
+          "numero": "9.2",
+          "numero_de_pagina": 64
+        },
+        {
+          "nombre": "Clínica",
+          "numero": "9.3",
+          "numero_de_pagina": 65
+        },
+        {
+          "nombre": "Tratamiento",
+          "numero": "9.4",
+          "numero_de_pagina": 66
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Enfermedades sistémicas con afectación renal",
+      "numero": 10,
+      "apartados": [
+        {
+          "nombre": "Nefritis lúpica",
+          "numero": "10.1",
+          "numero_de_pagina": 70
+        },
+        {
+          "nombre": "Vasculitis renales",
+          "numero": "10.2",
+          "numero_de_pagina": 71
+        },
+        {
+          "nombre": "Síndrome de Goodpasture",
+          "numero": "10.3",
+          "numero_de_pagina": 72
+        },
+        {
+          "nombre": "Microangiopatía trombótica",
+          "numero": "10.4",
+          "numero_de_pagina": 73
+        },
+        {
+          "nombre": "Crioglobulinemia",
+          "numero": "10.5",
+          "numero_de_pagina": 74
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Nefropatía tubulointersticial",
+      "numero": 11,
+      "apartados": [
+        {
+          "nombre": "Nefritis tubulointersticial aguda",
+          "numero": "11.1",
+          "numero_de_pagina": 76
+        },
+        {
+          "nombre": "Nefritis tubulointersticial crónica",
+          "numero": "11.2",
+          "numero_de_pagina": 77
+        },
+        {
+          "nombre": "Necrosis papilar",
+          "numero": "11.3",
+          "numero_de_pagina": 78
+        }
+      ],
+      "total_paginas": 4
+    },
+    {
+      "nombre": "Enfermedades quísticas renales",
+      "numero": 12,
+      "apartados": [
+        {
+          "nombre": "Poliquistosis renal autosómica dominante",
+          "numero": "12.1",
+          "numero_de_pagina": 80
+        },
+        {
+          "nombre": "Poliquistosis renal autosómica recesiva",
+          "numero": "12.2",
+          "numero_de_pagina": 82
+        },
+        {
+          "nombre": "Nefronoptisis",
+          "numero": "12.3",
+          "numero_de_pagina": 82
+        },
+        {
+          "nombre": "Enfermedad quística medular",
+          "numero": "12.4",
+          "numero_de_pagina": 83
+        },
+        {
+          "nombre": "Quistes renales simples",
+          "numero": "12.5",
+          "numero_de_pagina": 83
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Afectación renal en el mieloma múltiple",
+      "numero": 13,
+      "apartados": [
+        {
+          "nombre": "Nefropatía por cilindros",
+          "numero": "13.1",
+          "numero_de_pagina": 86
+        },
+        {
+          "nombre": "Otras nefropatías",
+          "numero": "13.2",
+          "numero_de_pagina": 86
+        }
+      ],
+      "total_paginas": 4
+    },
+    {
+      "nombre": "Hipertensión arterial y riñón",
+      "numero": 14,
+      "apartados": [
+        {
+          "nombre": "Nefroangioesclerosis",
+          "numero": "14.1",
+          "numero_de_pagina": 90
+        },
+        {
+          "nombre": "Hipertensión renovascular",
+          "numero": "14.2",
+          "numero_de_pagina": 90
+        },
+        {
+          "nombre": "Crisis renales",
+          "numero": "14.3",
+          "numero_de_pagina": 91
+        }
+      ],
+      "total_paginas": 6
+    }
+  ]
+}

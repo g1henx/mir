@@ -1,0 +1,442 @@
+{
+  "nombre": "Hematología",
+  "capitulos": [
+    {
+      "nombre": "Introducción al sistema hematopoyético. Generalidades de anemias",
+      "numero": 1,
+      "apartados": [
+        {
+          "nombre": "Hematopoyesis",
+          "numero": "1.1",
+          "numero_de_pagina": 2
+        },
+        {
+          "nombre": "Componentes de la sangre periférica",
+          "numero": "1.2",
+          "numero_de_pagina": 4
+        },
+        {
+          "nombre": "Generalidades de las anemias",
+          "numero": "1.3",
+          "numero_de_pagina": 5
+        }
+      ],
+      "total_paginas": 8
+    },
+    {
+      "nombre": "Síndrome hemolítico. Anemias hemolíticas adquiridas",
+      "numero": 2,
+      "apartados": [
+        {
+          "nombre": "Concepto",
+          "numero": "2.1",
+          "numero_de_pagina": 10
+        },
+        {
+          "nombre": "Clínica",
+          "numero": "2.2",
+          "numero_de_pagina": 10
+        },
+        {
+          "nombre": "Clasificación",
+          "numero": "2.3",
+          "numero_de_pagina": 11
+        },
+        {
+          "nombre": "Anemias hemolíticas adquiridas",
+          "numero": "2.4",
+          "numero_de_pagina": 12
+        }
+      ],
+      "total_paginas": 8
+    },
+    {
+      "nombre": "Anemias hemolíticas congénitas",
+      "numero": 3,
+      "apartados": [
+        {
+          "nombre": "Membranopatías",
+          "numero": "3.1",
+          "numero_de_pagina": 18
+        },
+        {
+          "nombre": "Enzimopatías",
+          "numero": "3.2",
+          "numero_de_pagina": 19
+        },
+        {
+          "nombre": "Hemoglobinopatías",
+          "numero": "3.3",
+          "numero_de_pagina": 20
+        }
+      ],
+      "total_paginas": 10
+    },
+    {
+      "nombre": "Anemias carenciales",
+      "numero": 4,
+      "apartados": [
+        {
+          "nombre": "Anemia ferropénica",
+          "numero": "4.1",
+          "numero_de_pagina": 28
+        },
+        {
+          "nombre": "Anemia de las enfermedades crónicas o por mala utilización del hierro",
+          "numero": "4.2",
+          "numero_de_pagina": 30
+        },
+        {
+          "nombre": "Anemia megaloblástica",
+          "numero": "4.3",
+          "numero_de_pagina": 32
+        }
+      ],
+      "total_paginas": 10
+    },
+    {
+      "nombre": "Síndromes de insuficiencia medular",
+      "numero": 5,
+      "apartados": [
+        {
+          "nombre": "Aplasia medular",
+          "numero": "5.1",
+          "numero_de_pagina": 38
+        },
+        {
+          "nombre": "Aplasia pura de células rojas",
+          "numero": "5.2",
+          "numero_de_pagina": 40
+        },
+        {
+          "nombre": "Mieloptisis",
+          "numero": "5.3",
+          "numero_de_pagina": 40
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Síndromes mieloproliferativos crónicos",
+      "numero": 6,
+      "apartados": [
+        {
+          "nombre": "Introducción",
+          "numero": "6.1",
+          "numero_de_pagina": 44
+        },
+        {
+          "nombre": "Policitemia vera",
+          "numero": "6.2",
+          "numero_de_pagina": 44
+        },
+        {
+          "nombre": "Trombocitemia esencial",
+          "numero": "6.3",
+          "numero_de_pagina": 47
+        },
+        {
+          "nombre": "Mielofibrosis primaria",
+          "numero": "6.4",
+          "numero_de_pagina": 48
+        },
+        {
+          "nombre": "Leucemia mieloide crónica",
+          "numero": "6.5",
+          "numero_de_pagina": 49
+        }
+      ],
+      "total_paginas": 10
+    },
+    {
+      "nombre": "Síndromes mielodisplásicos",
+      "numero": 7,
+      "apartados": [
+        {
+          "nombre": "Concepto",
+          "numero": "7.1",
+          "numero_de_pagina": 54
+        },
+        {
+          "nombre": "Clasificación",
+          "numero": "7.2",
+          "numero_de_pagina": 54
+        },
+        {
+          "nombre": "Clínica",
+          "numero": "7.3",
+          "numero_de_pagina": 55
+        },
+        {
+          "nombre": "Pronóstico",
+          "numero": "7.4",
+          "numero_de_pagina": 55
+        },
+        {
+          "nombre": "Tratamiento",
+          "numero": "7.5",
+          "numero_de_pagina": 56
+        }
+      ],
+      "total_paginas": 4
+    },
+    {
+      "nombre": "Leucemia aguda",
+      "numero": 8,
+      "apartados": [
+        {
+          "nombre": "Concepto y clasificación",
+          "numero": "8.1",
+          "numero_de_pagina": 58
+        },
+        {
+          "nombre": "Leucemia mieloblástica aguda",
+          "numero": "8.2",
+          "numero_de_pagina": 59
+        },
+        {
+          "nombre": "Leucemia linfoblástica aguda",
+          "numero": "8.3",
+          "numero_de_pagina": 62
+        }
+      ],
+      "total_paginas": 8
+    },
+    {
+      "nombre": "Síndromes linfoproliferativos crónicos con expresión leucémica",
+      "numero": 9,
+      "apartados": [
+        {
+          "nombre": "Leucemia linfática crónica",
+          "numero": "9.1",
+          "numero_de_pagina": 66
+        },
+        {
+          "nombre": "Tricoleucemia",
+          "numero": "9.2",
+          "numero_de_pagina": 68
+        },
+        {
+          "nombre": "Linfocitosis B monoclonal",
+          "numero": "9.3",
+          "numero_de_pagina": 69
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Linfoma de Hodgkin",
+      "numero": 10,
+      "apartados": [
+        {
+          "nombre": "Concepto",
+          "numero": "10.1",
+          "numero_de_pagina": 72
+        },
+        {
+          "nombre": "Clasificación histológica",
+          "numero": "10.2",
+          "numero_de_pagina": 72
+        },
+        {
+          "nombre": "Clínica",
+          "numero": "10.3",
+          "numero_de_pagina": 73
+        },
+        {
+          "nombre": "Estadificación",
+          "numero": "10.4",
+          "numero_de_pagina": 74
+        },
+        {
+          "nombre": "Pronóstico",
+          "numero": "10.5",
+          "numero_de_pagina": 75
+        },
+        {
+          "nombre": "Tratamiento",
+          "numero": "10.6",
+          "numero_de_pagina": 76
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Linfoma no Hodgkin",
+      "numero": 11,
+      "apartados": [
+        {
+          "nombre": "Concepto",
+          "numero": "11.1",
+          "numero_de_pagina": 78
+        },
+        {
+          "nombre": "Clínica",
+          "numero": "11.2",
+          "numero_de_pagina": 78
+        },
+        {
+          "nombre": "Clasificación",
+          "numero": "11.3",
+          "numero_de_pagina": 79
+        },
+        {
+          "nombre": "Diagnóstico y estadificación",
+          "numero": "11.4",
+          "numero_de_pagina": 80
+        },
+        {
+          "nombre": "Tratamiento",
+          "numero": "11.5",
+          "numero_de_pagina": 81
+        },
+        {
+          "nombre": "Linfomas B indolentes",
+          "numero": "11.6",
+          "numero_de_pagina": 82
+        },
+        {
+          "nombre": "Linfomas B agresivos",
+          "numero": "11.7",
+          "numero_de_pagina": 84
+        },
+        {
+          "nombre": "Linfomas T",
+          "numero": "11.8",
+          "numero_de_pagina": 85
+        }
+      ],
+      "total_paginas": 10
+    },
+    {
+      "nombre": "Mieloma múltiple y otras neoplasias de células plasmáticas",
+      "numero": 12,
+      "apartados": [
+        {
+          "nombre": "Concepto",
+          "numero": "12.1",
+          "numero_de_pagina": 88
+        },
+        {
+          "nombre": "Clínica",
+          "numero": "12.2",
+          "numero_de_pagina": 88
+        },
+        {
+          "nombre": "Diagnóstico",
+          "numero": "12.3",
+          "numero_de_pagina": 90
+        },
+        {
+          "nombre": "Pronóstico",
+          "numero": "12.4",
+          "numero_de_pagina": 91
+        },
+        {
+          "nombre": "Tratamiento",
+          "numero": "12.5",
+          "numero_de_pagina": 92
+        },
+        {
+          "nombre": "Otras neoplasias de células plasmáticas",
+          "numero": "12.6",
+          "numero_de_pagina": 93
+        }
+      ],
+      "total_paginas": 8
+    },
+    {
+      "nombre": "Hemostasia. Fisiología y exploración. Trombocitopenias",
+      "numero": 13,
+      "apartados": [
+        {
+          "nombre": "Fisiología de la hemostasia",
+          "numero": "13.1",
+          "numero_de_pagina": 96
+        },
+        {
+          "nombre": "Exploración de la hemostasia",
+          "numero": "13.2",
+          "numero_de_pagina": 97
+        },
+        {
+          "nombre": "Trombocitopenias",
+          "numero": "13.3",
+          "numero_de_pagina": 99
+        }
+      ],
+      "total_paginas": 8
+    },
+    {
+      "nombre": "Alteraciones de la coagulación",
+      "numero": 14,
+      "apartados": [
+        {
+          "nombre": "Hemofilia A y B",
+          "numero": "14.1",
+          "numero_de_pagina": 104
+        },
+        {
+          "nombre": "Enfermedad de Von Willebrand",
+          "numero": "14.2",
+          "numero_de_pagina": 106
+        },
+        {
+          "nombre": "Coagulación intravascular diseminada",
+          "numero": "14.3",
+          "numero_de_pagina": 108
+        }
+      ],
+      "total_paginas": 8
+    },
+    {
+      "nombre": "Anticoagulantes, antiagregantes y fibrinolíticos",
+      "numero": 15,
+      "apartados": [
+        {
+          "nombre": "Anticoagulantes",
+          "numero": "15.1",
+          "numero_de_pagina": 112
+        },
+        {
+          "nombre": "Antiagregantes plaquetarios",
+          "numero": "15.2",
+          "numero_de_pagina": 116
+        },
+        {
+          "nombre": "Fibrinolíticos",
+          "numero": "15.3",
+          "numero_de_pagina": 117
+        }
+      ],
+      "total_paginas": 8
+    },
+    {
+      "nombre": "Medicina transfusional",
+      "numero": 16,
+      "apartados": [
+        {
+          "nombre": "Grupos sanguíneos eritrocitarios",
+          "numero": "16.1",
+          "numero_de_pagina": 120
+        },
+        {
+          "nombre": "Pruebas pretransfusionales",
+          "numero": "16.2",
+          "numero_de_pagina": 121
+        },
+        {
+          "nombre": "Hemoderivados",
+          "numero": "16.3",
+          "numero_de_pagina": 122
+        },
+        {
+          "nombre": "Reacciones transfusionales",
+          "numero": "16.4",
+          "numero_de_pagina": 123
+        }
+      ],
+      "total_paginas": 8
+    }
+  ]
+}

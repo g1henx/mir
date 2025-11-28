@@ -1,0 +1,312 @@
+{
+  "nombre": "Psiquiatría",
+  "capitulos": [
+    {
+      "nombre": "Trastornos neuróticos",
+      "numero": 1,
+      "apartados": [
+        {
+          "nombre": "Trastornos de ansiedad",
+          "numero": "1.1",
+          "numero_de_pagina": 2
+        },
+        {
+          "nombre": "Trastorno obsesivo-compulsivo",
+          "numero": "1.2",
+          "numero_de_pagina": 5
+        },
+        {
+          "nombre": "Trastornos relacionados con sucesos traumáticos o estresantes",
+          "numero": "1.3",
+          "numero_de_pagina": 5
+        },
+        {
+          "nombre": "Trastornos somatomorfos",
+          "numero": "1.4",
+          "numero_de_pagina": 8
+        },
+        {
+          "nombre": "Trastornos disociativos",
+          "numero": "1.5",
+          "numero_de_pagina": 12
+        },
+        {
+          "nombre": "Trastornos facticios y simulación",
+          "numero": "1.6",
+          "numero_de_pagina": 12
+        },
+        {
+          "nombre": "Trastornos del control de los impulsos",
+          "numero": "1.7",
+          "numero_de_pagina": 12
+        },
+        {
+          "nombre": "Ansioliticos",
+          "numero": "1.8",
+          "numero_de_pagina": 13
+        }
+      ],
+      "total_paginas": 16
+    },
+    {
+      "nombre": "Trastornos del estado de ánimo",
+      "numero": 2,
+      "apartados": [
+        {
+          "nombre": "Clínica. Síndromes depresivos y maníacos",
+          "numero": "2.1",
+          "numero_de_pagina": 18
+        },
+        {
+          "nombre": "Epidemiología",
+          "numero": "2.2",
+          "numero_de_pagina": 24
+        },
+        {
+          "nombre": "Etiología",
+          "numero": "2.3",
+          "numero_de_pagina": 25
+        },
+        {
+          "nombre": "Tratamiento",
+          "numero": "2.4",
+          "numero_de_pagina": 28
+        },
+        {
+          "nombre": "Suicidio",
+          "numero": "2.5",
+          "numero_de_pagina": 37
+        }
+      ],
+      "total_paginas": 24
+    },
+    {
+      "nombre": "Trastornos psicóticos",
+      "numero": 3,
+      "apartados": [
+        {
+          "nombre": "Psicopatología",
+          "numero": "3.1",
+          "numero_de_pagina": 42
+        },
+        {
+          "nombre": "Esquizofrenia",
+          "numero": "3.2",
+          "numero_de_pagina": 43
+        },
+        {
+          "nombre": "Trastorno delirante crónico o paranoia",
+          "numero": "3.3",
+          "numero_de_pagina": 50
+        },
+        {
+          "nombre": "Trastorno esquizoafectivo",
+          "numero": "3.4",
+          "numero_de_pagina": 51
+        },
+        {
+          "nombre": "Otros trastornos psicóticos",
+          "numero": "3.5",
+          "numero_de_pagina": 51
+        }
+      ],
+      "total_paginas": 12
+    },
+    {
+      "nombre": "Trastornos relacionados con sustancias",
+      "numero": 4,
+      "apartados": [
+        {
+          "nombre": "Definiciones",
+          "numero": "4.1",
+          "numero_de_pagina": 54
+        },
+        {
+          "nombre": "Alcohol",
+          "numero": "4.2",
+          "numero_de_pagina": 55
+        },
+        {
+          "nombre": "Opiáceos",
+          "numero": "4.3",
+          "numero_de_pagina": 55
+        },
+        {
+          "nombre": "Cocaína",
+          "numero": "4.4",
+          "numero_de_pagina": 63
+        },
+        {
+          "nombre": "Cannabis",
+          "numero": "4.5",
+          "numero_de_pagina": 64
+        },
+        {
+          "nombre": "Otros tóxicos",
+          "numero": "4.6",
+          "numero_de_pagina": 65
+        }
+      ],
+      "total_paginas": 14
+    },
+    {
+      "nombre": "Trastornos neurocognitivos",
+      "numero": 5,
+      "apartados": [
+        {
+          "nombre": "Psicopatología",
+          "numero": "5.1",
+          "numero_de_pagina": 68
+        },
+        {
+          "nombre": "Delirium",
+          "numero": "5.2",
+          "numero_de_pagina": 69
+        },
+        {
+          "nombre": "Demencia",
+          "numero": "5.3",
+          "numero_de_pagina": 70
+        },
+        {
+          "nombre": "Trastornos amnésicos",
+          "numero": "5.4",
+          "numero_de_pagina": 71
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Trastornos de la conducta alimentaria",
+      "numero": 6,
+      "apartados": [
+        {
+          "nombre": "Anorexia nerviosa",
+          "numero": "6.1",
+          "numero_de_pagina": 74
+        },
+        {
+          "nombre": "Bulimia nerviosa",
+          "numero": "6.2",
+          "numero_de_pagina": 75
+        },
+        {
+          "nombre": "Otros trastornos alimentarios",
+          "numero": "6.3",
+          "numero_de_pagina": 76
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Trastornos de la personalidad",
+      "numero": 7,
+      "apartados": [
+        {
+          "nombre": "Concepto y clasificación",
+          "numero": "7.1",
+          "numero_de_pagina": 80
+        },
+        {
+          "nombre": "Clínica",
+          "numero": "7.2",
+          "numero_de_pagina": 81
+        },
+        {
+          "nombre": "Tratamiento",
+          "numero": "7.3",
+          "numero_de_pagina": 81
+        }
+      ],
+      "total_paginas": 4
+    },
+    {
+      "nombre": "Trastornos del sueño",
+      "numero": 8,
+      "apartados": [
+        {
+          "nombre": "Fisiología",
+          "numero": "8.1",
+          "numero_de_pagina": 84
+        },
+        {
+          "nombre": "Insomnio",
+          "numero": "8.2",
+          "numero_de_pagina": 84
+        },
+        {
+          "nombre": "Disomnias por movimientos durante el sueño",
+          "numero": "8.3",
+          "numero_de_pagina": 85
+        },
+        {
+          "nombre": "Hipersomnias",
+          "numero": "8.4",
+          "numero_de_pagina": 86
+        },
+        {
+          "nombre": "Parasomnias",
+          "numero": "8.5",
+          "numero_de_pagina": 86
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Trastornos de la infancia y la adolescencia",
+      "numero": 9,
+      "apartados": [
+        {
+          "nombre": "Trastornos del neurodesarrollo",
+          "numero": "9.1",
+          "numero_de_pagina": 90
+        },
+        {
+          "nombre": "Trastornos de la eliminación",
+          "numero": "9.2",
+          "numero_de_pagina": 92
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Trastornos sexuales",
+      "numero": 10,
+      "apartados": [
+        {
+          "nombre": "Disfunciones sexuales",
+          "numero": "10.1",
+          "numero_de_pagina": 96
+        },
+        {
+          "nombre": "Otros trastornos sexuales",
+          "numero": "10.2",
+          "numero_de_pagina": 96
+        }
+      ],
+      "total_paginas": 2
+    },
+    {
+      "nombre": "Psicología médica, epidemiología y neuroquímica",
+      "numero": 11,
+      "apartados": [
+        {
+          "nombre": "Psicología médica: psicoterapias",
+          "numero": "11.1",
+          "numero_de_pagina": 98
+        },
+        {
+          "nombre": "Epidemiología y salud pública en psiquiatría",
+          "numero": "11.2",
+          "numero_de_pagina": 98
+        },
+        {
+          "nombre": "Bases neuroquímicas de la psiquiatría",
+          "numero": "11.3",
+          "numero_de_pagina": 100
+        }
+      ],
+      "total_paginas": 7
+    }
+  ]
+}

@@ -1,0 +1,561 @@
+{
+  "nombre": "Digestivo y Cirugía General",
+  "capitulos": [
+    {
+      "nombre": "Esófago",
+      "numero": 1,
+      "apartados": [
+        {
+          "nombre": "Anatomía y fisiología",
+          "numero": "1.1",
+          "numero_de_pagina": 2
+        },
+        {
+          "nombre": "Trastornos motores del esófago",
+          "numero": "1.2",
+          "numero_de_pagina": 3
+        },
+        {
+          "nombre": "Enfermedad por reflujo gastroesofágico",
+          "numero": "1.3",
+          "numero_de_pagina": 9
+        },
+        {
+          "nombre": "Esofagitis infecciosa",
+          "numero": "1.4",
+          "numero_de_pagina": 14
+        },
+        {
+          "nombre": "Esofagitis caustica",
+          "numero": "1.5",
+          "numero_de_pagina": 14
+        },
+        {
+          "nombre": "Esofagitis eosinofílica",
+          "numero": "1.6",
+          "numero_de_pagina": 15
+        },
+        {
+          "nombre": "Otras esofagitis",
+          "numero": "1.7",
+          "numero_de_pagina": 16
+        },
+        {
+          "nombre": "Lesiones esofágicas por fármacos",
+          "numero": "1.8",
+          "numero_de_pagina": 16
+        },
+        {
+          "nombre": "Tumores esofágicos",
+          "numero": "1.9",
+          "numero_de_pagina": 16
+        },
+        {
+          "nombre": "Otras enfermedades esofágicas",
+          "numero": "1.10",
+          "numero_de_pagina": 22
+        },
+        {
+          "nombre": "Hernia de hiato",
+          "numero": "1.11",
+          "numero_de_pagina": 23
+        }
+      ],
+      "total_paginas": 24
+    },
+    {
+      "nombre": "Estómago",
+      "numero": 2,
+      "apartados": [
+        {
+          "nombre": "Anatomía y fisiología",
+          "numero": "2.1",
+          "numero_de_pagina": 26
+        },
+        {
+          "nombre": "Gastritis aguda. Lesión aguda de la mucosa gástrica",
+          "numero": "2.2",
+          "numero_de_pagina": 27
+        },
+        {
+          "nombre": "Gastritis crónica",
+          "numero": "2.3",
+          "numero_de_pagina": 27
+        },
+        {
+          "nombre": "Gastropatía reactiva",
+          "numero": "2.4",
+          "numero_de_pagina": 30
+        },
+        {
+          "nombre": "Enfermedad ulcerosa péptica",
+          "numero": "2.5",
+          "numero_de_pagina": 30
+        },
+        {
+          "nombre": "Síndrome de Zollinger-Ellison. Gastrinoma",
+          "numero": "2.6",
+          "numero_de_pagina": 35
+        },
+        {
+          "nombre": "Tumores de estómago",
+          "numero": "2.7",
+          "numero_de_pagina": 36
+        }
+      ],
+      "total_paginas": 18
+    },
+    {
+      "nombre": "Intestino delgado",
+      "numero": 3,
+      "apartados": [
+        {
+          "nombre": "Anatomía y fisiología",
+          "numero": "3.1",
+          "numero_de_pagina": 44
+        },
+        {
+          "nombre": "Diarrea",
+          "numero": "3.2",
+          "numero_de_pagina": 46
+        },
+        {
+          "nombre": "Malabsorción intestinal",
+          "numero": "3.3",
+          "numero_de_pagina": 48
+        },
+        {
+          "nombre": "Tumores del intestino delgado",
+          "numero": "3.4",
+          "numero_de_pagina": 55
+        },
+        {
+          "nombre": "Obstrucción intestinal",
+          "numero": "3.5",
+          "numero_de_pagina": 58
+        }
+      ],
+      "total_paginas": 18
+    },
+    {
+      "nombre": "Colon y recto",
+      "numero": 4,
+      "apartados": [
+        {
+          "nombre": "Anatomía y fisiología",
+          "numero": "4.1",
+          "numero_de_pagina": 62
+        },
+        {
+          "nombre": "Enfermedad inflamatoria intestinal",
+          "numero": "4.2",
+          "numero_de_pagina": 63
+        },
+        {
+          "nombre": "Apendicitis aguda",
+          "numero": "4.3",
+          "numero_de_pagina": 73
+        },
+        {
+          "nombre": "Diverticulosis y diverticulitis",
+          "numero": "4.4",
+          "numero_de_pagina": 75
+        },
+        {
+          "nombre": "Enfermedad vascular intestinal",
+          "numero": "4.5",
+          "numero_de_pagina": 77
+        },
+        {
+          "nombre": "Pólipos y poliposis intestinales",
+          "numero": "4.6",
+          "numero_de_pagina": 80
+        },
+        {
+          "nombre": "Cáncer colorrectal",
+          "numero": "4.7",
+          "numero_de_pagina": 84
+        },
+        {
+          "nombre": "Patología anal",
+          "numero": "4.8",
+          "numero_de_pagina": 89
+        }
+      ],
+      "total_paginas": 30
+    },
+    {
+      "nombre": "Hernias abdominales",
+      "numero": 5,
+      "apartados": [
+        {
+          "nombre": "Clasificación",
+          "numero": "5.1",
+          "numero_de_pagina": 92
+        },
+        {
+          "nombre": "Hernia inguinal",
+          "numero": "5.2",
+          "numero_de_pagina": 92
+        },
+        {
+          "nombre": "Otras hernias de la pared abdominal",
+          "numero": "5.3",
+          "numero_de_pagina": 93
+        }
+      ],
+      "total_paginas": 4
+    },
+    {
+      "nombre": "Hígado",
+      "numero": 6,
+      "apartados": [
+        {
+          "nombre": "Anatomía y fisiología",
+          "numero": "6.1",
+          "numero_de_pagina": 96
+        },
+        {
+          "nombre": "Síndrome ictérico",
+          "numero": "6.2",
+          "numero_de_pagina": 100
+        },
+        {
+          "nombre": "Hepatitis virales",
+          "numero": "6.3",
+          "numero_de_pagina": 101
+        },
+        {
+          "nombre": "Hepatopatía alcohólica",
+          "numero": "6.4",
+          "numero_de_pagina": 114
+        },
+        {
+          "nombre": "Esteatohepatitis no alcohólica",
+          "numero": "6.5",
+          "numero_de_pagina": 117
+        },
+        {
+          "nombre": "Hepatopatías autoinmunes",
+          "numero": "6.6",
+          "numero_de_pagina": 118
+        },
+        {
+          "nombre": "Hepatopatía de origen vascular",
+          "numero": "6.7",
+          "numero_de_pagina": 121
+        },
+        {
+          "nombre": "Cirrosis hepática",
+          "numero": "6.8",
+          "numero_de_pagina": 123
+        },
+        {
+          "nombre": "Complicaciones de la cirrosis",
+          "numero": "6.9",
+          "numero_de_pagina": 125
+        },
+        {
+          "nombre": "Trasplante hepático",
+          "numero": "6.10",
+          "numero_de_pagina": 137
+        },
+        {
+          "nombre": "Tumores hepáticos",
+          "numero": "6.11",
+          "numero_de_pagina": 141
+        }
+      ],
+      "total_paginas": 53
+    },
+    {
+      "nombre": "Enfermedades de la vesícula biliar y conductos biliares",
+      "numero": 7,
+      "apartados": [
+        {
+          "nombre": "Introducción",
+          "numero": "7.1",
+          "numero_de_pagina": 149
+        },
+        {
+          "nombre": "Litiasis biliar o colelitiasis",
+          "numero": "7.2",
+          "numero_de_pagina": 149
+        },
+        {
+          "nombre": "Complicaciones y sus complicaciones",
+          "numero": "7.3",
+          "numero_de_pagina": 150
+        },
+        {
+          "nombre": "Cirugía de la colelitiasis",
+          "numero": "7.4",
+          "numero_de_pagina": 153
+        },
+        {
+          "nombre": "Tumores de la vía biliar",
+          "numero": "7.5",
+          "numero_de_pagina": 155
+        },
+        {
+          "nombre": "Pólipos vesiculares",
+          "numero": "7.6",
+          "numero_de_pagina": 157
+        }
+      ],
+      "total_paginas": 10
+    },
+    {
+      "nombre": "Páncreas",
+      "numero": 8,
+      "apartados": [
+        {
+          "nombre": "Anatomía y fisiología",
+          "numero": "8.1",
+          "numero_de_pagina": 159
+        },
+        {
+          "nombre": "Pancreatitis aguda",
+          "numero": "8.2",
+          "numero_de_pagina": 160
+        },
+        {
+          "nombre": "Pancreatitis crónica",
+          "numero": "8.3",
+          "numero_de_pagina": 167
+        },
+        {
+          "nombre": "Tumores del páncreas exocrino",
+          "numero": "8.4",
+          "numero_de_pagina": 170
+        },
+        {
+          "nombre": "Neoplasias quísticas",
+          "numero": "8.5",
+          "numero_de_pagina": 174
+        }
+      ],
+      "total_paginas": 19
+    },
+    {
+      "nombre": "Cirugía endocrina",
+      "numero": 9,
+      "apartados": [
+        {
+          "nombre": "Cirugía de la glándula tiroides",
+          "numero": "9.1",
+          "numero_de_pagina": 178
+        },
+        {
+          "nombre": "Cirugía de las glándulas paratiroides",
+          "numero": "9.2",
+          "numero_de_pagina": 180
+        },
+        {
+          "nombre": "Cirugía de las glándulas suprarrenales",
+          "numero": "9.3",
+          "numero_de_pagina": 181
+        },
+        {
+          "nombre": "Cirugía de los tumores neuroendocrinos",
+          "numero": "9.4",
+          "numero_de_pagina": 182
+        }
+      ],
+      "total_paginas": 7
+    },
+    {
+      "nombre": "Bazo y ganglios linfáticos",
+      "numero": 10,
+      "apartados": [
+        {
+          "nombre": "Bazo. Indicaciones de esplenectomía y técnica quirúrgica",
+          "numero": "10.1",
+          "numero_de_pagina": 185
+        },
+        {
+          "nombre": "Esplenomegalia",
+          "numero": "10.2",
+          "numero_de_pagina": 186
+        },
+        {
+          "nombre": "Adenopatías",
+          "numero": "10.3",
+          "numero_de_pagina": 187
+        }
+      ],
+      "total_paginas": 4
+    },
+    {
+      "nombre": "Metástasis hepáticas y carcinomatosis peritoneal",
+      "numero": 11,
+      "apartados": [
+        {
+          "nombre": "Metástasis hepáticas",
+          "numero": "11.1",
+          "numero_de_pagina": 189
+        },
+        {
+          "nombre": "Carcinomatosis peritoneal",
+          "numero": "11.2",
+          "numero_de_pagina": 190
+        }
+      ],
+      "total_paginas": 4
+    },
+    {
+      "nombre": "Pared abdominal y cirugía mayor ambulatoria",
+      "numero": 12,
+      "apartados": [
+        {
+          "nombre": "Aguja abdominal",
+          "numero": "12.1",
+          "numero_de_pagina": 193
+        },
+        {
+          "nombre": "Cirugía mayor ambulatoria",
+          "numero": "12.2",
+          "numero_de_pagina": 193
+        }
+      ],
+      "total_paginas": 2
+    },
+    {
+      "nombre": "Abdomen agudo",
+      "numero": 13,
+      "apartados": [
+        {
+          "nombre": "Introducción",
+          "numero": "13.1",
+          "numero_de_pagina": 195
+        },
+        {
+          "nombre": "Dolor y defensa abdominal",
+          "numero": "13.2",
+          "numero_de_pagina": 196
+        },
+        {
+          "nombre": "Manejo de pacientes con abdomen agudo",
+          "numero": "13.3",
+          "numero_de_pagina": 197
+        }
+      ],
+      "total_paginas": 4
+    },
+    {
+      "nombre": "Politraumatismos, traumatismos abdominales y torácicos",
+      "numero": 14,
+      "apartados": [
+        {
+          "nombre": "Paciente politraumatizado",
+          "numero": "14.1",
+          "numero_de_pagina": 199
+        },
+        {
+          "nombre": "Traumatismo abdominal",
+          "numero": "14.2",
+          "numero_de_pagina": 200
+        },
+        {
+          "nombre": "Traumatismo torácico",
+          "numero": "14.3",
+          "numero_de_pagina": 201
+        }
+      ],
+      "total_paginas": 4
+    },
+    {
+      "nombre": "Infecciones intraabdominales",
+      "numero": 15,
+      "apartados": [
+        {
+          "nombre": "Peritonitis",
+          "numero": "15.1",
+          "numero_de_pagina": 203
+        },
+        {
+          "nombre": "Absceso intraabdominales",
+          "numero": "15.2",
+          "numero_de_pagina": 204
+        },
+        {
+          "nombre": "Oncoclo y fisiopatología",
+          "numero": "15.3",
+          "numero_de_pagina": 205
+        },
+        {
+          "nombre": "Infección del lecho quirúrgico",
+          "numero": "15.4",
+          "numero_de_pagina": 206
+        }
+      ],
+      "total_paginas": 5
+    },
+    {
+      "nombre": "Cirugía mínimamente invasiva",
+      "numero": 16,
+      "apartados": [
+        {
+          "nombre": "Laparoscopia",
+          "numero": "16.1",
+          "numero_de_pagina": 208
+        },
+        {
+          "nombre": "Endoscopia flexible alta y baja",
+          "numero": "16.2",
+          "numero_de_pagina": 209
+        }
+      ],
+      "total_paginas": 3
+    },
+    {
+      "nombre": "Complicaciones posoperatorias y cicatrización",
+      "numero": 17,
+      "apartados": [
+        {
+          "nombre": "Complicaciones posoperatorias",
+          "numero": "17.1",
+          "numero_de_pagina": 211
+        },
+        {
+          "nombre": "Cicatrización",
+          "numero": "17.2",
+          "numero_de_pagina": 214
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Cirugía plástica",
+      "numero": 18,
+      "apartados": [
+        {
+          "nombre": "Injertos y colgajos",
+          "numero": "18.1",
+          "numero_de_pagina": 217
+        },
+        {
+          "nombre": "Heridas",
+          "numero": "18.2",
+          "numero_de_pagina": 218
+        },
+        {
+          "nombre": "Quemaduras",
+          "numero": "18.3",
+          "numero_de_pagina": 218
+        },
+        {
+          "nombre": "Injertos y reconstrucción de mama",
+          "numero": "18.4",
+          "numero_de_pagina": 220
+        },
+        {
+          "nombre": "Microcirugía y cirugía del nervio periférico",
+          "numero": "18.5",
+          "numero_de_pagina": 221
+        }
+      ],
+      "total_paginas": 9
+    }
+  ]
+}

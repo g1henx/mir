@@ -1,0 +1,220 @@
+{
+  "nombre": "Otorrinolaringología",
+  "capitulos": [
+    {
+      "nombre": "Recuerdo anatómico y fisiológico en otorrinolaringología",
+      "numero": 1,
+      "apartados": [
+        {
+          "nombre": "Embriología del oído",
+          "numero": "1.1",
+          "numero_de_pagina": 2
+        },
+        {
+          "nombre": "Anatomía del oído",
+          "numero": "1.2",
+          "numero_de_pagina": 2
+        },
+        {
+          "nombre": "Fisiología auditiva y vestibular",
+          "numero": "1.3",
+          "numero_de_pagina": 5
+        },
+        {
+          "nombre": "Exploración en ORL",
+          "numero": "1.4",
+          "numero_de_pagina": 8
+        },
+        {
+          "nombre": "Laringe: anatomía y fisiología",
+          "numero": "1.5",
+          "numero_de_pagina": 10
+        }
+      ],
+      "total_paginas": 13
+    },
+    {
+      "nombre": "Otología",
+      "numero": 2,
+      "apartados": [
+        {
+          "nombre": "Métodos de exploración del oído externo",
+          "numero": "2.1",
+          "numero_de_pagina": 15
+        },
+        {
+          "nombre": "Patología del oído externo",
+          "numero": "2.2",
+          "numero_de_pagina": 16
+        },
+        {
+          "nombre": "Patología del oído medio",
+          "numero": "2.3",
+          "numero_de_pagina": 20
+        },
+        {
+          "nombre": "Patología del oído interno",
+          "numero": "2.4",
+          "numero_de_pagina": 24
+        },
+        {
+          "nombre": "Lesiones crónicas y mastoideas",
+          "numero": "2.5",
+          "numero_de_pagina": 30
+        },
+        {
+          "nombre": "Fracturas del peñasco",
+          "numero": "2.6",
+          "numero_de_pagina": 41
+        }
+      ],
+      "total_paginas": 30
+    },
+    {
+      "nombre": "Rinología",
+      "numero": 3,
+      "apartados": [
+        {
+          "nombre": "Patología congénita",
+          "numero": "3.1",
+          "numero_de_pagina": 45
+        },
+        {
+          "nombre": "Traumatismos nasales y maxilares externos",
+          "numero": "3.2",
+          "numero_de_pagina": 46
+        },
+        {
+          "nombre": "Urgencias rinológicas",
+          "numero": "3.3",
+          "numero_de_pagina": 47
+        },
+        {
+          "nombre": "Patología inflamatoria",
+          "numero": "3.4",
+          "numero_de_pagina": 48
+        },
+        {
+          "nombre": "Alteración tumoral",
+          "numero": "3.5",
+          "numero_de_pagina": 52
+        }
+      ],
+      "total_paginas": 1
+    },
+    {
+      "nombre": "Patología de la faringe",
+      "numero": 4,
+      "apartados": [],
+      "total_paginas": 0
+    },
+    {
+      "nombre": "Patología de la laringe",
+      "numero": 5,
+      "apartados": [
+        {
+          "nombre": "Hipertrofia de tejido linfoadenoidal laríngeo",
+          "numero": "5.1",
+          "numero_de_pagina": 66
+        },
+        {
+          "nombre": "Patología infecciosa",
+          "numero": "5.2",
+          "numero_de_pagina": 67
+        },
+        {
+          "nombre": "Patología infecciosa laríngea",
+          "numero": "5.3",
+          "numero_de_pagina": 70
+        }
+      ],
+      "total_paginas": 21
+    },
+    {
+      "nombre": "Patología de las glándulas salivales",
+      "numero": 6,
+      "apartados": [
+        {
+          "nombre": "Sialoadenitis",
+          "numero": "6.1",
+          "numero_de_pagina": 87
+        },
+        {
+          "nombre": "Afectación infecciosa de las glándulas salivales",
+          "numero": "6.2",
+          "numero_de_pagina": 88
+        },
+        {
+          "nombre": "Alteración en enfermedades sistémicas",
+          "numero": "6.3",
+          "numero_de_pagina": 89
+        },
+        {
+          "nombre": "Patología tumoral",
+          "numero": "6.4",
+          "numero_de_pagina": 90
+        },
+        {
+          "nombre": "Síndrome de Frey",
+          "numero": "6.5",
+          "numero_de_pagina": 90
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Cirugía maxilofacial",
+      "numero": 7,
+      "apartados": [
+        {
+          "nombre": "Recuerdo anatómico de la cabeza y sistemas",
+          "numero": "7.1",
+          "numero_de_pagina": 93
+        },
+        {
+          "nombre": "Quistes y tumores de los maxilares",
+          "numero": "7.2",
+          "numero_de_pagina": 93
+        },
+        {
+          "nombre": "Patología y cirugía ortognática maxilofacial",
+          "numero": "7.3",
+          "numero_de_pagina": 93
+        },
+        {
+          "nombre": "Patología de la articulación temporomandibular",
+          "numero": "7.4",
+          "numero_de_pagina": 94
+        },
+        {
+          "nombre": "Traumatología facial",
+          "numero": "7.5",
+          "numero_de_pagina": 95
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Patología cervical",
+      "numero": 8,
+      "apartados": [
+        {
+          "nombre": "Patología cervical",
+          "numero": "8.1",
+          "numero_de_pagina": 99
+        },
+        {
+          "nombre": "Masas cervicales",
+          "numero": "8.2",
+          "numero_de_pagina": 99
+        },
+        {
+          "nombre": "Patología tiroidea",
+          "numero": "8.3",
+          "numero_de_pagina": 99
+        }
+      ],
+      "total_paginas": 5
+    }
+  ]
+}

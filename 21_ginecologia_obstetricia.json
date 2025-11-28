@@ -1,0 +1,822 @@
+{
+  "nombre": "Ginecología y Obstetricia",
+  "capitulos": [
+    {
+      "nombre": "Patología mamaria",
+      "numero": 1,
+      "apartados": [
+        {
+          "nombre": "Cáncer de mama",
+          "numero": "1.1",
+          "numero_de_pagina": 2
+        },
+        {
+          "nombre": "Cáncer de mama y embarazo",
+          "numero": "1.2",
+          "numero_de_pagina": 13
+        },
+        {
+          "nombre": "Cáncer de mama en el varón",
+          "numero": "1.3",
+          "numero_de_pagina": 13
+        },
+        {
+          "nombre": "Cáncer de mama y ovario hereditario",
+          "numero": "1.4",
+          "numero_de_pagina": 15
+        },
+        {
+          "nombre": "Carcinoma inflamatorio",
+          "numero": "1.5",
+          "numero_de_pagina": 15
+        },
+        {
+          "nombre": "Lesiones premalignas de mama",
+          "numero": "1.6",
+          "numero_de_pagina": 16
+        },
+        {
+          "nombre": "Enfermedad de Paget",
+          "numero": "1.7",
+          "numero_de_pagina": 17
+        },
+        {
+          "nombre": "Lesiones benignas no proliferativas",
+          "numero": "1.8",
+          "numero_de_pagina": 17
+        },
+        {
+          "nombre": "Lesiones benignas proliferativas sin atipia",
+          "numero": "1.9",
+          "numero_de_pagina": 18
+        },
+        {
+          "nombre": "Tumor phyllodes",
+          "numero": "1.10",
+          "numero_de_pagina": 18
+        }
+      ],
+      "total_paginas": 20
+    },
+    {
+      "nombre": "Amenorreas",
+      "numero": 2,
+      "apartados": [
+        {
+          "nombre": "Definiciones",
+          "numero": "2.1",
+          "numero_de_pagina": 22
+        },
+        {
+          "nombre": "Amenorrea primaria",
+          "numero": "2.2",
+          "numero_de_pagina": 22
+        },
+        {
+          "nombre": "Amenorrea secundaria",
+          "numero": "2.3",
+          "numero_de_pagina": 23
+        },
+        {
+          "nombre": "Evaluación de la amenorrea/sangrado infrecuente",
+          "numero": "2.4",
+          "numero_de_pagina": 24
+        },
+        {
+          "nombre": "Menopausia",
+          "numero": "2.5",
+          "numero_de_pagina": 25
+        }
+      ],
+      "total_paginas": 7
+    },
+    {
+      "nombre": "Síndrome del ovario poliquístico",
+      "numero": 3,
+      "apartados": [
+        {
+          "nombre": "Epidemiología",
+          "numero": "3.1",
+          "numero_de_pagina": 29
+        },
+        {
+          "nombre": "Definición",
+          "numero": "3.2",
+          "numero_de_pagina": 30
+        },
+        {
+          "nombre": "Bases del diagnóstico",
+          "numero": "3.3",
+          "numero_de_pagina": 30
+        },
+        {
+          "nombre": "Complicaciones a largo plazo",
+          "numero": "3.4",
+          "numero_de_pagina": 31
+        },
+        {
+          "nombre": "Tratamiento",
+          "numero": "3.5",
+          "numero_de_pagina": 31
+        }
+      ],
+      "total_paginas": 5
+    },
+    {
+      "nombre": "Anticonceptivos",
+      "numero": 4,
+      "apartados": [
+        {
+          "nombre": "Anticoncepción hormonal combinada: oral, transdérmica y vaginal",
+          "numero": "4.1",
+          "numero_de_pagina": 34
+        },
+        {
+          "nombre": "Anticoncepción hormonal de solo gestágenos",
+          "numero": "4.2",
+          "numero_de_pagina": 38
+        },
+        {
+          "nombre": "Anticoncepción no hormonal",
+          "numero": "4.3",
+          "numero_de_pagina": 40
+        },
+        {
+          "nombre": "Anticoncepción definitiva femenina",
+          "numero": "4.4",
+          "numero_de_pagina": 40
+        },
+        {
+          "nombre": "Anticoncepción de urgencia",
+          "numero": "4.5",
+          "numero_de_pagina": 41
+        }
+      ],
+      "total_paginas": 10
+    },
+    {
+      "nombre": "Estudio de la pareja con disfunción reproductiva",
+      "numero": 5,
+      "apartados": [
+        {
+          "nombre": "Definiciones y epidemiología",
+          "numero": "5.1",
+          "numero_de_pagina": 44
+        },
+        {
+          "nombre": "Estudio de esterilidad",
+          "numero": "5.2",
+          "numero_de_pagina": 44
+        },
+        {
+          "nombre": "Técnicas de reproducción asistida",
+          "numero": "5.3",
+          "numero_de_pagina": 46
+        },
+        {
+          "nombre": "Síndrome de hiperestimulación ovárica",
+          "numero": "5.4",
+          "numero_de_pagina": 47
+        },
+        {
+          "nombre": "Pérdidas gestacionales recurrentes",
+          "numero": "5.5",
+          "numero_de_pagina": 48
+        }
+      ],
+      "total_paginas": 8
+    },
+    {
+      "nombre": "Patología uterina benigna",
+      "numero": 6,
+      "apartados": [
+        {
+          "nombre": "Sangrado menstrual abundante",
+          "numero": "6.1",
+          "numero_de_pagina": 52
+        },
+        {
+          "nombre": "Sangrado menstrual abundante en la adolescencia",
+          "numero": "6.2",
+          "numero_de_pagina": 52
+        },
+        {
+          "nombre": "Pólipos endometriales",
+          "numero": "6.3",
+          "numero_de_pagina": 55
+        },
+        {
+          "nombre": "Hiperplasia endometrial",
+          "numero": "6.4",
+          "numero_de_pagina": 56
+        },
+        {
+          "nombre": "Miomas uterinos",
+          "numero": "6.5",
+          "numero_de_pagina": 56
+        }
+      ],
+      "total_paginas": 10
+    },
+    {
+      "nombre": "Patología uterina maligna",
+      "numero": 7,
+      "apartados": [
+        {
+          "nombre": "Epidemiología",
+          "numero": "7.1",
+          "numero_de_pagina": 62
+        },
+        {
+          "nombre": "Tipos histológicos",
+          "numero": "7.2",
+          "numero_de_pagina": 62
+        },
+        {
+          "nombre": "Cribado del cáncer de endometrio",
+          "numero": "7.3",
+          "numero_de_pagina": 63
+        },
+        {
+          "nombre": "Diagnóstico",
+          "numero": "7.4",
+          "numero_de_pagina": 63
+        },
+        {
+          "nombre": "Estadificación (estudio de extensión-preoperatorio)",
+          "numero": "7.5",
+          "numero_de_pagina": 64
+        },
+        {
+          "nombre": "Tratamiento del cáncer de endometrio",
+          "numero": "7.6",
+          "numero_de_pagina": 65
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Patología ovárica benigna",
+      "numero": 8,
+      "apartados": [
+        {
+          "nombre": "Dismenorrea en la adolescencia",
+          "numero": "8.1",
+          "numero_de_pagina": 68
+        },
+        {
+          "nombre": "Endometriosis",
+          "numero": "8.2",
+          "numero_de_pagina": 68
+        },
+        {
+          "nombre": "Masas anexiales",
+          "numero": "8.3",
+          "numero_de_pagina": 71
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Cáncer de ovario",
+      "numero": 9,
+      "apartados": [
+        {
+          "nombre": "Tipos histológicos",
+          "numero": "9.1",
+          "numero_de_pagina": 74
+        },
+        {
+          "nombre": "Actitud ante una tumoración ovárica sospechosa de malignidad",
+          "numero": "9.2",
+          "numero_de_pagina": 75
+        },
+        {
+          "nombre": "Tratamiento",
+          "numero": "9.3",
+          "numero_de_pagina": 77
+        },
+        {
+          "nombre": "Cáncer hereditario de ovario",
+          "numero": "9.4",
+          "numero_de_pagina": 78
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Prevención del cáncer del cuello de útero",
+      "numero": 10,
+      "apartados": [
+        {
+          "nombre": "Epidemiología",
+          "numero": "10.1",
+          "numero_de_pagina": 80
+        },
+        {
+          "nombre": "Terminología",
+          "numero": "10.2",
+          "numero_de_pagina": 80
+        },
+        {
+          "nombre": "Vacunación",
+          "numero": "10.3",
+          "numero_de_pagina": 80
+        },
+        {
+          "nombre": "Prevención del cáncer de cuello de útero",
+          "numero": "10.4",
+          "numero_de_pagina": 81
+        },
+        {
+          "nombre": "Conducta clínica ante resultados anormales en un cribado primario",
+          "numero": "10.5",
+          "numero_de_pagina": 81
+        },
+        {
+          "nombre": "Conducta ante resultados histológicos anormales",
+          "numero": "10.6",
+          "numero_de_pagina": 82
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Cáncer de cérvix",
+      "numero": 11,
+      "apartados": [
+        {
+          "nombre": "Epidemiología",
+          "numero": "11.1",
+          "numero_de_pagina": 86
+        },
+        {
+          "nombre": "Etiología",
+          "numero": "11.2",
+          "numero_de_pagina": 86
+        },
+        {
+          "nombre": "Prevención",
+          "numero": "11.3",
+          "numero_de_pagina": 86
+        },
+        {
+          "nombre": "Factores de riesgo y factores protectores",
+          "numero": "11.4",
+          "numero_de_pagina": 86
+        },
+        {
+          "nombre": "Tipología",
+          "numero": "11.5",
+          "numero_de_pagina": 86
+        },
+        {
+          "nombre": "Tipos histológicos",
+          "numero": "11.6",
+          "numero_de_pagina": 87
+        },
+        {
+          "nombre": "Diagnóstico",
+          "numero": "11.7",
+          "numero_de_pagina": 87
+        },
+        {
+          "nombre": "Estadificación",
+          "numero": "11.8",
+          "numero_de_pagina": 87
+        },
+        {
+          "nombre": "Tratamiento",
+          "numero": "11.9",
+          "numero_de_pagina": 88
+        },
+        {
+          "nombre": "Seguimiento",
+          "numero": "11.10",
+          "numero_de_pagina": 89
+        },
+        {
+          "nombre": "Cáncer de cérvix y gestación",
+          "numero": "11.11",
+          "numero_de_pagina": 89
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Infecciones vulvovaginales. Enfermedad inflamatoria pélvica",
+      "numero": 12,
+      "apartados": [
+        {
+          "nombre": "Introducción",
+          "numero": "12.1",
+          "numero_de_pagina": 92
+        },
+        {
+          "nombre": "Vulvovaginitis candidiásica",
+          "numero": "12.2",
+          "numero_de_pagina": 92
+        },
+        {
+          "nombre": "Vaginosis bacteriana",
+          "numero": "12.3",
+          "numero_de_pagina": 93
+        },
+        {
+          "nombre": "Vulvovaginitis por Trichomonas vaginalis",
+          "numero": "12.4",
+          "numero_de_pagina": 95
+        },
+        {
+          "nombre": "Enfermedad inflamatoria pélvica",
+          "numero": "12.5",
+          "numero_de_pagina": 96
+        }
+      ],
+      "total_paginas": 8
+    },
+    {
+      "nombre": "Patología vulvar",
+      "numero": 13,
+      "apartados": [
+        {
+          "nombre": "Infecciones víricas vulvares",
+          "numero": "13.1",
+          "numero_de_pagina": 100
+        },
+        {
+          "nombre": "Trastornos no neoplásicos de la vulva",
+          "numero": "13.2",
+          "numero_de_pagina": 100
+        },
+        {
+          "nombre": "Neoplasia vulvar intraepitelial",
+          "numero": "13.3",
+          "numero_de_pagina": 101
+        },
+        {
+          "nombre": "Enfermedad de Paget",
+          "numero": "13.4",
+          "numero_de_pagina": 102
+        },
+        {
+          "nombre": "Cáncer de vulva",
+          "numero": "13.5",
+          "numero_de_pagina": 102
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Control del embarazo normal",
+      "numero": 14,
+      "apartados": [
+        {
+          "nombre": "Introducción",
+          "numero": "14.1",
+          "numero_de_pagina": 106
+        },
+        {
+          "nombre": "Cribado de diabetes gestacional",
+          "numero": "14.2",
+          "numero_de_pagina": 106
+        },
+        {
+          "nombre": "Vacunación durante el embarazo",
+          "numero": "14.3",
+          "numero_de_pagina": 107
+        },
+        {
+          "nombre": "Isoinmunización eritrocitaria",
+          "numero": "14.4",
+          "numero_de_pagina": 107
+        },
+        {
+          "nombre": "Indicaciones del cribado vagino rectal de estreptococo grupo B",
+          "numero": "14.5",
+          "numero_de_pagina": 108
+        },
+        {
+          "nombre": "Fármacos y gestación",
+          "numero": "14.6",
+          "numero_de_pagina": 109
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Diagnóstico prenatal",
+      "numero": 15,
+      "apartados": [
+        {
+          "nombre": "Ecografía obstétrica",
+          "numero": "15.1",
+          "numero_de_pagina": 112
+        },
+        {
+          "nombre": "Cribado combinado y diagnóstico precoz de anomalías genéticas en el primer trimestre",
+          "numero": "15.2",
+          "numero_de_pagina": 113
+        },
+        {
+          "nombre": "Técnicas invasivas de diagnóstico prenatal: biopsia corial y amniocentesis",
+          "numero": "15.3",
+          "numero_de_pagina": 114
+        },
+        {
+          "nombre": "Crecimiento intrauterino restringido",
+          "numero": "15.4",
+          "numero_de_pagina": 115
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Hemorragias del primer trimestre",
+      "numero": 16,
+      "apartados": [
+        {
+          "nombre": "Aborto espontáneo",
+          "numero": "16.1",
+          "numero_de_pagina": 118
+        },
+        {
+          "nombre": "Embarazo ectópico",
+          "numero": "16.2",
+          "numero_de_pagina": 120
+        },
+        {
+          "nombre": "Enfermedad trofoblástica gestacional",
+          "numero": "16.3",
+          "numero_de_pagina": 123
+        }
+      ],
+      "total_paginas": 10
+    },
+    {
+      "nombre": "Hemorragias del tercer trimestre",
+      "numero": 17,
+      "apartados": [
+        {
+          "nombre": "Placenta previa",
+          "numero": "17.1",
+          "numero_de_pagina": 128
+        },
+        {
+          "nombre": "Desprendimiento prematuro de la placenta normoinserta",
+          "numero": "17.2",
+          "numero_de_pagina": 130
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Trastornos hipertensivos durante la gestación",
+      "numero": 18,
+      "apartados": [
+        {
+          "nombre": "Definiciones",
+          "numero": "18.1",
+          "numero_de_pagina": 134
+        },
+        {
+          "nombre": "Clasificación",
+          "numero": "18.2",
+          "numero_de_pagina": 134
+        },
+        {
+          "nombre": "Preeclampsia",
+          "numero": "18.3",
+          "numero_de_pagina": 135
+        },
+        {
+          "nombre": "Tratamiento de los estados hipertensivos del embarazo",
+          "numero": "18.4",
+          "numero_de_pagina": 137
+        }
+      ],
+      "total_paginas": 8
+    },
+    {
+      "nombre": "Diabetes gestacional",
+      "numero": 19,
+      "apartados": [
+        {
+          "nombre": "Introducción",
+          "numero": "19.1",
+          "numero_de_pagina": 142
+        },
+        {
+          "nombre": "Diagnóstico",
+          "numero": "19.2",
+          "numero_de_pagina": 142
+        },
+        {
+          "nombre": "Control obstétrico y finalización de la gestación",
+          "numero": "19.3",
+          "numero_de_pagina": 143
+        },
+        {
+          "nombre": "Seguimiento posparto",
+          "numero": "19.4",
+          "numero_de_pagina": 143
+        },
+        {
+          "nombre": "Diabetes pregestacional",
+          "numero": "19.5",
+          "numero_de_pagina": 143
+        }
+      ],
+      "total_paginas": 4
+    },
+    {
+      "nombre": "Patología médica y gestación",
+      "numero": 20,
+      "apartados": [
+        {
+          "nombre": "Hiperemesis gravídica",
+          "numero": "20.1",
+          "numero_de_pagina": 146
+        },
+        {
+          "nombre": "Hepatopatías",
+          "numero": "20.2",
+          "numero_de_pagina": 146
+        },
+        {
+          "nombre": "Infección urinaria y gestación",
+          "numero": "20.3",
+          "numero_de_pagina": 148
+        },
+        {
+          "nombre": "VIH y gestación",
+          "numero": "20.4",
+          "numero_de_pagina": 149
+        },
+        {
+          "nombre": "Virus Zika",
+          "numero": "20.5",
+          "numero_de_pagina": 151
+        },
+        {
+          "nombre": "Virus herpes simple",
+          "numero": "20.6",
+          "numero_de_pagina": 151
+        }
+      ],
+      "total_paginas": 8
+    },
+    {
+      "nombre": "Parto pretérmino",
+      "numero": 21,
+      "apartados": [
+        {
+          "nombre": "Parto pretérmino",
+          "numero": "21.1",
+          "numero_de_pagina": 154
+        },
+        {
+          "nombre": "Rotura prematura de membranas pretérmino",
+          "numero": "21.2",
+          "numero_de_pagina": 157
+        }
+      ],
+      "total_paginas": 8
+    },
+    {
+      "nombre": "Inducción al parto. Gestación cronológicamente prolongada",
+      "numero": 22,
+      "apartados": [
+        {
+          "nombre": "Inducción del parto",
+          "numero": "22.1",
+          "numero_de_pagina": 162
+        },
+        {
+          "nombre": "Gestación cronológicamente prolongada",
+          "numero": "22.2",
+          "numero_de_pagina": 163
+        }
+      ],
+      "total_paginas": 4
+    },
+    {
+      "nombre": "Control del bienestar fetal",
+      "numero": 23,
+      "apartados": [
+        {
+          "nombre": "Indicaciones",
+          "numero": "23.1",
+          "numero_de_pagina": 166
+        },
+        {
+          "nombre": "Métodos de control",
+          "numero": "23.2",
+          "numero_de_pagina": 166
+        },
+        {
+          "nombre": "Monitorización fetal intraparto",
+          "numero": "23.3",
+          "numero_de_pagina": 168
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Parto normal. Parto instrumental. Cesárea",
+      "numero": 24,
+      "apartados": [
+        {
+          "nombre": "Etapas del parto",
+          "numero": "24.1",
+          "numero_de_pagina": 172
+        },
+        {
+          "nombre": "Mecanismo del parto normal",
+          "numero": "24.2",
+          "numero_de_pagina": 172
+        },
+        {
+          "nombre": "Parto instrumental",
+          "numero": "24.3",
+          "numero_de_pagina": 173
+        },
+        {
+          "nombre": "Indicaciones de cesárea",
+          "numero": "24.4",
+          "numero_de_pagina": 174
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Parto en presentación podálica. Versión cefálica externa. Gestación gemelar",
+      "numero": 25,
+      "apartados": [
+        {
+          "nombre": "Parto en la presentación de nalgas, pelviana o podálica a término",
+          "numero": "25.1",
+          "numero_de_pagina": 178
+        },
+        {
+          "nombre": "Versión cefálica externa",
+          "numero": "25.2",
+          "numero_de_pagina": 178
+        },
+        {
+          "nombre": "Gestación gemelar",
+          "numero": "25.3",
+          "numero_de_pagina": 179
+        }
+      ],
+      "total_paginas": 4
+    },
+    {
+      "nombre": "Patología del puerperio",
+      "numero": 26,
+      "apartados": [
+        {
+          "nombre": "Puerperio",
+          "numero": "26.1",
+          "numero_de_pagina": 182
+        },
+        {
+          "nombre": "Mastitis relacionada con la lactancia",
+          "numero": "26.2",
+          "numero_de_pagina": 182
+        },
+        {
+          "nombre": "Endometritis puerperal",
+          "numero": "26.3",
+          "numero_de_pagina": 184
+        },
+        {
+          "nombre": "Tromboflebitis pélvica séptica",
+          "numero": "26.4",
+          "numero_de_pagina": 184
+        },
+        {
+          "nombre": "Enfermedad tromboembólica en el embarazo y el puerperio",
+          "numero": "26.5",
+          "numero_de_pagina": 184
+        },
+        {
+          "nombre": "Síndrome de Sheehan",
+          "numero": "26.6",
+          "numero_de_pagina": 185
+        },
+        {
+          "nombre": "Depresión posparto",
+          "numero": "26.7",
+          "numero_de_pagina": 185
+        },
+        {
+          "nombre": "Hemorragia posparto",
+          "numero": "26.8",
+          "numero_de_pagina": 185
+        }
+      ],
+      "total_paginas": 8
+    }
+  ]
+}

@@ -1,0 +1,465 @@
+{
+  "nombre": "Neumología",
+  "capitulos": [
+    {
+      "nombre": "Recuerdo anatómico",
+      "numero": 1,
+      "apartados": [
+        {
+          "nombre": "División de la vía aérea",
+          "numero": "1.1",
+          "numero_de_pagina": 2
+        },
+        {
+          "nombre": "Estructura íntima de las vías respiratorias inferiores",
+          "numero": "1.2",
+          "numero_de_pagina": 4
+        },
+        {
+          "nombre": "Vasos pulmonares",
+          "numero": "1.3",
+          "numero_de_pagina": 4
+        }
+      ],
+      "total_paginas": 4
+    },
+    {
+      "nombre": "Síntomas cardinales y exploración del aparato respiratorio",
+      "numero": 2,
+      "apartados": [
+        {
+          "nombre": "Historia clínica",
+          "numero": "2.1",
+          "numero_de_pagina": 6
+        },
+        {
+          "nombre": "Inspección del tórax",
+          "numero": "2.2",
+          "numero_de_pagina": 6
+        },
+        {
+          "nombre": "Técnicas de exploración del aparato respiratorio",
+          "numero": "2.3",
+          "numero_de_pagina": 7
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Malformaciones",
+      "numero": 3,
+      "apartados": [
+        {
+          "nombre": "Malformaciones pulmonares",
+          "numero": "3.1",
+          "numero_de_pagina": 12
+        },
+        {
+          "nombre": "Malformaciones de la pared torácica",
+          "numero": "3.2",
+          "numero_de_pagina": 13
+        }
+      ],
+      "total_paginas": 4
+    },
+    {
+      "nombre": "Fisiología y fisiopatología",
+      "numero": 4,
+      "apartados": [
+        {
+          "nombre": "Introducción",
+          "numero": "4.1",
+          "numero_de_pagina": 16
+        },
+        {
+          "nombre": "Ventilación pulmonar",
+          "numero": "4.2",
+          "numero_de_pagina": 16
+        },
+        {
+          "nombre": "Circulación pulmonar",
+          "numero": "4.3",
+          "numero_de_pagina": 21
+        },
+        {
+          "nombre": "Intercambio gaseoso",
+          "numero": "4.4",
+          "numero_de_pagina": 21
+        }
+      ],
+      "total_paginas": 14
+    },
+    {
+      "nombre": "Insuficiencia respiratoria",
+      "numero": 5,
+      "apartados": [
+        {
+          "nombre": "Síndrome de distrés respiratorio agudo",
+          "numero": "5.1",
+          "numero_de_pagina": 30
+        },
+        {
+          "nombre": "Etiología",
+          "numero": "5.2",
+          "numero_de_pagina": 30
+        },
+        {
+          "nombre": "Fisiopatología",
+          "numero": "5.3",
+          "numero_de_pagina": 30
+        },
+        {
+          "nombre": "Tratamiento",
+          "numero": "5.4",
+          "numero_de_pagina": 31
+        },
+        {
+          "nombre": "Ventilación mecánica",
+          "numero": "5.5",
+          "numero_de_pagina": 31
+        },
+        {
+          "nombre": "Ventilación mecánica no invasiva",
+          "numero": "5.6",
+          "numero_de_pagina": 32
+        },
+        {
+          "nombre": "Ventilación mecánica invasiva",
+          "numero": "5.7",
+          "numero_de_pagina": 33
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Enfermedad pulmonar obstructiva crónica",
+      "numero": 6,
+      "apartados": [
+        {
+          "nombre": "Concepto",
+          "numero": "6.1",
+          "numero_de_pagina": 36
+        },
+        {
+          "nombre": "Epidemiología",
+          "numero": "6.2",
+          "numero_de_pagina": 36
+        },
+        {
+          "nombre": "Etiología",
+          "numero": "6.3",
+          "numero_de_pagina": 36
+        },
+        {
+          "nombre": "Patogenia y anatomía patológica",
+          "numero": "6.4",
+          "numero_de_pagina": 38
+        },
+        {
+          "nombre": "Fisiopatología",
+          "numero": "6.5",
+          "numero_de_pagina": 39
+        },
+        {
+          "nombre": "Clínica",
+          "numero": "6.6",
+          "numero_de_pagina": 39
+        },
+        {
+          "nombre": "Diagnóstico",
+          "numero": "6.7",
+          "numero_de_pagina": 40
+        },
+        {
+          "nombre": "Tratamiento",
+          "numero": "6.8",
+          "numero_de_pagina": 41
+        },
+        {
+          "nombre": "Pronóstico",
+          "numero": "6.9",
+          "numero_de_pagina": 45
+        }
+      ],
+      "total_paginas": 12
+    },
+    {
+      "nombre": "Asma",
+      "numero": 7,
+      "apartados": [
+        {
+          "nombre": "Definición",
+          "numero": "7.1",
+          "numero_de_pagina": 48
+        },
+        {
+          "nombre": "Epidemiología",
+          "numero": "7.2",
+          "numero_de_pagina": 48
+        },
+        {
+          "nombre": "Patogenia",
+          "numero": "7.3",
+          "numero_de_pagina": 48
+        },
+        {
+          "nombre": "Factores de riesgo",
+          "numero": "7.4",
+          "numero_de_pagina": 49
+        },
+        {
+          "nombre": "Fisiopatología",
+          "numero": "7.5",
+          "numero_de_pagina": 51
+        },
+        {
+          "nombre": "Clínica",
+          "numero": "7.6",
+          "numero_de_pagina": 51
+        },
+        {
+          "nombre": "Diagnóstico",
+          "numero": "7.7",
+          "numero_de_pagina": 51
+        },
+        {
+          "nombre": "Tratamiento",
+          "numero": "7.8",
+          "numero_de_pagina": 53
+        },
+        {
+          "nombre": "Asma y embarazo",
+          "numero": "7.9",
+          "numero_de_pagina": 59
+        }
+      ],
+      "total_paginas": 14
+    },
+    {
+      "nombre": "Bronquiectasias. Bronquiolitis",
+      "numero": 8,
+      "apartados": [
+        {
+          "nombre": "Bronquiectasias",
+          "numero": "8.1",
+          "numero_de_pagina": 62
+        },
+        {
+          "nombre": "Bronquiolitis",
+          "numero": "8.2",
+          "numero_de_pagina": 63
+        }
+      ],
+      "total_paginas": 4
+    },
+    {
+      "nombre": "Enfermedades pulmonares parenquimatosas difusas",
+      "numero": 9,
+      "apartados": [
+        {
+          "nombre": "Definición y clasificación",
+          "numero": "9.1",
+          "numero_de_pagina": 66
+        },
+        {
+          "nombre": "Neumonías intersticiales idiopáticas",
+          "numero": "9.2",
+          "numero_de_pagina": 67
+        },
+        {
+          "nombre": "Enfermedad intersticial asociada a las enfermedades sistémicas autoinmunes",
+          "numero": "9.3",
+          "numero_de_pagina": 71
+        },
+        {
+          "nombre": "Histiocitosis pulmonar de células de Langerhans",
+          "numero": "9.4",
+          "numero_de_pagina": 71
+        },
+        {
+          "nombre": "Linfangioleiomiomatosis",
+          "numero": "9.5",
+          "numero_de_pagina": 72
+        },
+        {
+          "nombre": "Proteinosis alveolar",
+          "numero": "9.6",
+          "numero_de_pagina": 73
+        },
+        {
+          "nombre": "Afectación pulmonar en la amiloidosis",
+          "numero": "9.7",
+          "numero_de_pagina": 74
+        },
+        {
+          "nombre": "Afectación pulmonar por fármacos",
+          "numero": "9.8",
+          "numero_de_pagina": 74
+        },
+        {
+          "nombre": "Enfermedades por inhalación de polvos",
+          "numero": "9.9",
+          "numero_de_pagina": 76
+        },
+        {
+          "nombre": "Eosinofilias pulmonares",
+          "numero": "9.10",
+          "numero_de_pagina": 80
+        },
+        {
+          "nombre": "Vasculitis pulmonares",
+          "numero": "9.11",
+          "numero_de_pagina": 80
+        },
+        {
+          "nombre": "Síndrome de hemorragia alveolar difusa",
+          "numero": "9.12",
+          "numero_de_pagina": 82
+        },
+        {
+          "nombre": "Sarcoidosis",
+          "numero": "9.13",
+          "numero_de_pagina": 83
+        }
+      ],
+      "total_paginas": 26
+    },
+    {
+      "nombre": "Enfermedades vasculares pulmonares",
+      "numero": 10,
+      "apartados": [
+        {
+          "nombre": "Hipertensión pulmonar",
+          "numero": "10.1",
+          "numero_de_pagina": 92
+        },
+        {
+          "nombre": "Enfermedad tromboembólica venosa",
+          "numero": "10.2",
+          "numero_de_pagina": 95
+        }
+      ],
+      "total_paginas": 14
+    },
+    {
+      "nombre": "Enfermedades de la pleura",
+      "numero": 11,
+      "apartados": [
+        {
+          "nombre": "Derrame pleural",
+          "numero": "11.1",
+          "numero_de_pagina": 106
+        },
+        {
+          "nombre": "Neoplasias pleurales primarias",
+          "numero": "11.2",
+          "numero_de_pagina": 110
+        },
+        {
+          "nombre": "Neumotórax",
+          "numero": "11.3",
+          "numero_de_pagina": 111
+        }
+      ],
+      "total_paginas": 8
+    },
+    {
+      "nombre": "Enfermedades del mediastino y del diafragma",
+      "numero": 12,
+      "apartados": [
+        {
+          "nombre": "Enfermedades del mediastino",
+          "numero": "12.1",
+          "numero_de_pagina": 114
+        },
+        {
+          "nombre": "Enfermedades del diafragma",
+          "numero": "12.2",
+          "numero_de_pagina": 116
+        }
+      ],
+      "total_paginas": 6
+    },
+    {
+      "nombre": "Neoplasias pulmonares",
+      "numero": 13,
+      "apartados": [
+        {
+          "nombre": "Tumores malignos",
+          "numero": "13.1",
+          "numero_de_pagina": 120
+        },
+        {
+          "nombre": "Tumores pulmonares metastásicos",
+          "numero": "13.2",
+          "numero_de_pagina": 131
+        },
+        {
+          "nombre": "Nódulo pulmonar solitario",
+          "numero": "13.3",
+          "numero_de_pagina": 131
+        },
+        {
+          "nombre": "Otros tumores",
+          "numero": "13.4",
+          "numero_de_pagina": 131
+        }
+      ],
+      "total_paginas": 16
+    },
+    {
+      "nombre": "Trastornos de la ventilación y apnea del sueño",
+      "numero": 14,
+      "apartados": [
+        {
+          "nombre": "Regulación de la ventilación",
+          "numero": "14.1",
+          "numero_de_pagina": 136
+        },
+        {
+          "nombre": "Síndromes de hipoventilación",
+          "numero": "14.2",
+          "numero_de_pagina": 136
+        },
+        {
+          "nombre": "Síndromes de hiperventilación",
+          "numero": "14.3",
+          "numero_de_pagina": 139
+        },
+        {
+          "nombre": "Apnea obstructiva del sueño",
+          "numero": "14.4",
+          "numero_de_pagina": 139
+        },
+        {
+          "nombre": "Apnea central del sueño",
+          "numero": "14.5",
+          "numero_de_pagina": 142
+        }
+      ],
+      "total_paginas": 10
+    },
+    {
+      "nombre": "Trasplante de pulmón",
+      "numero": 15,
+      "apartados": [
+        {
+          "nombre": "Introducción",
+          "numero": "15.1",
+          "numero_de_pagina": 146
+        },
+        {
+          "nombre": "Indicaciones y contraindicaciones",
+          "numero": "15.2",
+          "numero_de_pagina": 146
+        },
+        {
+          "nombre": "Manejo postrasplante",
+          "numero": "15.3",
+          "numero_de_pagina": 147
+        }
+      ],
+      "total_paginas": 6
+    }
+  ]
+}
