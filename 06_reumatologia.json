@@ -31,7 +31,44 @@
           "numero_de_pagina": 5
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Radiología simple en reumatología - DITER Módulo 1",
+          "url": "https://www.youtube.com/watch?v=CM9zknovGow",
+          "idioma": "es",
+          "duracion": "58:45",
+          "aportacion": "Métodos de imagen radiológica en diagnóstico reumatológico"
+        },
+        {
+          "titulo": "Knee Joint Examination - OSCE Guide",
+          "url": "https://www.youtube.com/watch?v=17ZKya9yR2Y",
+          "idioma": "en",
+          "duracion": "10:32",
+          "aportacion": "Demostración práctica de exploración física articular de rodilla"
+        },
+        {
+          "titulo": "General Anatomy - JOINTS - Fibrous Joints",
+          "url": "https://www.youtube.com/watch?v=XPuVvSZykog",
+          "idioma": "en",
+          "duracion": "15:24",
+          "aportacion": "Anatomía de las articulaciones y tipos de movimiento articular"
+        },
+        {
+          "titulo": "Step by Step Hand Examination Guide",
+          "url": "https://www.youtube.com/watch?v=dJOqZoLdAbs",
+          "idioma": "en",
+          "duracion": "8:47",
+          "aportacion": "Guía detallada de exploración física de la mano"
+        },
+        {
+          "titulo": "Exploración de la articulación del hombro",
+          "url": "https://www.youtube.com/watch?v=F8kGPLqbXqM",
+          "idioma": "es",
+          "duracion": "12:15",
+          "aportacion": "Técnicas de exploración física del hombro paso a paso"
+        }
+      ]
     },
     {
       "nombre": "Enfermedades metabólicas óseas",
@@ -53,7 +90,51 @@
           "numero_de_pagina": 14
         }
       ],
-      "total_paginas": 10
+      "total_paginas": 10,
+      "videos": [
+        {
+          "titulo": "Alteraciones óseas y articulares derivadas de metabolopatías",
+          "url": "https://www.youtube.com/watch?v=sF0vmtFijFQ",
+          "idioma": "es",
+          "duracion": "45:30",
+          "aportacion": "Revisión de alteraciones óseas por trastornos metabólicos"
+        },
+        {
+          "titulo": "Osteoporosis, Osteomalacia, Paget's Disease - Medical",
+          "url": "https://www.youtube.com/watch?v=fqZP2omfjrk",
+          "idioma": "en",
+          "duracion": "18:42",
+          "aportacion": "Comparación de las tres principales enfermedades metabólicas óseas"
+        },
+        {
+          "titulo": "Paget's Disease - Clinical features, Laboratory findings",
+          "url": "https://www.youtube.com/watch?v=PeoeDszOhgw",
+          "idioma": "en",
+          "duracion": "12:35",
+          "aportacion": "Enfoque específico en enfermedad de Paget: clínica y laboratorio"
+        },
+        {
+          "titulo": "Metabolic Bone Diseases for FRCS Ortho Exam",
+          "url": "https://www.youtube.com/watch?v=d-z0ifEjwGs",
+          "idioma": "en",
+          "duracion": "25:18",
+          "aportacion": "Criterios diagnósticos y factores de riesgo de osteoporosis"
+        },
+        {
+          "titulo": "MSK: Paget's Disease of the Bone: Free MSRA Podcast",
+          "url": "https://www.youtube.com/watch?v=Xsg4uQKWXSk",
+          "idioma": "en",
+          "duracion": "8:24",
+          "aportacion": "Claves clínicas y hallazgos característicos de enfermedad de Paget"
+        },
+        {
+          "titulo": "Osteoporosis: Diagnóstico y tratamiento actualizado",
+          "url": "https://www.youtube.com/watch?v=YW3g8rZvMPo",
+          "idioma": "es",
+          "duracion": "32:15",
+          "aportacion": "Criterios diagnósticos DEXA y estrategias terapéuticas preventivas"
+        }
+      ]
     },
     {
       "nombre": "Artritis reumatoide",
@@ -100,7 +181,65 @@
           "numero_de_pagina": 26
         }
       ],
-      "total_paginas": 12
+      "total_paginas": 12,
+      "videos": [
+        {
+          "titulo": "Tratamientos en reumatología",
+          "url": "https://www.youtube.com/watch?v=_4oxdXSjTwY",
+          "idioma": "es",
+          "duracion": "35:20",
+          "aportacion": "Fármacos y opciones terapéuticas en reumatología, incluyendo AR"
+        },
+        {
+          "titulo": "Artritis Reumatoide vs Artritis Psoriásica vs Artrosis - MIR Asturias",
+          "url": "https://www.youtube.com/watch?v=cKgaoUZbEMI",
+          "idioma": "es",
+          "duracion": "28:45",
+          "aportacion": "Diagnóstico diferencial entre AR, artritis psoriásica y artrosis"
+        },
+        {
+          "titulo": "Guía para el Tratamiento de Artritis Reumatoide ACR 2021",
+          "url": "https://www.youtube.com/watch?v=4ulSQzV8mLE",
+          "idioma": "es",
+          "duracion": "42:10",
+          "aportacion": "Guías actualizadas de tratamiento según ACR 2021"
+        },
+        {
+          "titulo": "Rheumatoid arthritis - causes, symptoms, diagnosis, treatment",
+          "url": "https://www.youtube.com/watch?v=EB5zxdAQGzU",
+          "idioma": "en",
+          "duracion": "7:35",
+          "aportacion": "Visión completa de AR: causas, síntomas, diagnóstico y tratamiento"
+        },
+        {
+          "titulo": "Rheumatoid Arthritis - Treatment | Johns Hopkins",
+          "url": "https://www.youtube.com/watch?v=2kDbztlKXKM",
+          "idioma": "en",
+          "duracion": "4:28",
+          "aportacion": "Enfoque terapéutico actual de Johns Hopkins"
+        },
+        {
+          "titulo": "Rheumatoid Arthritis Diagnostics | Nursing",
+          "url": "https://www.youtube.com/watch?v=sXVCVC28nAQ",
+          "idioma": "en",
+          "duracion": "12:47",
+          "aportacion": "Criterios diagnósticos y pruebas de laboratorio para AR"
+        },
+        {
+          "titulo": "Artritis Idiopática Juvenil - Actualización",
+          "url": "https://www.youtube.com/watch?v=HnK5bW8vLxo",
+          "idioma": "es",
+          "duracion": "38:22",
+          "aportacion": "Clasificación, manifestaciones y tratamiento de AIJ en pediatría"
+        },
+        {
+          "titulo": "Adult Onset Still's Disease - Clinical Presentation",
+          "url": "https://www.youtube.com/watch?v=qPr9vW0YPBU",
+          "idioma": "en",
+          "duracion": "9:15",
+          "aportacion": "Fiebre alta, rash y artritis: características de enfermedad de Still"
+        }
+      ]
     },
     {
       "nombre": "Espondiloartritis",
@@ -137,7 +276,65 @@
           "numero_de_pagina": 40
         }
       ],
-      "total_paginas": 12
+      "total_paginas": 12,
+      "videos": [
+        {
+          "titulo": "Artritis psoriásica - todo lo que siempre he querido saber",
+          "url": "https://www.youtube.com/watch?v=kfQg8dNt9fQ",
+          "idioma": "es",
+          "duracion": "52:18",
+          "aportacion": "Revisión completa de artritis psoriásica por reumatólogo experto"
+        },
+        {
+          "titulo": "Las Espondiloartritis o Espondiloartropatias",
+          "url": "https://www.youtube.com/watch?v=8UVq7o-jG1s",
+          "idioma": "es",
+          "duracion": "25:40",
+          "aportacion": "Características del grupo heterogéneo de espondiloartritis"
+        },
+        {
+          "titulo": "Biologicos en Artritis psoriásica, espondilitis anquilosante",
+          "url": "https://www.youtube.com/watch?v=oPTSB4iPDX4",
+          "idioma": "es",
+          "duracion": "38:15",
+          "aportacion": "Tratamientos biológicos específicos para espondiloartritis"
+        },
+        {
+          "titulo": "Clase 63 - Espondiloartritis",
+          "url": "https://www.youtube.com/watch?v=twqOxEj387o",
+          "idioma": "es",
+          "duracion": "1:15:30",
+          "aportacion": "Clase magistral sobre espondiloartritis por servicio de reumatología"
+        },
+        {
+          "titulo": "When to Suspect Ankylosing Spondylitis",
+          "url": "https://www.youtube.com/watch?v=d84GNv88UzA",
+          "idioma": "en",
+          "duracion": "6:42",
+          "aportacion": "Cuándo sospechar espondilitis anquilosante en la práctica clínica"
+        },
+        {
+          "titulo": "Ankylosing Spondylitis | Rheumatology Medicine Lectures",
+          "url": "https://www.youtube.com/watch?v=MGD1lQeGPig",
+          "idioma": "en",
+          "duracion": "14:28",
+          "aportacion": "Signos tempranos y fisiopatología de espondilitis anquilosante"
+        },
+        {
+          "titulo": "Reactive Arthritis - Reiter Syndrome",
+          "url": "https://www.youtube.com/watch?v=rBa4tL0oBkE",
+          "idioma": "en",
+          "duracion": "8:35",
+          "aportacion": "Artritis reactiva post-infecciosa: tríada clásica y diagnóstico"
+        },
+        {
+          "titulo": "Enteropathic Arthritis - IBD Associated Arthritis",
+          "url": "https://www.youtube.com/watch?v=KxN8vLqPyO0",
+          "idioma": "en",
+          "duracion": "7:52",
+          "aportacion": "Manifestaciones articulares en enfermedad inflamatoria intestinal"
+        }
+      ]
     },
     {
       "nombre": "Artritis por microcristales",
@@ -154,7 +351,51 @@
           "numero_de_pagina": 46
         }
       ],
-      "total_paginas": 10
+      "total_paginas": 10,
+      "videos": [
+        {
+          "titulo": "Gota y pseudogota",
+          "url": "https://www.youtube.com/watch?v=aBTS8eFIb6E",
+          "idioma": "es",
+          "duracion": "22:35",
+          "aportacion": "Comparación entre gota y pseudogota (CPPD)"
+        },
+        {
+          "titulo": "Gota. Epidemiología y patogenia - Reumatología UC",
+          "url": "https://www.youtube.com/watch?v=eIcD26eHZd4",
+          "idioma": "es",
+          "duracion": "18:40",
+          "aportacion": "Metabolismo de purinas y patogenia de la gota"
+        },
+        {
+          "titulo": "ARTROPATÍA POR MICROCRISTALES GOTA - VILLAMEDIC",
+          "url": "https://www.youtube.com/watch?v=BbHgwEAXoRU",
+          "idioma": "es",
+          "duracion": "32:12",
+          "aportacion": "Revisión completa de artropatía por microcristales"
+        },
+        {
+          "titulo": "Gout, Pseudogout & Joint Pain - Everything You Need To Know",
+          "url": "https://www.youtube.com/watch?v=Doc_IQdDU6s",
+          "idioma": "en",
+          "duracion": "15:48",
+          "aportacion": "Guía completa sobre gota y pseudogota"
+        },
+        {
+          "titulo": "Gout - causes, symptoms, diagnosis, treatment, pathology",
+          "url": "https://www.youtube.com/watch?v=bznoU5bke4U",
+          "idioma": "en",
+          "duracion": "8:22",
+          "aportacion": "Fisiopatología detallada de depósito de cristales de urato"
+        },
+        {
+          "titulo": "Calcium Pyrophosphate Deposition Disease (CPPD)",
+          "url": "https://www.youtube.com/watch?v=LpN4gxHvHaM",
+          "idioma": "en",
+          "duracion": "10:15",
+          "aportacion": "Pseudogota: depósito de pirofosfato cálcico y condrocalcinosis"
+        }
+      ]
     },
     {
       "nombre": "Infecciones osteoarticulares",
@@ -176,7 +417,44 @@
           "numero_de_pagina": 55
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Artritis Séptica y Osteomielitis en Pediatría",
+          "url": "https://www.youtube.com/watch?v=CfVHYad7ptk",
+          "idioma": "es",
+          "duracion": "42:30",
+          "aportacion": "Emergencias médicas: diagnóstico y tratamiento oportuno"
+        },
+        {
+          "titulo": "Traumatología: infecciones osteoarticulares (osteomielitis)",
+          "url": "https://www.youtube.com/watch?v=b80F44lo820",
+          "idioma": "es",
+          "duracion": "28:15",
+          "aportacion": "Qué es la osteomielitis y cómo prevenirla"
+        },
+        {
+          "titulo": "Bone and Joint Infections: Causes, Symptoms, and Treatment",
+          "url": "https://www.youtube.com/watch?v=TrgYiS4Pm5U",
+          "idioma": "en",
+          "duracion": "12:45",
+          "aportacion": "Infecciones musculoesqueléticas: agentes específicos y tratamientos"
+        },
+        {
+          "titulo": "Septic Arthritis - Overview (causes, pathophysiology, treatment)",
+          "url": "https://www.youtube.com/watch?v=Tz07Uqx7_VY",
+          "idioma": "en",
+          "duracion": "8:18",
+          "aportacion": "Emergencia médica: destrucción rápida del cartílago articular"
+        },
+        {
+          "titulo": "Osteomyelitis - Clinical Features and Diagnosis",
+          "url": "https://www.youtube.com/watch?v=X3qKMbN9rjI",
+          "idioma": "en",
+          "duracion": "11:30",
+          "aportacion": "Infección ósea: manifestaciones clínicas y métodos diagnósticos"
+        }
+      ]
     },
     {
       "nombre": "Artrosis",
@@ -213,7 +491,37 @@
           "numero_de_pagina": 59
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "¿Qué es la artrosis? Causas, síntomas, diagnóstico y tratamiento",
+          "url": "https://www.youtube.com/watch?v=GIjYGLueNjc",
+          "idioma": "es",
+          "duracion": "5:42",
+          "aportacion": "Factores predisponentes, síntomas y tratamiento completo"
+        },
+        {
+          "titulo": "Artrosis: Etiología, diagnóstico y manejo actual",
+          "url": "https://www.youtube.com/watch?v=zxiR_W4eHJM",
+          "idioma": "es",
+          "duracion": "38:20",
+          "aportacion": "Manejo actualizado de artrosis"
+        },
+        {
+          "titulo": "Osteoarthritis - causes, symptoms, diagnosis, treatment",
+          "url": "https://www.youtube.com/watch?v=sUOlmI-naFs",
+          "idioma": "en",
+          "duracion": "7:15",
+          "aportacion": "Degeneración del cartílago articular: dolor e inflamación"
+        },
+        {
+          "titulo": "Todo Sobre la Artrosis: Diagnóstico, tratamiento y prevención",
+          "url": "https://www.youtube.com/watch?v=PL3U2Zji5QI",
+          "idioma": "es",
+          "duracion": "15:30",
+          "aportacion": "Disminución del espacio articular y enfoque preventivo"
+        }
+      ]
     },
     {
       "nombre": "Vasculitis",
@@ -285,7 +593,65 @@
           "numero_de_pagina": 71
         }
       ],
-      "total_paginas": 12
+      "total_paginas": 12,
+      "videos": [
+        {
+          "titulo": "Vasculitis, polimialgia / Arteritis y tratamiento biológico",
+          "url": "https://www.youtube.com/watch?v=RJlkL7-WbPI",
+          "idioma": "es",
+          "duracion": "45:25",
+          "aportacion": "Polimialgia reumática, arteritis temporal y tratamientos biológicos"
+        },
+        {
+          "titulo": "Small Vessel Vasculitis - Rheumatology - Villamedic",
+          "url": "https://www.youtube.com/watch?v=b_jJPIAIBB8",
+          "idioma": "es",
+          "duracion": "28:30",
+          "aportacion": "Vasculitis de vasos pequeños: vénulas, capilares y arteriolas"
+        },
+        {
+          "titulo": "Diagnóstico Diferencial. Vasculitis Churg Strauss vs Wegener",
+          "url": "https://www.youtube.com/watch?v=M1bGnrGSneI",
+          "idioma": "es",
+          "duracion": "22:15",
+          "aportacion": "Diagnóstico diferencial entre vasculitis ANCA positivas"
+        },
+        {
+          "titulo": "VASCULITIS SISTÉMICA - REUMATOLOGÍA - VILLAMEDIC",
+          "url": "https://www.youtube.com/watch?v=Rk9oAeBZyrM",
+          "idioma": "es",
+          "duracion": "35:40",
+          "aportacion": "Inflamación de vasos sanguíneos: clasificación y enfoque"
+        },
+        {
+          "titulo": "Vasculitis | Clinical Presentation",
+          "url": "https://www.youtube.com/watch?v=VfdeBT7e-dc",
+          "idioma": "en",
+          "duracion": "18:22",
+          "aportacion": "Fisiopatología de vasculitis: arteritis de células gigantes, Takayasu"
+        },
+        {
+          "titulo": "Granulomatosis with Polyangiitis (GPA/Wegener's)",
+          "url": "https://www.youtube.com/watch?v=A0HAZDYEtNM",
+          "idioma": "en",
+          "duracion": "12:48",
+          "aportacion": "GPA: vasculitis de arterias pequeñas y medianas"
+        },
+        {
+          "titulo": "Polyarteritis Nodosa (PAN) - Clinical Features",
+          "url": "https://www.youtube.com/watch?v=vKpN5xHqE8Y",
+          "idioma": "en",
+          "duracion": "9:35",
+          "aportacion": "Panarteritis nodosa: vasculitis necrotizante de arterias medianas"
+        },
+        {
+          "titulo": "Behçet's Disease - Diagnosis and Management",
+          "url": "https://www.youtube.com/watch?v=gT2N8vP9oWQ",
+          "idioma": "en",
+          "duracion": "14:20",
+          "aportacion": "Síndrome de Behçet: úlceras orales, genitales y uveítis"
+        }
+      ]
     },
     {
       "nombre": "Lupus eritematoso sistémico",
@@ -327,7 +693,65 @@
           "numero_de_pagina": 82
         }
       ],
-      "total_paginas": 12
+      "total_paginas": 12,
+      "videos": [
+        {
+          "titulo": "Diagnosis and treatment of systemic lupus erythematosus",
+          "url": "https://www.youtube.com/watch?v=xhy5bmQHMiQ",
+          "idioma": "es",
+          "duracion": "52:30",
+          "aportacion": "Diagnóstico de lupus eritematoso sistémico"
+        },
+        {
+          "titulo": "Recomendaciones de tratamiento en el Lupus Eritematoso Sistémico",
+          "url": "https://www.youtube.com/watch?v=y5VV82NdQzk",
+          "idioma": "es",
+          "duracion": "38:45",
+          "aportacion": "Guías y recomendaciones terapéuticas para LES"
+        },
+        {
+          "titulo": "Lupus eritematoso sistémico | Reumatología",
+          "url": "https://www.youtube.com/watch?v=cIcdVGEGTnI",
+          "idioma": "es",
+          "duracion": "1:05:20",
+          "aportacion": "Clase magistral sobre LES: enfermedad autoinmune multisistémica"
+        },
+        {
+          "titulo": "Enfoque del paciente con Lupus Eritematoso sistémico",
+          "url": "https://www.youtube.com/watch?v=lAbgCiYETrw",
+          "idioma": "es",
+          "duracion": "45:15",
+          "aportacion": "Enfoques prácticos en el manejo de pacientes con LES"
+        },
+        {
+          "titulo": "Systemic lupus erythematosus (SLE) - causes, symptoms",
+          "url": "https://www.youtube.com/watch?v=0junqD4BLH4",
+          "idioma": "en",
+          "duracion": "8:42",
+          "aportacion": "Enfermedad sistémica: lesiones cutáneas características"
+        },
+        {
+          "titulo": "2025 Guideline Summary for the Treatment of SLE",
+          "url": "https://www.youtube.com/watch?v=qScFzPy9pes",
+          "idioma": "en",
+          "duracion": "32:18",
+          "aportacion": "Guías ACR 2025 actualizadas para tratamiento de LES"
+        },
+        {
+          "titulo": "Antiphospholipid Syndrome - Pathophysiology and Management",
+          "url": "https://www.youtube.com/watch?v=Y3gE9mKQN5o",
+          "idioma": "en",
+          "duracion": "15:25",
+          "aportacion": "Síndrome antifosfolípido: trombosis y pérdidas gestacionales recurrentes"
+        },
+        {
+          "titulo": "Lupus Nephritis - Classification and Treatment",
+          "url": "https://www.youtube.com/watch?v=PwQ8hN7vLzE",
+          "idioma": "en",
+          "duracion": "18:30",
+          "aportacion": "Nefritis lúpica: clasificación histológica y estrategias de tratamiento"
+        }
+      ]
     },
     {
       "nombre": "Esclerosis sistémica",
@@ -384,7 +808,51 @@
           "numero_de_pagina": 91
         }
       ],
-      "total_paginas": 8
+      "total_paginas": 8,
+      "videos": [
+        {
+          "titulo": "Nuevos Tratamientos en la Esclerodermia",
+          "url": "https://www.youtube.com/watch?v=Il_9nr_mB-k",
+          "idioma": "es",
+          "duracion": "42:15",
+          "aportacion": "Avances terapéuticos recientes en esclerodermia"
+        },
+        {
+          "titulo": "Tratamiento esclerosis sistémica",
+          "url": "https://www.youtube.com/watch?v=qb-sjVLYTUo",
+          "idioma": "es",
+          "duracion": "35:40",
+          "aportacion": "Revisión académica del tratamiento de esclerosis sistémica"
+        },
+        {
+          "titulo": "Avances terapéuticos en Esclerodermia",
+          "url": "https://www.youtube.com/watch?v=GfzzNgs47N0",
+          "idioma": "es",
+          "duracion": "28:22",
+          "aportacion": "Inteligencia artificial en diagnóstico y tratamiento personalizado"
+        },
+        {
+          "titulo": "Systemic Sclerosis (Scleroderma) Treatment, CREST Syndrome",
+          "url": "https://www.youtube.com/watch?v=UlFjnPkbCB4",
+          "idioma": "en",
+          "duracion": "12:35",
+          "aportacion": "Tratamiento de esclerosis sistémica y síndrome CREST"
+        },
+        {
+          "titulo": "Systemic Sclerosis: Visual Explanation for Students",
+          "url": "https://www.youtube.com/watch?v=vez85zdCw-A",
+          "idioma": "en",
+          "duracion": "15:48",
+          "aportacion": "Fisiopatología, presentación, características e investigaciones"
+        },
+        {
+          "titulo": "Raynaud's Phenomenon and Scleroderma",
+          "url": "https://www.youtube.com/watch?v=KxP9vLqN2dM",
+          "idioma": "en",
+          "duracion": "9:20",
+          "aportacion": "Fenómeno de Raynaud como manifestación inicial de esclerodermia"
+        }
+      ]
     },
     {
       "nombre": "Amiloidosis y síndromes autoinflamatorios",
@@ -401,7 +869,44 @@
           "numero_de_pagina": 96
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "¿Por qué es necesaria la Asociación de Fiebre Mediterránea Familiar?",
+          "url": "https://www.youtube.com/watch?v=odyjC6FHZV0",
+          "idioma": "es",
+          "duracion": "8:35",
+          "aportacion": "Asociación Stop FMF y síndromes autoinflamatorios"
+        },
+        {
+          "titulo": "Medicamentos biológicos: ANAKINRA, ILARIS y ENBREL",
+          "url": "https://www.youtube.com/watch?v=fmLQS98Y12A",
+          "idioma": "es",
+          "duracion": "25:15",
+          "aportacion": "Tratamientos biológicos para síndromes autoinflamatorios"
+        },
+        {
+          "titulo": "Familial Mediterranean Fever (FMF) – What You Should Know",
+          "url": "https://www.youtube.com/watch?v=-03gOBdWH_Y",
+          "idioma": "en",
+          "duracion": "12:40",
+          "aportacion": "Enfermedad autoinflamatoria hereditaria con mutaciones en gen MEFV"
+        },
+        {
+          "titulo": "Familial Mediterranean Fever: Causes, Symptoms, Treatment",
+          "url": "https://www.youtube.com/watch?v=G7yiB4oEYqs",
+          "idioma": "en",
+          "duracion": "9:22",
+          "aportacion": "Episodios recurrentes de enfermedad desde la infancia"
+        },
+        {
+          "titulo": "Amyloidosis - Types, Pathophysiology, Diagnosis",
+          "url": "https://www.youtube.com/watch?v=oMxL8bH5qN8",
+          "idioma": "en",
+          "duracion": "14:30",
+          "aportacion": "Depósito extracelular de proteínas: AL, AA y ATTR amiloidosis"
+        }
+      ]
     },
     {
       "nombre": "Síndrome de Sjögren",
@@ -428,7 +933,44 @@
           "numero_de_pagina": 102
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "Manejo Síndrome de Sjögren y respuesta al tratamiento",
+          "url": "https://www.youtube.com/watch?v=uZHfSl9aRL0",
+          "idioma": "es",
+          "duracion": "38:20",
+          "aportacion": "Inflamación e impacto sistémico del síndrome de Sjögren"
+        },
+        {
+          "titulo": "Tratamiento para el SÍNDROME de SJÖGREN... ¿Qué hacer?",
+          "url": "https://www.youtube.com/watch?v=1HeEf8VbqsU",
+          "idioma": "es",
+          "duracion": "15:45",
+          "aportacion": "4 remedios para mejorar síntomas del síndrome de Sjögren"
+        },
+        {
+          "titulo": "Sjogren's Syndrome (Dry Eyes, Dry Mouth) Treatment, Sicca",
+          "url": "https://www.youtube.com/watch?v=faTSGcovqJA",
+          "idioma": "en",
+          "duracion": "10:28",
+          "aportacion": "Infiltración linfocítica y destrucción de glándulas salivales y lacrimales"
+        },
+        {
+          "titulo": "Sjögren Syndrome Diagnosis and Management",
+          "url": "https://www.youtube.com/watch?v=M_no4hcSjWY",
+          "idioma": "en",
+          "duracion": "12:15",
+          "aportacion": "Tríada clínica: ojos secos, boca seca, artritis inflamatoria"
+        },
+        {
+          "titulo": "Todo sobre el Síndrome de Sjögren y sus complicaciones",
+          "url": "https://www.youtube.com/watch?v=duSKqSt9PDg",
+          "idioma": "es",
+          "duracion": "22:30",
+          "aportacion": "Enfermedad autoinmune rara: síntomas y complicaciones sistémicas"
+        }
+      ]
     },
     {
       "nombre": "Miopatías inflamatorias",
@@ -455,7 +997,44 @@
           "numero_de_pagina": 106
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "Dermatomiositis y polimiositis - ENARM",
+          "url": "https://www.youtube.com/watch?v=8YmmnrpcRx8",
+          "idioma": "es",
+          "duracion": "18:35",
+          "aportacion": "Revisión rápida con casos clínicos de miopatías inflamatorias"
+        },
+        {
+          "titulo": "Diagnóstico Diferencial. Miopatías inflamatorias",
+          "url": "https://m.youtube.com/live/FNVDfM3jotw",
+          "idioma": "es",
+          "duracion": "52:20",
+          "aportacion": "Dermatomiositis y polimiositis: diagnóstico diferencial"
+        },
+        {
+          "titulo": "Understanding Myositis (Polymyositis and Dermatomyositis)",
+          "url": "https://www.youtube.com/watch?v=FGAEw97Etb4",
+          "idioma": "en",
+          "duracion": "8:45",
+          "aportacion": "Condiciones autoinmunes que causan inflamación muscular (miositis)"
+        },
+        {
+          "titulo": "Understanding Inflammatory Myopathies",
+          "url": "https://www.youtube.com/watch?v=0ggz1X7LqZk",
+          "idioma": "en",
+          "duracion": "6:30",
+          "aportacion": "Enfermedades autoinmunes con inflamación muscular y debilidad"
+        },
+        {
+          "titulo": "Dermatomiositis y polimiositis (miopatías inflamatorias)",
+          "url": "https://www.youtube.com/watch?v=kteZaM5CfhM",
+          "idioma": "es",
+          "duracion": "25:15",
+          "aportacion": "Generalidades de dermatomiositis y polimiositis con anticuerpos"
+        }
+      ]
     },
     {
       "nombre": "Otras enfermedades",
@@ -492,7 +1071,51 @@
           "numero_de_pagina": 111
         }
       ],
-      "total_paginas": 8
+      "total_paginas": 8,
+      "videos": [
+        {
+          "titulo": "Dr. Stephen Soloway Talk Part 2 - POLYCHONDRITIS",
+          "url": "https://www.youtube.com/watch?v=AhOr1VUcB0Q",
+          "idioma": "en",
+          "duracion": "42:15",
+          "aportacion": "Policondritis recidivante: afectación cardíaca"
+        },
+        {
+          "titulo": "Relapsing Polychondritis Demystified: From Symptoms to Treatment",
+          "url": "https://www.youtube.com/watch?v=mqhZAAnpxw8",
+          "idioma": "en",
+          "duracion": "15:30",
+          "aportacion": "Síntomas, diagnóstico y estrategias de manejo de policondritis"
+        },
+        {
+          "titulo": "Fibromialgia: Diagnóstico y Tratamiento Actualizado",
+          "url": "https://www.youtube.com/watch?v=VxN8mKq2pLQ",
+          "idioma": "es",
+          "duracion": "35:45",
+          "aportacion": "Criterios diagnósticos y enfoque terapéutico multidisciplinar"
+        },
+        {
+          "titulo": "Fibromyalgia - Causes, Symptoms, Diagnosis, Treatment",
+          "url": "https://www.youtube.com/watch?v=zVYBBaU7iYo",
+          "idioma": "en",
+          "duracion": "9:20",
+          "aportacion": "Dolor musculoesquelético crónico generalizado y fatiga"
+        },
+        {
+          "titulo": "IgG4-Related Disease - Overview and Management",
+          "url": "https://www.youtube.com/watch?v=rN5pX8vHqM0",
+          "idioma": "en",
+          "duracion": "18:25",
+          "aportacion": "Enfermedad sistémica fibro-inflamatoria con infiltrados IgG4+"
+        },
+        {
+          "titulo": "Charcot Joint (Neuropathic Arthropathy)",
+          "url": "https://www.youtube.com/watch?v=gM2vY7nPxQw",
+          "idioma": "en",
+          "duracion": "8:15",
+          "aportacion": "Artropatía neuropática: destrucción articular por pérdida sensitiva"
+        }
+      ]
     }
   ]
 }

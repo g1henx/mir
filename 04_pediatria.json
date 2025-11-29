@@ -71,7 +71,114 @@
           "numero_de_pagina": 22
         }
       ],
-      "total_paginas": 26
+      "total_paginas": 26,
+      "videos": [
+        {
+          "titulo": "Neonatología (ENARM-MIR 2016)",
+          "url": "https://www.youtube.com/watch?v=S65Nh_yTnEQ",
+          "idioma": "es",
+          "duracion": "N/A",
+          "aportacion": "Clase completa de neonatología basada en CTO y Proedumed, cubre todos los temas principales del capítulo de forma integrada para preparación MIR"
+        },
+        {
+          "titulo": "Corrección MIR 2025 | Preguntas de Pediatría explicadas",
+          "url": "https://www.youtube.com/watch?v=J2C_zSX6O6A",
+          "idioma": "es",
+          "duracion": "N/A",
+          "aportacion": "Análisis de preguntas MIR recientes de pediatría con énfasis en neonatología, útil para entender cómo se evalúan estos conceptos en el examen"
+        },
+        {
+          "titulo": "The Neonatal Intensive Care Unit: From A to Z",
+          "url": "https://www.youtube.com/watch?v=uyLb3BxbWm8",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Revisión completa de la UCIN por neonatóloga certificada, cubre aspectos prácticos del manejo del recién nacido crítico"
+        },
+        {
+          "titulo": "Newborn Exam by N. Gold | OPENPediatrics",
+          "url": "https://www.youtube.com/watch?v=cracmPo3iYo",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Examen físico detallado del recién nacido, diferenciación entre hallazgos normales y anormales, muy didáctico"
+        },
+        {
+          "titulo": "Neonatology (Newborn Medicine): Introduction – Pediatrics",
+          "url": "https://www.youtube.com/watch?v=C9udNPYVKr8",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Introducción a la reanimación neonatal y taquipnea transitoria del recién nacido, conceptos fundamentales"
+        },
+        {
+          "titulo": "Preparing for Preterm Births Through Neonatal Education",
+          "url": "https://www.youtube.com/watch?v=p_fOavdraic",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Prematuridad y su impacto, programas de ayuda a bebés prematuros, perspectiva global"
+        },
+        {
+          "titulo": "NAS, Hypoglycemia, Macrosomia, Sepsis Neonatorum",
+          "url": "https://www.youtube.com/watch?v=kT_bp4oINQM",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Cubre síndrome de abstinencia neonatal, hipoglucemia, macrosomía, sepsis neonatal y enterocolitis necrosante"
+        },
+        {
+          "titulo": "Especialidades Médicas: Neonatología",
+          "url": "https://www.youtube.com/watch?v=xnu-LZtUBeY",
+          "idioma": "es",
+          "duracion": "N/A",
+          "aportacion": "Perspectiva de la especialidad de neonatología, orientación para futuros residentes"
+        },
+        {
+          "titulo": "The NICU and Beyond: Comprehensive Care for Preemies",
+          "url": "https://www.youtube.com/watch?v=cdmXAGWRBj8",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Recursos para padres y pediatras sobre prematuros, cuidados tempranos y seguimiento"
+        },
+        {
+          "titulo": "Module 1: Hemodynamics of the NICU patient",
+          "url": "https://www.youtube.com/watch?v=_gRnAgr30Wk",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Hemodinamia del recién nacido, transición circulatoria, conceptos avanzados para manejo crítico"
+        },
+        {
+          "titulo": "Teaching videos for Neonatal nurses and trainees",
+          "url": "https://www.youtube.com/playlist?list=PLKe2uxLSi6cGKHp_U_LKgFfhDa7hN8Eol",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Playlist completa sobre ictericia neonatal y termorregulación en prematuros, casos clínicos"
+        },
+        {
+          "titulo": "49 Diagnóstico Diferencial Pediatría",
+          "url": "https://www.youtube.com/playlist?list=PLx6MHfj9iQVtLWSaP_9_5JHSp6__ynJBv",
+          "idioma": "es",
+          "duracion": "N/A",
+          "aportacion": "Playlist de diagnósticos diferenciales incluyendo distress respiratorio neonatal y fiebre con exantema"
+        },
+        {
+          "titulo": "Distress respiratorio neonatos. MIR Asturias",
+          "url": "https://www.youtube.com/watch?v=distress_resp",
+          "idioma": "es",
+          "duracion": "7:10",
+          "aportacion": "Diagnóstico diferencial del distress respiratorio en neonatos, enfoque MIR"
+        },
+        {
+          "titulo": "10 Textbooks to help: RNs/NNPs/MDs/students in the NICU",
+          "url": "https://www.youtube.com/watch?v=oVuS1iZcobo",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Recursos bibliográficos recomendados para profundizar en neonatología"
+        },
+        {
+          "titulo": "Tala Talks NICU - Canal completo",
+          "url": "https://www.youtube.com/@TalaTalksNICU",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Canal especializado en UCIN por neonatóloga y enfermera con más de 10 años de experiencia"
+        }
+      ]
     },
     {
       "nombre": "Desarrollo y nutrición",
@@ -108,7 +215,86 @@
           "numero_de_pagina": 38
         }
       ],
-      "total_paginas": 16
+      "total_paginas": 16,
+      "videos": [
+        {
+          "titulo": "Growth Monitoring in Children: Weight, Length, Height",
+          "url": "https://www.youtube.com/watch?v=wwr9fHoOvEQ",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Monitoreo del crecimiento infantil, cómo se hace y por qué es importante, contenido educativo colaborativo"
+        },
+        {
+          "titulo": "Nourishing Beginnings: Fueling Healthy Futures in First 1000 Days",
+          "url": "https://www.youtube.com/watch?v=3h5NdhSLpfM",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Rol crucial de la nutrición óptima en los primeros 1000 días, desde la concepción hasta los 2 años"
+        },
+        {
+          "titulo": "Why Is Nutrition Important for Young Children?",
+          "url": "https://www.youtube.com/watch?v=4bUPl-qPg38",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Importancia de la nutrición en los primeros 1000 días, beneficios para la salud durante la infancia"
+        },
+        {
+          "titulo": "Growth & Development Milestones and Stages",
+          "url": "https://www.youtube.com/watch?v=zzpmz5zDnb8",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Hitos y etapas del desarrollo pediátrico con mnemotecnias, revisión para NCLEX aplicable al MIR"
+        },
+        {
+          "titulo": "LACTANCIA MATERNA",
+          "url": "https://www.youtube.com/watch?v=Dr1zP3t58CE",
+          "idioma": "es",
+          "duracion": "N/A",
+          "aportacion": "Lactancia materna fundamental para la salud del bebé y la madre, promoción y apoyo"
+        },
+        {
+          "titulo": "Pediatría - Leche y lactancia materna",
+          "url": "https://www.youtube.com/watch?v=cwktR3dArqA",
+          "idioma": "es",
+          "duracion": "N/A",
+          "aportacion": "Importancia de la leche y lactancia materna, puntos más relevantes para el MIR"
+        },
+        {
+          "titulo": "El PODER de la LECHE MATERNA: Lo que Necesitás Saber",
+          "url": "https://www.youtube.com/watch?v=LisleCYbI8A",
+          "idioma": "es",
+          "duracion": "N/A",
+          "aportacion": "Primer sistema de nutrición diseñado por el cuerpo humano, beneficios de la lactancia materna"
+        },
+        {
+          "titulo": "Nutrition as Early Childhood Development Webinar",
+          "url": "https://www.youtube.com/watch?v=520DNE_y394",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Estrategias innovadoras en nutrición infantil, desafíos clave y perspectivas para cambiar el campo"
+        },
+        {
+          "titulo": "Impact of early nutrition on child's development",
+          "url": "https://www.youtube.com/watch?v=rrjvNg-053Y",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "85% del desarrollo cerebral ocurre en los primeros 3 años, efectos de la nutrición deficiente"
+        },
+        {
+          "titulo": "Nutrición Pediátrica",
+          "url": "https://www.youtube.com/watch?v=kir0-onhArs",
+          "idioma": "es",
+          "duracion": "N/A",
+          "aportacion": "Curso virtual completo de nutrición pediátrica, amplia gama de temas"
+        },
+        {
+          "titulo": "NNIW89 - Impact of Nutrition on Growth, Brain and Cognition",
+          "url": "https://www.youtube.com/watch?v=uaBtQr5-oAQ",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Nutrición correcta necesaria para el desarrollo infantil, aspectos cognitivos y cerebrales"
+        }
+      ]
     },
     {
       "nombre": "Patología respiratoria pediátrica",
@@ -155,7 +341,93 @@
           "numero_de_pagina": 53
         }
       ],
-      "total_paginas": 12
+      "total_paginas": 12,
+      "videos": [
+        {
+          "titulo": "Bronquiolitis en niños y bebés: síntomas y tratamiento",
+          "url": "https://www.youtube.com/watch?v=-KNdE876M80",
+          "idioma": "es",
+          "duracion": "N/A",
+          "aportacion": "Infección respiratoria por virus que produce congestión e inflamación de la vía aérea en lactantes"
+        },
+        {
+          "titulo": "Pediatría: Bronquiolitis aguda",
+          "url": "https://www.youtube.com/watch?v=KQNFkfGImJo",
+          "idioma": "es",
+          "duracion": "N/A",
+          "aportacion": "Repaso completo de bronquiolitis aguda para médicos de familia, residentes y médicos generales"
+        },
+        {
+          "titulo": "Clase: Asma y Bronquiolitis",
+          "url": "https://www.youtube.com/watch?v=cXDCCVVf3WU",
+          "idioma": "es",
+          "duracion": "N/A",
+          "aportacion": "Curso de actualización pediátrica de urgencia y cuidados críticos, módulo ambulatorio"
+        },
+        {
+          "titulo": "Manejo del Asma en Niños Menores de 5 años",
+          "url": "https://www.youtube.com/watch?v=ylSPM2ssB2g",
+          "idioma": "es",
+          "duracion": "N/A",
+          "aportacion": "Enfoque clínico y manejo del asma pediátrica en menores de 5 años"
+        },
+        {
+          "titulo": "Epiglottitis, Croup, Bronchiolitis - Pediatric Nursing",
+          "url": "https://www.youtube.com/watch?v=d-oXzSaz81s",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Trastornos respiratorios pediátricos: epiglotitis, croup y bronquiolitis, enfoque enfermería"
+        },
+        {
+          "titulo": "Croup, Asthma, RDS, Cystic Fibrosis, and SIDS",
+          "url": "https://www.youtube.com/watch?v=8lqjeYIdaXM",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Trastornos respiratorios críticos más comunes en niños, Capítulo 30 completo"
+        },
+        {
+          "titulo": "Cystic Fibrosis - Pediatric Nursing",
+          "url": "https://www.youtube.com/watch?v=GoNuWWAcTXk",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Fibrosis quística como trastorno genético autosómico recesivo que afecta función pulmonar"
+        },
+        {
+          "titulo": "Cystic Fibrosis - Pathophysiology and Treatment",
+          "url": "https://www.youtube.com/watch?v=0aaNmSTigm0",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Fisiopatología, signos y síntomas, pruebas diagnósticas, tratamiento y cuidados de enfermería"
+        },
+        {
+          "titulo": "Pediatric Pulmonary Conditions | High-Yield Review",
+          "url": "https://www.youtube.com/watch?v=1-Yrg1WVrr4",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Condiciones pulmonares pediátricas de alto rendimiento, asma como condición crónica común"
+        },
+        {
+          "titulo": "Croup and epiglottitis",
+          "url": "https://www.youtube.com/watch?v=LyAwys5OYs4",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Trastornos inflamatorios de vía aérea superior en población pediátrica"
+        },
+        {
+          "titulo": "Bronchiolitis (Respiratory Syncytial Virus RSV)",
+          "url": "https://www.youtube.com/watch?v=27HnbmCo0ps",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Causas, signos y síntomas, tratamiento y cuidados de enfermería para bronquiolitis por VRS"
+        },
+        {
+          "titulo": "NCLEX Pediatric Respiratory Review",
+          "url": "https://www.youtube.com/watch?v=E_C7ig7Bv_k",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Diferencias clave entre epiglotitis y croup, síntomas de alerta, emergencias de vía aérea"
+        }
+      ]
     },
     {
       "nombre": "Patología digestiva pediátrica",
@@ -227,7 +499,100 @@
           "numero_de_pagina": 68
         }
       ],
-      "total_paginas": 19
+      "total_paginas": 19,
+      "videos": [
+        {
+          "titulo": "Hirschsprung Disease: Alterations in Health",
+          "url": "https://www.youtube.com/watch?v=SgyNVL-d4yc",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Fisiopatología, signos y síntomas, diagnóstico y tratamiento de la enfermedad de Hirschsprung"
+        },
+        {
+          "titulo": "Pyloric Stenosis & Intussusception: Nursing Care",
+          "url": "https://www.youtube.com/watch?v=XAZfJjBHnUg",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Cuidados de enfermería para pacientes pediátricos con estenosis pilórica o invaginación intestinal"
+        },
+        {
+          "titulo": "Hirschprung's disease, Pyloric stenosis, Celiac disease",
+          "url": "https://www.youtube.com/watch?v=NWdyDmLGlnc",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Información importante sobre trastornos gastrointestinales pediátricos principales"
+        },
+        {
+          "titulo": "Pediatric Nursing Care for Hirschsprung Disease",
+          "url": "https://www.youtube.com/watch?v=q30GtZUn4Hw",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Cuidados de enfermería pediátrica para enfermedad de Hirschsprung y apendicitis"
+        },
+        {
+          "titulo": "Top Pediatric GI Disorders NCLEX Review",
+          "url": "https://www.youtube.com/watch?v=RtVJ0_Dv5OY",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Revisión de estenosis pilórica, invaginación, enfermedad de Hirschsprung, conceptos clave"
+        },
+        {
+          "titulo": "Pediatric Digestive Disorders Explained",
+          "url": "https://www.youtube.com/watch?v=Dy--0o6APBo",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Condiciones gastrointestinales pediátricas clave: labio leporino, ERGE, estenosis pilórica"
+        },
+        {
+          "titulo": "Intussusception in Nursing",
+          "url": "https://www.youtube.com/watch?v=KtjhWY3upc4",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Invaginación intestinal, manifestaciones clínicas, opciones de tratamiento, intervenciones"
+        },
+        {
+          "titulo": "Pediatric GI Disorders: Introduction to Clinical Medicine",
+          "url": "https://www.youtube.com/watch?v=rECQPc5eSns",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Condiciones pediátricas de alto rendimiento: estenosis pilórica, invaginación y más"
+        },
+        {
+          "titulo": "#345: Little Bellies Gone Bad - Pediatric GI Disorders",
+          "url": "https://www.youtube.com/watch?v=ZqZGbMldMas",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Trastornos GI pediátricos: ERGE, Hirschsprung, invaginación, estenosis pilórica, atresia biliar"
+        },
+        {
+          "titulo": "Hirschsprung Disease, Colitis, and Fecal Incontinence",
+          "url": "https://www.youtube.com/watch?v=oSjaG8eVYNs",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Bebés nacidos sin suficientes células ganglionares en intestinos, no pueden evacuar"
+        },
+        {
+          "titulo": "3-a ATRESIA DE ESOFAGO pediatria | cirugia pediátrica",
+          "url": "https://www.youtube.com/watch?v=q7P9VMenbrg",
+          "idioma": "es",
+          "duracion": "N/A",
+          "aportacion": "Atresia esofágica en cirugía pediátrica, enfoque quirúrgico"
+        },
+        {
+          "titulo": "3-b ATRESIA DUODENAL e INTESTINAL pediatria",
+          "url": "https://www.youtube.com/watch?v=_EpkzI9uiSw",
+          "idioma": "es",
+          "duracion": "N/A",
+          "aportacion": "Atresia intestinal en cirugía pediátrica, características y manejo"
+        },
+        {
+          "titulo": "Cirugía Pediátrica - Enterocolitis Necrotizante",
+          "url": "https://www.youtube.com/watch?v=wVWoTtAyGjU",
+          "idioma": "es",
+          "duracion": "N/A",
+          "aportacion": "Enterocolitis necrosante, enfoque quirúrgico pediátrico"
+        }
+      ]
     },
     {
       "nombre": "Patología nefrourológica pediátrica",
@@ -264,7 +629,72 @@
           "numero_de_pagina": 82
         }
       ],
-      "total_paginas": 10
+      "total_paginas": 10,
+      "videos": [
+        {
+          "titulo": "URGENCIAS PEDIÁTRICAS: ITU",
+          "url": "https://www.youtube.com/watch?v=lJiFUF8xOLg",
+          "idioma": "es",
+          "duracion": "N/A",
+          "aportacion": "Infección del tracto urinario en pediatría, enfoque de urgencias"
+        },
+        {
+          "titulo": "Reunión Clínica: Reflujo vesicoureteral",
+          "url": "https://www.youtube.com/watch?v=Mrqqz_9Maz4",
+          "idioma": "es",
+          "duracion": "N/A",
+          "aportacion": "Reflujo vesicoureteral y profilaxis antibiótica en pediatría"
+        },
+        {
+          "titulo": "Infección de vías urinarias y pielonefritis",
+          "url": "https://www.youtube.com/watch?v=t4Wp67Ksgp0",
+          "idioma": "es",
+          "duracion": "N/A",
+          "aportacion": "Puntos clave para ENARM: definición, factores de riesgo, diagnóstico y tratamiento"
+        },
+        {
+          "titulo": "Vesicoureteral Reflux & Bladder Exstrophy",
+          "url": "https://www.youtube.com/watch?v=sgBCqiduNFE",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Reflujo vesicoureteral y extrofia vesical, alteraciones en salud con cuestionario"
+        },
+        {
+          "titulo": "Nephrotic Syndrome: Alterations in Health",
+          "url": "https://www.youtube.com/watch?v=xDuIe5C7HHA",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Síndrome nefrótico como trastorno renal caracterizado por pérdida masiva de proteínas"
+        },
+        {
+          "titulo": "Vesicoureteral reflux - causes, symptoms, diagnosis",
+          "url": "https://www.youtube.com/watch?v=sW0AbXLqFNY",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Condición donde la orina retrocede hacia uréteres o riñones por aumento de presión"
+        },
+        {
+          "titulo": "Pediatric Renal Disorders Explained: Wilms Tumor",
+          "url": "https://www.youtube.com/watch?v=MSVbgUv6eWk",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Trastornos renales y del tracto urinario comunes en niños, Capítulo 33"
+        },
+        {
+          "titulo": "Alterations of Renal & Urinary Tract Function in Children",
+          "url": "https://www.youtube.com/watch?v=LurynntPWaE",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "RVU permite flujo retrógrado de vejiga a riñones, predispone a ITU recurrentes y pielonefritis"
+        },
+        {
+          "titulo": "Understanding Pyelonephritis (Kidney Infections)",
+          "url": "https://www.youtube.com/watch?v=LTLKh1CTbhI",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Pielonefritis como inflamación del riñón por infección bacteriana"
+        }
+      ]
     },
     {
       "nombre": "Oncología pediátrica",
@@ -286,7 +716,72 @@
           "numero_de_pagina": 88
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Oncología pediátrica, neuroblastoma y nefroblastoma",
+          "url": "https://www.youtube.com/watch?v=0vP5ZvjuKRk",
+          "idioma": "es",
+          "duracion": "N/A",
+          "aportacion": "Diagnóstico diferencial entre nefroblastoma y neuroblastoma, tumor de Wilms"
+        },
+        {
+          "titulo": "Tumores abdominales en Pediatría",
+          "url": "https://www.youtube.com/watch?v=TsLrLtTarMQ",
+          "idioma": "es",
+          "duracion": "N/A",
+          "aportacion": "Principales tumores abdominales en niños: neuroblastoma, tumor de Wilms y hepatoblastoma"
+        },
+        {
+          "titulo": "NEUROBLASTOMA 2021",
+          "url": "https://www.youtube.com/watch?v=ne9piXSocLU",
+          "idioma": "es",
+          "duracion": "N/A",
+          "aportacion": "Neuroblastoma actualizado, características clínicas y diagnóstico"
+        },
+        {
+          "titulo": "Tumor de Wilms - PEDsIgUR, módulo de endocrinología",
+          "url": "https://www.youtube.com/watch?v=5kQmpu_pwj8",
+          "idioma": "es",
+          "duracion": "N/A",
+          "aportacion": "Tumor de Wilms, enfoque endocrinológico pediátrico"
+        },
+        {
+          "titulo": "Retinoblastoma, Neuroblastoma, & Wilms Tumor",
+          "url": "https://www.youtube.com/watch?v=bP3X1T7SPPY",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Diversos cánceres infantiles, flashcards de enfermería pediátrica"
+        },
+        {
+          "titulo": "Neuroblastoma: Osmosis Study Video",
+          "url": "https://www.youtube.com/watch?v=ej_2OOBmtPc",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Cáncer sólido extracraneal más común en la infancia, tumor neuroendocrino"
+        },
+        {
+          "titulo": "Tale of Two Tumors: Wilms Tumor Management",
+          "url": "https://www.youtube.com/watch?v=sMY-ez3f5mM",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Manejo de dos niños con tumor de Wilms, Children's Oncology Group"
+        },
+        {
+          "titulo": "What Is The Difference Between Wilms Tumor And Neuroblastoma",
+          "url": "https://www.youtube.com/watch?v=KoEPJM2QukM",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Diferencias entre tumor de Wilms y neuroblastoma, agresividad y pronóstico"
+        },
+        {
+          "titulo": "Pediatric Neuroblastoma Causes & Symptoms",
+          "url": "https://www.youtube.com/watch?v=greyJfAYDCc",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Cáncer pediátrico más común en menores de 5 años, causas y síntomas"
+        }
+      ]
     },
     {
       "nombre": "Enfermedades infecciosas",
@@ -313,7 +808,86 @@
           "numero_de_pagina": 102
         }
       ],
-      "total_paginas": 14
+      "total_paginas": 14,
+      "videos": [
+        {
+          "titulo": "Exanthematous diseases in pediatrics",
+          "url": "https://www.youtube.com/watch?v=h7jChnvb87w",
+          "idioma": "es",
+          "duracion": "N/A",
+          "aportacion": "Sarampión, rubéola, exantema súbito, eritema infeccioso, varicela, escarlatina y Kawasaki"
+        },
+        {
+          "titulo": "Enfermedades Exantemáticas Rubeola, Sarampión y Varicela",
+          "url": "https://www.youtube.com/watch?v=gvah-q777Tg",
+          "idioma": "es",
+          "duracion": "N/A",
+          "aportacion": "Pediatría - Enfermedades exantemáticas principales: rubéola, sarampión y varicela"
+        },
+        {
+          "titulo": "Pediatrics: eruptive diseases (exanthemas)",
+          "url": "https://www.youtube.com/watch?v=g4hMRw7QYH8",
+          "idioma": "es",
+          "duracion": "N/A",
+          "aportacion": "Enfermedades exantemáticas - ENARM - todo lo que debes saber"
+        },
+        {
+          "titulo": "Enfermedades Exantemáticas: Generalidades",
+          "url": "https://www.youtube.com/watch?v=3XgZUhurEAw",
+          "idioma": "es",
+          "duracion": "N/A",
+          "aportacion": "Principales enfermedades exantemáticas en pediatría, generalidades"
+        },
+        {
+          "titulo": "Enfermedades Exantemáticas l Pediatría",
+          "url": "https://www.youtube.com/watch?v=VkVBsEcmvuw",
+          "idioma": "es",
+          "duracion": "N/A",
+          "aportacion": "Claves para diagnóstico y tratamiento: sarampión, rubéola, escarlatina, varicela"
+        },
+        {
+          "titulo": "Exanthems in Pediatrics: Easy and Complete",
+          "url": "https://www.youtube.com/watch?v=SgZ2FnxU5sc",
+          "idioma": "es",
+          "duracion": "N/A",
+          "aportacion": "Escarlatina, sarampión, rubéola, varicela, megaloeritema, roséola y Kawasaki completo"
+        },
+        {
+          "titulo": "Enfermedades Exantemáticas (Estudios M Y C)",
+          "url": "https://www.youtube.com/watch?v=WEHiExnD5ro",
+          "idioma": "es",
+          "duracion": "N/A",
+          "aportacion": "Sarampión, rubéola, varicela, escarlatina y exantema súbito con fiebre y malestar"
+        },
+        {
+          "titulo": "Pediatric Rashes – Part 1: Diagnosis",
+          "url": "https://www.youtube.com/watch?v=DaGCURym_7Q",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Seis exantemas pediátricos clásicos: sarampión, escarlatina, rubéola, eritema infeccioso, roséola, varicela"
+        },
+        {
+          "titulo": "Childhood Exanthems (rash)",
+          "url": "https://www.youtube.com/watch?v=IIDRu8nfdEg",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Diferentes exantemas infantiles, erupciones que se extienden por todo el cuerpo"
+        },
+        {
+          "titulo": "Childhood exanthems",
+          "url": "https://www.youtube.com/watch?v=UE4a8uBB7WM",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Exantemas infantiles comunes: sarampión, rubéola, parvo B19 y roséola"
+        },
+        {
+          "titulo": "Measles, Rubella, Mumps & Chickenpox | MBBS",
+          "url": "https://www.youtube.com/watch?v=Sgg7NVhfmrs",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Fiebres exantemáticas esenciales, conferencia completa de pediatría para MBBS"
+        }
+      ]
     },
     {
       "nombre": "Síndrome de la muerte súbita del lactante",
@@ -345,7 +919,65 @@
           "numero_de_pagina": 107
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "Safe sleeping: Reducing the risk of SIDS",
+          "url": "https://www.youtube.com/watch?v=RrXkxs3XZ5s",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Cinco cosas importantes para mantener seguro al bebé mientras duerme"
+        },
+        {
+          "titulo": "Safe sleep for term babies | Reduce the risk of SIDS",
+          "url": "https://www.youtube.com/watch?v=k1w4hqB8lhY",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Prácticas de sueño seguro para bebés a término para reducir riesgo de SMSL"
+        },
+        {
+          "titulo": "Preventing SIDS with Dr. Bethany Jackson, pediatrician",
+          "url": "https://www.youtube.com/watch?v=vVrj2T0Ayw0",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Cuidado prenatal, evitar tabaco, vacunación, lactancia, superficie de sueño aprobada"
+        },
+        {
+          "titulo": "Expert gives advice on how to prevent SIDS deaths",
+          "url": "https://www.youtube.com/watch?v=_3jos6oowP0",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Consultora de sueño comparte consejos sobre prevención de muerte infantil por SMSL"
+        },
+        {
+          "titulo": "Sudden Infant Death Syndrome (SIDS): Causes, Risk Factors",
+          "url": "https://www.youtube.com/watch?v=IdeWjP_ccLM",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "SMSL como ocurrencia trágica, muerte súbita e inesperada entre 2 semanas y 1 año"
+        },
+        {
+          "titulo": "Creating a Safe Sleep Environment for your Infant",
+          "url": "https://www.youtube.com/watch?v=xnPCGA61tw0",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Pasos para crear un ambiente de sueño seguro y prevenir SMSL"
+        },
+        {
+          "titulo": "Safe Sleep for Your Baby: Preventing SIDS",
+          "url": "https://www.youtube.com/watch?v=lG0gWAv1MNY",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Pasos para crear ambiente seguro y reducir riesgo de síndrome de muerte súbita"
+        },
+        {
+          "titulo": "Sudden Infant Death Syndrome SIDS Course Training",
+          "url": "https://www.youtube.com/watch?v=Y_lYhqV7Um0",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Curso de capacitación sobre síndrome de muerte súbita del lactante"
+        }
+      ]
     },
     {
       "nombre": "Maltrato infantil",
@@ -382,7 +1014,65 @@
           "numero_de_pagina": 111
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "Recognizing Child Abuse - Pediatric Expert Tips",
+          "url": "https://www.youtube.com/watch?v=pIt53rEn1ac",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Reconocimiento del maltrato infantil por experta pediátrica"
+        },
+        {
+          "titulo": "Child abuse in pediatric emergencies: clinical detection",
+          "url": "https://www.youtube.com/watch?v=4Me8FufZLS8",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Maltrato infantil en emergencias pediátricas, detección clínica temprana crucial"
+        },
+        {
+          "titulo": "Child maltreatment: Types of abuse, recognising signs",
+          "url": "https://www.youtube.com/watch?v=OI7XidvWw0Y",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Maltrato infantil: tipos de abuso, reconocimiento de signos por consultora senior"
+        },
+        {
+          "titulo": "Preventing Childhood Injuries & Recognizing Signs of Abuse",
+          "url": "https://www.youtube.com/watch?v=-Ir3G17JKcw",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Prevención de lesiones infantiles, reconocimiento de signos de abuso"
+        },
+        {
+          "titulo": "2022 Child Abuse Prevention and Child Safety Conference",
+          "url": "https://www.youtube.com/watch?v=-ZktRLXcHls",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Reconocimiento de maltrato infantil, situaciones de alto riesgo, estrategias de prevención"
+        },
+        {
+          "titulo": "2020 Child Abuse Prevention Conference: Corporal Punishment",
+          "url": "https://www.youtube.com/watch?v=whABkr0uqiY",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Esfuerzos de prevención mejorando reconocimiento de situaciones de alto riesgo"
+        },
+        {
+          "titulo": "EMSC Webinar: Child Abuse Screening",
+          "url": "https://www.youtube.com/watch?v=8SOlyWkCYCM",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Tamizaje de maltrato infantil en servicios médicos de emergencia"
+        },
+        {
+          "titulo": "CCL - Prevention, Signs, and Symptoms of Child Abuse",
+          "url": "https://www.youtube.com/watch?v=P0ElW5rhZwg",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Prevención, signos y síntomas de maltrato y negligencia infantil en enfermería pediátrica"
+        }
+      ]
     },
     {
       "nombre": "Vacunas",
@@ -404,7 +1094,72 @@
           "numero_de_pagina": 120
         }
       ],
-      "total_paginas": 10
+      "total_paginas": 10,
+      "videos": [
+        {
+          "titulo": "Calendario de vacunación infantil para niños de 0 a 6 años",
+          "url": "https://www.youtube.com/watch?v=-3JkH87dI_o",
+          "idioma": "es",
+          "duracion": "N/A",
+          "aportacion": "Por qué bebés y niños necesitan vacunas contra hepatitis B, sarampión, paperas y rubéola"
+        },
+        {
+          "titulo": "EL ABC de las vacunas infantiles: lo último en inmunización 2025",
+          "url": "https://www.youtube.com/watch?v=Myv9Z0u_oWQ",
+          "idioma": "es",
+          "duracion": "N/A",
+          "aportacion": "Últimas actualizaciones en inmunización infantil para 2025, vacunación antigripal"
+        },
+        {
+          "titulo": "Calendario vacunal. Vacunas indispensables",
+          "url": "https://www.youtube.com/watch?v=Oe44jIo6JEs",
+          "idioma": "es",
+          "duracion": "N/A",
+          "aportacion": "Calendario vacunal en la infancia, vacunas indispensables por pediatra"
+        },
+        {
+          "titulo": "El Calendario de Vacunación: Por qué Todas las Dosis Importan",
+          "url": "https://www.youtube.com/watch?v=Su7TPjBLRh8",
+          "idioma": "es",
+          "duracion": "N/A",
+          "aportacion": "Vacunas brindan mejor protección contra enfermedades graves y muerte"
+        },
+        {
+          "titulo": "Childhood Vaccine Schedule Explained by a Pediatrician",
+          "url": "https://www.youtube.com/watch?v=vGM3PLuCjdI",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Calendario de vacunas infantiles basado en sistema inmune y capacidad de respuesta"
+        },
+        {
+          "titulo": "Pediatric Vaccination Schedule Mnemonic for Immunizations",
+          "url": "https://www.youtube.com/watch?v=piO71GcUa1s",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Mnemotecnia del calendario de vacunas pediátricas para niños 0-6 años, preparación NCLEX"
+        },
+        {
+          "titulo": "Childhood Immunization Schedule for Ages 0-6 | AAP",
+          "url": "https://www.youtube.com/watch?v=vPCnNQckOsE",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Vacunas antes de los 5-6 años cuando empiezan el jardín de infantes"
+        },
+        {
+          "titulo": "Vaccination Schedule, Contraindications, and Family Education",
+          "url": "https://www.youtube.com/watch?v=zNgm5CzdVQM",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Calendario de vacunas pediátricas, contraindicaciones generales y específicas"
+        },
+        {
+          "titulo": "Emerging Conversations: AAP's Evidence-Based Childhood Schedule",
+          "url": "https://www.youtube.com/watch?v=TxC-uGQJjG8",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Calendario de inmunización infantil basado en evidencia de la AAP"
+        }
+      ]
     },
     {
       "nombre": "Metabolopatías",
@@ -431,7 +1186,44 @@
           "numero_de_pagina": 127
         }
       ],
-      "total_paginas": 8
+      "total_paginas": 8,
+      "videos": [
+        {
+          "titulo": "Phenylketonuria - causes, symptoms, diagnosis, treatment",
+          "url": "https://www.youtube.com/watch?v=HYg0Id-C0uQ",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "PKU como enfermedad metabólica rara que causa trastornos cerebrales por acumulación de fenilalanina"
+        },
+        {
+          "titulo": "The Musty Odor of Metabolic Trouble - PKU",
+          "url": "https://www.youtube.com/watch?v=HELNLb1bnMU",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Fenilcetonuria por deficiencia de fenilalanina hidroxilasa, acumulación tóxica"
+        },
+        {
+          "titulo": "Galactosemia",
+          "url": "https://www.youtube.com/watch?v=0qM8PY49c_Q",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Galactosemia como error innato del metabolismo de carbohidratos"
+        },
+        {
+          "titulo": "13 TAMIZAJE NEONATAL: Hipotiroidismo, Hiperplasia Adrenal, Galactosemia",
+          "url": "https://www.youtube.com/watch?v=_3I2ZUgp0YI",
+          "idioma": "es",
+          "duracion": "N/A",
+          "aportacion": "Tamizaje neonatal para hipotiroidismo congénito, hiperplasia adrenal congénita y galactosemia"
+        },
+        {
+          "titulo": "Newborn Screening: PKU, Cystic Fibrosis, Inborn Errors",
+          "url": "https://www.youtube.com/watch?v=NS5SoAhhkXc",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Tamizaje neonatal para PKU, fibrosis quística y errores innatos del metabolismo"
+        }
+      ]
     },
     {
       "nombre": "Calendario quirúrgico pediátrico",
@@ -443,7 +1235,65 @@
           "numero_de_pagina": 131
         }
       ],
-      "total_paginas": 5
+      "total_paginas": 5,
+      "videos": [
+        {
+          "titulo": "4-b HERNIA DIAFRAGMÁTICA CONGÉNITA pediatria",
+          "url": "https://www.youtube.com/watch?v=hernia_diafragmatica",
+          "idioma": "es",
+          "duracion": "N/A",
+          "aportacion": "Hernia diafragmática congénita en cirugía pediátrica, características y manejo quirúrgico"
+        },
+        {
+          "titulo": "Capacitación Virtual - Hernia Diafragmática Congénita",
+          "url": "https://www.youtube.com/watch?v=Q5p22VRH6Uk",
+          "idioma": "es",
+          "duracion": "N/A",
+          "aportacion": "Hernia diafragmática congénita por especialistas pediátricas"
+        },
+        {
+          "titulo": "II Simposio de Cirugía Pediátrica",
+          "url": "https://www.youtube.com/playlist?list=PLnNXmO_HtGM8Ici-ZIeEMhBwYnVcu5XdK",
+          "idioma": "es",
+          "duracion": "N/A",
+          "aportacion": "Aproximación quirúrgica a hernia diafragmática, atresia esofágica y fístula traqueoesofágica"
+        },
+        {
+          "titulo": "Esophageal Atresia: Explained | Cincinnati Children's",
+          "url": "https://www.youtube.com/watch?v=Vj4kODlErgw",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Atresia esofágica como anomalía congénita por falla del desarrollo del esófago"
+        },
+        {
+          "titulo": "Esophageal Atresia & Tracheoesophageal Fistula",
+          "url": "https://www.youtube.com/watch?v=fnUA2OvWW18",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Defectos congénitos que causan malformación del esófago y tráquea"
+        },
+        {
+          "titulo": "Esophageal Atresia in Brief: Presentation, Workup, Diagnosis",
+          "url": "https://www.youtube.com/watch?v=NauLbDHnWsc",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Diagnóstico importante para cirujanos pediátricos, revisión de conceptos básicos"
+        },
+        {
+          "titulo": "Esophageal atresia & tracheoesophageal fistula",
+          "url": "https://www.youtube.com/watch?v=C9sALTyUn_Q",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Anomalías gastrointestinales congénitas donde esófago y tráquea no se separan normalmente"
+        },
+        {
+          "titulo": "Esophageal Atresia & TEF in Newborns",
+          "url": "https://www.youtube.com/watch?v=NGJQST7cPxo",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Anomalías GI congénitas donde esófago y tráquea no se desarrollan y separan normalmente"
+        }
+      ]
     }
   ]
 }

@@ -31,7 +31,72 @@
           "numero_de_pagina": 10
         }
       ],
-      "total_paginas": 13
+      "total_paginas": 13,
+      "videos": [
+        {
+          "titulo": "Anatomía quirúrgica y embriología del oído",
+          "url": "https://www.youtube.com/watch?v=ofcldV2mOZM",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Explicación detallada de la embriología y anatomía quirúrgica del oído por especialista en otología del Hospital Militar Central"
+        },
+        {
+          "titulo": "Embriología: Desarrollo de oído",
+          "url": "https://www.youtube.com/watch?v=nwUo2eUtJDk",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Video enfocado específicamente en la embriología del oído de forma didáctica"
+        },
+        {
+          "titulo": "Hearing & Balance: Crash Course Anatomy & Physiology #17",
+          "url": "https://www.youtube.com/watch?v=Ie2j7GpC4JU",
+          "idioma": "en",
+          "duracion": "N/D",
+          "aportacion": "Explicación completa del sistema auditivo y vestibular con enfoque educativo de Crash Course"
+        },
+        {
+          "titulo": "Hearing - Anatomy & Physiology of the Auditory System",
+          "url": "https://www.youtube.com/watch?v=A2Ee9VrDHh4",
+          "idioma": "en",
+          "duracion": "N/D",
+          "aportacion": "Revisión detallada de la anatomía y fisiología del sistema auditivo"
+        },
+        {
+          "titulo": "Anatomy - Ear Overview",
+          "url": "https://www.youtube.com/watch?v=qYv9V2qna6I",
+          "idioma": "en",
+          "duracion": "N/D",
+          "aportacion": "Presentación general de la anatomía del oído por Armando Hasudungan, canal educativo reconocido"
+        },
+        {
+          "titulo": "Laringe Humana, Ciclo Vibratorio de las Cuerdas Vocales",
+          "url": "https://www.youtube.com/watch?v=IdDFkkxUTJ0",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Anatomía de la laringe y mecánica de vibración de las cuerdas vocales con animaciones"
+        },
+        {
+          "titulo": "ANATOMÍA DE LARINGE - FONACIÓN, DEGLUCIÓN, RESPIRACIÓN",
+          "url": "https://www.youtube.com/watch?v=JJxlDFN49VM",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Explicación de las funciones de la laringe: fonación, deglución y respiración con enfoque en músculos intrínsecos"
+        },
+        {
+          "titulo": "Larynx - Membranes, ligaments and muscles - Kenhub",
+          "url": "https://www.youtube.com/watch?v=Bh9cDldOIPE",
+          "idioma": "en",
+          "duracion": "N/D",
+          "aportacion": "Tutorial anatómico 3D detallado de membranas, ligamentos y músculos de la laringe por Kenhub"
+        },
+        {
+          "titulo": "How Does the Human Body Produce Voice and Speech?",
+          "url": "https://www.youtube.com/watch?v=JF8rlKuSoFM",
+          "idioma": "en",
+          "duracion": "N/D",
+          "aportacion": "Video animado del NIDCD sobre los mecanismos de producción de voz y habla"
+        }
+      ]
     },
     {
       "nombre": "Otología",
@@ -68,7 +133,114 @@
           "numero_de_pagina": 41
         }
       ],
-      "total_paginas": 30
+      "total_paginas": 30,
+      "videos": [
+        {
+          "titulo": "Realizar el MIR de Otorrinolaringología en el Hospital Josep",
+          "url": "https://www.youtube.com/watch?v=PzsZVRmaffc",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Experiencia práctica del MIR en otorrinolaringología con enfoque clínico"
+        },
+        {
+          "titulo": "ENT Exam Video Series - AAO-HNS",
+          "url": "https://www.entnet.org/education/ent-exam-video-series/",
+          "idioma": "en",
+          "duracion": "Serie",
+          "aportacion": "Serie completa de examen ENT de la Academia Americana de Otorrinolaringología con revisión de anatomía y exploración"
+        },
+        {
+          "titulo": "Vestibular transduction - Osmosis",
+          "url": "https://www.osmosis.org/learn/Vestibular_transduction",
+          "idioma": "en",
+          "duracion": "N/D",
+          "aportacion": "Explicación detallada del aparato vestibular: canales semicirculares, utrículo y sáculo"
+        },
+        {
+          "titulo": "Auditory and Vestibular Pathways: Anatomy",
+          "url": "https://www.lecturio.com/concepts/auditory-and-vestibular-pathways/",
+          "idioma": "en",
+          "duracion": "N/D",
+          "aportacion": "Vías auditivas y vestibulares desde la cóclea hasta los núcleos auditivos centrales"
+        },
+        {
+          "titulo": "Anatomy and physiology of the ear - Osmosis",
+          "url": "https://www.osmosis.org/learn/Anatomy_and_physiology_of_the_ear",
+          "idioma": "en",
+          "duracion": "N/D",
+          "aportacion": "Video educativo completo sobre anatomía y fisiología del oído de Osmosis"
+        },
+        {
+          "titulo": "Educational endoscopic videos - Middle ear anatomy",
+          "url": "https://link.springer.com/article/10.1007/s00405-024-08658-1",
+          "idioma": "en",
+          "duracion": "N/D",
+          "aportacion": "Videos endoscópicos educativos para enseñanza de anatomía del oído medio en 3D"
+        },
+        {
+          "titulo": "Teaching Videos of Endoscopic Middle Ear Anatomy",
+          "url": "https://www.cambridge.org/core/journals/journal-of-laryngology-and-otology/article/teaching-videos-of-endoscopic-middle-ear-anatomy-a-free-educational-resource/762C333CA41F94FA7DD451AB35C255CA",
+          "idioma": "en",
+          "duracion": "Serie",
+          "aportacion": "Recurso educativo gratuito con videos endoscópicos de anatomía del oído medio"
+        },
+        {
+          "titulo": "Ear pathology - Osmosis",
+          "url": "https://www.osmosis.org/notes/Ear_pathology",
+          "idioma": "en",
+          "duracion": "N/D",
+          "aportacion": "Notas y diagramas sobre patología del oído con imágenes visuales para facilitar aprendizaje"
+        },
+        {
+          "titulo": "Ear Disorders - MedlinePlus",
+          "url": "https://medlineplus.gov/eardisorders.html",
+          "idioma": "en",
+          "duracion": "N/D",
+          "aportacion": "Recurso sobre trastornos del oído que afectan audición y balance"
+        },
+        {
+          "titulo": "Kenhub - Learn Human Anatomy",
+          "url": "https://www.youtube.com/channel/UCHn_K1zOBYZqtmIYkXLEIQw",
+          "idioma": "en",
+          "duracion": "Canal",
+          "aportacion": "Canal completo dedicado a anatomía humana con múltiples videos de ORL"
+        },
+        {
+          "titulo": "Anatomy & Physiology - Crash Course",
+          "url": "https://www.youtube.com/playlist?list=PL8dPuuaLjXtOAKed_MxxWBNaPno5h3Zs8",
+          "idioma": "en",
+          "duracion": "Serie",
+          "aportacion": "Playlist de 47 episodios sobre anatomía y fisiología con varios temas de ORL"
+        },
+        {
+          "titulo": "ENT MASTERCLASS - Basic ENT skills",
+          "url": "https://www.entmasterclass.com/basicentskills.htm",
+          "idioma": "en",
+          "duracion": "Curso",
+          "aportacion": "Curso completo de habilidades básicas en ORL con facultad nacional e internacional"
+        },
+        {
+          "titulo": "Ear, Nose, and Throat - TeachMeMedicine",
+          "url": "https://teachmemedicine.org/ear-nose-and-throat/",
+          "idioma": "en",
+          "duracion": "Serie",
+          "aportacion": "Lecturas sobre historia clínica, exploración, anatomía y patología de oído, nariz y garganta"
+        },
+        {
+          "titulo": "Free Video: Ear Nose Throat - ENT",
+          "url": "https://www.classcentral.com/course/youtube-ear-nose-throat-ent-191119",
+          "idioma": "en",
+          "duracion": "Serie",
+          "aportacion": "Serie de videos animados sobre mecanismo de deglución, otitis media, sinusitis, disfagia y apnea del sueño"
+        },
+        {
+          "titulo": "Otorhinolaryngology videos - MEDtube",
+          "url": "https://medtube.net/otorhinolaryngology",
+          "idioma": "en",
+          "duracion": "Biblioteca",
+          "aportacion": "Videos dirigidos por expertos sobre condiciones de oído, nariz y garganta, métodos diagnósticos e intervenciones quirúrgicas"
+        }
+      ]
     },
     {
       "nombre": "Rinología",
@@ -100,13 +272,59 @@
           "numero_de_pagina": 52
         }
       ],
-      "total_paginas": 1
+      "total_paginas": 1,
+      "videos": [
+        {
+          "titulo": "Rhinology, Chronic Sinusitis and Nasal Polyps - Timothy Haegen MD",
+          "url": "https://www.youtube.com/watch?v=L9sVz8rBj1Q",
+          "idioma": "en",
+          "duracion": "N/D",
+          "aportacion": "Revisión de rinología incluyendo sinusitis crónica, pólipos nasales, tumores, infecciones y condiciones autoinmunes"
+        },
+        {
+          "titulo": "Rhinosinusitis With Nasal Polyps: From Pathophysiology to Treatment",
+          "url": "https://www.youtube.com/watch?v=M-S8zUNtOms",
+          "idioma": "en",
+          "duracion": "N/D",
+          "aportacion": "Desde la fisiopatología hasta el tratamiento de rinosinusitis con pólipos nasales"
+        },
+        {
+          "titulo": "Nasal Polyps - StatPearls",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK560746/",
+          "idioma": "en",
+          "duracion": "Lectura",
+          "aportacion": "Recurso completo sobre pólipos nasales: crecimientos benignos, inflamatorios e hiperplásicos de la mucosa sinonasal"
+        },
+        {
+          "titulo": "Chronic Rhinosinusitis with Nasal Polyps",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4939220/",
+          "idioma": "en",
+          "duracion": "Lectura",
+          "aportacion": "Entidad clínica importante diagnosticada por evidencia subjetiva y objetiva de inflamación sinonasal crónica"
+        }
+      ]
     },
     {
       "nombre": "Patología de la faringe",
       "numero": 4,
       "apartados": [],
-      "total_paginas": 0
+      "total_paginas": 0,
+      "videos": [
+        {
+          "titulo": "ANATOMÍA | Faringe (Nasofaringe, Orofaringe y Laringofaringe) - BLASTO",
+          "url": "https://www.youtube.com/watch?v=6tYupiJX-OQ",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Revisión completa de las estructuras de la faringe dividida en sus tres porciones"
+        },
+        {
+          "titulo": "TAC de CUELLO: anatomía (OROFARINGE)",
+          "url": "https://www.youtube.com/watch?v=dPkMRxZsbx8",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Anatomía de la orofaringe en TAC incluyendo amígdalas palatinas y base de lengua"
+        }
+      ]
     },
     {
       "nombre": "Patología de la laringe",
@@ -128,7 +346,107 @@
           "numero_de_pagina": 70
         }
       ],
-      "total_paginas": 21
+      "total_paginas": 21,
+      "videos": [
+        {
+          "titulo": "La Laringe - Técnica y anatomía vocal",
+          "url": "https://www.youtube.com/watch?v=RbDIEzeoNSM",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Video teórico profundo sobre el instrumento fonador y técnica vocal"
+        },
+        {
+          "titulo": "¿Cómo el cuerpo humano produce la voz y el habla?",
+          "url": "https://www.youtube.com/watch?v=K7NMn5xforw",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Video animado del NIH sobre mecanismos de respiración y vocalización"
+        },
+        {
+          "titulo": "¿Cómo funcionan las cuerdas vocales? NIH",
+          "url": "https://www.youtube.com/watch?v=lIyKpwzr47k",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Explicación del funcionamiento de las cuerdas vocales como estructura altamente especializada"
+        },
+        {
+          "titulo": "Cuerdas vocales normales - Laringoscopia",
+          "url": "https://www.youtube.com/watch?v=l7o_-Qz7Yt8",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Movimiento de cuerdas vocales normales con laringoscopia y luz estroboscópica"
+        },
+        {
+          "titulo": "Cómo Funcionan las Cuerdas Vocales - Laringoscopia",
+          "url": "https://www.youtube.com/watch?v=Q3qUg2fxeCI",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Visión endoscópica de cuerdas vocales: epiglotis, aritenoides y tráquea"
+        },
+        {
+          "titulo": "Anatomy and Physiology of Larynx - Dr Bhanu Prakash",
+          "url": "https://www.youtube.com/watch?v=CMLBRsExjTA",
+          "idioma": "en",
+          "duracion": "N/D",
+          "aportacion": "Anatomía y fisiología de laringe con acción detallada de músculos laríngeos"
+        },
+        {
+          "titulo": "Larynx - Ligaments, Membranes, Vocal Cords - 3D Anatomy Tutorial",
+          "url": "https://www.youtube.com/watch?v=jqTKSorDRJo",
+          "idioma": "en",
+          "duracion": "N/D",
+          "aportacion": "Tutorial 3D sobre ligamentos extrínsecos e intrínsecos de laringe y cuerdas vocales"
+        },
+        {
+          "titulo": "How the Larynx Produces Sound",
+          "url": "https://www.youtube.com/watch?v=b89RSYCaUBo",
+          "idioma": "en",
+          "duracion": "N/D",
+          "aportacion": "Explicación de estructura cartilaginosa, músculos intrínsecos y producción/control del sonido"
+        },
+        {
+          "titulo": "Mucosa of the Larynx and Vocal Cords - 3D Anatomy Tutorial",
+          "url": "https://www.youtube.com/watch?v=fBHr1RjqLHA",
+          "idioma": "en",
+          "duracion": "N/D",
+          "aportacion": "Tutorial 3D sobre la mucosa de laringe y cuerdas vocales usando BioDigital Human"
+        },
+        {
+          "titulo": "Larynx - Cartilages - 3D Anatomy Tutorial",
+          "url": "https://www.youtube.com/watch?v=Z3S2dD9BrSY",
+          "idioma": "en",
+          "duracion": "N/D",
+          "aportacion": "Tutorial anatómico 3D enfocado en cartílagos de la laringe"
+        },
+        {
+          "titulo": "Larynx (Voice Box) - Cartilage, Ligaments, Joints, Wall, Cavity",
+          "url": "https://www.youtube.com/watch?v=4SDETzyJCVI",
+          "idioma": "en",
+          "duracion": "N/D",
+          "aportacion": "Anatomía completa de la laringe: cartílagos, ligamentos, articulaciones, pared y cavidad"
+        },
+        {
+          "titulo": "Anatomy and Physiology of the Voice in Singing",
+          "url": "https://www.youtube.com/watch?v=_Sqz7BkVU4k",
+          "idioma": "en",
+          "duracion": "N/D",
+          "aportacion": "Anatomía y fisiología de laringe en el canto, enfocado en producción de sonido de cuerdas vocales"
+        },
+        {
+          "titulo": "FARINGITIS - estreptocócica, viral, escarlatina",
+          "url": "https://www.youtube.com/watch?v=ionbok_ES0A",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Inflamación del tejido faríngeo: dolor al tragar, fiebre, exudado y tratamiento"
+        },
+        {
+          "titulo": "¿Sirven para algo las amígdalas?",
+          "url": "https://www.youtube.com/watch?v=5Lq8_wh4CLQ",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Explicación del papel de las amígdalas palatinas en el sistema de defensa del organismo"
+        }
+      ]
     },
     {
       "nombre": "Patología de las glándulas salivales",
@@ -160,7 +478,16 @@
           "numero_de_pagina": 90
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Introducción a la imagen del cuello (glándulas salivales, tiroides y paratiroides)",
+          "url": "https://www.youtube.com/watch?v=hKmVIG07Dik",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Indicaciones para métodos de imagen del cuello (USG, TAC, RM) y anatomía seccional del cuello"
+        }
+      ]
     },
     {
       "nombre": "Cirugía maxilofacial",
@@ -192,7 +519,58 @@
           "numero_de_pagina": 95
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "¿Qué trata la Cirugía Oral y Maxilofacial?",
+          "url": "https://www.youtube.com/watch?v=KWNO51gJMuI",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Áreas de cirugía oral, traumatología facial, deformidades faciales, oncología orofaríngea y cirugía plástica facial"
+        },
+        {
+          "titulo": "Tratamientos quirúrgicos para los trastornos de la ATM",
+          "url": "https://www.youtube.com/watch?v=06fKI3Ao6D8",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Animación médica 3D sobre tratamientos quirúrgicos para trastornos temporomandibulares"
+        },
+        {
+          "titulo": "Artroscopia de la articulación temporomandibular (ATM)",
+          "url": "https://www.youtube.com/watch?v=x7780rp5gyk",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Síndrome de Dolor-Disfunción Temporomandibular y técnica de artroscopia de ATM"
+        },
+        {
+          "titulo": "Cirugía Ortognática por Asimetría Facial (Bimaxilar)",
+          "url": "https://www.youtube.com/watch?v=Ztlf6obmch8",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Patologías como hiperplasia condilar mandibular y cirugía ortognática bimaxilar"
+        },
+        {
+          "titulo": "Why are Oral & Maxillofacial Surgeons Ideal for Treating TMJ Disorder?",
+          "url": "https://www.youtube.com/watch?v=6eDh_eOYmVU",
+          "idioma": "en",
+          "duracion": "N/D",
+          "aportacion": "Por qué cirujanos maxilofaciales y especialistas en dolor orofacial son ideales para tratar trastornos de ATM"
+        },
+        {
+          "titulo": "TMJ Arthroscopy - Dr Tofiq Bohra",
+          "url": "https://www.youtube.com/watch?v=ptF45G0MuUQ",
+          "idioma": "en",
+          "duracion": "N/D",
+          "aportacion": "Procedimiento quirúrgico mínimamente invasivo de artroscopia de ATM para diagnóstico y tratamiento"
+        },
+        {
+          "titulo": "What are the Non-Surgical & Surgical Treatment Options for TMJ Disorder?",
+          "url": "https://www.youtube.com/watch?v=hE5-Th5cyFk",
+          "idioma": "en",
+          "duracion": "N/D",
+          "aportacion": "Opciones de tratamiento quirúrgico y no quirúrgico para trastornos de ATM"
+        }
+      ]
     },
     {
       "nombre": "Patología cervical",
@@ -214,7 +592,58 @@
           "numero_de_pagina": 99
         }
       ],
-      "total_paginas": 5
+      "total_paginas": 5,
+      "videos": [
+        {
+          "titulo": "Cáncer de Tiroides: síntomas y tratamiento actual",
+          "url": "https://www.youtube.com/watch?v=GyMXWtXEJTY",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Síntomas del cáncer de tiroides: bultos en cuello, dificultad para tragar, ronquera"
+        },
+        {
+          "titulo": "NÓDULOS TIROIDEOS - Ana Burga (Cirujana de Cabeza y Cuello)",
+          "url": "https://www.youtube.com/watch?v=TrwrXafe5_g",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Información sobre nódulos tiroideos por especialista en cirugía de cabeza y cuello"
+        },
+        {
+          "titulo": "Cáncer de tiroides - Nucleushealth",
+          "url": "https://www.youtube.com/watch?v=UXQG6ziGjkE",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Imágenes médicas en 3D con precisión científica sobre cáncer de tiroides"
+        },
+        {
+          "titulo": "PATOLOGÍA TIROIDEA PARTE 1 - ENDOCRINOLOGÍA - VILLAMEDIC",
+          "url": "https://www.youtube.com/watch?v=lrjWQLf_hhY",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Glándula tiroides como glándula endocrina que produce hormonas, ubicación y función"
+        },
+        {
+          "titulo": "CÁNCER DE TIROIDES: diagnóstico, tratamiento, síntomas, causas",
+          "url": "https://www.youtube.com/watch?v=1w_N7uE4cbY",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Explicación completa por secretario general de SEORL-CCC sobre realización de diagnóstico y tratamiento"
+        },
+        {
+          "titulo": "Exploración física del tiroides",
+          "url": "https://www.youtube.com/watch?v=UIEx-sDSDRI",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Técnica de exploración física de la glándula tiroides"
+        },
+        {
+          "titulo": "Cáncer de Tiroides: detección temprana y opciones de tratamiento",
+          "url": "https://www.youtube.com/watch?v=CtaREGz0vEs",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Detección temprana con cambios en voz, dificultad para tragar o masas en cuello, diagnóstico y tratamiento"
+        }
+      ]
     }
   ]
 }

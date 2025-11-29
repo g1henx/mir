@@ -41,7 +41,107 @@
           "numero_de_pagina": 28
         }
       ],
-      "total_paginas": 30
+      "total_paginas": 30,
+      "videos": [
+        {
+          "titulo": "Traumatología: Fracturas | Generalidades, Clasificación, Consolidación Primaria y Secundaria",
+          "url": "https://www.youtube.com/watch?v=Tsk7O0gO6cI",
+          "idioma": "es",
+          "duracion": "",
+          "aportacion": "Visión completa sobre estructura ósea, tipos de fracturas y tipos de consolidación primaria y secundaria"
+        },
+        {
+          "titulo": "Consolidación de las Fracturas - Tiempo, Fases",
+          "url": "https://www.youtube.com/watch?v=uvCAgoarIG8",
+          "idioma": "es",
+          "duracion": "",
+          "aportacion": "Explicación detallada del proceso de consolidación paso a paso con sus fases temporales"
+        },
+        {
+          "titulo": "Proceso de consolidación de los huesos o consolidación de las fracturas",
+          "url": "https://www.youtube.com/watch?v=OeKMBxmGKo8",
+          "idioma": "es",
+          "duracion": "",
+          "aportacion": "Video educativo sobre el proceso biológico de consolidación ósea con alta resolución"
+        },
+        {
+          "titulo": "Traumatología 3.1: fracturas y consolidación ósea (primera parte)",
+          "url": "https://www.youtube.com/watch?v=-uKGHctwk0M",
+          "idioma": "es",
+          "duracion": "",
+          "aportacion": "Material de estudio sobre fracturas y consolidación con enfoque académico"
+        },
+        {
+          "titulo": "Consolidación ósea",
+          "url": "https://www.youtube.com/watch?v=W7fK4pLCnT0",
+          "idioma": "es",
+          "duracion": "",
+          "aportacion": "Tema básico de consolidación ósea presentado por especialistas"
+        },
+        {
+          "titulo": "FRACTURAS - Tipos, CONSOLIDACIÓN y TRATAMIENTO",
+          "url": "https://www.youtube.com/watch?v=6aDzqd1JVPY",
+          "idioma": "es",
+          "duracion": "",
+          "aportacion": "Explicación completa de tipos de fracturas, su consolidación y opciones de tratamiento"
+        },
+        {
+          "titulo": "Fracturas 'especiales', luxaciones y consolidación",
+          "url": "https://www.youtube.com/watch?v=3qAgIGd5aP8",
+          "idioma": "es",
+          "duracion": "",
+          "aportacion": "Cubre fracturas osteocondrales, por avulsión, sobrecarga e insuficiencia"
+        },
+        {
+          "titulo": "Fracturas expuestas - Traumatología - Repaso Brutal",
+          "url": "https://www.youtube.com/watch?v=DQNwF_s9Te4",
+          "idioma": "es",
+          "duracion": "",
+          "aportacion": "Enfoque específico en fracturas expuestas para preparación MIR"
+        },
+        {
+          "titulo": "Fracturas ABIERTAS: CLASIFICACION GUSTILO",
+          "url": "https://www.youtube.com/watch?v=2M7eKagx9Ow",
+          "idioma": "es",
+          "duracion": "",
+          "aportacion": "Clasificación de Gustilo para fracturas abiertas explicada detalladamente"
+        },
+        {
+          "titulo": "Fracturas Expuestas: Clasificación de Gustilo y Anderson",
+          "url": "https://www.youtube.com/watch?v=gUKfPzt3ej0",
+          "idioma": "es",
+          "duracion": "",
+          "aportacion": "Perspectiva ortopédica de la clasificación de fracturas expuestas"
+        },
+        {
+          "titulo": "Fat Embolism - Everything You Need To Know",
+          "url": "https://www.youtube.com/watch?v=xmhhMUCTpJs",
+          "idioma": "en",
+          "duracion": "",
+          "aportacion": "Explicación de embolia grasa como complicación de fracturas de huesos largos"
+        },
+        {
+          "titulo": "Fat Embolism Syndrome - Everything You Need To Know",
+          "url": "https://www.youtube.com/watch?v=qqzRtNC6c0Q",
+          "idioma": "en",
+          "duracion": "",
+          "aportacion": "Descripción del síndrome de embolia grasa y sus manifestaciones clínicas"
+        },
+        {
+          "titulo": "Compartment Syndrome in Nursing",
+          "url": "https://www.youtube.com/watch?v=R9Drgo1xMqg",
+          "idioma": "en",
+          "duracion": "",
+          "aportacion": "Signos y síntomas importantes del síndrome compartimental como complicación mayor"
+        },
+        {
+          "titulo": "Fracturas de codo, radio y cúbito - Tratamiento y cuidados",
+          "url": "https://www.youtube.com/watch?v=QLpfVZhnTQA",
+          "idioma": "es",
+          "duracion": "",
+          "aportacion": "Tratamiento específico de fracturas del miembro superior con cuidados de recuperación"
+        }
+      ]
     },
     {
       "nombre": "Luxaciones",
@@ -93,7 +193,65 @@
           "numero_de_pagina": 37
         }
       ],
-      "total_paginas": 8
+      "total_paginas": 8,
+      "videos": [
+        {
+          "titulo": "A New Posterior Shoulder Dislocation Reduction Technique",
+          "url": "https://www.youtube.com/watch?v=IANtyQ1cTT4",
+          "idioma": "en",
+          "duracion": "",
+          "aportacion": "Nueva técnica extremadamente fácil para reducir luxaciones posteriores de hombro"
+        },
+        {
+          "titulo": "Reduction of Inferior Shoulder Dislocation",
+          "url": "https://www.youtube.com/watch?v=k_ORI51luFI",
+          "idioma": "en",
+          "duracion": "",
+          "aportacion": "Técnica específica para reducir luxaciones inferiores de hombro"
+        },
+        {
+          "titulo": "Shoulder Dislocation Reduction Techniques - ECREM FOAMed",
+          "url": "https://www.youtube.com/watch?v=WBMP9tqoNGo",
+          "idioma": "en",
+          "duracion": "",
+          "aportacion": "Múltiples técnicas comunes para reducir luxaciones anteriores de hombro en urgencias"
+        },
+        {
+          "titulo": "Anterior Shoulder Dislocation Reduction Methods",
+          "url": "https://www.youtube.com/watch?v=FvBlk9JF8ms",
+          "idioma": "en",
+          "duracion": "",
+          "aportacion": "Varios métodos de reducción con y sin analgesia demostrados por especialistas"
+        },
+        {
+          "titulo": "Reducing a shoulder with the Cunningham technique",
+          "url": "https://www.youtube.com/watch?v=yiA3x02CMQA",
+          "idioma": "en",
+          "duracion": "",
+          "aportacion": "Método que no requiere sedación ni fuerza, descrito en 2003"
+        },
+        {
+          "titulo": "Twelve Reduction Techniques for Shoulder Dislocations",
+          "url": "https://www.youtube.com/watch?v=dUbaZ_y-kUw",
+          "idioma": "en",
+          "duracion": "",
+          "aportacion": "Revisión completa de 12 técnicas diferentes de reducción de hombro"
+        },
+        {
+          "titulo": "The FARES Method for Anterior Shoulder Dislocation Reduction",
+          "url": "https://www.youtube.com/watch?v=grdhARe0H4Y",
+          "idioma": "en",
+          "duracion": "",
+          "aportacion": "Método más fácil y exitoso para reducción de luxación anterior de hombro"
+        },
+        {
+          "titulo": "Shoulder Reduction Techniques - Teaching Progression, Clinical Example",
+          "url": "https://www.youtube.com/watch?v=HGIjEEg_PQQ",
+          "idioma": "en",
+          "duracion": "",
+          "aportacion": "Progresión didáctica desde Cunningham a elevación anterior con ejemplo clínico real"
+        }
+      ]
     },
     {
       "nombre": "Lesiones traumáticas e inflamatorias de partes blandas",
@@ -125,7 +283,58 @@
           "numero_de_pagina": 49
         }
       ],
-      "total_paginas": 12
+      "total_paginas": 12,
+      "videos": [
+        {
+          "titulo": "Understand Knee Ligament Injuries (ACL, PCL, MCL, LCL) - 3D animation",
+          "url": "https://www.youtube.com/watch?v=faE8OCnYkKk",
+          "idioma": "en",
+          "duracion": "",
+          "aportacion": "Visión general de anatomía, función y lesiones de los ligamentos de rodilla"
+        },
+        {
+          "titulo": "What are the Differences Between ACL And Meniscal Injuries?",
+          "url": "https://www.youtube.com/watch?v=5CUkkYz_5To",
+          "idioma": "en",
+          "duracion": "",
+          "aportacion": "Puntos clave subjetivos y objetivos para diferenciar LCA de lesión meniscal"
+        },
+        {
+          "titulo": "How to Tell if Knee Pain is Meniscus or Ligament Injury",
+          "url": "https://www.youtube.com/watch?v=PA1IgaJhx4o",
+          "idioma": "en",
+          "duracion": "",
+          "aportacion": "Guía práctica para distinguir entre dolor meniscal y ligamentoso"
+        },
+        {
+          "titulo": "Shoulder Impingement vs Rotator Cuff Tendonitis vs Rotator Cuff Tear",
+          "url": "https://www.youtube.com/watch?v=NNfiFeIUIQA",
+          "idioma": "en",
+          "duracion": "",
+          "aportacion": "Diferenciación entre síndrome de pinzamiento, tendinitis y rotura del manguito rotador"
+        },
+        {
+          "titulo": "Rotator Cuff Tear Rehab & Exercises",
+          "url": "https://www.youtube.com/watch?v=1Wy8jh4QQH8",
+          "idioma": "en",
+          "duracion": "",
+          "aportacion": "Rehabilitación y ejercicios para dolor de hombro, tendinitis y pinzamiento"
+        },
+        {
+          "titulo": "How we repair Achilles tendon ruptures today",
+          "url": "https://www.youtube.com/watch?v=Go4IbK7sPhQ",
+          "idioma": "en",
+          "duracion": "",
+          "aportacion": "Visión general moderna de reparación de roturas del tendón de Aquiles"
+        },
+        {
+          "titulo": "Achilles Tendon Rupture Rehab - Education, Stretching & Strengthening",
+          "url": "https://www.youtube.com/watch?v=CdHUiKInqtI",
+          "idioma": "en",
+          "duracion": "",
+          "aportacion": "Discusión sobre cirugía y rehabilitación completa de rotura de Aquiles"
+        }
+      ]
     },
     {
       "nombre": "Sistema nervioso periférico",
@@ -147,7 +356,44 @@
           "numero_de_pagina": 53
         }
       ],
-      "total_paginas": 8
+      "total_paginas": 8,
+      "videos": [
+        {
+          "titulo": "Brachial Plexus Injuries: Key Causes, Symptoms, and Nerve Involvement",
+          "url": "https://www.youtube.com/watch?v=HDq7Wxn3lWc",
+          "idioma": "en",
+          "duracion": "",
+          "aportacion": "Causas, síntomas y afectación nerviosa en lesiones del plexo braquial"
+        },
+        {
+          "titulo": "Upper Extremity Nerve Injuries",
+          "url": "https://www.youtube.com/watch?v=Orr4KPUr9Ck",
+          "idioma": "en",
+          "duracion": "",
+          "aportacion": "Lesiones nerviosas del miembro superior de forma educativa y gratuita"
+        },
+        {
+          "titulo": "NERVE INJURY IN THE UPPER EXTREMITY - Common nerve injuries",
+          "url": "https://www.youtube.com/watch?v=XiHrSxMx3hI",
+          "idioma": "en",
+          "duracion": "",
+          "aportacion": "Lesiones nerviosas comunes: torácico largo, axilar, radial, mediano y cubital"
+        },
+        {
+          "titulo": "Neurology | Brachial Plexus",
+          "url": "https://www.youtube.com/watch?v=UlDFSlRBeCE",
+          "idioma": "en",
+          "duracion": "",
+          "aportacion": "Anatomía y organización completa del plexo braquial por Ninja Nerd"
+        },
+        {
+          "titulo": "Median, Ulnar, Radial Nerve Injuries | Simple Tricks",
+          "url": "https://www.youtube.com/watch?v=zuJEXdAdnyk",
+          "idioma": "en",
+          "duracion": "",
+          "aportacion": "Trucos simples para recordar lesiones de nervios mediano, cubital y radial"
+        }
+      ]
     },
     {
       "nombre": "Tumores y lesiones óseas seudotumorales. Tumores de partes blandas",
@@ -174,7 +420,51 @@
           "numero_de_pagina": 63
         }
       ],
-      "total_paginas": 12
+      "total_paginas": 12,
+      "videos": [
+        {
+          "titulo": "Orthopedic Oncology Course - Malignant Bone Forming Tumors (Osteosarcoma)",
+          "url": "https://www.youtube.com/watch?v=qcPG7PSmPFg",
+          "idioma": "en",
+          "duracion": "",
+          "aportacion": "Características clínicas, radiográficas y patológicas del osteosarcoma y variantes"
+        },
+        {
+          "titulo": "Bone Tumor Pathology 101: Osteosarcoma, Chondrosarcoma, and Mimics",
+          "url": "https://www.youtube.com/watch?v=bJViw-Z39x8",
+          "idioma": "en",
+          "duracion": "",
+          "aportacion": "Patología de tumores óseos con diapositivas digitales y muestras organizadas"
+        },
+        {
+          "titulo": "Malignant Tumours of Bone - Osteosarcoma and Chondrosarcoma",
+          "url": "https://www.youtube.com/watch?v=IhKlIreZJPM",
+          "idioma": "en",
+          "duracion": "",
+          "aportacion": "Tumores malignos primarios, tipos de osteosarcoma y condrosarcoma"
+        },
+        {
+          "titulo": "Bone Tumors - Osteosarcoma, Ewing Sarcoma, Giant Cell Tumor, Chondrosarcoma",
+          "url": "https://www.youtube.com/watch?v=MbXdkn-B_Hw",
+          "idioma": "en",
+          "duracion": "",
+          "aportacion": "Patología y oncología de principales tumores óseos malignos"
+        },
+        {
+          "titulo": "Orthopedic Oncology Course - Malignant Cartilage Tumors (Chondrosarcoma)",
+          "url": "https://www.youtube.com/watch?v=Z1ARGppMB7g",
+          "idioma": "en",
+          "duracion": "",
+          "aportacion": "Características clínicas, radiográficas y patológicas de tumores cartilaginosos malignos"
+        },
+        {
+          "titulo": "Osteosarcoma or Bone Cancer - Yale Medicine Explains",
+          "url": "https://www.youtube.com/watch?v=57mh9jfnkps",
+          "idioma": "en",
+          "duracion": "",
+          "aportacion": "Explicación de la forma más común de cáncer de hueso por Yale Medicine"
+        }
+      ]
     },
     {
       "nombre": "Ortopedia infantil y del adolescente",
@@ -216,7 +506,79 @@
           "numero_de_pagina": 84
         }
       ],
-      "total_paginas": 16
+      "total_paginas": 16,
+      "videos": [
+        {
+          "titulo": "Developmental dysplasia of hip (DDH), Perthes disease and SCFE",
+          "url": "https://www.youtube.com/watch?v=8nKYCcyKaXw",
+          "idioma": "en",
+          "duracion": "",
+          "aportacion": "Patologías pélvicas pediátricas: displasia de cadera, Perthes y epifisiolisis"
+        },
+        {
+          "titulo": "Explaining Infant Hip Dysplasia with Wudbhav N. Sankar, MD",
+          "url": "https://www.youtube.com/watch?v=whDkHL8xeao",
+          "idioma": "en",
+          "duracion": "",
+          "aportacion": "Displasia de cadera en bebés por líder internacional en esta condición"
+        },
+        {
+          "titulo": "Developmental Dysplasia of the Hip (DDH): Pediatric Nursing",
+          "url": "https://www.youtube.com/watch?v=kGVZXKtcHNg",
+          "idioma": "en",
+          "duracion": "",
+          "aportacion": "Factores de riesgo, signos, síntomas, diagnóstico y tratamiento de DDH"
+        },
+        {
+          "titulo": "Surgical Treatment for Dysplastic Hip | Cincinnati Children's",
+          "url": "https://www.youtube.com/watch?v=opmXGMt6CUQ",
+          "idioma": "en",
+          "duracion": "",
+          "aportacion": "Animación médica de cómo reparar quirúrgicamente la displasia de cadera"
+        },
+        {
+          "titulo": "Developmental dysplasia of the hip - Boston Children's Hospital",
+          "url": "https://www.youtube.com/watch?v=NiKOHRy8BNg",
+          "idioma": "en",
+          "duracion": "",
+          "aportacion": "Respuestas a preocupaciones de padres sobre DDH por centro ortopédico"
+        },
+        {
+          "titulo": "clubfoot / talipes equinovarus / TEV",
+          "url": "https://www.youtube.com/watch?v=4pIfWquXtdA",
+          "idioma": "en",
+          "duracion": "",
+          "aportacion": "Etiología, presentación clínica, incidencia, tipos y manejo del pie zambo"
+        },
+        {
+          "titulo": "Clubfoot in Children with Dr. Erin Honcharuk",
+          "url": "https://www.youtube.com/watch?v=ImCnkYuYNAs",
+          "idioma": "en",
+          "duracion": "",
+          "aportacion": "Preguntas frecuentes sobre pie zambo: qué buscar y tratamientos comunes"
+        },
+        {
+          "titulo": "Clubfoot: Clinical Nursing Care",
+          "url": "https://www.youtube.com/watch?v=BUxpO1BrhB0",
+          "idioma": "en",
+          "duracion": "",
+          "aportacion": "Deformidad congénita compleja que involucra tobillo y pie con cuidados clínicos"
+        },
+        {
+          "titulo": "The Ponseti Method to treat congenital talipes equinovarus",
+          "url": "https://www.youtube.com/watch?v=7sZ_rABPyps",
+          "idioma": "en",
+          "duracion": "",
+          "aportacion": "Método Ponseti para tratar niños con pie zambo congénito"
+        },
+        {
+          "titulo": "Club foot / Talipes equinovarus: Causes, Symptoms, Diagnosis and Treatment",
+          "url": "https://www.youtube.com/watch?v=PabItKvmk-E",
+          "idioma": "en",
+          "duracion": "",
+          "aportacion": "Defecto de nacimiento completo: causas, síntomas, diagnóstico y tratamiento"
+        }
+      ]
     },
     {
       "nombre": "Cirugía reconstructiva del adulto",
@@ -253,7 +615,51 @@
           "numero_de_pagina": 94
         }
       ],
-      "total_paginas": 8
+      "total_paginas": 8,
+      "videos": [
+        {
+          "titulo": "Total Hip Replacement - WHAT you need to know",
+          "url": "https://www.youtube.com/watch?v=xJPCgFkH6JA",
+          "idioma": "en",
+          "duracion": "",
+          "aportacion": "Qué es un reemplazo de cadera y cómo se realiza la cirugía"
+        },
+        {
+          "titulo": "Finding Relief: Advancements in Hip and Knee Replacements",
+          "url": "https://www.youtube.com/watch?v=HBhk-4YjX8M",
+          "idioma": "en",
+          "duracion": "",
+          "aportacion": "Avances en reemplazos articulares de cadera y rodilla por expertos"
+        },
+        {
+          "titulo": "Arthritis Symptoms, Joint Replacement, and Surgical Recovery Explained",
+          "url": "https://www.youtube.com/watch?v=xuHqd0YZXcc",
+          "idioma": "en",
+          "duracion": "",
+          "aportacion": "Qué es artritis, cómo afecta articulaciones y tratamientos incluyendo reemplazo"
+        },
+        {
+          "titulo": "Preparing for total hip or total knee replacement surgery - online class",
+          "url": "https://www.youtube.com/watch?v=6xnlgJtFDP4",
+          "idioma": "en",
+          "duracion": "",
+          "aportacion": "Clase sobre artritis, reemplazo articular y preparación para cirugía"
+        },
+        {
+          "titulo": "Minimally Invasive Techniques for Total Hip & Knee Replacement Surgery",
+          "url": "https://www.youtube.com/watch?v=eipTeAVX6_4",
+          "idioma": "en",
+          "duracion": "",
+          "aportacion": "Técnicas mínimamente invasivas para reemplazo de cadera y rodilla"
+        },
+        {
+          "titulo": "Total Hip Replacement in 2025: What's the Latest?",
+          "url": "https://www.youtube.com/watch?v=2p0jJKdd03Q",
+          "idioma": "en",
+          "duracion": "",
+          "aportacion": "Visión general actualizada de reemplazo total de cadera con preguntas de pacientes"
+        }
+      ]
     },
     {
       "nombre": "Patología de la columna vertebral",
@@ -280,7 +686,51 @@
           "numero_de_pagina": 103
         }
       ],
-      "total_paginas": 12
+      "total_paginas": 12,
+      "videos": [
+        {
+          "titulo": "Vertebral Compression Fractures | Pain and Spine Specialists",
+          "url": "https://www.youtube.com/watch?v=19tM4wT-Www",
+          "idioma": "en",
+          "duracion": "",
+          "aportacion": "Lesión espinal cuando uno o más huesos de la columna colapsan"
+        },
+        {
+          "titulo": "Understanding Vertebral Compression Fractures",
+          "url": "https://www.youtube.com/watch?v=NcdA9r4ioe8",
+          "idioma": "en",
+          "duracion": "",
+          "aportacion": "Explicación sobre fracturas por compresión vertebral con preguntas de audiencia"
+        },
+        {
+          "titulo": "Adult Spinal Deformity and Scoliosis",
+          "url": "https://www.youtube.com/watch?v=CZUS20KwNkc",
+          "idioma": "en",
+          "duracion": "",
+          "aportacion": "Manejo quirúrgico de deformidad espinal adulta y escoliosis"
+        },
+        {
+          "titulo": "Adult Scoliosis and Spinal Deformity Surgery Update | UCSF",
+          "url": "https://www.youtube.com/watch?v=DyH-qHmlcZg",
+          "idioma": "en",
+          "duracion": "",
+          "aportacion": "Actualización de cirugía de escoliosis adulta por especialistas de UCSF"
+        },
+        {
+          "titulo": "Surgery for Degenerative Spondylolisthesis with Spinal Stenosis",
+          "url": "https://www.youtube.com/watch?v=jwjrZQ-xzGo",
+          "idioma": "en",
+          "duracion": "",
+          "aportacion": "Cirugía para espondilolistesis degenerativa con estenosis espinal"
+        },
+        {
+          "titulo": "Lumbar Spondylolisthesis - Anatomy, Symptoms, Causes, Treatments",
+          "url": "https://www.youtube.com/watch?v=cxFtl-JtFzA",
+          "idioma": "en",
+          "duracion": "",
+          "aportacion": "Visión completa de espondilolistesis lumbar: anatomía, síntomas y tratamientos"
+        }
+      ]
     }
   ]
 }

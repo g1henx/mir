@@ -21,7 +21,30 @@
           "numero_de_pagina": 4
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "Vías aéreas superiores e inferiores: Anatomía y funciones",
+          "url": "https://www.youtube.com/watch?v=sRqVdW_nxhI",
+          "idioma": "español",
+          "duracion": "media",
+          "aportacion": "Explicación completa de la división del sistema respiratorio en segmentos superior e inferior, con énfasis en la anatomía funcional de cada componente"
+        },
+        {
+          "titulo": "APARATO RESPIRATORIO - Anatomía y Fisiología",
+          "url": "https://www.youtube.com/watch?v=_-WCmdfSQyQ",
+          "idioma": "español",
+          "duracion": "media",
+          "aportacion": "Revisión anatómica y fisiológica completa del aparato respiratorio, cubriendo estructuras y funciones del pulmón y vías respiratorias"
+        },
+        {
+          "titulo": "Anatomy and physiology of the respiratory system",
+          "url": "https://www.youtube.com/watch?v=0fVoz0V75_E",
+          "idioma": "inglés",
+          "duracion": "media",
+          "aportacion": "Presentación en inglés de los órganos responsables del intercambio gaseoso, ideal para perspectiva internacional y terminología médica en inglés"
+        }
+      ]
     },
     {
       "nombre": "Síntomas cardinales y exploración del aparato respiratorio",
@@ -43,7 +66,37 @@
           "numero_de_pagina": 7
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Exploración de Tórax y Ruidos Respiratorios [Detallado]",
+          "url": "https://www.youtube.com/watch?v=zI2fvTLPwpA",
+          "idioma": "español",
+          "duracion": "larga",
+          "aportacion": "Explicación detallada de las técnicas de exploración torácica con identificación de ruidos respiratorios normales y patológicos"
+        },
+        {
+          "titulo": "Examen físico del Aparato Respiratorio | Semiología",
+          "url": "https://www.youtube.com/watch?v=Fq-8U15AFxw",
+          "idioma": "español",
+          "duracion": "media",
+          "aportacion": "Demostración práctica del examen físico completo del aparato respiratorio, incluyendo inspección, palpación, percusión y auscultación"
+        },
+        {
+          "titulo": "Respiratory Examination | OSCE Guide",
+          "url": "https://www.youtube.com/watch?v=gRWSyqatWQQ",
+          "idioma": "inglés",
+          "duracion": "media",
+          "aportacion": "Guía completa para examen respiratorio en formato OSCE, con técnicas sistemáticas de evaluación clínica"
+        },
+        {
+          "titulo": "The Pulmonary Physical Examination",
+          "url": "https://www.youtube.com/watch?v=rrsnaVoZklU",
+          "idioma": "inglés",
+          "duracion": "media",
+          "aportacion": "Examen físico pulmonar completo con enfoque en hallazgos semiológicos y su interpretación clínica"
+        }
+      ]
     },
     {
       "nombre": "Malformaciones",
@@ -60,7 +113,30 @@
           "numero_de_pagina": 13
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "MALFORMACIONES PULMONARES CONGÉNITAS",
+          "url": "https://www.youtube.com/watch?v=FELvmOZBFoE",
+          "idioma": "español",
+          "duracion": "media",
+          "aportacion": "Revisión de malformaciones pulmonares congénitas, su clasificación y características clínicas"
+        },
+        {
+          "titulo": "Malformaciones congénitas de la pared torácica",
+          "url": "https://www.youtube.com/watch?v=ZfXzMwNpAow",
+          "idioma": "español",
+          "duracion": "media",
+          "aportacion": "Enfoque específico en deformidades de la pared torácica como pectus excavatum y carinatum"
+        },
+        {
+          "titulo": "Understanding Pectus and Chest Wall Deformities",
+          "url": "https://www.youtube.com/watch?v=J307Q4vVP_M",
+          "idioma": "inglés",
+          "duracion": "media",
+          "aportacion": "Explicación comprensiva de las deformidades de la pared torácica, opciones de tratamiento y manejo clínico"
+        }
+      ]
     },
     {
       "nombre": "Fisiología y fisiopatología",
@@ -87,7 +163,58 @@
           "numero_de_pagina": 21
         }
       ],
-      "total_paginas": 14
+      "total_paginas": 14,
+      "videos": [
+        {
+          "titulo": "Anatomía y Fisiología Respiratoria Explicado Claramente",
+          "url": "https://www.youtube.com/watch?v=hCzSKC9mjHo",
+          "idioma": "español",
+          "duracion": "larga",
+          "aportacion": "Revisión completa de anatomía, mecánica ventilatoria, elasticidad pulmonar y tensión superficial con surfactante, organizado por secciones claras"
+        },
+        {
+          "titulo": "Intercambio Gaseoso Pulmonar (Hematosis)",
+          "url": "https://www.youtube.com/watch?v=TAx8n8_qZig",
+          "idioma": "español",
+          "duracion": "media",
+          "aportacion": "Explicación detallada del proceso de intercambio gaseoso alveolar y hematosis pulmonar"
+        },
+        {
+          "titulo": "Clase 37 Fisiología Respiratoria - Ventilación Pulmonar",
+          "url": "https://www.youtube.com/watch?v=QkPfGcdf_40",
+          "idioma": "español",
+          "duracion": "media",
+          "aportacion": "Clase completa sobre ventilación pulmonar, mecánica respiratoria y volúmenes pulmonares"
+        },
+        {
+          "titulo": "Pulmonary Gas Exchange Part I",
+          "url": "https://www.youtube.com/watch?v=qLroD-Qcg4o",
+          "idioma": "inglés",
+          "duracion": "media",
+          "aportacion": "Conferencia del Dr. John B West sobre intercambio gaseoso pulmonar, referencia internacional en fisiología respiratoria"
+        },
+        {
+          "titulo": "Ventilation and Perfusion (V:Q Ratio) Physiology",
+          "url": "https://www.youtube.com/watch?v=-mL_NQ3pKnA",
+          "idioma": "inglés",
+          "duracion": "media",
+          "aportacion": "Explicación del ratio ventilación-perfusión y su importancia en el intercambio gaseoso eficiente"
+        },
+        {
+          "titulo": "Circulación pulmonar",
+          "url": "https://www.youtube.com/watch?v=gl5xUhn_GG0",
+          "idioma": "español",
+          "duracion": "corta",
+          "aportacion": "Introducción a la circulación pulmonar y sus características únicas respecto a la circulación sistémica"
+        },
+        {
+          "titulo": "Respiratory Physiology - Playlist completa",
+          "url": "https://www.youtube.com/playlist?list=PLTF9h-T1TcJjdJppplKVsgPWNQ_beElaG",
+          "idioma": "inglés",
+          "duracion": "variable",
+          "aportacion": "Serie completa de videos sobre fisiología respiratoria incluyendo mecánica respiratoria, difusión y flujo sanguíneo pulmonar"
+        }
+      ]
     },
     {
       "nombre": "Insuficiencia respiratoria",
@@ -129,7 +256,51 @@
           "numero_de_pagina": 33
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "VENTILACIÓN MECÁNICA en SDRA | Nueva definición y manejo",
+          "url": "https://www.youtube.com/watch?v=QjrN2Pcts3Q",
+          "idioma": "español",
+          "duracion": "media",
+          "aportacion": "Actualización sobre la nueva definición de SDRA y estrategias de ventilación mecánica basadas en evidencia"
+        },
+        {
+          "titulo": "SDRA: Síndrome de Dificultad Respiratoria Aguda - Parte 2",
+          "url": "https://www.youtube.com/watch?v=eyXljYBM69U",
+          "idioma": "español",
+          "duracion": "media",
+          "aportacion": "Segunda parte enfocada en el tratamiento del SDRA con énfasis en ventilación mecánica protectora"
+        },
+        {
+          "titulo": "Ventilación Mecánica No Invasiva en SDRA",
+          "url": "https://www.youtube.com/watch?v=EjhDQkkitMk",
+          "idioma": "español",
+          "duracion": "media",
+          "aportacion": "Consideraciones especiales para el uso de ventilación no invasiva en pacientes con SDRA y cuándo intubar"
+        },
+        {
+          "titulo": "Acute Respiratory Distress Syndrome (ARDS) | Clinical Medicine",
+          "url": "https://www.youtube.com/watch?v=bXWksu3APic",
+          "idioma": "inglés",
+          "duracion": "larga",
+          "aportacion": "Revisión completa del SDRA incluyendo ventilación mecánica, manejo de fluidos y posición prono"
+        },
+        {
+          "titulo": "Introduction to ARDS in mechanical ventilation",
+          "url": "https://www.youtube.com/watch?v=tarWCSbdcGA",
+          "idioma": "inglés",
+          "duracion": "media",
+          "aportacion": "Introducción al manejo ventilatorio del SDRA con configuraciones y modos ventilatorios"
+        },
+        {
+          "titulo": "Ventilatory Management in ARDS and Protective Lung Strategy",
+          "url": "https://www.youtube.com/watch?v=V8uhJSd5NWQ",
+          "idioma": "inglés",
+          "duracion": "media",
+          "aportacion": "Estrategia de protección pulmonar en SDRA para prevenir daño pulmonar inducido por ventilador"
+        }
+      ]
     },
     {
       "nombre": "Enfermedad pulmonar obstructiva crónica",
@@ -181,7 +352,65 @@
           "numero_de_pagina": 45
         }
       ],
-      "total_paginas": 12
+      "total_paginas": 12,
+      "videos": [
+        {
+          "titulo": "Enfermedad Pulmonar Obstructiva Crónica (EPOC)",
+          "url": "https://www.youtube.com/watch?v=YeIZsJXUwxo",
+          "idioma": "español",
+          "duracion": "corta",
+          "aportacion": "Introducción a la EPOC con tipos, factores de riesgo y manifestaciones clínicas principales"
+        },
+        {
+          "titulo": "Enfermedad pulmonar obstructiva crónica (EPOC)",
+          "url": "https://www.youtube.com/watch?v=_6nIViulmcM",
+          "idioma": "español",
+          "duracion": "media",
+          "aportacion": "Explicación de síntomas característicos como tos crónica y expectoración, con enfoque en prevención"
+        },
+        {
+          "titulo": "Enfermedad pulmonar obstructiva crónica: tratamiento y factores de riesgo",
+          "url": "https://www.youtube.com/watch?v=4w5SsZo5pbc",
+          "idioma": "español",
+          "duracion": "media",
+          "aportacion": "Enfoque en factores de riesgo modificables y opciones terapéuticas actuales para la EPOC"
+        },
+        {
+          "titulo": "Vivir con EPOC: entender las etapas de la EPOC",
+          "url": "https://www.youtube.com/watch?v=DGUht2x4NgA",
+          "idioma": "español",
+          "duracion": "media",
+          "aportacion": "Clasificación por estadios de la EPOC y cómo la enfermedad progresa con el tiempo"
+        },
+        {
+          "titulo": "Chronic Obstructive Pulmonary Disease (COPD) | Clinical Medicine",
+          "url": "https://www.youtube.com/watch?v=W45U1pslKVI",
+          "idioma": "inglés",
+          "duracion": "larga",
+          "aportacion": "Revisión clínica completa de EPOC incluyendo diagnóstico diferencial y decisiones terapéuticas como inicio de oxigenoterapia"
+        },
+        {
+          "titulo": "Understanding COPD - cause, pathophysiology and treatment",
+          "url": "https://www.youtube.com/watch?v=XBg6hxGgyS4",
+          "idioma": "inglés",
+          "duracion": "media",
+          "aportacion": "Explicación de la patogénesis de la EPOC y relación entre enfisema y bronquitis crónica"
+        },
+        {
+          "titulo": "Chronic Obstructive Pulmonary Disease (COPD)",
+          "url": "https://www.youtube.com/watch?v=ijLIOa3b9BA",
+          "idioma": "inglés",
+          "duracion": "media",
+          "aportacion": "Tipos de EPOC, factores de riesgo y tratamientos incluyendo broncodilatadores y rehabilitación pulmonar"
+        },
+        {
+          "titulo": "How To Manage COPD Symptoms",
+          "url": "https://www.youtube.com/watch?v=hhtVTQlFblk",
+          "idioma": "inglés",
+          "duracion": "media",
+          "aportacion": "Manejo práctico de síntomas de EPOC con consejos de expertos de Cleveland Clinic"
+        }
+      ]
     },
     {
       "nombre": "Asma",
@@ -233,7 +462,72 @@
           "numero_de_pagina": 59
         }
       ],
-      "total_paginas": 14
+      "total_paginas": 14,
+      "videos": [
+        {
+          "titulo": "Crisis Asmática | Manifestaciones clínicas, Diagnóstico y Tratamiento",
+          "url": "https://www.youtube.com/watch?v=gFmoqGovVV4",
+          "idioma": "español",
+          "duracion": "media",
+          "aportacion": "Manejo de la crisis asmática aguda con enfoque en diagnóstico y tratamiento de emergencia"
+        },
+        {
+          "titulo": "MANEJO DE CRISIS ASMÁTICA EN EMERGENCIA",
+          "url": "https://www.youtube.com/watch?v=ta0ovHDhwKo",
+          "idioma": "español",
+          "duracion": "media",
+          "aportacion": "Protocolo de manejo de crisis asmática en el servicio de emergencia"
+        },
+        {
+          "titulo": "Manejo de asma y crisis asmáticas",
+          "url": "https://www.youtube.com/watch?v=95Q--UN_x_s",
+          "idioma": "español",
+          "duracion": "larga",
+          "aportacion": "Revisión completa del manejo del asma estable y descompensaciones agudas en pediatría"
+        },
+        {
+          "titulo": "Tratamiento del Asma Bronquial: ¡Conozcamos lo más reciente!",
+          "url": "https://www.youtube.com/watch?v=YSxHVWk2Ge8",
+          "idioma": "español",
+          "duracion": "media",
+          "aportacion": "Actualización sobre tratamientos modernos del asma incluyendo nuevas terapias biológicas"
+        },
+        {
+          "titulo": "Understanding Asthma - pathophysiology and treatment",
+          "url": "https://www.youtube.com/watch?v=rkkDtwItWDk",
+          "idioma": "inglés",
+          "duracion": "media",
+          "aportacion": "Explicación de la fisiopatología del asma incluyendo inflamación, broncoconstricción e hiperreactividad"
+        },
+        {
+          "titulo": "Asthma | Clinical Medicine",
+          "url": "https://www.youtube.com/watch?v=P7Fkg7_yXL0",
+          "idioma": "inglés",
+          "duracion": "larga",
+          "aportacion": "Revisión clínica completa del asma como enfermedad respiratoria crónica con enfoque en fisiopatología"
+        },
+        {
+          "titulo": "Asthma - causes, symptoms, diagnosis, treatment, pathology",
+          "url": "https://www.youtube.com/watch?v=ovv8intb9kY",
+          "idioma": "inglés",
+          "duracion": "media",
+          "aportacion": "Revisión integral desde causas hasta tratamiento del asma bronquial"
+        },
+        {
+          "titulo": "Asthma Treatment, Symptoms, Pathophysiology, Nursing",
+          "url": "https://www.youtube.com/watch?v=GVTXJwv8ndY",
+          "idioma": "inglés",
+          "duracion": "larga",
+          "aportacion": "Enfoque en cuidados de enfermería y fisiopatología del asma con revisión NCLEX"
+        },
+        {
+          "titulo": "Asthma Diagnosis, Pathophysiology, Treatment - Playlist",
+          "url": "https://www.youtube.com/playlist?list=PLQ_IRFkDInv9zosMkH1GBYJ3cucwKL2ll",
+          "idioma": "inglés",
+          "duracion": "variable",
+          "aportacion": "Serie educativa completa sobre asma con explicaciones claras por el Dr. Roger Seheult"
+        }
+      ]
     },
     {
       "nombre": "Bronquiectasias. Bronquiolitis",
@@ -250,7 +544,30 @@
           "numero_de_pagina": 63
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "BRONQUIECTASIA: DIAGNÓSTICO Y MANEJO",
+          "url": "https://www.youtube.com/watch?v=3KnppFR5Mwk",
+          "idioma": "español",
+          "duracion": "larga",
+          "aportacion": "Diagnóstico diferencial de bronquiectasias y manejo clínico actualizado"
+        },
+        {
+          "titulo": "Bronchiectasis | Clinical Medicine",
+          "url": "https://www.youtube.com/watch?v=zI0A2rF8gbg",
+          "idioma": "inglés",
+          "duracion": "media",
+          "aportacion": "Revisión clínica de bronquiectasias incluyendo asociación con fibrosis quística y otras etiologías"
+        },
+        {
+          "titulo": "Bronchiectasis - causes, pathophysiology, signs and symptoms",
+          "url": "https://www.youtube.com/watch?v=8vaU799Xsio",
+          "idioma": "inglés",
+          "duracion": "media",
+          "aportacion": "Causas, patología y manifestaciones clínicas de las bronquiectasias con enfoque en aprendizaje activo"
+        }
+      ]
     },
     {
       "nombre": "Enfermedades pulmonares parenquimatosas difusas",
@@ -322,7 +639,114 @@
           "numero_de_pagina": 83
         }
       ],
-      "total_paginas": 26
+      "total_paginas": 26,
+      "videos": [
+        {
+          "titulo": "Enfermedad pulmonar intersticial",
+          "url": "https://www.youtube.com/watch?v=2g1XHvqw52I",
+          "idioma": "español",
+          "duracion": "media",
+          "aportacion": "Introducción a las enfermedades pulmonares intersticiales difusas y su clasificación"
+        },
+        {
+          "titulo": "Enfermedad Pulmonar Intersticial (EPID) | JAMA 2024",
+          "url": "https://www.youtube.com/watch?v=hDVmd0b4JCA",
+          "idioma": "español",
+          "duracion": "corta",
+          "aportacion": "Resumen actualizado de artículo JAMA 2024 sobre enfermedad pulmonar intersticial difusa"
+        },
+        {
+          "titulo": "La Fibrosis Pulmonar que se cura - Neumonitis por hipersensibilidad",
+          "url": "https://www.youtube.com/watch?v=X299d7C_BdQ",
+          "idioma": "español",
+          "duracion": "media",
+          "aportacion": "Explicación de la neumonitis por hipersensibilidad como tipo de fibrosis pulmonar potencialmente reversible"
+        },
+        {
+          "titulo": "Neumonitis por hipersensibilidad",
+          "url": "https://www.youtube.com/watch?v=cKdblvqY_m4",
+          "idioma": "español",
+          "duracion": "media",
+          "aportacion": "Revisión completa de neumonitis por hipersensibilidad incluyendo causas, presentación clínica y diagnóstico"
+        },
+        {
+          "titulo": "Neumonitis de Hipersensibilidad Crónica - Guía ATS ERS ALAT",
+          "url": "https://www.youtube.com/watch?v=Dg8-aM3tDuo",
+          "idioma": "español",
+          "duracion": "larga",
+          "aportacion": "Revisión de guías clínicas internacionales para neumonitis por hipersensibilidad crónica"
+        },
+        {
+          "titulo": "Interstitial Lung Disease (ILD) - Classification, pathophysiology",
+          "url": "https://www.youtube.com/watch?v=le9KH4Wxm74",
+          "idioma": "inglés",
+          "duracion": "larga",
+          "aportacion": "Clasificación detallada y fisiopatología de las enfermedades pulmonares intersticiales"
+        },
+        {
+          "titulo": "Diagnosis and Treatment of Interstitial Lung Disease",
+          "url": "https://www.youtube.com/watch?v=KyFwUKySvTE",
+          "idioma": "inglés",
+          "duracion": "media",
+          "aportacion": "Enfoque diagnóstico y terapéutico de ILD con énfasis en disnea progresiva"
+        },
+        {
+          "titulo": "Interstitial Lung Disease (ILD) in a Nutshell",
+          "url": "https://www.youtube.com/watch?v=EqGT7IgUHU8",
+          "idioma": "inglés",
+          "duracion": "media",
+          "aportacion": "Resumen conciso de ILD incluyendo definición, clasificación, etiologías y diagnóstico"
+        },
+        {
+          "titulo": "Hypersensitivity Pneumonitis VS Sarcoidosis",
+          "url": "https://www.youtube.com/watch?v=g3gf-zsi3SU",
+          "idioma": "inglés",
+          "duracion": "media",
+          "aportacion": "Diagnóstico diferencial entre neumonitis por hipersensibilidad y sarcoidosis pulmonar"
+        },
+        {
+          "titulo": "Sarcoidosis 101 | American Lung Association",
+          "url": "https://www.youtube.com/watch?v=9VF0hud9rW8",
+          "idioma": "inglés",
+          "duracion": "media",
+          "aportacion": "Introducción a la sarcoidosis como enfermedad multisistémica que afecta principalmente los pulmones"
+        },
+        {
+          "titulo": "Eosinophilic Granulomatosis with Polyangiitis (EGPA)",
+          "url": "https://www.youtube.com/watch?v=XCPHFwEN4F0",
+          "idioma": "inglés",
+          "duracion": "media",
+          "aportacion": "Explicación de la granulomatosis eosinofílica con poliangeítis, vasculitis que puede dañar órganos incluyendo pulmones"
+        },
+        {
+          "titulo": "Understanding and diagnosing eosinophilic granulomatosis with polyangiitis",
+          "url": "https://www.youtube.com/watch?v=_nd3cmcwfDk",
+          "idioma": "inglés",
+          "duracion": "larga",
+          "aportacion": "Diagnóstico y comprensión de EGPA con enfoque en patología pulmonar"
+        },
+        {
+          "titulo": "Let's talk EGPA, an eosinophilic vasculitis",
+          "url": "https://www.youtube.com/watch?v=qBtxCSKM770",
+          "idioma": "inglés",
+          "duracion": "media",
+          "aportacion": "Discusión sobre eosinófilos y enfermedad pulmonar, específicamente EGPA como vasculitis eosinofílica"
+        },
+        {
+          "titulo": "HRCT Part II Sarcoidosis and Hypersensitivity Pneumonitis",
+          "url": "https://www.youtube.com/watch?v=OBxEXE98Ijs",
+          "idioma": "inglés",
+          "duracion": "larga",
+          "aportacion": "Hallazgos en tomografía de alta resolución para sarcoidosis y neumonitis por hipersensibilidad"
+        },
+        {
+          "titulo": "Zoom to Finals: Sarcoidosis, Hypersensitivity Pneumonitis and IPF",
+          "url": "https://www.youtube.com/watch?v=ahWpqko-fzo",
+          "idioma": "inglés",
+          "duracion": "media",
+          "aportacion": "Revisión rápida de sarcoidosis, neumonitis por hipersensibilidad y fibrosis pulmonar idiopática para exámenes"
+        }
+      ]
     },
     {
       "nombre": "Enfermedades vasculares pulmonares",
@@ -339,7 +763,51 @@
           "numero_de_pagina": 95
         }
       ],
-      "total_paginas": 14
+      "total_paginas": 14,
+      "videos": [
+        {
+          "titulo": "Hipertensión pulmonar: síntomas y diagnóstico",
+          "url": "https://www.youtube.com/watch?v=JFsWGCPpRYE",
+          "idioma": "español",
+          "duracion": "media",
+          "aportacion": "Síntomas y diagnóstico de hipertensión pulmonar en diferentes entidades clínicas incluyendo tromboembolismo"
+        },
+        {
+          "titulo": "Hipertensión Arterial Pulmonar (HAP)",
+          "url": "https://www.youtube.com/watch?v=w0rqY2slEnI",
+          "idioma": "español",
+          "duracion": "corta",
+          "aportacion": "Explicación de HAP como desorden caracterizado por presión sanguínea alta en vasos pulmonares"
+        },
+        {
+          "titulo": "Pulmonary Thromboembolism (PE) | Signs and Symptoms",
+          "url": "https://www.youtube.com/watch?v=Twwr7JPk-XE",
+          "idioma": "español",
+          "duracion": "media",
+          "aportacion": "Signos y síntomas del tromboembolismo pulmonar y su relación con trombosis venosa profunda"
+        },
+        {
+          "titulo": "Chronic Thrombo-Embolic Pulmonary Hypertension",
+          "url": "https://www.youtube.com/watch?v=CVPHMq8JhJ4",
+          "idioma": "inglés",
+          "duracion": "media",
+          "aportacion": "Hipertensión pulmonar tromboembólica crónica resultante de émbolos no resueltos en pulmones"
+        },
+        {
+          "titulo": "Pulmonary Artery Hypertension | Clinical Medicine",
+          "url": "https://www.youtube.com/watch?v=S8ehpYrnX2w",
+          "idioma": "inglés",
+          "duracion": "larga",
+          "aportacion": "Revisión clínica completa de hipertensión arterial pulmonar con enfoque diagnóstico y terapéutico"
+        },
+        {
+          "titulo": "Pulmonary Embolism - Playlist completa",
+          "url": "https://www.youtube.com/playlist?list=PL8DF36dW4q3iUE5D8CC2eEt_wog6axljz",
+          "idioma": "inglés",
+          "duracion": "variable",
+          "aportacion": "Serie de videos sobre embolia pulmonar, desde trombosis venosa profunda hasta tratamiento"
+        }
+      ]
     },
     {
       "nombre": "Enfermedades de la pleura",
@@ -361,7 +829,37 @@
           "numero_de_pagina": 111
         }
       ],
-      "total_paginas": 8
+      "total_paginas": 8,
+      "videos": [
+        {
+          "titulo": "DERRAME PLEURAL",
+          "url": "https://www.youtube.com/watch?v=EGlABza5n_8",
+          "idioma": "español",
+          "duracion": "larga",
+          "aportacion": "Revisión completa de derrame pleural incluyendo etiología, diagnóstico y manejo"
+        },
+        {
+          "titulo": "Curso Online ENARM: Derrame Pleural y Neumotórax",
+          "url": "https://www.youtube.com/watch?v=R6Uq4iX-zWE",
+          "idioma": "español",
+          "duracion": "larga",
+          "aportacion": "Clase esencial para ENARM sobre derrame pleural y neumotórax con enfoque en diagnóstico diferencial"
+        },
+        {
+          "titulo": "Mesotelioma pleural",
+          "url": "https://www.youtube.com/watch?v=uOO1YiO8J80",
+          "idioma": "español",
+          "duracion": "media",
+          "aportacion": "Explicación del mesotelioma pleural maligno y su presentación clínica"
+        },
+        {
+          "titulo": "Pleural Effusion, Pneumothorax | Clinical Medicine",
+          "url": "https://www.youtube.com/watch?v=EAg-hXN8TSs",
+          "idioma": "inglés",
+          "duracion": "larga",
+          "aportacion": "Conferencia completa sobre enfermedades pleurales incluyendo derrame y neumotórax"
+        }
+      ]
     },
     {
       "nombre": "Enfermedades del mediastino y del diafragma",
@@ -378,7 +876,37 @@
           "numero_de_pagina": 116
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Enfermedades del mediastino y diafragma | NEUMOLOGÍA 2025",
+          "url": "https://www.youtube.com/watch?v=f1veOaty0io",
+          "idioma": "español",
+          "duracion": "larga",
+          "aportacion": "Clase sincrónica sobre enfermedades del mediastino y diafragma preparada para estudiantes de medicina"
+        },
+        {
+          "titulo": "Mediastinal Tumors: What Types Are There?",
+          "url": "https://www.youtube.com/watch?v=t9SWh8CuMas",
+          "idioma": "inglés",
+          "duracion": "media",
+          "aportacion": "Tipos de tumores mediastinales y sus manifestaciones clínicas incluyendo compresión vascular"
+        },
+        {
+          "titulo": "Mediastinal Masses",
+          "url": "https://www.youtube.com/watch?v=3yBFhM0-AT0",
+          "idioma": "inglés",
+          "duracion": "media",
+          "aportacion": "Diagnóstico diferencial de masas mediastinales y presentación clínica"
+        },
+        {
+          "titulo": "Diaphragmatic paralysis",
+          "url": "https://www.youtube.com/watch?v=Mb80CmJTMnI",
+          "idioma": "inglés",
+          "duracion": "larga",
+          "aportacion": "Revisión comprensiva de parálisis diafragmática unilateral y bilateral, plicación y marcapasos diafragmático"
+        }
+      ]
     },
     {
       "nombre": "Neoplasias pulmonares",
@@ -405,7 +933,65 @@
           "numero_de_pagina": 131
         }
       ],
-      "total_paginas": 16
+      "total_paginas": 16,
+      "videos": [
+        {
+          "titulo": "¿Un nódulo pulmonar siempre es cáncer?",
+          "url": "https://www.youtube.com/watch?v=R21AV85H-3s",
+          "idioma": "español",
+          "duracion": "media",
+          "aportacion": "Aclaración sobre nódulos pulmonares y cuándo sospechar malignidad versus lesiones benignas"
+        },
+        {
+          "titulo": "Cuando un nódulo pulmonar es cáncer (Clínica Universidad de Navarra)",
+          "url": "https://www.youtube.com/watch?v=HQOgWaX8SpE",
+          "idioma": "español",
+          "duracion": "corta",
+          "aportacion": "Diagnóstico temprano de nódulos malignos - solo 2% de nódulos detectados son malignos"
+        },
+        {
+          "titulo": "Cáncer de Pulmón: Causas, Diagnóstico y Tratamiento",
+          "url": "https://www.youtube.com/watch?v=8ZtK5FaRsKo",
+          "idioma": "español",
+          "duracion": "larga",
+          "aportacion": "Revisión completa del cáncer de pulmón incluyendo epidemiología, diagnóstico y futuro del tratamiento"
+        },
+        {
+          "titulo": "Videoteca de Cáncer de Pulmón en Español 2025",
+          "url": "https://www.youtube.com/watch?v=CTNj-m9rf-0",
+          "idioma": "español",
+          "duracion": "variable",
+          "aportacion": "Colección de videos sobre cáncer de pulmón incluyendo nódulos pulmonares incidentales"
+        },
+        {
+          "titulo": "Lung Cancer Staging Non-Small Cell",
+          "url": "https://www.youtube.com/watch?v=IWOzzqA3l7c",
+          "idioma": "inglés",
+          "duracion": "media",
+          "aportacion": "Estadificación del cáncer de pulmón no microcítico con sistema TNM"
+        },
+        {
+          "titulo": "Understanding Non-Small Cell Lung Cancer - updated 2025",
+          "url": "https://www.youtube.com/watch?v=61Um3CLO5_A",
+          "idioma": "inglés",
+          "duracion": "media",
+          "aportacion": "Actualización 2025 sobre cáncer de pulmón no microcítico, función pulmonar normal y patología"
+        },
+        {
+          "titulo": "Evaluation and Treatment of Lung Nodules and Lung Cancer",
+          "url": "https://www.youtube.com/watch?v=_-acIc0gZxE",
+          "idioma": "inglés",
+          "duracion": "larga",
+          "aportacion": "Importancia del manejo experto de nódulos pulmonares y detección temprana de cáncer de pulmón"
+        },
+        {
+          "titulo": "Understanding Lung Nodules: Diagnosis, Monitoring and Treatment",
+          "url": "https://www.youtube.com/watch?v=R2jkv_KB6Ao",
+          "idioma": "inglés",
+          "duracion": "larga",
+          "aportacion": "Guía completa sobre nódulos pulmonares desde diagnóstico hasta monitorización y tratamiento"
+        }
+      ]
     },
     {
       "nombre": "Trastornos de la ventilación y apnea del sueño",
@@ -437,7 +1023,51 @@
           "numero_de_pagina": 142
         }
       ],
-      "total_paginas": 10
+      "total_paginas": 10,
+      "videos": [
+        {
+          "titulo": "Apnea obstructiva del sueño",
+          "url": "https://www.youtube.com/watch?v=oFlXNAHaHvM",
+          "idioma": "español",
+          "duracion": "corta",
+          "aportacion": "Animación médica en 3D con precisión científica sobre apnea obstructiva del sueño"
+        },
+        {
+          "titulo": "Síndrome de Apnea e hipopnea Obstructiva del Sueño (SAHOS)",
+          "url": "https://www.youtube.com/watch?v=_8e7NHvATGA",
+          "idioma": "español",
+          "duracion": "larga",
+          "aportacion": "Clase completa de medicina interna sobre SAHOS incluyendo fisiopatología y tratamiento"
+        },
+        {
+          "titulo": "SÍNDROME DE LAS APNEAS DEL SUEÑO - Causas, diagnóstico y tratamiento",
+          "url": "https://www.youtube.com/watch?v=8bThqrhjtjQ",
+          "idioma": "español",
+          "duracion": "media",
+          "aportacion": "Explicación de conceptos de apnea del sueño, causas y opciones terapéuticas"
+        },
+        {
+          "titulo": "Pickwick Syndrome, Obesity, and Hypoventilation",
+          "url": "https://www.youtube.com/watch?v=2gFI8ay6E6U",
+          "idioma": "inglés",
+          "duracion": "media",
+          "aportacion": "Síndrome de hipoventilación por obesidad (Síndrome de Pickwick) y su relación con apnea del sueño"
+        },
+        {
+          "titulo": "Obstructive Sleep Apnea - Mayo Clinic",
+          "url": "https://www.youtube.com/watch?v=z12MEPiG4cg",
+          "idioma": "inglés",
+          "duracion": "media",
+          "aportacion": "Explicación de Mayo Clinic sobre apnea obstructiva del sueño, ronquidos y fragmentación del sueño"
+        },
+        {
+          "titulo": "Obstructive sleep apnoea and how to use a CPAP machine",
+          "url": "https://www.youtube.com/watch?v=R7BuhIiQ-Mw",
+          "idioma": "inglés",
+          "duracion": "media",
+          "aportacion": "Guía práctica sobre apnea obstructiva del sueño y uso correcto de CPAP por especialistas respiratorios"
+        }
+      ]
     },
     {
       "nombre": "Trasplante de pulmón",
@@ -459,7 +1089,37 @@
           "numero_de_pagina": 147
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Lung Transplant at Cleveland Clinic",
+          "url": "https://www.youtube.com/watch?v=n_bwwxGH9Bw",
+          "idioma": "inglés",
+          "duracion": "media",
+          "aportacion": "Información completa sobre el programa de trasplante pulmonar de Cleveland Clinic"
+        },
+        {
+          "titulo": "When to consider a lung transplant - A Mayo Clinic expert explains",
+          "url": "https://www.youtube.com/watch?v=E9Dnyym6a94",
+          "idioma": "inglés",
+          "duracion": "media",
+          "aportacion": "Cuándo considerar trasplante pulmonar en EPOC, enfisema y fibrosis pulmonar por expertos de Mayo Clinic"
+        },
+        {
+          "titulo": "Climbing to New Heights in Lung Transplantation",
+          "url": "https://www.youtube.com/watch?v=ZUzwaHFJnJU",
+          "idioma": "inglés",
+          "duracion": "larga",
+          "aportacion": "Avances en trasplante pulmonar por neumólogos y cirujanos cardiotorácicos de UCSF Health"
+        },
+        {
+          "titulo": "Lung Transplant Process",
+          "url": "https://www.youtube.com/watch?v=0-X3J1biPZA",
+          "idioma": "inglés",
+          "duracion": "media",
+          "aportacion": "Descripción del proceso de trasplante pulmonar desde la evaluación hasta el seguimiento postoperatorio"
+        }
+      ]
     }
   ]
 }

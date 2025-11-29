@@ -21,7 +21,72 @@
           "numero_de_pagina": 10
         }
       ],
-      "total_paginas": 20
+      "total_paginas": 20,
+      "videos": [
+        {
+          "titulo": "Patrones Pulmonares en la Radiografía de Tórax",
+          "url": "https://www.youtube.com/watch?v=SVY-HIg9gqM",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Masterclass sobre patrones de patología pulmonar en radiografía de tórax, relacionados con anatomía patológica"
+        },
+        {
+          "titulo": "Radiografía de Tórax Patológica",
+          "url": "https://www.youtube.com/watch?v=iddQYoIEorw",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Cápsula educativa de radiografía de tórax patológica preparada por SCOME UCM"
+        },
+        {
+          "titulo": "Tórax anormal: Patrones radiológicos (consolidación, atelectasia, bula, cavitación)",
+          "url": "https://www.youtube.com/watch?v=tzHj7z-zqXA",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Síndromes pleuropulmonares y patrones radiológicos de patologías pulmonares"
+        },
+        {
+          "titulo": "Tutorial Radiografía de Torax",
+          "url": "https://www.youtube.com/watch?v=2ywNXEdviUI",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Tutorial básico paso a paso para estudiantes de Medicina sobre cómo leer una radiografía de tórax"
+        },
+        {
+          "titulo": "¿Cómo Leer CUALQUIER Radiografía y TAC de Tórax? TALLER INTERACTIVO",
+          "url": "https://www.youtube.com/watch?v=oarDX12kirs",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Taller interactivo para radiografía y TAC de tórax aplicados a la práctica clínica"
+        },
+        {
+          "titulo": "How to Interpret a Chest X-Ray - Cardiac Silhouette and Mediastinum",
+          "url": "https://www.youtube.com/watch?v=bU0Nm7JFJtU",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Revisión de cardiomegalia, crecimiento auricular y ventricular, masas mediastínicas y agrandamiento hiliar"
+        },
+        {
+          "titulo": "Anterior Mediastinal Disorders | Chest Radiology Essentials",
+          "url": "https://www.youtube.com/watch?v=1fRcM9fqTFQ",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Estrategia práctica para interpretar masas mediastínicas anteriores, más allá de las 4 T's"
+        },
+        {
+          "titulo": "Chest X-Ray Lung Normal Vs Abnormal - TB/Pneumonia/Consolidation",
+          "url": "https://www.youtube.com/watch?v=d1yDZmfWHFY",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Comparación de imágenes normales vs patológicas en tuberculosis, neumonía y colapso pulmonar"
+        },
+        {
+          "titulo": "Imaging of Pulmonary Tuberculosis",
+          "url": "https://www.youtube.com/watch?v=vAOKWkrvttM",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Aspectos radiológicos de tuberculosis pulmonar, incluyendo TB miliar, cavitaria y fibrocavitaria"
+        }
+      ]
     },
     {
       "nombre": "Abdomen",
@@ -78,7 +143,114 @@
           "numero_de_pagina": 53
         }
       ],
-      "total_paginas": 36
+      "total_paginas": 36,
+      "videos": [
+        {
+          "titulo": "Ultrasound Liver, Gall Bladder, and Pancreas",
+          "url": "https://www.youtube.com/watch?v=OmFsPtVhqFo",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Ecografía de hígado, vesícula biliar y páncreas"
+        },
+        {
+          "titulo": "Abdominal Ultrasound Reporting | Liver, Gallbladder, Bile Duct, Pancreas, Spleen, Kidney",
+          "url": "https://www.youtube.com/watch?v=rLieDPcqQLw",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Informes de ecografía abdominal completa incluyendo todos los órganos abdominales"
+        },
+        {
+          "titulo": "Abdominal Ultrasound Normal Vs Abnormal Images",
+          "url": "https://www.youtube.com/watch?v=eSekFP_KIQk",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Comparación de imágenes normales vs anormales en ecografía abdominal"
+        },
+        {
+          "titulo": "Pancreas Ultrasound Normal Vs Acute Pancreatitis",
+          "url": "https://www.youtube.com/watch?v=TzbdLT-3AxY",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Hallazgos ecográficos normales del páncreas vs pancreatitis aguda"
+        },
+        {
+          "titulo": "Anatomía abdominal por tomografía",
+          "url": "https://www.youtube.com/watch?v=Uy-jjQs2TeE",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Repaso de anatomía normal en TC que ayuda a reconocer hallazgos normales y patológicos"
+        },
+        {
+          "titulo": "Tomografía abdomen y pelvis con contraste",
+          "url": "https://www.youtube.com/watch?v=5telrDYrQEc",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Indicaciones, fases de TC abdominal, contraste oral y anatomía de estructuras abdominales"
+        },
+        {
+          "titulo": "AngioTC de abdomen - Anatomía normal",
+          "url": "https://www.youtube.com/watch?v=8jgEv-nYNEc",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Anatomía normal en estudios vasculares por TC y secretos para mejor evaluación"
+        },
+        {
+          "titulo": "Anatomía renal y retroperitoneal por TC",
+          "url": "https://www.youtube.com/watch?v=WiDY7OotNGw",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Anatomía específica del riñón y retroperitoneo en tomografía"
+        },
+        {
+          "titulo": "Interpreting CT Abdo: Cirrhosis, Portal Hypertension",
+          "url": "https://www.youtube.com/watch?v=qstjX1VnxWQ",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Interpretación de TC en cirrosis e hipertensión portal con casos clínicos"
+        },
+        {
+          "titulo": "CT Liver Normal Vs Cirrhosis Images",
+          "url": "https://www.youtube.com/watch?v=BDt50UfZYmw",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Comparación de hígado normal vs cirrosis: márgenes irregulares, esplenomegalia, ascitis"
+        },
+        {
+          "titulo": "CT Scan Liver Normal Vs Hepatocellular Carcinoma",
+          "url": "https://www.youtube.com/watch?v=42dqM9PEFA8",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Diagnóstico por imagen de carcinoma hepatocelular en TC"
+        },
+        {
+          "titulo": "Evaluating the liver with abdominal CT",
+          "url": "https://www.youtube.com/watch?v=AviM2BhSUns",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Evaluación sistemática del hígado en TC abdominal con software y patrón de búsqueda"
+        },
+        {
+          "titulo": "Imaging of Cirrhosis",
+          "url": "https://www.youtube.com/watch?v=UqxBXDPVink",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Imagen de cirrosis en ecografía, TC y RM, incluyendo hipertensión portal y hepatocarcinoma"
+        },
+        {
+          "titulo": "VESÍCULA por TOMOGRAFÍA Anatómicamente",
+          "url": "https://www.youtube.com/watch?v=sB6ctgOkv88",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Identificación precisa de la vesícula biliar en tomografía"
+        },
+        {
+          "titulo": "Recognizing Liver Tumors on CT Scans",
+          "url": "https://www.youtube.com/watch?v=5AEs6GP0up0",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Reconocimiento de tumores hepáticos en TC"
+        }
+      ]
     },
     {
       "nombre": "Neurorradiología",
@@ -115,7 +287,86 @@
           "numero_de_pagina": 73
         }
       ],
-      "total_paginas": 24
+      "total_paginas": 24,
+      "videos": [
+        {
+          "titulo": "Imaging Findings of the Acute Ischemic Stroke: CT, CTA and MRI",
+          "url": "https://www.youtube.com/watch?v=vPrtaS6gzR8",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Hallazgos de imagen en ictus isquémico agudo, revisión de TC, angioTC y RM cerebral"
+        },
+        {
+          "titulo": "Stroke – presentation and imaging evaluation",
+          "url": "https://www.youtube.com/watch?v=BOcy4L8b9KI",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Introducción a la imagen de ictus, presentación clínica y síntomas comunes"
+        },
+        {
+          "titulo": "Basics of CT and MRI of the brain: introduction to Neuroradiology",
+          "url": "https://www.youtube.com/watch?v=bAl3ht-kpVk",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Introducción a neurorradiología para estudiantes de medicina, TC y RM cerebral básica"
+        },
+        {
+          "titulo": "MR Imaging in Acute Stroke: Basics",
+          "url": "https://www.youtube.com/watch?v=HNCmMAvDbtk",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Introducción a RM cerebral de ictus, secuencias estándar, RM difusión y perfusión"
+        },
+        {
+          "titulo": "How to read a CT brain scan: Acute ischaemic stroke for beginners",
+          "url": "https://www.youtube.com/watch?v=JUtR3cLcpkk",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Cómo leer TC cerebral en ictus isquémico agudo para principiantes"
+        },
+        {
+          "titulo": "Imaging of Acute Ischemic Stroke: the basics!",
+          "url": "https://www.youtube.com/watch?v=Upg2IzDzP4Q",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Fundamentos de imagen en ictus isquémico agudo"
+        },
+        {
+          "titulo": "CT Scan Brain Normal Vs Ischemic Stroke Images",
+          "url": "https://www.youtube.com/watch?v=9mSfUA_eoRA",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Comparación de TC cerebral normal vs ictus isquémico hiperagudo, agudo y crónico"
+        },
+        {
+          "titulo": "Traumatismo craneoencefálico: Hematoma Epidural vs Subdural",
+          "url": "https://www.youtube.com/watch?v=FE6AADmUtKY",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Características y diferencias entre hematomas epidural y subdural en traumatismo craneal"
+        },
+        {
+          "titulo": "Manejo de la hemorragia intracraneal en la TC de urgencias",
+          "url": "https://www.youtube.com/watch?v=T3IM30Oyg0Q",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Curso de radiología esencial sobre hemorragia intracraneal en urgencias"
+        },
+        {
+          "titulo": "MRI Brain Normal Vs Glioblastoma",
+          "url": "https://www.youtube.com/watch?v=ldBgn9aDgYg",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Hallazgos en RM T1 y T1 con contraste de glioblastoma, tumor cerebral agresivo de alto grado"
+        },
+        {
+          "titulo": "Imaging brain tumors - Astrocytomas",
+          "url": "https://www.youtube.com/watch?v=FCp37So20pI",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Imagen de tumores cerebrales, específicamente astrocitomas"
+        }
+      ]
     },
     {
       "nombre": "Imagen cardíaca",
@@ -132,7 +383,72 @@
           "numero_de_pagina": 87
         }
       ],
-      "total_paginas": 24
+      "total_paginas": 24,
+      "videos": [
+        {
+          "titulo": "Types of Cardiac Imaging: What You Need to Know",
+          "url": "https://www.youtube.com/watch?v=SqOJP28W1Es",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Técnicas de imagen cardíaca avanzada con imágenes tridimensionales para diagnóstico"
+        },
+        {
+          "titulo": "Echocardiography Normal Vs Abnormal Images",
+          "url": "https://www.youtube.com/watch?v=yeYSX0Ps9I8",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Ecografía cardíaca normal vs anormal, Doppler color y espectral"
+        },
+        {
+          "titulo": "Cardiac (Heart) MRI scan positioning, protocols and planning",
+          "url": "https://www.youtube.com/watch?v=Bd8HHF_cdgM",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Resonancia magnética cardíaca: posicionamiento, protocolos y planificación, flujo cardíaco y mapeo T2"
+        },
+        {
+          "titulo": "Basic Transthoracic Echocardiography - TTE Made Simple",
+          "url": "https://www.youtube.com/watch?v=1E4NSR6yjMw",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Ecocardiografía transtorácica básica simplificada con ultrasonido point-of-care"
+        },
+        {
+          "titulo": "Cardiac CT vs. Cardiac MRI: What's the Difference?",
+          "url": "https://www.youtube.com/watch?v=JB6tIT_s4Qk",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Diferencias entre TC cardíaco y RM cardíaco en pruebas diagnósticas"
+        },
+        {
+          "titulo": "Seeing Inside the Heart with MRI",
+          "url": "https://www.youtube.com/watch?v=fgAdCq-Q9r4",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "RM permite ver el interior del corazón mientras late, localizar daño post-infarto"
+        },
+        {
+          "titulo": "Como interpretar ecocardiograma y pruebas funcionales en cardiologia",
+          "url": "https://www.youtube.com/watch?v=Z3qHpOoT0Lw",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Interpretación de ecocardiograma y pruebas funcionales en cardiología"
+        },
+        {
+          "titulo": "Ecocardiograma Normal",
+          "url": "https://www.youtube.com/watch?v=2CL3PCkIyl8",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Informe de ecocardiograma pediátrico normal basado en análisis secuencial y segmentario"
+        },
+        {
+          "titulo": "Gasto Cardíaco por Ecocardiograma - Valores normales",
+          "url": "https://www.youtube.com/watch?v=ROR-ePbRFxY",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Bases para obtener el gasto cardíaco por ecocardiograma y valores normales"
+        }
+      ]
     },
     {
       "nombre": "Musculoesquelético",
@@ -164,7 +480,79 @@
           "numero_de_pagina": 116
         }
       ],
-      "total_paginas": 20
+      "total_paginas": 20,
+      "videos": [
+        {
+          "titulo": "Radiología de las fracturas paso a paso",
+          "url": "https://www.youtube.com/watch?v=m5GXzoBN-fo",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Tutorial para estudiantes sobre cómo describir correctamente una fractura en radiografía"
+        },
+        {
+          "titulo": "DIAGNOSTICO POR IMAGENES DEL TOBILLO Y PIE",
+          "url": "https://www.youtube.com/watch?v=0Ox66vGNfrk",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Resumen del diagnóstico por imágenes de tobillo y pie con patologías más frecuentes"
+        },
+        {
+          "titulo": "Evaluación del Tobillo por Imagen",
+          "url": "https://www.youtube.com/watch?v=Kp0ArFzFSVA",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Alfabetización visual en radiología para evaluación del tobillo"
+        },
+        {
+          "titulo": "Radiología de Hombro",
+          "url": "https://www.youtube.com/watch?v=NIKMxxzuRzM",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Radiología completa del hombro con técnicas de imagen"
+        },
+        {
+          "titulo": "Osteosarcoma on X-Ray - Classic Radiology Findings",
+          "url": "https://www.youtube.com/watch?v=bNET8oUY-rs",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Hallazgos radiológicos clásicos de osteosarcoma, tumor óseo maligno primario"
+        },
+        {
+          "titulo": "How to Read an Osteosarcoma on an X-Ray: Benign vs. Malignant",
+          "url": "https://www.youtube.com/watch?v=XTzXIywYMSI",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Diferencias radiográficas entre tumores óseos benignos y malignos"
+        },
+        {
+          "titulo": "Imaging of Bone Tumors",
+          "url": "https://www.youtube.com/watch?v=LsxSUujmDrI",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Imagen de tumores óseos, conferencia aplicable para radiólogos y técnicos"
+        },
+        {
+          "titulo": "Knee MRI Anatomy | How to interpret a knee MRI",
+          "url": "https://www.youtube.com/watch?v=2UjmkktN71E",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Anatomía en RM de rodilla de alto rendimiento para preparación de examen"
+        },
+        {
+          "titulo": "Systematic Interpretation of Ankle MRI: How I do it",
+          "url": "https://www.youtube.com/watch?v=BPiWHlJhb1g",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Revisión detallada de anatomía del tobillo en RM con casos clínicos"
+        },
+        {
+          "titulo": "Systematic Interpretation of Knee MRI: How I do it",
+          "url": "https://www.youtube.com/watch?v=mSu-r3cxplM",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Revisión eficiente de RM de rodilla desde nivel básico a experto"
+        }
+      ]
     },
     {
       "nombre": "Ginecología",
@@ -181,7 +569,58 @@
           "numero_de_pagina": 134
         }
       ],
-      "total_paginas": 16
+      "total_paginas": 16,
+      "videos": [
+        {
+          "titulo": "BI-RADS Assessment",
+          "url": "https://www.youtube.com/watch?v=fCiKB2vWXzY",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Evaluación BI-RADS, comprensión del informe de mamografía y terminología estandarizada"
+        },
+        {
+          "titulo": "Breast Ultrasound: Review of BI-RADS, Screening, and Cases",
+          "url": "https://www.youtube.com/watch?v=4-2HXyVOaOw",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Revisión de BI-RADS en ecografía mamaria, screening y casos clínicos"
+        },
+        {
+          "titulo": "Breast Ultrasound Normal Vs Invasive Ductal Carcinoma",
+          "url": "https://www.youtube.com/watch?v=k8WVHiKouDM",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Comparación de ecografía normal vs carcinoma ductal invasivo, masas BI-RADS 4/5"
+        },
+        {
+          "titulo": "Understanding Your Breast Imaging Report Using BI-RADS",
+          "url": "https://www.youtube.com/watch?v=50HeGSbYgcw",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Comprensión del informe de imagen mamaria usando clasificación BI-RADS"
+        },
+        {
+          "titulo": "Mammography Normal Vs Abnormal Images - BI-RADS Classification",
+          "url": "https://www.youtube.com/watch?v=xYTv_1Wrr40",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Mamografía normal vs anormal, clasificación BI-RADS, cáncer de mama y otras enfermedades"
+        },
+        {
+          "titulo": "Gynecological & Obstetric Ultrasound Normal Vs Abnormal",
+          "url": "https://www.youtube.com/watch?v=GTtYvrKxQgw",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Ecografía ginecológica y obstétrica: útero, ovarios, cérvix, embarazo normal vs anormal"
+        },
+        {
+          "titulo": "How to: Female Transvaginal Ultrasound Exam",
+          "url": "https://www.youtube.com/watch?v=0CqicUl0hw8",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Fundamentos de escaneo pélvico transvaginal"
+        }
+      ]
     },
     {
       "nombre": "Pediatría",
@@ -223,7 +662,79 @@
           "numero_de_pagina": 155
         }
       ],
-      "total_paginas": 18
+      "total_paginas": 18,
+      "videos": [
+        {
+          "titulo": "Your Radiologist Explains: Pediatric Ultrasound",
+          "url": "https://www.youtube.com/watch?v=AXfM6xLub9I",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Ecografía pediátrica abdominal explicada por radiólogo"
+        },
+        {
+          "titulo": "Imaging Gently: Overcoming Children's Fears in Radiology",
+          "url": "https://www.youtube.com/watch?v=ulX3ezkqsog",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Cómo superar los miedos de los niños en radiología con tecnologías grandes y ruidosas"
+        },
+        {
+          "titulo": "Medical Student Presentation on Pediatric Radiology",
+          "url": "https://www.youtube.com/watch?v=s1PMpDXqcCY",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Presentación para estudiantes de medicina sobre radiología pediátrica"
+        },
+        {
+          "titulo": "High Yield Pediatric Radiology Cases",
+          "url": "https://www.youtube.com/watch?v=CJSSXccIjtk",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Casos de radiología pediátrica de alto rendimiento, revisión para examen de board"
+        },
+        {
+          "titulo": "Sonography of the Pediatric Hip",
+          "url": "https://www.youtube.com/watch?v=Lue64bE5Rtg",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Ecografía de cadera pediátrica"
+        },
+        {
+          "titulo": "WFPI Webinar - Paediatric liver ultrasound",
+          "url": "https://www.youtube.com/watch?v=GKpDZwl3z8U",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Webinar sobre ecografía hepática pediátrica de la Federación Mundial de Imagen Pediátrica"
+        },
+        {
+          "titulo": "Ecografía cerebral en el neonato a termino",
+          "url": "https://www.youtube.com/watch?v=MxRvPb5SqII",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Ecografía cerebral neonatal en recién nacidos a término"
+        },
+        {
+          "titulo": "Ecografía transfontanelar",
+          "url": "https://www.youtube.com/watch?v=wIbhzEGij1Q",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Técnica de ecografía transfontanelar en imagen pediátrica"
+        },
+        {
+          "titulo": "Alteraciones Vasculares Cerebrales Fetales y del Recién Nacido",
+          "url": "https://www.youtube.com/watch?v=-3tLo0JQVv4",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Alteraciones vasculares cerebrales en feto y recién nacido con ecografía, RM y neurocirugía"
+        },
+        {
+          "titulo": "ULTRASONIDO DE LA CADERA PEDIÁTRICA",
+          "url": "https://www.youtube.com/watch?v=LIMsVAK-qZk",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Webinar de ecografía pediátrica sobre ultrasonido de cadera"
+        }
+      ]
     },
     {
       "nombre": "Medicina nuclear",
@@ -260,7 +771,44 @@
           "numero_de_pagina": 161
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Medicina nuclear, Fundamentos de PET y SPECT",
+          "url": "https://www.youtube.com/watch?v=HJJvZJmQQbo",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Fundamentos de medicina nuclear, PET y SPECT"
+        },
+        {
+          "titulo": "PET E SPECT - Diferencias",
+          "url": "https://www.youtube.com/watch?v=vGCL_WYsh2c",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Principales diferencias entre PET (Tomografía por Emisión de Positrones) y SPECT"
+        },
+        {
+          "titulo": "PET vs SPECT | Nuclear medicine",
+          "url": "https://www.youtube.com/watch?v=lXkndmLV_ps",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Diferencias entre medicina nuclear y radiología, principio de trazador, diferencias PET y SPECT"
+        },
+        {
+          "titulo": "How does a PET scan work? | Nuclear medicine",
+          "url": "https://www.youtube.com/watch?v=TresR2wSw40",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Cómo funciona un PET scan, uso para detectar cáncer, radiación y diferencias con otras imágenes"
+        },
+        {
+          "titulo": "What is PET/CT and how does it work?",
+          "url": "https://www.youtube.com/watch?v=Bgkta3D1TfA",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "PET/CT para estrategia de tratamiento y monitoreo de respuesta en pacientes"
+        }
+      ]
     }
   ]
 }

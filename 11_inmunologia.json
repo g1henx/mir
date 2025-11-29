@@ -21,7 +21,37 @@
           "numero_de_pagina": 6
         }
       ],
-      "total_paginas": 8
+      "total_paginas": 8,
+      "videos": [
+        {
+          "titulo": "3.3 TEJIDOS DEL SISTEMA INMUNITARIO",
+          "url": "https://www.youtube.com/watch?v=eMy_KmyOfnM",
+          "idioma": "español",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Explicación detallada de los órganos linfoides primarios y secundarios por el Prof. Alfredo Corell de la Universidad de Valladolid"
+        },
+        {
+          "titulo": "Introduction to Human Lymphoid Organs",
+          "url": "https://www.youtube.com/watch?v=I_CAmtiwmyQ",
+          "idioma": "inglés",
+          "duracion": "estimada 20-30 min",
+          "aportacion": "Parte de un curso completo de inmunología médica que profundiza en la anatomía y función de los órganos linfoides"
+        },
+        {
+          "titulo": "2.1 CÉLULAS DEL SISTEMA INMUNITARIO Y DIFERENCIACIÓN CELULAR",
+          "url": "https://www.youtube.com/watch?v=DTAK8rGEO2g",
+          "idioma": "español",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Visión general de los componentes celulares del sistema inmunitario y su diferenciación"
+        },
+        {
+          "titulo": "Introduction to the immune system",
+          "url": "https://www.youtube.com/watch?v=gR84OJ_EGxk",
+          "idioma": "inglés",
+          "duracion": "estimada 10-15 min",
+          "aportacion": "Introducción clara y concisa al sistema inmunitario, sus componentes y mecanismos básicos"
+        }
+      ]
     },
     {
       "nombre": "Inmunidad innata",
@@ -43,7 +73,37 @@
           "numero_de_pagina": 13
         }
       ],
-      "total_paginas": 8
+      "total_paginas": 8,
+      "videos": [
+        {
+          "titulo": "4.1 CÉLULAS Y MECANISMOS DE INMUNIDAD INNATA",
+          "url": "https://www.youtube.com/watch?v=cTFdTgBDDrE",
+          "idioma": "español",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Conceptos básicos de la inmunidad innata con enfoque en células y mecanismos efectores"
+        },
+        {
+          "titulo": "Inmunidad innata y adaptativa: Generalidades",
+          "url": "https://www.youtube.com/watch?v=OviRHQZmFaA",
+          "idioma": "español",
+          "duracion": "estimada 30-40 min",
+          "aportacion": "Comparación completa entre inmunidad innata y adaptativa con secciones claramente definidas"
+        },
+        {
+          "titulo": "Immune System: Innate and Adaptive Immunity Explained",
+          "url": "https://www.youtube.com/watch?v=PzunOgYHeyg",
+          "idioma": "inglés",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Video animado que explica la diferencia entre inmunidad innata y adaptativa de forma visual"
+        },
+        {
+          "titulo": "The Complement System is SO EASY! Stop Making it Hard!",
+          "url": "https://www.youtube.com/watch?v=E4dZ5w3D9ZM",
+          "idioma": "inglés",
+          "duracion": "estimada 20-25 min",
+          "aportacion": "Explicación simplificada del sistema del complemento, componente humoral clave de la inmunidad innata"
+        }
+      ]
     },
     {
       "nombre": "Inmunidad adaptativa",
@@ -65,7 +125,44 @@
           "numero_de_pagina": 25
         }
       ],
-      "total_paginas": 10
+      "total_paginas": 10,
+      "videos": [
+        {
+          "titulo": "ADAPTIVE IMMUNITY: B Lymphocytes | Immunology",
+          "url": "https://www.youtube.com/watch?v=iu2SKy0arl0",
+          "idioma": "inglés",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Explicación detallada de los linfocitos B, su desarrollo y función en la respuesta adaptativa"
+        },
+        {
+          "titulo": "INMUNIDAD ADAPTATIVA: Linfocitos T | Inmunología",
+          "url": "https://www.youtube.com/watch?v=hUaXIecCh24",
+          "idioma": "español",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Enfoque específico en linfocitos T, sus tipos y mecanismos de acción"
+        },
+        {
+          "titulo": "T Cells vs B Cells | Immunology Crash Course",
+          "url": "https://www.youtube.com/watch?v=-EU1vXbIfTM",
+          "idioma": "inglés",
+          "duracion": "estimada 10-15 min",
+          "aportacion": "Comparación académica completa entre células T y B, ideal para entender sus diferencias"
+        },
+        {
+          "titulo": "Antigen Presentation: MHC Class I vs. MHC Class II",
+          "url": "https://www.youtube.com/watch?v=t81EjpkCiss",
+          "idioma": "inglés",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Explicación del proceso de presentación antigénica y el papel del MHC"
+        },
+        {
+          "titulo": "Antigen-Presenting Cells (Macrophages, Dendritic Cells and B-Cells)",
+          "url": "https://www.youtube.com/watch?v=TadJkUCJLHo",
+          "idioma": "inglés",
+          "duracion": "estimada 20-25 min",
+          "aportacion": "Análisis profundo de las células presentadoras de antígenos profesionales"
+        }
+      ]
     },
     {
       "nombre": "Reacciones de hipersensibilidad",
@@ -97,7 +194,44 @@
           "numero_de_pagina": 32
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Hypersensitivity Reactions (Type I, II, III, IV HSN) - Allergy",
+          "url": "https://www.youtube.com/watch?v=cfHnIEelH48",
+          "idioma": "inglés",
+          "duracion": "estimada 20-30 min",
+          "aportacion": "Explicación completa y detallada de los 4 tipos de hipersensibilidad con ejemplos clínicos"
+        },
+        {
+          "titulo": "REACCIONES DE HIPERSENSIBILIDAD (TIPO I, II, III & IV)",
+          "url": "https://www.youtube.com/watch?v=kDacBGKmTBU",
+          "idioma": "español",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Resumen en español de todas las reacciones de hipersensibilidad"
+        },
+        {
+          "titulo": "Hipersensibilidad Tipo 1: Alergias | Asma, anafilaxia, rinitis alérgica",
+          "url": "https://www.youtube.com/watch?v=EMk4P7jiSCg",
+          "idioma": "español",
+          "duracion": "estimada 20-25 min",
+          "aportacion": "Enfoque detallado en reacciones tipo I con aplicaciones clínicas específicas"
+        },
+        {
+          "titulo": "Hypersensitivity, Overview of the 4 Types, Animation",
+          "url": "https://www.youtube.com/watch?v=jXTW4F8jd4",
+          "idioma": "inglés",
+          "duracion": "estimada 10-15 min",
+          "aportacion": "Video animado que facilita la comprensión visual de los mecanismos de hipersensibilidad"
+        },
+        {
+          "titulo": "Reacciones de Hipersensibilidad: Tipos",
+          "url": "https://www.youtube.com/watch?v=DOAFa_vU3Po",
+          "idioma": "español",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Clasificación y características distintivas de cada tipo de reacción"
+        }
+      ]
     },
     {
       "nombre": "Inmunodeficiencias",
@@ -114,7 +248,37 @@
           "numero_de_pagina": 38
         }
       ],
-      "total_paginas": 8
+      "total_paginas": 8,
+      "videos": [
+        {
+          "titulo": "Inmunodeficiencias y VIH/SIDA: cuando el sistema inmune falla",
+          "url": "https://www.youtube.com/watch?v=ztcYLhdobmo",
+          "idioma": "español",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Visión general de inmunodeficiencias primarias y secundarias con énfasis en VIH/SIDA"
+        },
+        {
+          "titulo": "Inmunodeficiencias Primarias Explicado Claramente",
+          "url": "https://www.youtube.com/watch?v=D686DwdWXLA",
+          "idioma": "español",
+          "duracion": "estimada 20-25 min",
+          "aportacion": "Explicación detallada de las principales inmunodeficiencias primarias con casos clínicos"
+        },
+        {
+          "titulo": "CHAPTER 18 - Immunodeficiency: Primary Disorders and HIV/AIDS",
+          "url": "https://www.youtube.com/watch?v=YgNEzle2nfI",
+          "idioma": "inglés",
+          "duracion": "estimada 30-40 min",
+          "aportacion": "Capítulo completo del Kuby Immunology sobre inmunodeficiencias hereditarias y adquiridas"
+        },
+        {
+          "titulo": "A closer look at Primary and Secondary Immunodeficiencies",
+          "url": "https://www.youtube.com/watch?v=QSNIK7sCuzM",
+          "idioma": "inglés",
+          "duracion": "estimada 25-30 min",
+          "aportacion": "Mini-documental que combina narrativas personales con explicaciones científicas"
+        }
+      ]
     },
     {
       "nombre": "Trasplante de precursores hematopoyéticos y de órgano sólido",
@@ -131,7 +295,44 @@
           "numero_de_pagina": 46
         }
       ],
-      "total_paginas": 10
+      "total_paginas": 10,
+      "videos": [
+        {
+          "titulo": "Hematopoietic Stem Cell Bone Marrow Transplantation",
+          "url": "https://www.youtube.com/watch?v=EOf7DF6DNfc",
+          "idioma": "inglés",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Explicación del proceso de trasplante de células madre hematopoyéticas"
+        },
+        {
+          "titulo": "Trasplante de Células Hematopoyéticas experiencia, retos y...",
+          "url": "https://www.youtube.com/watch?v=MTUuhDEFvGA",
+          "idioma": "español",
+          "duracion": "estimada 30-40 min",
+          "aportacion": "Visión completa del proceso científico y clínico del trasplante de células madre"
+        },
+        {
+          "titulo": "INMUNOSUPRESIÓN EN TRASPLANTE",
+          "url": "https://www.youtube.com/watch?v=mmDCASv3DaM",
+          "idioma": "español",
+          "duracion": "estimada 20-25 min",
+          "aportacion": "Terapia inmunosupresora en trasplante de órgano sólido, mecanismos y fármacos"
+        },
+        {
+          "titulo": "Why Allografts Reject and What Can We Do About It?",
+          "url": "https://www.youtube.com/watch?v=3F3KdExu3Is",
+          "idioma": "inglés",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Explicación de los mecanismos de rechazo de trasplantes y estrategias de prevención"
+        },
+        {
+          "titulo": "Kidney Transplant Rejection Episode: Understanding the Immune Response",
+          "url": "https://www.youtube.com/watch?v=tnj10J930i8",
+          "idioma": "inglés",
+          "duracion": "estimada 20-25 min",
+          "aportacion": "Caso clínico de rechazo de trasplante renal con explicación de la respuesta inmune"
+        }
+      ]
     },
     {
       "nombre": "Fundamentos genéticos",
@@ -163,7 +364,65 @@
           "numero_de_pagina": 62
         }
       ],
-      "total_paginas": 15
+      "total_paginas": 15,
+      "videos": [
+        {
+          "titulo": "ADN y ARN | Ácidos Nucleicos",
+          "url": "https://www.youtube.com/watch?v=LAFIV747j4c",
+          "idioma": "español",
+          "duracion": "estimada 20-25 min",
+          "aportacion": "Introducción a la genética molecular: estructura, función y organización del ADN y ARN"
+        },
+        {
+          "titulo": "Cell Biology | DNA Structure & Organization",
+          "url": "https://www.youtube.com/watch?v=S6LXyzZn5Ls",
+          "idioma": "inglés",
+          "duracion": "estimada 30-40 min",
+          "aportacion": "Explicación detallada de la estructura del ADN por Ninja Nerd, ideal para estudiantes de medicina"
+        },
+        {
+          "titulo": "Mutations (Updated)",
+          "url": "https://www.youtube.com/watch?v=vl6Vlf2thvI",
+          "idioma": "inglés",
+          "duracion": "estimada 10-15 min",
+          "aportacion": "Las Amoeba Sisters explican mutaciones génicas y cromosómicas de forma clara y visual"
+        },
+        {
+          "titulo": "Herencia Autosómica Dominante y Recesiva",
+          "url": "https://www.youtube.com/watch?v=G-0NJmTahes",
+          "idioma": "español",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Explicación de los patrones de herencia mendeliana con ejemplos prácticos"
+        },
+        {
+          "titulo": "Understanding Autosomal Dominant and Autosomal Recessive Inheritance",
+          "url": "https://www.youtube.com/watch?v=lm0RXMFIenU",
+          "idioma": "inglés",
+          "duracion": "estimada 10-15 min",
+          "aportacion": "Explicación visual de la herencia mendeliana con ejemplos de enfermedades como fibrosis quística"
+        },
+        {
+          "titulo": "Alteraciones cromosómicas. Ana Suárez-Saro Fernández",
+          "url": "https://www.youtube.com/watch?v=MUBqnzcrVcw",
+          "idioma": "español",
+          "duracion": "estimada 20-25 min",
+          "aportacion": "Revisión completa de las alteraciones cromosómicas numéricas y estructurales"
+        },
+        {
+          "titulo": "Chromosomes and Karyotypes",
+          "url": "https://www.youtube.com/watch?v=mBq1ULWJp_M",
+          "idioma": "inglés",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Explicación de cromosomas y cariotipos, útil para entender el diagnóstico de alteraciones"
+        },
+        {
+          "titulo": "Fluorescence in-situ hybridization | FISH",
+          "url": "https://www.youtube.com/watch?v=qkLsMOMRlhk",
+          "idioma": "inglés",
+          "duracion": "estimada 10-15 min",
+          "aportacion": "Técnica FISH explicada para detección de secuencias de ADN específicas"
+        }
+      ]
     }
   ]
 }

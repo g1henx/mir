@@ -21,7 +21,30 @@
           "numero_de_pagina": 3
         }
       ],
-      "total_paginas": 3
+      "total_paginas": 3,
+      "videos": [
+        {
+          "titulo": "CLASE 1- BIOETICA. Concepto, principios y valores",
+          "url": "https://www.youtube.com/watch?v=X8LKw7MJW44",
+          "idioma": "español",
+          "duracion": "N/A",
+          "aportacion": "Introduce el concepto de bioética y desarrolla los cuatro principios fundamentales: autonomía, beneficencia, no maleficencia y justicia. Incluye conceptos de moral y ética aplicados a la práctica médica."
+        },
+        {
+          "titulo": "Principios bioéticos fundamentales",
+          "url": "https://www.youtube.com/watch?v=SpvqQ-3s1u4",
+          "idioma": "español",
+          "duracion": "N/A",
+          "aportacion": "Explicación detallada del marco conceptual esencial de los cuatro principios bioéticos fundamentales desde una perspectiva académica y práctica para profesionales sanitarios."
+        },
+        {
+          "titulo": "Bioética: 4 Principios Bioéticos (Introducción)",
+          "url": "https://www.youtube.com/watch?v=ifywd_wTJHA",
+          "idioma": "español",
+          "duracion": "N/A",
+          "aportacion": "Introducción académica impartida por experta en ciencias de la salud que profundiza en la importancia de los principios bioéticos en la práctica clínica diaria."
+        }
+      ]
     },
     {
       "nombre": "Capacidad y competencia para la toma de decisiones",
@@ -38,7 +61,30 @@
           "numero_de_pagina": 5
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "Competencia y capacidad para la toma de decisiones clínicas",
+          "url": "https://www.youtube.com/watch?v=C19dtLugTQ8",
+          "idioma": "español",
+          "duracion": "N/A",
+          "aportacion": "Explicación del significado de la autonomía del paciente en el contexto de la toma de decisiones clínicas desde la ética biomédica, incluyendo criterios de valoración."
+        },
+        {
+          "titulo": "5. Competencia y capacidad para la toma de decisiones clínicas",
+          "url": "https://www.youtube.com/watch?v=el0wvg1hgbU",
+          "idioma": "español",
+          "duracion": "N/A",
+          "aportacion": "Contenido académico centrado en los aspectos prácticos de la evaluación de la competencia del paciente para la toma de decisiones médicas."
+        },
+        {
+          "titulo": "La capacidad de TOMA DE DECISIONES: cómo elegir entre varias opciones",
+          "url": "https://www.youtube.com/watch?v=b2w3sTYXCJw",
+          "idioma": "español",
+          "duracion": "N/A",
+          "aportacion": "Analiza la capacidad de toma de decisiones como habilidad para identificar, analizar y seleccionar la mejor opción entre diferentes alternativas considerando las implicaciones."
+        }
+      ]
     },
     {
       "nombre": "Relación clínica",
@@ -70,7 +116,44 @@
           "numero_de_pagina": 12
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Modelo SPIKES para comunicar malas noticias en medicina",
+          "url": "https://www.youtube.com/watch?v=N6DmnCZVQ7s",
+          "idioma": "español",
+          "duracion": "N/A",
+          "aportacion": "Explica paso a paso el modelo SPIKES, herramienta estructurada para comunicar malas noticias de manera clara, empática y respetuosa con recomendaciones para cada fase."
+        },
+        {
+          "titulo": "Comunicar malas noticias usando el modelo SPIKES Demostración",
+          "url": "https://www.youtube.com/watch?v=HYuEpVrn1io",
+          "idioma": "español",
+          "duracion": "N/A",
+          "aportacion": "Demostración clínica práctica del modelo SPIKES aplicado a casos reales, mostrando cómo implementar cada paso del protocolo en la práctica médica."
+        },
+        {
+          "titulo": "Confidencialidad y secreto médico. Reflexiones desde la psiquiatría forense",
+          "url": "https://www.youtube.com/watch?v=eJU3u_1SJCE",
+          "idioma": "español",
+          "duracion": "N/A",
+          "aportacion": "Presenta los fundamentos del principio de confidencialidad en medicina desde una perspectiva forense, analizando casos límite y excepciones al secreto profesional."
+        },
+        {
+          "titulo": "Bioética y consentimiento informado",
+          "url": "https://www.youtube.com/watch?v=K8TnhcuKdhc",
+          "idioma": "español",
+          "duracion": "N/A",
+          "aportacion": "Recorrido histórico y filosófico sobre el consentimiento informado, resaltando el sustento ético de la dignidad humana y su aplicación en la práctica clínica."
+        },
+        {
+          "titulo": "Consentimiento informado. Elementos y aplicación",
+          "url": "https://www.youtube.com/watch?v=RhU7oSZA59s",
+          "idioma": "español",
+          "duracion": "N/A",
+          "aportacion": "Explica los diversos elementos que componen el consentimiento informado tanto en clínica como en investigación, con enfoque en aspectos prácticos de implementación."
+        }
+      ]
     },
     {
       "nombre": "Ética en el final de la vida. El paciente terminal",
@@ -112,7 +195,72 @@
           "numero_de_pagina": 19
         }
       ],
-      "total_paginas": 14
+      "total_paginas": 14,
+      "videos": [
+        {
+          "titulo": "Final de la Vida: Eutanasia, sedación y cuidados paliativos",
+          "url": "https://www.youtube.com/watch?v=LeKEsA9tT8s",
+          "idioma": "español",
+          "duracion": "N/A",
+          "aportacion": "Conferencia académica que explora la relación entre eutanasia, sedación paliativa y cuidados paliativos, vinculando los principios éticos con la prestación asistencial."
+        },
+        {
+          "titulo": "Diferencias entre eutanasia y sedación paliativa",
+          "url": "https://www.youtube.com/watch?v=XKIhQrp5kAo",
+          "idioma": "español",
+          "duracion": "N/A",
+          "aportacion": "Análisis de las diferencias fundamentales entre eutanasia y sedación paliativa, aclarando conceptos frecuentemente confundidos en la práctica clínica."
+        },
+        {
+          "titulo": "Limitación del Esfuerzo Terapéutico",
+          "url": "https://www.youtube.com/watch?v=CLjklt78YBs",
+          "idioma": "español",
+          "duracion": "N/A",
+          "aportacion": "Guía ética para equipos de salud en la atención de pacientes con patologías terminales o en fase avanzada, explicando criterios de limitación del esfuerzo terapéutico."
+        },
+        {
+          "titulo": "Limitación del esfuerzo terapéutico, Autonomía del Paciente y Eutanasia",
+          "url": "https://www.youtube.com/watch?v=EwvzL1jPN48",
+          "idioma": "español",
+          "duracion": "N/A",
+          "aportacion": "Distingue claramente entre limitación del esfuerzo terapéutico respetando la voluntad del paciente y la eutanasia, aclarando conceptos esenciales para el MIR."
+        },
+        {
+          "titulo": "OBJECIÓN DE CONCIENCIA ¿QUÉ ES? CUÁNDO SE APLICA, SITUACIONES, LÍMITES",
+          "url": "https://www.youtube.com/watch?v=-1kE7Al5aQQ",
+          "idioma": "español",
+          "duracion": "N/A",
+          "aportacion": "Define la objeción de conciencia como derecho subjetivo de los profesionales sanitarios, explicando situaciones de aplicación, límites legales y casos prácticos."
+        },
+        {
+          "titulo": "¿Qué es la Objeción de Conciencia Sanitaria? - Federico de Montalvo",
+          "url": "https://www.youtube.com/watch?v=Fm27-M75H-k",
+          "idioma": "español",
+          "duracion": "N/A",
+          "aportacion": "El Presidente del Comité de Bioética de España explica la objeción de conciencia sanitaria, diferenciándola de la objeción de ciencia en el ámbito médico."
+        },
+        {
+          "titulo": "Sedación en Cuidados Paliativos",
+          "url": "https://www.youtube.com/watch?v=GAxqURWk1fM",
+          "idioma": "español",
+          "duracion": "N/A",
+          "aportacion": "Explica la sedación paliativa como procedimiento que disminuye el nivel de conciencia para aliviar el sufrimiento al final de la vida, diferenciándolo de la eutanasia."
+        },
+        {
+          "titulo": "Eutanasia legal en España: seis claves para entender la decisión del Parlamento",
+          "url": "https://www.youtube.com/watch?v=eSEnjJn4vsM",
+          "idioma": "español",
+          "duracion": "N/A",
+          "aportacion": "Analiza la ley española de eutanasia y suicidio asistido aprobada por el Parlamento, explicando las claves legales y requisitos para su aplicación."
+        },
+        {
+          "titulo": "Documento de instrucciones previas / Testamento vital",
+          "url": "https://www.youtube.com/watch?v=sf6XTkT9DiQ",
+          "idioma": "español",
+          "duracion": "N/A",
+          "aportacion": "Explica el documento de voluntades anticipadas o testamento vital, su importancia legal y ética, y cómo se formaliza en el sistema sanitario español."
+        }
+      ]
     },
     {
       "nombre": "Trasplantes de órganos",
@@ -139,7 +287,37 @@
           "numero_de_pagina": 31
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "Así coordina un trasplante de órganos la Organización Nacional de Trasplantes en España",
+          "url": "https://www.youtube.com/watch?v=zBnuynnYWsE",
+          "idioma": "español",
+          "duracion": "N/A",
+          "aportacion": "Muestra cómo la ONT coordina los operativos de donación y trasplante en España a través del servicio de coordinación 24 horas, el modelo español líder mundial."
+        },
+        {
+          "titulo": "Muerte cerebral y donación de órganos",
+          "url": "https://www.youtube.com/watch?v=FYLx8F1h3rQ",
+          "idioma": "español",
+          "duracion": "N/A",
+          "aportacion": "Explica el concepto de muerte encefálica como criterio de donación de órganos, fundamental para comprender el proceso de trasplantes en España."
+        },
+        {
+          "titulo": "¿Cómo Funciona el Rechazo y la Compatibilidad de Órganos?",
+          "url": "https://www.youtube.com/watch?v=BaJhkNK7QxU",
+          "idioma": "español",
+          "duracion": "N/A",
+          "aportacion": "Explica por qué el sistema inmunológico rechaza trasplantes y los criterios de compatibilidad necesarios para un trasplante exitoso, aspectos inmunológicos clave."
+        },
+        {
+          "titulo": "Etica y Normatividad del Subsistema de Donación y Trasplantes",
+          "url": "https://www.youtube.com/watch?v=ELVF-VphvYs",
+          "idioma": "español",
+          "duracion": "N/A",
+          "aportacion": "Aborda los aspectos éticos y normativos del sistema de donación y trasplantes, incluyendo principios de equidad, transparencia y asignación de órganos."
+        }
+      ]
     },
     {
       "nombre": "Rechazo a las actuaciones médicas. Huelga de hambre. Triaje",
@@ -156,7 +334,30 @@
           "numero_de_pagina": 33
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "Regulación de la AUTONOMÍA DEL PACIENTE en la Ley 41/2002",
+          "url": "https://www.youtube.com/shorts/vVkigaWGZ4A",
+          "idioma": "español",
+          "duracion": "N/A",
+          "aportacion": "Explica la ley básica reguladora de la autonomía del paciente en España, fundamental para entender el derecho al rechazo de tratamientos médicos."
+        },
+        {
+          "titulo": "Dilemas en el manejo de los pacientes Testigos de Jehová",
+          "url": "https://www.youtube.com/watch?v=PMwkxFoLBPE",
+          "idioma": "español",
+          "duracion": "N/A",
+          "aportacion": "Analiza el conflicto ético del rechazo a transfusiones sanguíneas por motivos religiosos, presentando dilemas reales en la práctica médica y alternativas terapéuticas."
+        },
+        {
+          "titulo": "Triaje, salvar vidas en catástrofes, atentados o accidentes masivos",
+          "url": "https://www.youtube.com/watch?v=T6HrJqu23v0",
+          "idioma": "español",
+          "duracion": "N/A",
+          "aportacion": "Explica el protocolo START de triaje para situaciones de emergencia masiva, enseñando cómo priorizar pacientes para salvar el mayor número de vidas con recursos escasos."
+        }
+      ]
     },
     {
       "nombre": "Ética de la investigación",
@@ -178,7 +379,37 @@
           "numero_de_pagina": 38
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "Declaración de Helsinki de la Asociación Médica Mundial",
+          "url": "https://www.youtube.com/watch?v=REwTCwDPHW8",
+          "idioma": "español",
+          "duracion": "N/A",
+          "aportacion": "Presenta los principios básicos y operacionales de la Declaración de Helsinki, marco ético fundamental para la investigación médica en seres humanos."
+        },
+        {
+          "titulo": "¿Qué revisa un Comité de Ética de la Investigación?",
+          "url": "https://www.youtube.com/watch?v=tflgAoMA1ic",
+          "idioma": "español",
+          "duracion": "N/A",
+          "aportacion": "Explica los siete criterios de revisión ética que evalúan los comités de ética de investigación según estándares de la OPS, esenciales para aprobar estudios."
+        },
+        {
+          "titulo": "Curso de Normas de Buena Práctica Clínica - Sesión I",
+          "url": "https://www.youtube.com/watch?v=DesGCADMN_s",
+          "idioma": "español",
+          "duracion": "N/A",
+          "aportacion": "Introducción a la investigación clínica y conceptos básicos sobre ensayos clínicos, incluyendo antecedentes éticos y normas de buena práctica clínica (GCP)."
+        },
+        {
+          "titulo": "Ponencia 6: Informe de Belmont",
+          "url": "https://www.youtube.com/watch?v=TfzJz6f-_vA",
+          "idioma": "español",
+          "duracion": "N/A",
+          "aportacion": "Presenta el Informe Belmont y sus tres principios éticos para investigación con seres humanos: respeto, beneficencia y justicia, fundamentales para la bioética moderna."
+        }
+      ]
     },
     {
       "nombre": "Medicina legal",
@@ -200,7 +431,37 @@
           "numero_de_pagina": 42
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "TODO sobre: NEGLIGENCIA MÉDICA y Mala Praxis",
+          "url": "https://www.youtube.com/watch?v=QzIJS6fCbpw",
+          "idioma": "español",
+          "duracion": "N/A",
+          "aportacion": "Información completa sobre negligencia médica y mala praxis, cómo identificarla, documentarla y los derechos del paciente en estos casos."
+        },
+        {
+          "titulo": "Webinar I La historia clínica como documento médico legal y la auditoría médica",
+          "url": "https://www.youtube.com/watch?v=2ELbB1wVoNI",
+          "idioma": "español",
+          "duracion": "N/A",
+          "aportacion": "Explica la historia clínica como documento médico-legal, su importancia en auditorías y procedimientos legales, y los requisitos de una correcta documentación."
+        },
+        {
+          "titulo": "¿Cómo interpretar un certificado médico legal?",
+          "url": "https://www.youtube.com/watch?v=LACZzMtuEQ4",
+          "idioma": "español",
+          "duracion": "N/A",
+          "aportacion": "Guía práctica para interpretar certificados médico-legales, explicando cada elemento del documento y su importancia jurídica en procedimientos legales."
+        },
+        {
+          "titulo": "Caso Alicia y Fran - Curso Detección del Maltrato y Violencia de Género",
+          "url": "https://www.youtube.com/watch?v=-emKX6maZSw",
+          "idioma": "español",
+          "duracion": "N/A",
+          "aportacion": "Caso práctico de detección de maltrato y violencia de género desde el ámbito sanitario, mostrando protocolos de actuación e indicadores de sospecha."
+        }
+      ]
     },
     {
       "nombre": "Medicina forense",
@@ -227,7 +488,44 @@
           "numero_de_pagina": 49
         }
       ],
-      "total_paginas": 7
+      "total_paginas": 7,
+      "videos": [
+        {
+          "titulo": "ACTUACIÓN - ESCENA DEL CRIMEN, INSPECCIÓN Y LEVANTAMIENTO DE CADÁVER",
+          "url": "https://www.youtube.com/watch?v=IVcp-2cK-HY",
+          "idioma": "español",
+          "duracion": "N/A",
+          "aportacion": "Explica el protocolo de actuación en escena del crimen, procedimientos de inspección y levantamiento de cadáver siguiendo normativa de gestión judicial y criminalística."
+        },
+        {
+          "titulo": "Autopsia Médico-Legal: Ciencia Forense y las Claves Ocultas en el Cuerpo",
+          "url": "https://www.youtube.com/shorts/rhLJTXeihKg",
+          "idioma": "español",
+          "duracion": "N/A",
+          "aportacion": "Presenta la autopsia médico-legal como procedimiento esencial que examina el cuerpo para descubrir la causa de muerte y revelar evidencias forenses."
+        },
+        {
+          "titulo": "Signos de la muerte y fenómenos cadavéricos",
+          "url": "https://www.youtube.com/watch?v=B1SBb0fh2v4",
+          "idioma": "español",
+          "duracion": "N/A",
+          "aportacion": "Explica los signos de muerte y fenómenos cadavéricos tempranos y tardíos, fundamentales para el tanatocronodiagnóstico y la investigación médico-legal."
+        },
+        {
+          "titulo": "Pericia psicológica Forense en Delitos Sexuales",
+          "url": "https://www.youtube.com/watch?v=BUw3_xArBAc",
+          "idioma": "español",
+          "duracion": "N/A",
+          "aportacion": "Aborda la pericia psicológica forense en delitos sexuales, metodología de evaluación de víctimas y agresores, y su papel en la investigación del delito."
+        },
+        {
+          "titulo": "Toxicología Forense Definiciones e Introducción",
+          "url": "https://www.youtube.com/watch?v=cWo7Bgpez4g",
+          "idioma": "español",
+          "duracion": "N/A",
+          "aportacion": "Introducción a la toxicología forense, intoxicaciones por medicamentos, drogas y estupefacientes, y su influencia en comportamiento y causa de muerte."
+        }
+      ]
     }
   ]
 }

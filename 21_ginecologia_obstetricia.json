@@ -56,7 +56,93 @@
           "numero_de_pagina": 18
         }
       ],
-      "total_paginas": 20
+      "total_paginas": 20,
+      "videos": [
+        {
+          "titulo": "Episode 1: Screening Mammography Patient Education Webinar",
+          "url": "https://www.youtube.com/watch?v=9lAdibCOZXo",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Explicación detallada sobre mamografía de screening y detección precoz del cáncer de mama"
+        },
+        {
+          "titulo": "Mammography & Screening Guidelines | FAQ with Dr. Lisa",
+          "url": "https://www.youtube.com/watch?v=KfL2M9n0Q-Y",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Guías de screening mamográfico y detección de cáncer en etapas tempranas"
+        },
+        {
+          "titulo": "Breast Cancer Screening What Every Woman Should Know",
+          "url": "https://www.youtube.com/watch?v=dg-zEvyUXKE",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Información esencial sobre screening de cáncer de mama y reducción de mortalidad"
+        },
+        {
+          "titulo": "BREAST CANCER: STAGING AND TREATMENT: SURGERY",
+          "url": "https://www.youtube.com/watch?v=4gSVn7KcRXA",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Estadificación y tratamiento quirúrgico del cáncer de mama"
+        },
+        {
+          "titulo": "BREAST CANCER STAGING AND TREATMENT",
+          "url": "https://www.youtube.com/watch?v=c7gVaPrmYXc",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Estadificación TNM y opciones de tratamiento del cáncer de mama"
+        },
+        {
+          "titulo": "Sentinel Lymph Node Biopsy - Axillary Surgery for Breast",
+          "url": "https://www.youtube.com/watch?v=1LMclPQfq7o",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Técnica de biopsia del ganglio centinela en cirugía axilar"
+        },
+        {
+          "titulo": "SENTINEL NODE, SURGICAL TECHNIQUE: SELECTIVE",
+          "url": "https://www.youtube.com/watch?v=tTuVKWjzTIk",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Técnica quirúrgica selectiva del ganglio centinela en cáncer de mama"
+        },
+        {
+          "titulo": "Doctor explains BRCA1 & BRCA2 genetic testing",
+          "url": "https://www.youtube.com/watch?v=NwaZ0F1Pjeo",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Explicación de las pruebas genéticas BRCA1 y BRCA2 para cáncer hereditario"
+        },
+        {
+          "titulo": "BRCA1 and BRCA2 in ovarian and breast cancers",
+          "url": "https://www.youtube.com/watch?v=04K_OUdyQSw",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Mutaciones BRCA como causa más común de cáncer hereditario de mama y ovario"
+        },
+        {
+          "titulo": "Breaking Down BRCA",
+          "url": "https://www.youtube.com/watch?v=mIruoFdFBKQ",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Importancia de los genes BRCA1 y BRCA2 y cómo las mutaciones aumentan el riesgo de cáncer"
+        },
+        {
+          "titulo": "Biopsia de Mama Guiada por Ultrasonido",
+          "url": "https://www.youtube.com/watch?v=UJEyr5WThcE",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Procedimiento mínimamente invasivo de biopsia mamaria guiada por ecografía"
+        },
+        {
+          "titulo": "Biopsia de Mama Guiada por Resonancia Magnética",
+          "url": "https://www.youtube.com/watch?v=bjVklJF1944",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Técnica de biopsia mamaria guiada por resonancia magnética"
+        }
+      ]
     },
     {
       "nombre": "Amenorreas",
@@ -88,7 +174,51 @@
           "numero_de_pagina": 25
         }
       ],
-      "total_paginas": 7
+      "total_paginas": 7,
+      "videos": [
+        {
+          "titulo": "Amenorrea. Algoritmo Diagnóstico Ginecología y Obstetricia",
+          "url": "https://www.youtube.com/watch?v=wuayyFb7wdQ",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Algoritmo diagnóstico completo para evaluación de amenorrea, curso MIR Asturias"
+        },
+        {
+          "titulo": "Causes, Diagnosis, and Treatment Explained Easily",
+          "url": "https://www.youtube.com/watch?v=OtePjoKbfS4",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Explicación de amenorrea primaria: causas, diagnóstico y tratamiento"
+        },
+        {
+          "titulo": "Sumando Netas: Diagnóstico diferencial de la amenorrea",
+          "url": "https://www.youtube.com/watch?v=SP2naWINj_I",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Tema muy preguntado en MIR sobre diagnóstico diferencial de amenorrea"
+        },
+        {
+          "titulo": "PREGUNTAS COMENTADAS MIR 2010-2024 SOBRE",
+          "url": "https://www.youtube.com/watch?v=8AlKU1Chpx4",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Análisis de preguntas MIR relacionadas con amenorrea por AulaGinecología"
+        },
+        {
+          "titulo": "TERAPIA HORMONAL SUSTITUTIVA EN LA MENOPAUSIA",
+          "url": "https://www.youtube.com/watch?v=47rjZBsHOg8",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Explicación completa de la terapia hormonal sustitutiva en menopausia"
+        },
+        {
+          "titulo": "Terapia hormonal para la menopausia ¿Es una buena opción?",
+          "url": "https://www.youtube.com/watch?v=VF_WqrylB-c",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Importancia del control en el climaterio y opciones de terapia hormonal"
+        }
+      ]
     },
     {
       "nombre": "Síndrome del ovario poliquístico",
@@ -120,7 +250,44 @@
           "numero_de_pagina": 31
         }
       ],
-      "total_paginas": 5
+      "total_paginas": 5,
+      "videos": [
+        {
+          "titulo": "Síndrome de Ovario Poliquístico, ¿Qué es y Cómo Tratarlo?",
+          "url": "https://www.youtube.com/watch?v=4t6R5W0emq0",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Explicación de la afección hormonal, desequilibrios y quistes ováricos"
+        },
+        {
+          "titulo": "SÍNDROME de OVARIO POLIQUÍSTICO: así se CURA según ESPECIALISTAS",
+          "url": "https://www.youtube.com/watch?v=yrmJvTyVoXU",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Diagnóstico y opciones de curación según especialistas"
+        },
+        {
+          "titulo": "Síndrome de Ovario Poliquístico (SOP)",
+          "url": "https://www.youtube.com/watch?v=DoRRmaMGdiI",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Animación médica en 3D describiendo el síndrome"
+        },
+        {
+          "titulo": "TRATAMIENTO de SOP (Sindrome de Ovario Poliquistico)",
+          "url": "https://www.youtube.com/watch?v=YmTq3gtcHtQ",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Trastorno hormonal común y sus opciones de tratamiento"
+        },
+        {
+          "titulo": "Webinar: Polycystic Ovary Syndrome: The Importance of",
+          "url": "https://www.youtube.com/watch?v=Ap5l0olJdKQ",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Importancia del diagnóstico del síndrome de ovario poliquístico"
+        }
+      ]
     },
     {
       "nombre": "Anticonceptivos",
@@ -152,7 +319,51 @@
           "numero_de_pagina": 41
         }
       ],
-      "total_paginas": 10
+      "total_paginas": 10,
+      "videos": [
+        {
+          "titulo": "Dispositivo intrauterino (DIU)",
+          "url": "https://www.youtube.com/watch?v=lI9UCUFbn08",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "DIU hormonal con levonorgestrel y su mecanismo de acción anticonceptiva"
+        },
+        {
+          "titulo": "MÉTODOS ANTICONCEPTIVOS HORMONALES / Cofia Educativa",
+          "url": "https://www.youtube.com/watch?v=qoJFEexmCPc",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Métodos hormonales, naturales, de barrera, DIU y postcoital"
+        },
+        {
+          "titulo": "Here's how to insert an IUD step by step. Does it hurt a lot?",
+          "url": "https://www.youtube.com/watch?v=KqFTiTNxBtQ",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Procedimiento paso a paso de colocación de DIU"
+        },
+        {
+          "titulo": "Intrauterine Device (IUD) Insertion Tcu 380 A",
+          "url": "https://www.youtube.com/watch?v=0UigUflzYs8",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Enseñanza de inserción de dispositivo intrauterino TCu 380 A"
+        },
+        {
+          "titulo": "MÉTODOS ANTICONCEPTIVOS",
+          "url": "https://www.youtube.com/watch?v=NOXdrrFar84",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Manejo de efectos esperables y colaterales de métodos anticonceptivos hormonales"
+        },
+        {
+          "titulo": "MANEJO DE EFECTOS ESPERABLES / COLATERALES DE LOS MÉTODOS ANTICONCEPTIVOS HORMONALES",
+          "url": "https://www.youtube.com/watch?v=NOXdrrFar84",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Gestión de efectos secundarios de anticonceptivos hormonales"
+        }
+      ]
     },
     {
       "nombre": "Estudio de la pareja con disfunción reproductiva",
@@ -184,7 +395,58 @@
           "numero_de_pagina": 48
         }
       ],
-      "total_paginas": 8
+      "total_paginas": 8,
+      "videos": [
+        {
+          "titulo": "Infertilidad o esterilidad",
+          "url": "https://www.youtube.com/watch?v=dXk0GvdEPOs",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Principales causas de esterilidad e infertilidad y sus tratamientos"
+        },
+        {
+          "titulo": "Equipo Gosálvez - Infertilidad y esterilidad ¿Cuál es la diferencia?",
+          "url": "https://www.youtube.com/watch?v=amb1m1hED1Y",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Diferenciación entre esterilidad e infertilidad por el Dr. Gosálvez"
+        },
+        {
+          "titulo": "ESTERILIDAD. AulaGinecología - STUDENTS. ESTUDIO",
+          "url": "https://www.youtube.com/watch?v=io2eqKEAGTs",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Descripción completa del estudio de esterilidad por AulaGinecología"
+        },
+        {
+          "titulo": "3x32 Infertilidad y esterilidad",
+          "url": "https://www.youtube.com/watch?v=cdf9VIqYRNA",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Diferencia real, cuándo consultar, pruebas básicas y opciones de tratamiento"
+        },
+        {
+          "titulo": "¿Qué es la reproducción asistida y qué tipo de técnicas hay?",
+          "url": "https://www.youtube.com/watch?v=5LrpYS_INng",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Conjunto de técnicas y tratamientos de reproducción asistida"
+        },
+        {
+          "titulo": "¿Qué tipos de riesgos puede haber en una FIV y efectos",
+          "url": "https://www.youtube.com/watch?v=-1_cHlbAOtY",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Complicaciones de FIV: embarazo múltiple y síndrome de hiperestimulación ovárica"
+        },
+        {
+          "titulo": "Complicaciones Síndrome de Hiperestimulación Ovárica (SHO)",
+          "url": "https://www.youtube.com/watch?v=I-39Y0xbyNU",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Complicaciones tras tratamientos de estimulación ovárica y manejo del SHO"
+        }
+      ]
     },
     {
       "nombre": "Patología uterina benigna",
@@ -216,7 +478,51 @@
           "numero_de_pagina": 56
         }
       ],
-      "total_paginas": 10
+      "total_paginas": 10,
+      "videos": [
+        {
+          "titulo": "HIPERPLASIA ENDOMETRIAL: Qué es, tratamiento, riesgo de",
+          "url": "https://www.youtube.com/watch?v=uQhg-f4eaqI",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Opciones de tratamiento con gestágenos y manejo de hiperplasia endometrial"
+        },
+        {
+          "titulo": "Endometrial Hyperplasia: What It Is, Treatment, and Cancer",
+          "url": "https://www.youtube.com/watch?v=JuYlJHMZuAc",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Proliferación de glándulas endometriales y opciones terapéuticas"
+        },
+        {
+          "titulo": "UTERINE FIBROIDS: Symptoms, diagnosis, and treatment of",
+          "url": "https://www.youtube.com/watch?v=rMb70tZ86jo",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Miomas uterinos: causas, síntomas, diagnóstico y tratamiento"
+        },
+        {
+          "titulo": "Endometrial Hyperplasia in Patients: Causes, Diagnosis",
+          "url": "https://www.youtube.com/watch?v=T9hMxsCpryM",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Crecimiento exagerado del endometrio explicado de forma sencilla"
+        },
+        {
+          "titulo": "Manejo actual de Hiperplasia Endometrial",
+          "url": "https://www.youtube.com/watch?v=DI-TifwA4qY",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Actualización en el manejo de la hiperplasia endometrial"
+        },
+        {
+          "titulo": "Leiomiosarcoma Uterino",
+          "url": "https://www.youtube.com/watch?v=yxnvRyyfo7s",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Sarcoma uterino y diferenciación con miomas benignos"
+        }
+      ]
     },
     {
       "nombre": "Patología uterina maligna",
@@ -253,7 +559,44 @@
           "numero_de_pagina": 65
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Estadificación cáncer de endometrio Dra. Sofía Canales",
+          "url": "https://www.youtube.com/watch?v=-_Y0mQ2HLxA",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Estadificación del cáncer de endometrio y valoración ecográfica"
+        },
+        {
+          "titulo": "Cáncer de Endometrio- Oncología",
+          "url": "https://www.youtube.com/watch?v=bkvVVhPUuTs",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Síntomas, diagnóstico y tratamiento del cáncer de endometrio"
+        },
+        {
+          "titulo": "CÁNCER DE ENDOMETRIO",
+          "url": "https://www.youtube.com/watch?v=Ou5YYyW1l7o",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Diagnóstico, estadificación y tratamiento del cáncer de endometrio"
+        },
+        {
+          "titulo": "Seminario 426. Actualización de cáncer de endometrio",
+          "url": "https://www.youtube.com/watch?v=T46PKGZqW5g",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Revisión detallada con datos epidemiológicos mundial y de Guatemala"
+        },
+        {
+          "titulo": "Diagnóstico y Estadificación del Cáncer",
+          "url": "https://www.youtube.com/watch?v=_2IrnuMWhB4",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Diagnóstico y casos clínicos de cáncer de endometrio"
+        }
+      ]
     },
     {
       "nombre": "Patología ovárica benigna",
@@ -275,7 +618,44 @@
           "numero_de_pagina": 71
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "¿Se puede curar la endometriosis? síntomas, causas y tratamiento",
+          "url": "https://www.youtube.com/watch?v=Ojuaa528I64",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Enfermedad crónica que afecta a 190 millones de mujeres en el mundo"
+        },
+        {
+          "titulo": "Abordaje Integrativo. Dra. Nora Rodriguez y Dr. Oscar Cornelio",
+          "url": "https://www.youtube.com/watch?v=1ZULRXu3pZQ",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Abordaje a fondo de la endometriosis como enfermedad ginecológica"
+        },
+        {
+          "titulo": "Endometriosis",
+          "url": "https://www.youtube.com/watch?v=MXLAG6fdMQw",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Terapia hormonal para prevenir acumulación endometrial y hemorragia"
+        },
+        {
+          "titulo": "️🩺 Cólico Menstrual o Dismenorrea Primaria y Secundaria",
+          "url": "https://www.youtube.com/watch?v=WWX6tiBdj2Q",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Síntomas, diagnóstico y tratamiento de la dismenorrea"
+        },
+        {
+          "titulo": "Endometriosis Piso Pelvico",
+          "url": "https://www.youtube.com/watch?v=FRFCansYpng",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Terapia de piso pélvico en pacientes con endometriosis"
+        }
+      ]
     },
     {
       "nombre": "Cáncer de ovario",
@@ -302,7 +682,58 @@
           "numero_de_pagina": 78
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Evaluación de marcadores tumorales en paciente con masa",
+          "url": "https://www.youtube.com/watch?v=AE1-EoKBx5E",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Diagnóstico del cáncer y marcadores tumorales"
+        },
+        {
+          "titulo": "Discusión 19. La elevación de Ca125 en Ca ovario, sin",
+          "url": "https://www.youtube.com/watch?v=jCmcHti5JoM",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Indicaciones del Ca125, cuándo tomarse y manejo de elevación persistente"
+        },
+        {
+          "titulo": "19 25 Dr Joaquin Luna - Marcadores tumorales en las masas",
+          "url": "https://www.youtube.com/watch?v=uCC2eLLBJCs",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Utilidad clínica de los marcadores tumorales en masas ováricas"
+        },
+        {
+          "titulo": "DRA. GENA QUESADA FUENTES",
+          "url": "https://www.youtube.com/watch?v=882btDZbaPc",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Orientación diagnóstica de tumor pélvico ginecológico y cáncer de ovario"
+        },
+        {
+          "titulo": "Cáncer de ovario y el marcador ROMA",
+          "url": "https://www.youtube.com/watch?v=kMMd_HPZ-4Q",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Hallazgo incidental de masa anexial y marcador ROMA"
+        },
+        {
+          "titulo": "Teratomas [Clínica Las Condes]",
+          "url": "https://www.youtube.com/watch?v=BniEw8JojYM",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Tumor benigno formado de células germinales"
+        },
+        {
+          "titulo": "Seminario 422. Revisión de los tumores germinales",
+          "url": "https://www.youtube.com/watch?v=ssjVk1W-1dw",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Teratoma, disgerminoma y otros tumores germinales ováricos"
+        }
+      ]
     },
     {
       "nombre": "Prevención del cáncer del cuello de útero",
@@ -339,7 +770,44 @@
           "numero_de_pagina": 82
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Pruebas de Papanicolaou y VPH",
+          "url": "https://www.youtube.com/watch?v=Bxb7h7NpcGw",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Síntomas del cáncer de cuello uterino y pruebas de screening"
+        },
+        {
+          "titulo": "Papanicolaou, colposcopía, VPH, cáncer de cérvix",
+          "url": "https://www.youtube.com/playlist?list=PL4CQ5VWlqhOpc7Dew3Hn3fVbwijwCPlf4",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Estudios básicos desde inicio de vida sexual y prevención VPH"
+        },
+        {
+          "titulo": "CÁNCER DE CUELLO DE ÚTERO: SÍNTOMAS",
+          "url": "https://www.youtube.com/watch?v=QQUO4Booksw",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "99% causado por infección persistente del virus del papiloma humano"
+        },
+        {
+          "titulo": "VIRUS PAPILOMA HUMANO y CÁNCER: LESIONES",
+          "url": "https://www.youtube.com/watch?v=qgD2lmE_HGU",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Programas de prevención basados en citología y detección HPV"
+        },
+        {
+          "titulo": "PATOLOGÍA CERVICAL. AulaGinecología - STUDENTS",
+          "url": "https://www.youtube.com/watch?v=OsB1NpYCQWM",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Relación causal entre infección persistente VPH y cáncer de cérvix"
+        }
+      ]
     },
     {
       "nombre": "Cáncer de cérvix",
@@ -401,7 +869,51 @@
           "numero_de_pagina": 89
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "CÁNCER DE CUELLO DE ÚTERO: SÍNTOMAS",
+          "url": "https://www.youtube.com/watch?v=QQUO4Booksw",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Causado por infección persistente VPH en 99% de casos"
+        },
+        {
+          "titulo": "VIRUS PAPILOMA HUMANO y CÁNCER: LESIONES",
+          "url": "https://www.youtube.com/watch?v=qgD2lmE_HGU",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Programas de prevención basados en citología cervical y detección HPV"
+        },
+        {
+          "titulo": "PATOLOGÍA CERVICAL. AulaGinecología - STUDENTS",
+          "url": "https://www.youtube.com/watch?v=OsB1NpYCQWM",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Relación causal entre infección persistente por VPH y cáncer de cérvix"
+        },
+        {
+          "titulo": "Pruebas de Papanicolaou y VPH",
+          "url": "https://www.youtube.com/watch?v=Bxb7h7NpcGw",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Síntomas del cáncer de cuello uterino y cómo se toma un Papanicolau"
+        },
+        {
+          "titulo": "Papanicolaou, colposcopía, VPH, cáncer de cérvix",
+          "url": "https://www.youtube.com/playlist?list=PL4CQ5VWlqhOpc7Dew3Hn3fVbwijwCPlf4",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Estudios básicos que debe realizarse una mujer desde inicio de vida sexual"
+        },
+        {
+          "titulo": "Premalignant Diseases | Vulval Intraepithelial Neoplasia",
+          "url": "https://www.youtube.com/watch?v=IoJYeQD7DaA",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Enfermedades premalignas del tracto reproductor femenino"
+        }
+      ]
     },
     {
       "nombre": "Infecciones vulvovaginales. Enfermedad inflamatoria pélvica",
@@ -433,7 +945,58 @@
           "numero_de_pagina": 96
         }
       ],
-      "total_paginas": 8
+      "total_paginas": 8,
+      "videos": [
+        {
+          "titulo": "Candidiasis Vaginal - Una ginecóloga explica cómo se",
+          "url": "https://www.youtube.com/watch?v=iGQAeNJ4ugI",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Infección de hongo que causa comezón o dolor vaginal"
+        },
+        {
+          "titulo": "¿Qué es una infección vaginal por hongos?",
+          "url": "https://www.youtube.com/watch?v=o3pN3M7sKi8",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Crecimiento excesivo de levadura en sistema digestivo y área vaginal"
+        },
+        {
+          "titulo": "Vulvovaginitis: Symptoms, Causes, Diagnosis, and Treatment",
+          "url": "https://www.youtube.com/watch?v=9SceFM4EIPA",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Diagnóstico y tratamiento de vulvovaginitis"
+        },
+        {
+          "titulo": "Bacterial Vaginosis (Patients): Symptoms, Causes",
+          "url": "https://www.youtube.com/watch?v=ChODlRu4OFc",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Causa más común de flujo vaginal en mujeres"
+        },
+        {
+          "titulo": "PELVIC INFLAMMATORY DISEASE",
+          "url": "https://www.youtube.com/watch?v=wRSbkT_D1Ys",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Enfermedad inflamatoria pélvica explicada por Dr. Leonardo Ramírez"
+        },
+        {
+          "titulo": "ENFERMEDAD INFLAMATORIA PÉLVICA (EPI): Síntomas",
+          "url": "https://www.youtube.com/watch?v=AQs5jGOSgqE",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Diagnóstico clínico de sospecha en paciente joven sexualmente activa"
+        },
+        {
+          "titulo": "Enfermedad inflamatoria pélvica - Clínica, diagnóstico y",
+          "url": "https://www.youtube.com/watch?v=2Rby8MmWVrk",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Clínica, diagnóstico y tratamiento de la enfermedad inflamatoria pélvica"
+        }
+      ]
     },
     {
       "nombre": "Patología vulvar",
@@ -465,7 +1028,44 @@
           "numero_de_pagina": 102
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Premalignant Diseases | Vulval Intraepithelial Neoplasia (VIN)",
+          "url": "https://www.youtube.com/watch?v=IoJYeQD7DaA",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Enfermedades premalignas especialmente del tracto reproductor femenino"
+        },
+        {
+          "titulo": "Cancer of the Vagina and Vulva - symptoms, diagnosis",
+          "url": "https://www.youtube.com/watch?v=sh76-CbFNfk",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Carcinomas de vagina y vulva: síntomas, diagnóstico, estadificación y tratamiento"
+        },
+        {
+          "titulo": "Squamous Neoplasia of the Vulva: from Novice to Nuance",
+          "url": "https://www.youtube.com/watch?v=XmZVCuw9IAY",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Neoplasia escamosa de vulva desde nivel básico a avanzado"
+        },
+        {
+          "titulo": "39. AIM MRCOG: TOG 2024 - Vulval Intraepithelial Neoplasia",
+          "url": "https://www.youtube.com/watch?v=Cod-Zg460TY",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Neoplasia intraepitelial vulvar según guías 2024"
+        },
+        {
+          "titulo": "VIN - MD/DNB Obstetrics & Gynaecology",
+          "url": "https://www.youtube.com/watch?v=jVnnFpnrwz4",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Clasificación de neoplasia intra-epitelial vulvar en tres tipos"
+        }
+      ]
     },
     {
       "nombre": "Control del embarazo normal",
@@ -502,7 +1102,58 @@
           "numero_de_pagina": 109
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "NORMAL PREGNANCY MONITORING: SEROLOGY",
+          "url": "https://www.youtube.com/watch?v=q-3S6Yn19BY",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Control del embarazo normal como estado fisiológico de la mujer"
+        },
+        {
+          "titulo": "Check-ups in a normal pregnancy: Consultation, ultrasounds",
+          "url": "https://www.youtube.com/watch?v=8MwZOUP6A0A",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "El embarazo es una etapa más en la vida de muchas mujeres"
+        },
+        {
+          "titulo": "Ecografías durante el embarazo: Todo lo que debes saber",
+          "url": "https://www.youtube.com/watch?v=jgAfokNk0cE",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Importancia de ecografías para monitorear salud y desarrollo del bebé"
+        },
+        {
+          "titulo": "FIRST ANALYSIS, 12-WEEK ULTRASOUND, FETAL DNA",
+          "url": "https://www.youtube.com/watch?v=-760Y0xXCQM",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Tercer mes del embarazo y desarrollo del embrión"
+        },
+        {
+          "titulo": "Profilaxis Anti-D para Embarazadas con RH negativo",
+          "url": "https://www.youtube.com/watch?v=M4Tl1p0Yhes",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Profilaxis Anti-D para evitar isoinmunización y anemia fetal en RH negativo"
+        },
+        {
+          "titulo": "ISOINMUNIZACIÓN RH: GAMMAGLOBULINA ANTI-G",
+          "url": "https://www.youtube.com/watch?v=ajT8Qftw2qA",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Acs anti-kell y anti-c que producen EHF con manejo similar a anti-RhD"
+        },
+        {
+          "titulo": "RH \"VACCINE\" IN PREGNANT WOMEN: WHAT IT IS, WHAT",
+          "url": "https://www.youtube.com/watch?v=MZmIapNM_YM",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Vacuna del Rh es inmunoglobulina para prevenir isoinmunización"
+        }
+      ]
     },
     {
       "nombre": "Diagnóstico prenatal",
@@ -529,7 +1180,65 @@
           "numero_de_pagina": 115
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Unidad de Diagnóstico Prenatal",
+          "url": "https://www.youtube.com/watch?v=TjyLyhfVquY",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Detección de anomalías en el desarrollo fetal"
+        },
+        {
+          "titulo": "How are Fetal Anomalies Detected by Ultrasound?",
+          "url": "https://www.youtube.com/watch?v=T_G1L-jnhHk",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Detección de alteraciones y establecimiento de protocolos de tratamiento"
+        },
+        {
+          "titulo": "FIRST TRIMESTER ULTRASOUND. Chromosomal",
+          "url": "https://www.youtube.com/watch?v=ZEeb1PKh-WE",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Parámetros importantes de la primera ecografía con video real"
+        },
+        {
+          "titulo": "¿Triple Screening o ADN fetal? | Pruebas Embarazo",
+          "url": "https://www.youtube.com/watch?v=R4BljLvVWAs",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Cribado de cromosomopatías: Triple Screening vs ADN Fetal"
+        },
+        {
+          "titulo": "CRIBADO DE CROMOSOMOPATÍAS ¿Cómo se calcula el",
+          "url": "https://www.youtube.com/watch?v=jXe4WpG3e7A",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Cálculo del riesgo de Síndrome de Down y siguientes pasos"
+        },
+        {
+          "titulo": "Amniocentesis and chorionic villus biopsy: when they are",
+          "url": "https://www.youtube.com/watch?v=wA1PSaD8JT0",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Amniocentesis y biopsia de vellosidades coriales"
+        },
+        {
+          "titulo": "Intrauterine Growth Restriction #IUGR #Doppler #Echo #PEG",
+          "url": "https://www.youtube.com/watch?v=vXNcSB2RBhU",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Estrategia diagnóstica en restricción de crecimiento intrauterino con Doppler"
+        },
+        {
+          "titulo": "CIR y PEG: MANEJO. CONTROLES, ESTUDIOS, DOPPLER",
+          "url": "https://www.youtube.com/watch?v=AOZW3VUFsHQ",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Crecimiento intrauterino retardado cuando PFE menor a percentil 3"
+        }
+      ]
     },
     {
       "nombre": "Hemorragias del primer trimestre",
@@ -551,7 +1260,44 @@
           "numero_de_pagina": 123
         }
       ],
-      "total_paginas": 10
+      "total_paginas": 10,
+      "videos": [
+        {
+          "titulo": "Aborto, embarazo ectopico y embarazo molar #ENARM",
+          "url": "https://www.youtube.com/watch?v=17C-NEcfPPY",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Aborto, embarazo ectópico y mola hidatiforme con origen citogenético"
+        },
+        {
+          "titulo": "Embarazo ectópico",
+          "url": "https://www.youtube.com/watch?v=19cuu5l2Inc",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "No hay manera eficaz de prevenir el embarazo ectópico"
+        },
+        {
+          "titulo": "¿Cuántos tipos de aborto espontáneo hay y cómo se",
+          "url": "https://www.youtube.com/watch?v=WiLr41cI5hw",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Pérdida involuntaria del embrión o feto antes de las 20 semanas"
+        },
+        {
+          "titulo": "Bleeding during the first half of pregnancy",
+          "url": "https://www.youtube.com/watch?v=hBKkV8zi8fw",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Clase de Ginecología 2 sobre sangrado en primera mitad del embarazo"
+        },
+        {
+          "titulo": "Complicaciones durante el embarazo. Clase completa",
+          "url": "https://www.youtube.com/watch?v=rzIDSDSu0IQ",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Complicaciones hemorrágicas: Aborto, Embarazo Ectópico, Mola Hidatídica"
+        }
+      ]
     },
     {
       "nombre": "Hemorragias del tercer trimestre",
@@ -568,7 +1314,44 @@
           "numero_de_pagina": 130
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "DESPRENDIMIENTO PREMATURO DE PLACENTA NORMO",
+          "url": "https://www.youtube.com/watch?v=pELWmMzw2Aw",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Diagnóstico diferencial con placenta previa, síntomas y sangrado"
+        },
+        {
+          "titulo": "Placenta PREVIA, DPPNI, Vasa Previa, Uterine Rupture and",
+          "url": "https://www.youtube.com/watch?v=_l_la5Kf1qk",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Placenta oclusiva total y sangrado en primer trimestre"
+        },
+        {
+          "titulo": "Placenta previa y Desprendimiento de Placenta. Comparación",
+          "url": "https://www.youtube.com/watch?v=sVAS7wxUeHQ",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Comparación entre dos causas frecuentes de sangrado en tercer trimestre"
+        },
+        {
+          "titulo": "Second-Half Pregnancy Bleeding (Placenta Previa and",
+          "url": "https://www.youtube.com/watch?v=SpzLmVfVPFo",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Hemorragias de segunda mitad del embarazo: placenta previa y DPPNI"
+        },
+        {
+          "titulo": "Sangrados de la segunda mitad del embarazo",
+          "url": "https://www.youtube.com/watch?v=Q1wZZWesmSc",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Placenta previa, desprendimiento y diagnóstico diferencial con rotura"
+        }
+      ]
     },
     {
       "nombre": "Trastornos hipertensivos durante la gestación",
@@ -595,7 +1378,44 @@
           "numero_de_pagina": 137
         }
       ],
-      "total_paginas": 8
+      "total_paginas": 8,
+      "videos": [
+        {
+          "titulo": "HIPERTENSIÓN y PREECLAMPSIA en el Embarazo",
+          "url": "https://www.youtube.com/watch?v=DB7iUDwdBAA",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Preeclampsia, hipertensión, eclampsia, factores de riesgo y tratamiento"
+        },
+        {
+          "titulo": "PRE-ECLAMPSIA, ECLAMPSIA AND REFERRAL TO A",
+          "url": "https://www.youtube.com/watch?v=-W2kDNdZalo",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Anemia en gestación y consecuencias, fisiopatología de preeclampsia"
+        },
+        {
+          "titulo": "Preeclampsia y Eclampsia: Actualidades en Diagnóstico y",
+          "url": "https://www.youtube.com/watch?v=nqhZSV3Do1g",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Condiciones críticas que afectan mujeres embarazadas, últimas actualizaciones"
+        },
+        {
+          "titulo": "Preeclampsia: Warning Signs, Headache, Hypertension",
+          "url": "https://www.youtube.com/watch?v=hK1BiCkvdzA",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Signos de alarma de preeclampsia durante el embarazo"
+        },
+        {
+          "titulo": "Hypertension and Pregnancy: Therapeutic Approaches and",
+          "url": "https://www.youtube.com/watch?v=b-s_q7Lz8nc",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Trastornos hipertensivos del embarazo incluyendo nueva guía AHA 2025"
+        }
+      ]
     },
     {
       "nombre": "Diabetes gestacional",
@@ -627,7 +1447,44 @@
           "numero_de_pagina": 143
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "Diagnóstico y tratamientos disponibles para la diabetes",
+          "url": "https://www.youtube.com/watch?v=gH2H-Pg4Y0g",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Factores causantes de diabetes gestacional y afectación al feto"
+        },
+        {
+          "titulo": "DIABETES GESTACIONAL: DIAGNÓSTICO, CONTROL",
+          "url": "https://www.youtube.com/watch?v=sIcMoaAEiCs",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Educación diabetológica, glucemias capilares, ejercicio y tratamiento farmacológico"
+        },
+        {
+          "titulo": "5 Algoritmo de diagnóstico | Diabetes gestacional",
+          "url": "https://www.youtube.com/watch?v=vVegjw4ub2E",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Definición, fisiopatología, complicaciones, diagnóstico y tratamiento"
+        },
+        {
+          "titulo": "11. Diabetes gestacional. Diagnóstico y tratamiento",
+          "url": "https://www.youtube.com/watch?v=wgstvZSqayI",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Manejo de pacientes en riesgo y detección de diabetes gestacional"
+        },
+        {
+          "titulo": "Detectar y tratar la diabetes gestacional",
+          "url": "https://www.youtube.com/watch?v=ZSXvEgvY8qY",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Diabetes que se presenta en mujeres embarazadas sin condición previa"
+        }
+      ]
     },
     {
       "nombre": "Patología médica y gestación",
@@ -664,7 +1521,58 @@
           "numero_de_pagina": 151
         }
       ],
-      "total_paginas": 8
+      "total_paginas": 8,
+      "videos": [
+        {
+          "titulo": "COLESTASIS HEPÁTICA EMBARAZO (PACIENTES",
+          "url": "https://www.youtube.com/watch?v=PS0qAzh7ZLA",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Patología del hígado manifestada por prurito palmoplantar"
+        },
+        {
+          "titulo": "Intrahepatic Cholestasis of Pregnancy: Causes, Symptoms",
+          "url": "https://www.youtube.com/watch?v=MsRyuc6TckQ",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Problema frecuente en segunda mitad del embarazo"
+        },
+        {
+          "titulo": "Colestasis intrahepática del embarazo - OBSTETRICIA",
+          "url": "https://www.youtube.com/watch?v=_kUa16ry-48",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Trastorno que afecta principalmente al hígado durante gestación"
+        },
+        {
+          "titulo": "Nuevas pautas en el manejo de la gestante con VIH y",
+          "url": "https://www.youtube.com/watch?v=KjhJkryp9YE",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "VIH y embarazo 2022, controladores élite y avances imparables"
+        },
+        {
+          "titulo": "VIH y embarazo",
+          "url": "https://www.youtube.com/watch?v=tol5YZFpkl8",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Seminario de actualización en Ginecología y Obstetricia sobre VIH"
+        },
+        {
+          "titulo": "VIH. PREVENCIÓN de la transmisión vertical. Protocolo para",
+          "url": "https://www.youtube.com/watch?v=5fZQZbTgzVY",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Protocolo de atención para reducir riesgo de transmisión vertical"
+        },
+        {
+          "titulo": "13/05/21: Prevención de la Transmisión Vertical del VIH y la",
+          "url": "https://www.youtube.com/watch?v=rXVHhlwmRhQ",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Manejo de VIH y Sífilis en gestante y paciente pediátrico"
+        }
+      ]
     },
     {
       "nombre": "Parto pretérmino",
@@ -681,7 +1589,44 @@
           "numero_de_pagina": 157
         }
       ],
-      "total_paginas": 8
+      "total_paginas": 8,
+      "videos": [
+        {
+          "titulo": "RPMPT: Premature Rupture of Membranes Preterm",
+          "url": "https://www.youtube.com/watch?v=Ye9D5bs9T-Y",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Manejo actual de ruptura prematura de membranas pretérmino"
+        },
+        {
+          "titulo": "Diagnóstico, manejo a término y tiempos pretérmino de la",
+          "url": "https://www.youtube.com/watch?v=hOHHW0jgTxk",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Rotura prematura de membranas: diagnóstico y manejo a término y pretérmino"
+        },
+        {
+          "titulo": "Manejo Actual de ruptura prematura de membranas",
+          "url": "https://www.youtube.com/watch?v=oX4TZHZ1MIw",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Manejo actualizado de ruptura prematura de membranas pretérmino"
+        },
+        {
+          "titulo": "MANEJO DE RUPTURA PREMATURA DE MEMBRANAS",
+          "url": "https://www.youtube.com/watch?v=KzFwZrzQqXE",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Protocolos de manejo de ruptura prematura de membranas"
+        },
+        {
+          "titulo": "Rotura prematura de membranas. 1 Minuto por el Dr",
+          "url": "https://www.youtube.com/watch?v=WFVIrJClSPk",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Solución de continuidad de membranas ovulares antes del inicio de parto"
+        }
+      ]
     },
     {
       "nombre": "Inducción al parto. Gestación cronológicamente prolongada",
@@ -698,7 +1643,30 @@
           "numero_de_pagina": 163
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "Induccion y aumento del trabajo de parto",
+          "url": "https://www.youtube.com/watch?v=w5691Nb2SGE",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Indicaciones, contraindicaciones, técnicas y riesgos de inducción del parto"
+        },
+        {
+          "titulo": "Manejo del trabajo de parto",
+          "url": "https://www.youtube.com/watch?v=h4jSvTJWw9A",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Trabajo de parto y Bishop Score favorable"
+        },
+        {
+          "titulo": "Competencia de la auxiliar de enfermería en la inducción de",
+          "url": "https://www.youtube.com/watch?v=I-piPuBpz28",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Competencias en el procedimiento de inducción de trabajo de parto"
+        }
+      ]
     },
     {
       "nombre": "Control del bienestar fetal",
@@ -720,7 +1688,37 @@
           "numero_de_pagina": 168
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Registro Cardiotocográfico, Dra. Gladys Sulikey Herrera",
+          "url": "https://www.youtube.com/watch?v=qvPQoNA6Wx0",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Seminario sobre registro cardiotocográfico en monitorización fetal"
+        },
+        {
+          "titulo": "Monitoreo fetal PRÁCTICA",
+          "url": "https://www.youtube.com/watch?v=ZZPrwvqJ1T8",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Parte práctica de cómo se realiza el examen en el hospital"
+        },
+        {
+          "titulo": "Pruebas de bienestar fetal anteparto",
+          "url": "https://www.youtube.com/watch?v=Dp7PuaCfSno",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Métodos de evaluación del bienestar fetal antes del parto"
+        },
+        {
+          "titulo": "MASTER CLASS CURSO ATENCIÓN DEL PARTO Y",
+          "url": "https://www.youtube.com/watch?v=uP88igCdBbE",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Fases del trabajo de parto, inducción y monitoreo fetal"
+        }
+      ]
     },
     {
       "nombre": "Parto normal. Parto instrumental. Cesárea",
@@ -747,7 +1745,37 @@
           "numero_de_pagina": 174
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Instrumental Delivery (Women's Area): Vacuum Extractor",
+          "url": "https://www.youtube.com/watch?v=JP8T_I7BlN0",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Parto vaginal instrumentado con ventosa o fórceps"
+        },
+        {
+          "titulo": "Parto instrumental",
+          "url": "https://www.youtube.com/shorts/WjSjhyskEXQ",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Parto instrumental o cesárea y manejo del miedo durante el procedimiento"
+        },
+        {
+          "titulo": "Gynecological and Obstetric Surgical Instrumentation",
+          "url": "https://www.youtube.com/watch?v=KFIiq89rVRc",
+          "idioma": "inglés",
+          "duracion": "no especificada",
+          "aportacion": "Instrumentación quirúrgica ginecológica y obstétrica - Cesárea paso a paso"
+        },
+        {
+          "titulo": "Dr Jaime Torres Obstetricia Parto Vaginal Instrumentado",
+          "url": "https://www.youtube.com/watch?v=sKEOf8VkH2g",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Parto vaginal instrumentado explicado por Dr. Jaime Torres"
+        }
+      ]
     },
     {
       "nombre": "Parto en presentación podálica. Versión cefálica externa. Gestación gemelar",
@@ -769,7 +1797,58 @@
           "numero_de_pagina": 179
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "Versión cefálica externa",
+          "url": "https://www.youtube.com/watch?v=snKe_gNZCD8",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Técnica para casos donde el bebé viene de nalgas o en postura transversal"
+        },
+        {
+          "titulo": "En qué consiste la versión cefálica externa",
+          "url": "https://www.youtube.com/watch?v=uSUrnzvsN5Q",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Técnica para voltear la posición del bebé dentro del vientre materno"
+        },
+        {
+          "titulo": "External Cephalic Version: What It Is",
+          "url": "https://www.youtube.com/watch?v=ipAGic5m5hU",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Maniobras para colocar al feto en cefálica y facilitar parto vaginal"
+        },
+        {
+          "titulo": "Bebé de nalgas, ¿qué significa y qué hacer para cambiar su",
+          "url": "https://www.youtube.com/watch?v=S6sEj_2EvBo",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Por qué el bebé se presenta de nalgas y qué hacer, versión cefálica externa"
+        },
+        {
+          "titulo": "Twin Pregnancy: Types, Frequency, Monitoring, Risks",
+          "url": "https://www.youtube.com/watch?v=r-6T_SOTcm8",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Embarazo gemelar cada vez más frecuente por reproducción asistida"
+        },
+        {
+          "titulo": "EMBARAZO GEMELAR o MÚLTIPLE | consejos de",
+          "url": "https://www.youtube.com/watch?v=QuVnsNWmP7Q",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Cuidados básicos en embarazo gemelar: alimentación y cuidados"
+        },
+        {
+          "titulo": "Tipos de embarazos gemelares",
+          "url": "https://www.youtube.com/watch?v=ESsOdm52Le8",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Bicorial biamniótico y otros tipos de gestaciones gemelares"
+        }
+      ]
     },
     {
       "nombre": "Patología del puerperio",
@@ -816,7 +1895,44 @@
           "numero_de_pagina": 185
         }
       ],
-      "total_paginas": 8
+      "total_paginas": 8,
+      "videos": [
+        {
+          "titulo": "PUERPERIO y LACTANCIA. AulaGinecología - SUTDENTS",
+          "url": "https://www.youtube.com/watch?v=5sgMNTl4XEU",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Posparto y postcesárea, cuidados, fisiología del puerperio"
+        },
+        {
+          "titulo": "MASTITIS PUERPERAL: SÍNTOMAS, DIAGNÓSTICO",
+          "url": "https://www.youtube.com/watch?v=6OzmerjQeh4",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Mayoría en primeros 3 meses, especialmente semanas 2-3 postparto"
+        },
+        {
+          "titulo": "SESIÓN 4- PREPARACIÓN AL PARTO ONLINE",
+          "url": "https://www.youtube.com/watch?v=zOw66DxVess",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Lactancia materna, detección precoz de obstrucción e ingurgitación mamaria"
+        },
+        {
+          "titulo": "POSPARTO Y CUARENTENA: ¿Puedo BAÑARME en la",
+          "url": "https://www.youtube.com/watch?v=PD9QPJDHiW0",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Lactancia sin dolor, mastitis síntomas y causas, errores comunes"
+        },
+        {
+          "titulo": "EL POSPARTO",
+          "url": "https://www.youtube.com/watch?v=QKFkGBlyD-k",
+          "idioma": "español",
+          "duracion": "no especificada",
+          "aportacion": "Periodo que inicia después del nacimiento y dura aproximadamente 40 días"
+        }
+      ]
     }
   ]
 }

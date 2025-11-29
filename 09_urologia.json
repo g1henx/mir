@@ -16,7 +16,23 @@
           "numero_de_pagina": 3
         }
       ],
-      "total_paginas": 2
+      "total_paginas": 2,
+      "videos": [
+        {
+          "titulo": "SEMIOLOGIA RENAL Y UROLOGICA. (PARTE 1)",
+          "url": "https://www.youtube.com/watch?v=fnk0ZXfs33o",
+          "idioma": "es",
+          "duracion": "N/A",
+          "aportacion": "Introducción completa a la semiología renal y urológica, ideal para entender los conceptos básicos y la aproximación clínica"
+        },
+        {
+          "titulo": "Semiología Urológica",
+          "url": "https://www.youtube.com/watch?v=J12ajDehChw",
+          "idioma": "es",
+          "duracion": "N/A",
+          "aportacion": "Clase práctica de semiología enfocada desde el punto de vista urológico por cirujano urólogo"
+        }
+      ]
     },
     {
       "nombre": "Infecciones del tracto urinario",
@@ -48,7 +64,51 @@
           "numero_de_pagina": 8
         }
       ],
-      "total_paginas": 8
+      "total_paginas": 8,
+      "videos": [
+        {
+          "titulo": "Pielonefritis",
+          "url": "https://www.youtube.com/watch?v=N9oZcT2cWYQ",
+          "idioma": "es",
+          "duracion": "N/A",
+          "aportacion": "Explicación de la infección renal, su fisiopatología y cómo puede convertirse en una condición médica grave"
+        },
+        {
+          "titulo": "INFECCION DE VIAS URINARIAS | Pielonefritis y prostatits",
+          "url": "https://www.youtube.com/watch?v=Jo6Olf-Dv-A",
+          "idioma": "es",
+          "duracion": "N/A",
+          "aportacion": "Basado en Harrison Principios de Medicina Interna, cubre pielonefritis y prostatitis con enfoque académico"
+        },
+        {
+          "titulo": "Tuberculosis Genitourinaria",
+          "url": "https://www.youtube.com/watch?v=bvVktKIlc6E",
+          "idioma": "es",
+          "duracion": "N/A",
+          "aportacion": "Revisión específica de tuberculosis urogenital, importante para el diagnóstico diferencial"
+        },
+        {
+          "titulo": "Infecciones de Tracto Urinario: TBC genitourinaria",
+          "url": "https://www.youtube.com/watch?v=rXUAG7gVofU",
+          "idioma": "es",
+          "duracion": "N/A",
+          "aportacion": "Docencia hospitalaria sobre tuberculosis genitourinaria con enfoque clínico práctico"
+        },
+        {
+          "titulo": "Interstitial Cystitis & Chronic Bladder Pain and Management",
+          "url": "https://www.youtube.com/watch?v=ANuz14p2h2g",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Manejo actualizado de cistitis intersticial y dolor vesical crónico desde perspectiva internacional"
+        },
+        {
+          "titulo": "Urinary Tract Infections: Treatment, Prophylaxis & Recurrency",
+          "url": "https://www.youtube.com/watch?v=cppoB-3MhLQ",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Tratamiento, profilaxis y manejo de infecciones recurrentes del tracto urinario"
+        }
+      ]
     },
     {
       "nombre": "Urolitiasis",
@@ -70,7 +130,44 @@
           "numero_de_pagina": 13
         }
       ],
-      "total_paginas": 7
+      "total_paginas": 7,
+      "videos": [
+        {
+          "titulo": "Litiasis Renal: Causas, síntomas, diagnóstico y tratamiento",
+          "url": "https://www.youtube.com/watch?v=R1otQu0awnM",
+          "idioma": "es",
+          "duracion": "N/A",
+          "aportacion": "Visión completa de la litiasis renal incluyendo causas, manifestaciones clínicas y opciones terapéuticas"
+        },
+        {
+          "titulo": "Hablamos de Litiasis Renal, con el Dr. Adrià Piñero",
+          "url": "https://www.youtube.com/watch?v=fukXjlBtUik",
+          "idioma": "es",
+          "duracion": "N/A",
+          "aportacion": "Discusión experta sobre la patología muy común de cálculos renales y su manejo"
+        },
+        {
+          "titulo": "Kidney Stones: Symptoms, Causes & Treatment",
+          "url": "https://www.youtube.com/watch?v=JP9qXU3nEP4",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Información de Mass General sobre síntomas, causas y tratamiento de cálculos renales"
+        },
+        {
+          "titulo": "Kidney Stone Treatments",
+          "url": "https://www.youtube.com/watch?v=kcaOMrOiyJs",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Cleveland Clinic explica las opciones de tratamiento desde observación hasta procedimientos mínimamente invasivos"
+        },
+        {
+          "titulo": "Litotricia - ESWL",
+          "url": "https://www.youtube.com/watch?v=JVIooBwOLO4",
+          "idioma": "es",
+          "duracion": "N/A",
+          "aportacion": "Explicación detallada de la litotricia extracorpórea por ondas de choque, tratamiento clave en urolitiasis"
+        }
+      ]
     },
     {
       "nombre": "Tumores renales",
@@ -87,7 +184,30 @@
           "numero_de_pagina": 22
         }
       ],
-      "total_paginas": 5
+      "total_paginas": 5,
+      "videos": [
+        {
+          "titulo": "Kidney Cancer (Renal Cell Carcinoma) Signs and Symptoms",
+          "url": "https://www.youtube.com/watch?v=V08PJFZHdnM",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Signos y síntomas específicos del carcinoma de células renales, el cáncer renal más común"
+        },
+        {
+          "titulo": "Top 5 Facts to Know About Kidney Cancer",
+          "url": "https://www.youtube.com/watch?v=8GAVIgtSF1k",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Cinco datos clave sobre el cáncer renal con enfoque en tratamiento y pronóstico"
+        },
+        {
+          "titulo": "What's new with kidney cancer and renal cell carcinoma",
+          "url": "https://www.youtube.com/watch?v=9-rM2wfO6qM",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Tratamientos novedosos y actualizaciones en el manejo del carcinoma de células renales"
+        }
+      ]
     },
     {
       "nombre": "Hiperplasia prostática benigna y carcinoma prostático",
@@ -104,7 +224,37 @@
           "numero_de_pagina": 26
         }
       ],
-      "total_paginas": 8
+      "total_paginas": 8,
+      "videos": [
+        {
+          "titulo": "Hiperplasia prostática benigna: Causas, síntomas y tratamiento",
+          "url": "https://www.youtube.com/watch?v=rTth5WTmNN4",
+          "idioma": "es",
+          "duracion": "N/A",
+          "aportacion": "Explicación completa de HBP con enfoque en causas, presentación clínica y opciones terapéuticas"
+        },
+        {
+          "titulo": "¿Qué es la HBP? - Hiperplasia Benigna de Próstata",
+          "url": "https://www.youtube.com/watch?v=jOje5X8-EsQ",
+          "idioma": "es",
+          "duracion": "N/A",
+          "aportacion": "Dr. Galarreta explica síntomas alarmantes, causas y tratamientos quirúrgicos de la HBP"
+        },
+        {
+          "titulo": "Comprender el cáncer de próstata",
+          "url": "https://www.youtube.com/watch?v=14GZCZ2Ibsg",
+          "idioma": "es",
+          "duracion": "N/A",
+          "aportacion": "Introducción al cáncer de próstata, presentación clínica y síntomas cuando el tumor crece"
+        },
+        {
+          "titulo": "PSA Testing For Prostate Cancer - Yale Medicine",
+          "url": "https://www.youtube.com/watch?v=9QEQSSs2nc4",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Importancia del PSA como mejor test disponible para detección de cáncer prostático"
+        }
+      ]
     },
     {
       "nombre": "Carcinomas del tracto urinario",
@@ -126,7 +276,37 @@
           "numero_de_pagina": 34
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Understanding Bladder Cancer",
+          "url": "https://www.youtube.com/watch?v=5l11z9ZzOwU",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Comprensión del cáncer vesical y cómo afecta al cuerpo, ideal para visión general"
+        },
+        {
+          "titulo": "Bladder Cancer - Overview (types, pathophysiology, diagnosis, treatment)",
+          "url": "https://www.youtube.com/watch?v=FtZNN5PNLlA",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Aspectos clave del cáncer vesical incluyendo tipos, fisiopatología, diagnóstico y tratamiento"
+        },
+        {
+          "titulo": "What is Intravesical Therapy? BCG Immunotherapy",
+          "url": "https://www.youtube.com/watch?v=Je7ubY2Fb0s",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Terapia intravesical con BCG, inmunoterapia fundamental en cáncer vesical no músculo invasivo"
+        },
+        {
+          "titulo": "Upper Tract Urothelial Carcinoma",
+          "url": "https://www.youtube.com/watch?v=Kz50ACBffyA",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Carcinoma urotelial del tracto superior, tumor raro pero importante de conocer"
+        }
+      ]
     },
     {
       "nombre": "Tumores testiculares",
@@ -163,7 +343,44 @@
           "numero_de_pagina": 41
         }
       ],
-      "total_paginas": 5
+      "total_paginas": 5,
+      "videos": [
+        {
+          "titulo": "Cáncer Testicular",
+          "url": "https://www.youtube.com/watch?v=quSO3ExSo34",
+          "idioma": "es",
+          "duracion": "N/A",
+          "aportacion": "Introducción al cáncer testicular con enfoque en reconocimiento y presentación clínica"
+        },
+        {
+          "titulo": "Resuelve tus dudas sobre el Cáncer Testicular",
+          "url": "https://www.youtube.com/watch?v=aJ5Dr7r4Dks",
+          "idioma": "es",
+          "duracion": "N/A",
+          "aportacion": "Dr. Sandoval explica la patología recurrente en hombres jóvenes entre 18-35 años"
+        },
+        {
+          "titulo": "Testicular Cancer - Seminoma Overview",
+          "url": "https://www.youtube.com/watch?v=VLHsSCi4RP0",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Clasificación de tumores germinales testiculares, diferenciando seminomas de no seminomas"
+        },
+        {
+          "titulo": "Seminomas vs. Nonseminomas | Testicular Cancer",
+          "url": "https://www.youtube.com/watch?v=jlI5AlbTZCw",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Diferenciación clave entre seminomas y tumores germinales no seminomatosos para tratamiento"
+        },
+        {
+          "titulo": "What to Know About Germ Cell Tumor Markers",
+          "url": "https://www.youtube.com/watch?v=viSjh-eUJos",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Marcadores tumorales serológicos importantes para el diagnóstico de tumores de células germinales"
+        }
+      ]
     },
     {
       "nombre": "Trasplante renal",
@@ -180,7 +397,23 @@
           "numero_de_pagina": 44
         }
       ],
-      "total_paginas": 2
+      "total_paginas": 2,
+      "videos": [
+        {
+          "titulo": "UCLA Kidney Transplantation",
+          "url": "https://www.youtube.com/watch?v=wBBlJh1vIZc",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Programa pionero de trasplante renal de UCLA, historia y procedimiento quirúrgico"
+        },
+        {
+          "titulo": "Transplant Immunology and Immunosuppression",
+          "url": "https://www.youtube.com/watch?v=DyWXNh1f930",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Inmunología del trasplante y terapia inmunosupresora, conceptos clave para entender rechazo y manejo"
+        }
+      ]
     },
     {
       "nombre": "Uropatía obstructiva",
@@ -202,7 +435,30 @@
           "numero_de_pagina": 46
         }
       ],
-      "total_paginas": 3
+      "total_paginas": 3,
+      "videos": [
+        {
+          "titulo": "Uropatía Obstructiva e Hidronefrosis",
+          "url": "https://www.youtube.com/watch?v=HqmBVUP1N1o",
+          "idioma": "es",
+          "duracion": "N/A",
+          "aportacion": "Diferenciación entre hidronefrosis y obstrucción, conceptos interrelacionados pero distintos"
+        },
+        {
+          "titulo": "Uropatía Obstructiva - Dr. Juan Camilo Londoño",
+          "url": "https://www.youtube.com/watch?v=FHw4q3tROxQ",
+          "idioma": "es",
+          "duracion": "N/A",
+          "aportacion": "Presentación académica sobre uropatía obstructiva con enfoque clínico práctico"
+        },
+        {
+          "titulo": "Obstrucción del tracto urinario superior: fisiopatología",
+          "url": "https://www.youtube.com/watch?v=ISl8M8gdBqM",
+          "idioma": "es",
+          "duracion": "N/A",
+          "aportacion": "Fisiopatología de la obstrucción del tracto urinario superior y sus complicaciones"
+        }
+      ]
     },
     {
       "nombre": "Andrología",
@@ -224,7 +480,37 @@
           "numero_de_pagina": 49
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Disfunción eréctil: causas y posibles tratamientos",
+          "url": "https://www.youtube.com/watch?v=jrL1bt6YfME",
+          "idioma": "es",
+          "duracion": "N/A",
+          "aportacion": "Especialista explica qué es la disfunción eréctil, factores que influyen y cómo tratarla"
+        },
+        {
+          "titulo": "Mayo Clinic Explains Erectile Dysfunction",
+          "url": "https://www.youtube.com/watch?v=ghOENysFRCU",
+          "idioma": "en",
+          "duracion": "N/A",
+          "aportacion": "Mayo Clinic explica definición, aproximación clínica, causas, tratamiento y manejo de DE"
+        },
+        {
+          "titulo": "Causas y soluciones de la eyaculación precoz",
+          "url": "https://www.youtube.com/watch?v=7An2VVsGo0A",
+          "idioma": "es",
+          "duracion": "N/A",
+          "aportacion": "Tratamientos disponibles para eyaculación precoz incluyendo opciones farmacológicas y comportamentales"
+        },
+        {
+          "titulo": "Enfermedad de Peyronie o Pene Curvado - Causas y Tratamiento",
+          "url": "https://www.youtube.com/watch?v=8ZibEZXCT_Q",
+          "idioma": "es",
+          "duracion": "N/A",
+          "aportacion": "Dr. Xavier Bonet guía a través de los misterios de la enfermedad de Peyronie, diagnóstico y manejo"
+        }
+      ]
     }
   ]
 }

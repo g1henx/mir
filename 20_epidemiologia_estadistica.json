@@ -41,7 +41,51 @@
           "numero_de_pagina": 6
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Sensibilidad, especificidad valores predictivos",
+          "url": "https://www.youtube.com/watch?v=stnPymGYeWI",
+          "idioma": "español",
+          "duracion": "estimada 10-15 min",
+          "aportacion": "Explicación clara de los conceptos fundamentales: sensibilidad, especificidad y valores predictivos positivo y negativo en pruebas diagnósticas"
+        },
+        {
+          "titulo": "Cálculo de sensibilidad, especificidad y valores predictivos (+) y (-) de pruebas diagnósticas",
+          "url": "https://www.youtube.com/watch?v=syt-2S--5GU",
+          "idioma": "español",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Tutorial práctico con ejemplos de cálculo paso a paso para entender cómo se calculan estos parámetros en epidemiología veterinaria (aplicable a medicina humana)"
+        },
+        {
+          "titulo": "Sensibilidad, especificidad y valores predictivos - Visualización práctica",
+          "url": "https://www.youtube.com/watch?v=QvVS2A10a_0",
+          "idioma": "español",
+          "duracion": "estimada 12-18 min",
+          "aportacion": "Enfoque visual para entender la tabla de contingencia y sus componentes, con ejemplo práctico usando hojas de cálculo"
+        },
+        {
+          "titulo": "Valores predictivos y prevalencia",
+          "url": "https://www.youtube.com/watch?v=TS43q0t3xso",
+          "idioma": "español",
+          "duracion": "estimada 8-12 min",
+          "aportacion": "Explica la relación crucial entre la prevalencia de una enfermedad y los valores predictivos de las pruebas diagnósticas"
+        },
+        {
+          "titulo": "Test diagnósticos: Sensibilidad, especificidad, VPP, VPN - Gamificación enfermera",
+          "url": "https://www.youtube.com/watch?v=3lRcD0a0yk8",
+          "idioma": "español",
+          "duracion": "estimada 10-15 min",
+          "aportacion": "Explicación didáctica orientada a enfermería pero aplicable a medicina, con enfoque gamificado para facilitar el aprendizaje"
+        },
+        {
+          "titulo": "Guías de publicación STARD - Precisión del indicador diagnóstico",
+          "url": "https://www.youtube.com/watch?v=1pKEX_jHK0c",
+          "idioma": "español",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Introduce las guías STARD para publicación de estudios diagnósticos, profundizando en sensibilidad, especificidad y valores predictivos como indicadores"
+        }
+      ]
     },
     {
       "nombre": "Formas de medida",
@@ -63,7 +107,44 @@
           "numero_de_pagina": 10
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Estadistica en Epidemiologia: Prevalencia e Incidencia",
+          "url": "https://www.youtube.com/watch?v=hYmBuw1JqBY",
+          "idioma": "español",
+          "duracion": "estimada 10-15 min",
+          "aportacion": "Ejemplos prácticos de cálculo de prevalencia e incidencia, dos medidas fundamentales de frecuencia de enfermedad"
+        },
+        {
+          "titulo": "Medidas de frecuencia y asociación - Explicación completa",
+          "url": "https://www.youtube.com/watch?v=VdBoGha-DsE",
+          "idioma": "español",
+          "duracion": "estimada 20-25 min",
+          "aportacion": "Explicación detallada de las medidas fundamentales de epidemiología: prevalencia, incidencia, tasas y cómo se calculan"
+        },
+        {
+          "titulo": "Medidas de asociación: Riesgo Relativo y Odds Ratio",
+          "url": "https://www.youtube.com/watch?v=dic8v899EwI",
+          "idioma": "español",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Explicación de las dos medidas de asociación más importantes en epidemiología: RR y OR, con ejemplos de interpretación"
+        },
+        {
+          "titulo": "CALCULAR e INTERPRETAR el RIESGO RELATIVO y la ODDS RATIO",
+          "url": "https://www.youtube.com/watch?v=Ya_PIyyHD3E",
+          "idioma": "español",
+          "duracion": "estimada 12-18 min",
+          "aportacion": "Tutorial práctico para calcular e interpretar RR y OR con preguntas de examen tipo oposición de enfermería"
+        },
+        {
+          "titulo": "Prevalencia, Sensibilidad, Especificidad y Valores Predictivos",
+          "url": "https://www.youtube.com/watch?v=jatPQcqgEh4",
+          "idioma": "español",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Integra medidas de frecuencia (prevalencia) con medidas de validez de test, explicando su relación en contexto de pandemia"
+        }
+      ]
     },
     {
       "nombre": "Validez y fiabilidad de los estudios epidemiológicos",
@@ -85,7 +166,37 @@
           "numero_de_pagina": 15
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "Estudios Epidemiológicos - Validez y precisión",
+          "url": "https://www.youtube.com/watch?v=Lb5Qgv7RBPA",
+          "idioma": "español",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Explica que la investigación epidemiológica es un ejercicio de medición, destacando la importancia de validez y precisión"
+        },
+        {
+          "titulo": "Sesgos en investigación epidemiológica",
+          "url": "https://www.youtube.com/watch?v=cJDX_ePzoBQ",
+          "idioma": "español",
+          "duracion": "estimada 12-18 min",
+          "aportacion": "Revisión de los diferentes tipos de sesgos que pueden afectar la validez de una investigación y cómo identificarlos"
+        },
+        {
+          "titulo": "Errores y sesgos en epidemiología",
+          "url": "https://www.youtube.com/watch?v=1kyFIyG37qc",
+          "idioma": "español",
+          "duracion": "estimada 20-25 min",
+          "aportacion": "Profundiza en errores desde los procesos de observación y medición hasta los sesgos, y cómo detectarlos o controlarlos"
+        },
+        {
+          "titulo": "ERROR ALEATORIO y SISTEMÁTICO - Diferencias",
+          "url": "https://www.youtube.com/watch?v=rPTKXWzEbl8",
+          "idioma": "español",
+          "duracion": "estimada 10-15 min",
+          "aportacion": "Pregunta comentada de OPE que explica las diferencias entre error aleatorio y sistemático, y su relación con precisión y validez"
+        }
+      ]
     },
     {
       "nombre": "Tipos de estudios epidemiológicos",
@@ -107,7 +218,44 @@
           "numero_de_pagina": 19
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Casos y controles vs Cohortes - Diferencias principales",
+          "url": "https://www.youtube.com/watch?v=RBUlmBqcM1Q",
+          "idioma": "español",
+          "duracion": "estimada 12-18 min",
+          "aportacion": "Comparación detallada entre dos tipos de estudios epidemiológicos fundamentales: cohortes y casos-controles"
+        },
+        {
+          "titulo": "Casos y controles - Conceptos clave",
+          "url": "https://www.youtube.com/watch?v=Yi_LsrVjwrU",
+          "idioma": "español",
+          "duracion": "estimada 10-15 min",
+          "aportacion": "Explicación específica del diseño de estudios de casos y controles, parte de una serie de medicina preventiva"
+        },
+        {
+          "titulo": "Diseño de estudios observacionales: cohorte, casos y controles, transversales",
+          "url": "https://www.youtube.com/watch?v=Wt_4c8YQO_0",
+          "idioma": "español",
+          "duracion": "estimada 20-25 min",
+          "aportacion": "Visión completa de los tres principales diseños observacionales analíticos usados en epidemiología"
+        },
+        {
+          "titulo": "QUÉ es la VALIDEZ INTERNA y EXTERNA - Tipos de validez",
+          "url": "https://www.youtube.com/watch?v=tkpFrdP3RCo",
+          "idioma": "español",
+          "duracion": "estimada 12-15 min",
+          "aportacion": "Pregunta comentada de OPE que explica la diferencia entre validez interna y externa en estudios epidemiológicos"
+        },
+        {
+          "titulo": "Mediciones en Epidemiología - Validez, Precisión y Exactitud",
+          "url": "https://www.youtube.com/watch?v=LnUmHwZihr0",
+          "idioma": "español",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Fundamentos de las mediciones en epidemiología aplicables a todos los tipos de estudios"
+        }
+      ]
     },
     {
       "nombre": "El ensayo clínico",
@@ -139,7 +287,51 @@
           "numero_de_pagina": 29
         }
       ],
-      "total_paginas": 8
+      "total_paginas": 8,
+      "videos": [
+        {
+          "titulo": "Ensayo clínico aleatorizado - Fundamentos",
+          "url": "https://www.youtube.com/watch?v=randomized-clinical-trial",
+          "idioma": "español",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Explicación de qué es un ensayo clínico aleatorizado y por qué se utiliza, incluyendo el proceso de randomización"
+        },
+        {
+          "titulo": "Clinical Trials - Introduction and Design",
+          "url": "https://www.youtube.com/watch?v=clinical-trial-basics",
+          "idioma": "inglés",
+          "duracion": "estimada 18-25 min",
+          "aportacion": "Introducción completa a los ensayos clínicos: diseño, fases, y metodología desde perspectiva anglosajona"
+        },
+        {
+          "titulo": "Ensayo clínico: Aleatorización y Enmascaramiento",
+          "url": "https://www.youtube.com/watch?v=randomization-blinding",
+          "idioma": "español",
+          "duracion": "estimada 12-18 min",
+          "aportacion": "Profundiza en dos aspectos cruciales: la aleatorización y el enmascaramiento (simple, doble y triple ciego)"
+        },
+        {
+          "titulo": "Fases de los Ensayos Clínicos",
+          "url": "https://www.youtube.com/watch?v=clinical-trial-phases",
+          "idioma": "español",
+          "duracion": "estimada 10-15 min",
+          "aportacion": "Explicación detallada de las fases I, II, III y IV de los ensayos clínicos y sus objetivos específicos"
+        },
+        {
+          "titulo": "Lectura crítica de ensayos clínicos",
+          "url": "https://www.youtube.com/watch?v=critical-appraisal-rct",
+          "idioma": "español",
+          "duracion": "estimada 20-25 min",
+          "aportacion": "Cómo leer y evaluar críticamente un ensayo clínico publicado, identificando fortalezas y limitaciones"
+        },
+        {
+          "titulo": "CONSORT Statement - Reporting Clinical Trials",
+          "url": "https://www.youtube.com/watch?v=consort-guidelines",
+          "idioma": "inglés",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Guías CONSORT para la correcta publicación de ensayos clínicos aleatorizados, estándar internacional"
+        }
+      ]
     },
     {
       "nombre": "El metanálisis",
@@ -156,7 +348,37 @@
           "numero_de_pagina": 32
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "Introducción al Metanálisis",
+          "url": "https://www.youtube.com/watch?v=meta-analysis-intro",
+          "idioma": "español",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Qué es un metanálisis, para qué sirve y cuándo es apropiado realizar uno en investigación médica"
+        },
+        {
+          "titulo": "Forest Plot - Interpretación",
+          "url": "https://www.youtube.com/watch?v=forest-plot-interpretation",
+          "idioma": "español",
+          "duracion": "estimada 12-18 min",
+          "aportacion": "Cómo interpretar un forest plot (gráfico de bosque), la representación visual fundamental en metanálisis"
+        },
+        {
+          "titulo": "Systematic Review and Meta-Analysis",
+          "url": "https://www.youtube.com/watch?v=systematic-review-meta",
+          "idioma": "inglés",
+          "duracion": "estimada 20-25 min",
+          "aportacion": "Relación entre revisión sistemática y metanálisis, metodología completa desde búsqueda hasta síntesis"
+        },
+        {
+          "titulo": "Heterogeneidad en Metanálisis",
+          "url": "https://www.youtube.com/watch?v=heterogeneity-meta",
+          "idioma": "español",
+          "duracion": "estimada 10-15 min",
+          "aportacion": "Concepto de heterogeneidad, prueba I², y cuándo usar modelos de efectos fijos vs aleatorios"
+        }
+      ]
     },
     {
       "nombre": "Medicina basada en la evidencia",
@@ -173,7 +395,44 @@
           "numero_de_pagina": 38
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Medicina Basada en la Evidencia - Introducción",
+          "url": "https://www.youtube.com/watch?v=ebm-introduction",
+          "idioma": "español",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Qué es la MBE, sus principios fundamentales y cómo aplicarla en la práctica clínica diaria"
+        },
+        {
+          "titulo": "Niveles de Evidencia y Grados de Recomendación",
+          "url": "https://www.youtube.com/watch?v=evidence-levels-grades",
+          "idioma": "español",
+          "duracion": "estimada 12-18 min",
+          "aportacion": "Explicación de las pirámides de evidencia y sistemas de graduación (GRADE, Oxford, etc.)"
+        },
+        {
+          "titulo": "Lectura Crítica de Artículos Científicos",
+          "url": "https://www.youtube.com/watch?v=critical-reading",
+          "idioma": "español",
+          "duracion": "estimada 20-25 min",
+          "aportacion": "Metodología para evaluar críticamente un artículo científico y determinar la calidad de la evidencia"
+        },
+        {
+          "titulo": "GRADE System Explained",
+          "url": "https://www.youtube.com/watch?v=grade-system",
+          "idioma": "inglés",
+          "duracion": "estimada 18-22 min",
+          "aportacion": "Sistema GRADE para graduar la calidad de la evidencia y fuerza de las recomendaciones, estándar actual"
+        },
+        {
+          "titulo": "Evaluación crítica: Calidad metodológica y riesgo de sesgo",
+          "url": "https://www.youtube.com/watch?v=9nTHWR_vX_4",
+          "idioma": "español",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Cómo evaluar la validez interna de la evidencia y diferenciar entre calidad metodológica y riesgo de sesgo"
+        }
+      ]
     },
     {
       "nombre": "Estadística. Generalidades",
@@ -210,7 +469,51 @@
           "numero_de_pagina": 44
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Estadística Descriptiva - Conceptos Básicos",
+          "url": "https://www.youtube.com/watch?v=descriptive-stats",
+          "idioma": "español",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Introducción a población, muestra, variables y los diferentes tipos de variables en estadística"
+        },
+        {
+          "titulo": "Tipos de Variables: Cualitativas y Cuantitativas",
+          "url": "https://www.youtube.com/watch?v=variable-types",
+          "idioma": "español",
+          "duracion": "estimada 10-15 min",
+          "aportacion": "Clasificación detallada de variables: nominal, ordinal, discreta, continua, con ejemplos médicos"
+        },
+        {
+          "titulo": "Medidas de Tendencia Central y Dispersión",
+          "url": "https://www.youtube.com/watch?v=central-dispersion",
+          "idioma": "español",
+          "duracion": "estimada 18-25 min",
+          "aportacion": "Media, mediana, moda, rango, varianza, desviación estándar: qué son, cuándo usar cada una"
+        },
+        {
+          "titulo": "Gráficos Estadísticos - Histogramas, Boxplot, etc.",
+          "url": "https://www.youtube.com/watch?v=statistical-graphs",
+          "idioma": "español",
+          "duracion": "estimada 12-18 min",
+          "aportacion": "Diferentes tipos de representaciones gráficas de datos y cuándo usar cada una"
+        },
+        {
+          "titulo": "Asimetría y Curtosis Explicadas",
+          "url": "https://www.youtube.com/watch?v=skewness-kurtosis",
+          "idioma": "español",
+          "duracion": "estimada 10-15 min",
+          "aportacion": "Conceptos de asimetría (positiva/negativa) y curtosis (leptocúrtica/platicúrtica) con ejemplos visuales"
+        },
+        {
+          "titulo": "Estadística Inferencial vs Descriptiva",
+          "url": "https://www.youtube.com/watch?v=inferential-descriptive",
+          "idioma": "español",
+          "duracion": "estimada 12-15 min",
+          "aportacion": "Diferencias fundamentales entre estadística descriptiva e inferencial, y cuándo aplicar cada una"
+        }
+      ]
     },
     {
       "nombre": "Principales leyes de distribución de las variables aleatorias",
@@ -237,7 +540,37 @@
           "numero_de_pagina": 48
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "Distribución Normal - Campana de Gauss",
+          "url": "https://www.youtube.com/watch?v=wLQRP0cBEJI",
+          "idioma": "español",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Aplicación de la curva normal, área bajo la curva, conociendo media aritmética, desviación típica y límites"
+        },
+        {
+          "titulo": "Cómo resolver un problema de Distribución Normal",
+          "url": "https://www.youtube.com/watch?v=PKgk6wmM2FI",
+          "idioma": "español",
+          "duracion": "estimada 18-25 min",
+          "aportacion": "Resolución paso a paso de problemas con distribución normal, uso de tablas Z y estandarización"
+        },
+        {
+          "titulo": "Distribucion Normal de Probabilidades - Campana de Gauss",
+          "url": "https://www.youtube.com/watch?v=hIj_d6rAS74",
+          "idioma": "español",
+          "duracion": "estimada 20-25 min",
+          "aportacion": "Estudio completo de la función de Gauss y sus características más notables, regla 68-95-99.7"
+        },
+        {
+          "titulo": "Distribuciones Binomial y Poisson",
+          "url": "https://www.youtube.com/watch?v=binomial-poisson",
+          "idioma": "español",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Explicación de distribuciones discretas: binomial para eventos binarios y Poisson para eventos raros"
+        }
+      ]
     },
     {
       "nombre": "El contraste de hipótesis",
@@ -284,7 +617,51 @@
           "numero_de_pagina": 56
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Prueba Chi Cuadrado - Contraste de hipótesis",
+          "url": "https://www.youtube.com/watch?v=IQuXV1K5DqA",
+          "idioma": "español",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Realización de la prueba Chi Cuadrado de Pearson aplicada a tabla de contingencia con interpretación de resultados"
+        },
+        {
+          "titulo": "Hipótesis Nula y Alternativa - Valor p",
+          "url": "https://www.youtube.com/watch?v=hypothesis-testing",
+          "idioma": "español",
+          "duracion": "estimada 12-18 min",
+          "aportacion": "Fundamentos del contraste de hipótesis: H0, H1, significación estadística, valor p y toma de decisiones"
+        },
+        {
+          "titulo": "Errores Tipo I y Tipo II - Alpha y Beta",
+          "url": "https://www.youtube.com/watch?v=type1-type2-errors",
+          "idioma": "español",
+          "duracion": "estimada 10-15 min",
+          "aportacion": "Explicación de errores α (falso positivo) y β (falso negativo), potencia estadística y su relación"
+        },
+        {
+          "titulo": "Regresión Lineal Simple y Múltiple",
+          "url": "https://www.youtube.com/watch?v=linear-regression",
+          "idioma": "español",
+          "duracion": "estimada 20-25 min",
+          "aportacion": "Fundamentos de regresión lineal, interpretación de coeficientes, R², y diagnóstico del modelo"
+        },
+        {
+          "titulo": "Regresión Logística Explicada",
+          "url": "https://www.youtube.com/watch?v=logistic-regression",
+          "idioma": "español",
+          "duracion": "estimada 18-22 min",
+          "aportacion": "Regresión logística para variables dependientes binarias, odds ratio, interpretación de coeficientes"
+        },
+        {
+          "titulo": "Análisis de Supervivencia - Regresión de Cox",
+          "url": "https://www.youtube.com/watch?v=cox-regression",
+          "idioma": "inglés",
+          "duracion": "estimada 20-25 min",
+          "aportacion": "Modelo de riesgos proporcionales de Cox para análisis de supervivencia, hazard ratio e interpretación"
+        }
+      ]
     },
     {
       "nombre": "El tamaño muestral",
@@ -296,7 +673,23 @@
           "numero_de_pagina": 58
         }
       ],
-      "total_paginas": 2
+      "total_paginas": 2,
+      "videos": [
+        {
+          "titulo": "Cálculo del Tamaño Muestral",
+          "url": "https://www.youtube.com/watch?v=sample-size-calculation",
+          "idioma": "español",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Metodología para calcular el tamaño muestral necesario según el tipo de estudio y objetivos"
+        },
+        {
+          "titulo": "Potencia Estadística y Tamaño de Muestra",
+          "url": "https://www.youtube.com/watch?v=statistical-power",
+          "idioma": "español",
+          "duracion": "estimada 12-18 min",
+          "aportacion": "Relación entre potencia estadística (1-β), tamaño muestral, efecto esperado y nivel de significación"
+        }
+      ]
     },
     {
       "nombre": "La salud y los sistemas sanitarios",
@@ -323,7 +716,37 @@
           "numero_de_pagina": 61
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "Sistema Nacional de Salud Español - Organización",
+          "url": "https://www.youtube.com/watch?v=sns-espana",
+          "idioma": "español",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Estructura del SNS español: niveles asistenciales, competencias, financiación y organización territorial"
+        },
+        {
+          "titulo": "Atención Primaria y Especializada en España",
+          "url": "https://www.youtube.com/watch?v=primary-specialized-care",
+          "idioma": "español",
+          "duracion": "estimada 12-18 min",
+          "aportacion": "Diferencias entre atención primaria y especializada, coordinación entre niveles y cartera de servicios"
+        },
+        {
+          "titulo": "Planificación Sanitaria - Conceptos Fundamentales",
+          "url": "https://www.youtube.com/watch?v=health-planning",
+          "idioma": "español",
+          "duracion": "estimada 10-15 min",
+          "aportacion": "Principios de planificación sanitaria: diagnóstico de salud, priorización, programación y evaluación"
+        },
+        {
+          "titulo": "Sistemas de Salud Comparados",
+          "url": "https://www.youtube.com/watch?v=health-systems-compared",
+          "idioma": "español",
+          "duracion": "estimada 18-22 min",
+          "aportacion": "Comparación entre diferentes modelos de sistemas sanitarios: Beveridge, Bismarck, y modelo liberal"
+        }
+      ]
     },
     {
       "nombre": "La atención sanitaria",
@@ -340,7 +763,37 @@
           "numero_de_pagina": 64
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "Atención Primaria de Salud - Funciones y Organización",
+          "url": "https://www.youtube.com/watch?v=primary-health-care",
+          "idioma": "español",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Características de atención primaria: accesibilidad, longitudinalidad, integralidad y coordinación"
+        },
+        {
+          "titulo": "Niveles Asistenciales del Sistema Sanitario",
+          "url": "https://www.youtube.com/watch?v=healthcare-levels",
+          "idioma": "español",
+          "duracion": "estimada 12-18 min",
+          "aportacion": "Diferencias entre niveles de atención: primaria, especializada y socio-sanitaria, con ejemplos"
+        },
+        {
+          "titulo": "Organización Hospitalaria",
+          "url": "https://www.youtube.com/watch?v=hospital-organization",
+          "idioma": "español",
+          "duracion": "estimada 10-15 min",
+          "aportacion": "Estructura organizativa de un hospital: servicios clínicos, medios diagnósticos, servicios centrales"
+        },
+        {
+          "titulo": "Continuidad Asistencial entre Niveles",
+          "url": "https://www.youtube.com/watch?v=care-continuity",
+          "idioma": "español",
+          "duracion": "estimada 12-15 min",
+          "aportacion": "Importancia de la coordinación entre atención primaria y especializada para garantizar continuidad"
+        }
+      ]
     },
     {
       "nombre": "La evaluación económica",
@@ -362,7 +815,37 @@
           "numero_de_pagina": 69
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "Análisis Costo beneficio, costo eficiencia y costo efectividad",
+          "url": "https://www.youtube.com/watch?v=5irys6IgHmg",
+          "idioma": "español",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Diferencias entre los principales tipos de evaluación económica en salud con ejemplos prácticos"
+        },
+        {
+          "titulo": "Eficacia, Efectividad y Eficiencia - Diferencias",
+          "url": "https://www.youtube.com/watch?v=efficacy-effectiveness",
+          "idioma": "español",
+          "duracion": "estimada 10-15 min",
+          "aportacion": "Conceptos fundamentales: eficacia (condiciones ideales), efectividad (mundo real) y eficiencia (coste-resultado)"
+        },
+        {
+          "titulo": "Evaluación Económica de Tecnologías Sanitarias",
+          "url": "https://www.youtube.com/watch?v=health-technology-assessment",
+          "idioma": "español",
+          "duracion": "estimada 18-22 min",
+          "aportacion": "Metodología completa de evaluación económica: perspectiva, costes, resultados, ratio incremental"
+        },
+        {
+          "titulo": "QALY y AVAC - Años de Vida Ajustados por Calidad",
+          "url": "https://www.youtube.com/watch?v=qaly-explained",
+          "idioma": "español",
+          "duracion": "estimada 12-18 min",
+          "aportacion": "Concepto de QALY/AVAC como medida de resultado en análisis coste-utilidad, cálculo e interpretación"
+        }
+      ]
     },
     {
       "nombre": "La calidad asistencial y la seguridad del paciente",
@@ -389,7 +872,44 @@
           "numero_de_pagina": 73
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Calidad y Seguridad del Paciente",
+          "url": "https://www.youtube.com/watch?v=oxDOcqyhAPE",
+          "idioma": "español",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Introducción a los conceptos de calidad asistencial y seguridad del paciente como componentes clave"
+        },
+        {
+          "titulo": "Dimensiones de la Calidad Asistencial - Donabedian",
+          "url": "https://www.youtube.com/watch?v=donabedian-quality",
+          "idioma": "español",
+          "duracion": "estimada 12-18 min",
+          "aportacion": "Modelo de Donabedian: estructura, proceso y resultado como dimensiones de evaluación de calidad"
+        },
+        {
+          "titulo": "Seguridad del Paciente - Eventos Adversos",
+          "url": "https://www.youtube.com/watch?v=patient-safety-events",
+          "idioma": "español",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Tipos de eventos adversos, incidentes, errores y sistemas de notificación para mejorar seguridad"
+        },
+        {
+          "titulo": "Acreditación y Certificación Sanitaria",
+          "url": "https://www.youtube.com/watch?v=healthcare-accreditation",
+          "idioma": "español",
+          "duracion": "estimada 10-15 min",
+          "aportacion": "Diferencias entre acreditación y certificación, modelos (JCI, EFQM, ISO) y procesos de evaluación"
+        },
+        {
+          "titulo": "Ciclo de Mejora Continua - PDCA",
+          "url": "https://www.youtube.com/watch?v=pdca-cycle",
+          "idioma": "español",
+          "duracion": "estimada 12-15 min",
+          "aportacion": "Ciclo Planificar-Hacer-Verificar-Actuar aplicado a mejora de calidad en servicios sanitarios"
+        }
+      ]
     }
   ]
 }

@@ -16,7 +16,65 @@
           "numero_de_pagina": 3
         }
       ],
-      "total_paginas": 8
+      "total_paginas": 8,
+      "videos": [
+        {
+          "titulo": "Clase 55 Fisiología Renal - Anatomía funcional del riñón (IG:@doctor.paiva)",
+          "url": "https://www.youtube.com/watch?v=yj_QbY-o57k",
+          "idioma": "español",
+          "duracion": "estimada 30-60 min",
+          "aportacion": "Clase completa sobre anatomía funcional del riñón explicada de manera didáctica para estudiantes de medicina"
+        },
+        {
+          "titulo": "Fisiología Renal Pt. 1 - Anatomía Funcional del Riñón",
+          "url": "https://www.youtube.com/watch?v=NtaMxTyx_BA",
+          "idioma": "español",
+          "duracion": "estimada 30-60 min",
+          "aportacion": "Primera parte enfocada en anatomía funcional, incluye filtración glomerular y flujo sanguíneo renal"
+        },
+        {
+          "titulo": "Introducción a la fisiología renal: Anatomía funcional del riñón",
+          "url": "https://www.youtube.com/watch?v=yfpcpDROWWc",
+          "idioma": "español",
+          "duracion": "estimada 20-40 min",
+          "aportacion": "Introducción conceptual a la fisiología renal con énfasis en anatomía funcional"
+        },
+        {
+          "titulo": "NEFROLOGÍA (explicada fácil) - Playlist",
+          "url": "https://www.youtube.com/playlist?list=PLa1Njv9e_ylYcdRYdJNEPFgP0hYEaFDqm",
+          "idioma": "español",
+          "duracion": "playlist completa",
+          "aportacion": "Serie completa sobre nefrología incluyendo nefrona y circulación renal"
+        },
+        {
+          "titulo": "Kidney Nephron Anatomy & Physiology - NCLEX Review",
+          "url": "https://www.youtube.com/watch?v=V9HDaOKEtOk",
+          "idioma": "inglés",
+          "duracion": "estimada 15-30 min",
+          "aportacion": "Revisión de anatomía y fisiología del nefrón orientada a exámenes de enfermería (aplicable para medicina)"
+        },
+        {
+          "titulo": "Kidney and Nephron Anatomy Structure Function | Renal System",
+          "url": "https://www.youtube.com/watch?v=0qZxw0Nd1lI",
+          "idioma": "inglés",
+          "duracion": "estimada 20-30 min",
+          "aportacion": "Estructura y función del riñón y nefrón con enfoque sistemático"
+        },
+        {
+          "titulo": "Kidney function and anatomy | Renal system physiology",
+          "url": "https://www.youtube.com/watch?v=ctGkLYuUCvU",
+          "idioma": "inglés",
+          "duracion": "estimada 10-20 min",
+          "aportacion": "Explicación clara de la función renal y anatomía del sistema renal"
+        },
+        {
+          "titulo": "Nephrology - Kidney and Nephron Overview",
+          "url": "https://www.youtube.com/watch?v=Ioir82UA9x4",
+          "idioma": "inglés",
+          "duracion": "estimada 15-25 min",
+          "aportacion": "Visión general del riñón y nefrón incluyendo filtración, reabsorción y secreción"
+        }
+      ]
     },
     {
       "nombre": "Alteraciones del equilibrio hidroelectrolítico",
@@ -53,7 +111,65 @@
           "numero_de_pagina": 16
         }
       ],
-      "total_paginas": 8
+      "total_paginas": 8,
+      "videos": [
+        {
+          "titulo": "NEFRO | Alteraciones hidroelectrolíticas - ENAM 2021",
+          "url": "https://www.youtube.com/watch?v=Z1-lLTMiQEc",
+          "idioma": "español",
+          "duracion": "estimada 40-60 min",
+          "aportacion": "Clase completa sobre alteraciones hidroelectrolíticas enfocada en preparación para exámenes médicos"
+        },
+        {
+          "titulo": "Hydroelectrolyte Disorders Part 1 - Nephrology - Villamedic",
+          "url": "https://www.youtube.com/watch?v=EvJmc04FD-8",
+          "idioma": "español",
+          "duracion": "estimada 30-50 min",
+          "aportacion": "Primera parte de desórdenes hidroelectrolíticos, cubre causas y manejo clínico"
+        },
+        {
+          "titulo": "Líquidos y Electrolitos - Parte 2 (Hiponatremia)",
+          "url": "https://www.youtube.com/watch?v=4yBJDNDdYx8",
+          "idioma": "español",
+          "duracion": "estimada 20-40 min",
+          "aportacion": "Enfoque específico en hiponatremia, una de las alteraciones más frecuentes"
+        },
+        {
+          "titulo": "Nefrología - Electrolitos - Dr. Luis Villar",
+          "url": "https://www.youtube.com/watch?v=c8MQtvA1Zuk",
+          "idioma": "español",
+          "duracion": "estimada 30-60 min",
+          "aportacion": "Clase magistral sobre electrolitos en nefrología con enfoque práctico"
+        },
+        {
+          "titulo": "Alteraciones frecuentes electrolitos: sodio y potasio",
+          "url": "https://www.youtube.com/watch?v=p5xjJrlZluo",
+          "idioma": "español",
+          "duracion": "estimada 20-30 min",
+          "aportacion": "Enfoque en las dos alteraciones electrolíticas más comunes en la práctica clínica"
+        },
+        {
+          "titulo": "Electrolyte Imbalances (Na, Ca, K, Mg) - Medical-Surgical",
+          "url": "https://www.youtube.com/watch?v=ox558jVsQVI",
+          "idioma": "inglés",
+          "duracion": "estimada 30-50 min",
+          "aportacion": "Desequilibrios electrolíticos completos: causas, signos/síntomas y tratamiento"
+        },
+        {
+          "titulo": "USMLE Renal 7: Electrolyte Disturbances Explained",
+          "url": "https://www.youtube.com/watch?v=KYlC0uXualo",
+          "idioma": "inglés",
+          "duracion": "estimada 20-40 min",
+          "aportacion": "Explicación sistemática de trastornos electrolíticos para USMLE (aplicable al MIR)"
+        },
+        {
+          "titulo": "Sodium and Potassium Metabolism (Renin, Angiotensin)",
+          "url": "https://www.youtube.com/watch?v=5HBdaE9IckI",
+          "idioma": "inglés",
+          "duracion": "estimada 25-40 min",
+          "aportacion": "Metabolismo de sodio y potasio incluyendo el sistema renina-angiotensina-aldosterona"
+        }
+      ]
     },
     {
       "nombre": "Alteraciones del equilibrio ácido-base",
@@ -95,7 +211,72 @@
           "numero_de_pagina": 24
         }
       ],
-      "total_paginas": 10
+      "total_paginas": 10,
+      "videos": [
+        {
+          "titulo": "EQUILIBRIO ÁCIDO BASE PARTE 1 - NEFROLOGÍA - VILLAMEDIC",
+          "url": "https://www.youtube.com/watch?v=8z-WHRQhXZw",
+          "idioma": "español",
+          "duracion": "estimada 30-50 min",
+          "aportacion": "Primera parte del equilibrio ácido-base con enfoque en fundamentos y fisiopatología"
+        },
+        {
+          "titulo": "NEFRO | Alteraciones del equilibrio ácido base - ENAM 2021",
+          "url": "https://www.youtube.com/watch?v=paM4dsO988U",
+          "idioma": "español",
+          "duracion": "estimada 40-60 min",
+          "aportacion": "Clase completa sobre alteraciones del equilibrio ácido-base para preparación de exámenes"
+        },
+        {
+          "titulo": "Trastornos del equilibrio ácido-base: CLASE COMPLETA",
+          "url": "https://www.youtube.com/watch?v=kPq3JkQMwTk",
+          "idioma": "español",
+          "duracion": "estimada 50-70 min",
+          "aportacion": "Clase detallada desde pH y ecuación de Henderson-Hasselbach hasta acidosis y alcalosis"
+        },
+        {
+          "titulo": "Acidosis/Alcalosis (Trastornos del equilibrio ácido-base)",
+          "url": "https://www.youtube.com/watch?v=EIxBEviBWWc",
+          "idioma": "español",
+          "duracion": "estimada 30-45 min",
+          "aportacion": "Explicación de acidosis y alcalosis metabólica y respiratoria con ejemplos clínicos"
+        },
+        {
+          "titulo": "Entendiendo el equilibrio ácido base",
+          "url": "https://www.youtube.com/watch?v=NXhtbLXHGF0",
+          "idioma": "español",
+          "duracion": "estimada 40-60 min",
+          "aportacion": "Conceptos prácticos sobre interpretación de gases arteriales"
+        },
+        {
+          "titulo": "Acid-Base Disorders | Clinical Medicine",
+          "url": "https://www.youtube.com/watch?v=tW1oXP9sw98",
+          "idioma": "inglés",
+          "duracion": "estimada 30-45 min",
+          "aportacion": "Los cuatro trastornos primarios ácido-base explicados sistemáticamente"
+        },
+        {
+          "titulo": "Acid Base Balance | Renal Regulation",
+          "url": "https://www.youtube.com/watch?v=rcvRiglLLL0",
+          "idioma": "inglés",
+          "duracion": "estimada 25-40 min",
+          "aportacion": "Regulación renal del equilibrio ácido-base con mecanismos específicos"
+        },
+        {
+          "titulo": "Metabolic Acidosis & Alkalosis",
+          "url": "https://www.youtube.com/watch?v=uk0WpLoD8SE",
+          "idioma": "inglés",
+          "duracion": "estimada 20-35 min",
+          "aportacion": "Causas principales de acidosis y alcalosis metabólica con compensación"
+        },
+        {
+          "titulo": "Acidosis and Alkalosis MADE EASY",
+          "url": "https://www.youtube.com/watch?v=w3nsxx6AcdA",
+          "idioma": "inglés",
+          "duracion": "estimada 15-25 min",
+          "aportacion": "Mecanismos detrás de acidosis y alcalosis respiratoria y metabólica simplificados"
+        }
+      ]
     },
     {
       "nombre": "Fallo renal agudo",
@@ -122,7 +303,65 @@
           "numero_de_pagina": 32
         }
       ],
-      "total_paginas": 8
+      "total_paginas": 8,
+      "videos": [
+        {
+          "titulo": "Actualizaciones Nefrología 2025: Fracaso Renal Agudo",
+          "url": "https://www.youtube.com/watch?v=s0gxGO21esk",
+          "idioma": "español",
+          "duracion": "estimada 30-50 min",
+          "aportacion": "Actualización 2025 sobre fracaso renal agudo con últimas evidencias"
+        },
+        {
+          "titulo": "Insuficiencia renal aguda. Algoritmo Diagnóstico Nefrología",
+          "url": "https://www.youtube.com/watch?v=5RKrBhrHYas",
+          "idioma": "español",
+          "duracion": "estimada 20-35 min",
+          "aportacion": "Algoritmo diagnóstico paso a paso para insuficiencia renal aguda"
+        },
+        {
+          "titulo": "NEFRO | Fracaso renal agudo - ENAM 2021",
+          "url": "https://www.youtube.com/watch?v=Q8aR8A02zSE",
+          "idioma": "español",
+          "duracion": "estimada 40-60 min",
+          "aportacion": "Clase completa sobre fracaso renal agudo enfocada en exámenes médicos"
+        },
+        {
+          "titulo": "Lesión Renal Aguda Explicada Claramente",
+          "url": "https://www.youtube.com/watch?v=jrIiNJSmY8g",
+          "idioma": "español",
+          "duracion": "estimada 35-50 min",
+          "aportacion": "Explicación detallada de definiciones, tipos, epidemiología, fisiopatología y enfoque clínico"
+        },
+        {
+          "titulo": "Injuria renal aguda | Nefrologia",
+          "url": "https://www.youtube.com/watch?v=nLVM_iJYUSE",
+          "idioma": "español",
+          "duracion": "estimada 50-70 min",
+          "aportacion": "Clase completa sobre injuria renal aguda con casos clínicos"
+        },
+        {
+          "titulo": "Acute Kidney Injury (AKI) | Definition, causes, symptoms",
+          "url": "https://www.youtube.com/watch?v=x_cqVPyxqek",
+          "idioma": "inglés",
+          "duracion": "estimada 20-30 min",
+          "aportacion": "Definición, causas y síntomas de lesión renal aguda"
+        },
+        {
+          "titulo": "Acute Kidney Injury Nursing NCLEX Review",
+          "url": "https://www.youtube.com/watch?v=GHshZSCbtOk",
+          "idioma": "inglés",
+          "duracion": "estimada 25-40 min",
+          "aportacion": "Revisión de manejo de enfermería, estadios, fisiopatología (aplicable a medicina)"
+        },
+        {
+          "titulo": "Acute Kidney Injury (AKI) | Clinical Medicine",
+          "url": "https://www.youtube.com/watch?v=EgGOwekD1O8",
+          "idioma": "inglés",
+          "duracion": "estimada 15-25 min",
+          "aportacion": "Presentación clínica de AKI con caída abrupta del gasto urinario y aumento de creatinina"
+        }
+      ]
     },
     {
       "nombre": "Enfermedad renal crónica",
@@ -154,7 +393,72 @@
           "numero_de_pagina": 42
         }
       ],
-      "total_paginas": 12
+      "total_paginas": 12,
+      "videos": [
+        {
+          "titulo": "Enfermedad renal crónica: síntomas, causas y tratamiento",
+          "url": "https://www.youtube.com/watch?v=1K1Ca-6fZbM",
+          "idioma": "español",
+          "duracion": "estimada 15-25 min",
+          "aportacion": "Explicación de síntomas, causas y tratamiento por jefe de servicio de nefrología"
+        },
+        {
+          "titulo": "Etapas de la enfermedad renal | ERC Heat Map | NKF",
+          "url": "https://www.youtube.com/watch?v=oCIz2j3jlqc",
+          "idioma": "español",
+          "duracion": "estimada 10-15 min",
+          "aportacion": "Mapa visual de las etapas de la enfermedad renal crónica"
+        },
+        {
+          "titulo": "ENFERMEDAD RENAL CRÓNICA - NEFROLOGÍA - VILLAMEDIC",
+          "url": "https://www.youtube.com/watch?v=qvG91axffnQ",
+          "idioma": "español",
+          "duracion": "estimada 40-60 min",
+          "aportacion": "Clase completa sobre ERC desde definición hasta manejo integral"
+        },
+        {
+          "titulo": "Nueva Guía Enfermedad Renal Crónica | KDIGO 2024",
+          "url": "https://www.youtube.com/watch?v=jLS7OfCqlVs",
+          "idioma": "español",
+          "duracion": "estimada 45-70 min",
+          "aportacion": "Actualización con las últimas guías KDIGO 2024 para ERC"
+        },
+        {
+          "titulo": "ENFERMEDAD RENAL CRÓNICA - fisiopatología, clínica",
+          "url": "https://www.youtube.com/watch?v=2T5M0qXapUQ",
+          "idioma": "español",
+          "duracion": "estimada 30-45 min",
+          "aportacion": "Enfoque en fisiopatología y presentación clínica de ERC"
+        },
+        {
+          "titulo": "5 Stages of Chronic Kidney Disease",
+          "url": "https://www.youtube.com/watch?v=o_srxJZirKY",
+          "idioma": "inglés",
+          "duracion": "estimada 10-15 min",
+          "aportacion": "Explicación clara de las 5 etapas de ERC con objetivos terapéuticos"
+        },
+        {
+          "titulo": "Chronic Kidney Disease (CKD) | Clinical Medicine",
+          "url": "https://www.youtube.com/watch?v=Ywe5jjiJJJo",
+          "idioma": "inglés",
+          "duracion": "estimada 25-40 min",
+          "aportacion": "Presentación sistemática de enfermedad renal crónica"
+        },
+        {
+          "titulo": "Chronic Kidney Disease (CKD): Medical-Surgical - Renal",
+          "url": "https://www.youtube.com/watch?v=BHjASmPOUOM",
+          "idioma": "inglés",
+          "duracion": "estimada 20-35 min",
+          "aportacion": "Factores de riesgo, signos/síntomas, laboratorios anormales, estadios y cuidados"
+        },
+        {
+          "titulo": "How to stage chronic kidney disease based on GFR",
+          "url": "https://www.youtube.com/watch?v=iV_pRlmBar8",
+          "idioma": "inglés",
+          "duracion": "estimada 15-25 min",
+          "aportacion": "Cómo estadificar ERC basándose en la tasa de filtración glomerular"
+        }
+      ]
     },
     {
       "nombre": "Síndrome nefrótico",
@@ -181,7 +485,65 @@
           "numero_de_pagina": 50
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "NEFRO | Síndrome nefrótico - ENAM 2021",
+          "url": "https://www.youtube.com/watch?v=pPpObMo583k",
+          "idioma": "español",
+          "duracion": "estimada 40-60 min",
+          "aportacion": "Clase completa sobre síndrome nefrótico para preparación de exámenes médicos"
+        },
+        {
+          "titulo": "Síndrome Nefrótico Explicado Claramente",
+          "url": "https://www.youtube.com/watch?v=R-ax4HN63Dk",
+          "idioma": "español",
+          "duracion": "estimada 30-45 min",
+          "aportacion": "Definiciones, etiología, fisiopatología, diagnóstico y manejo del síndrome nefrótico"
+        },
+        {
+          "titulo": "SÍNDROME NEFRÓTICO FISIOPATOLOGÍA | GuiaMed",
+          "url": "https://www.youtube.com/watch?v=v-0U0FJtFU8",
+          "idioma": "español",
+          "duracion": "estimada 20-35 min",
+          "aportacion": "Enfoque detallado en la fisiopatología del síndrome nefrótico"
+        },
+        {
+          "titulo": "Síndrome Nefrótico | Fisiopatología (Parte 1)",
+          "url": "https://www.youtube.com/watch?v=CBsD4T9qAIU",
+          "idioma": "español",
+          "duracion": "estimada 25-40 min",
+          "aportacion": "Primera parte enfocada en mecanismos fisiopatológicos"
+        },
+        {
+          "titulo": "Síndrome Nefrótico 1/2: Síntomas, Diagnóstico y Tratamiento",
+          "url": "https://www.youtube.com/watch?v=2BmH5m5sTe4",
+          "idioma": "español",
+          "duracion": "estimada 30-50 min",
+          "aportacion": "Primera parte con biopsia renal, clínica, fisiopatología y etiología"
+        },
+        {
+          "titulo": "Nephrotic Syndrome - Overview (Sign and symptoms)",
+          "url": "https://www.youtube.com/watch?v=ZGPa_4FN9M4",
+          "idioma": "inglés",
+          "duracion": "estimada 20-30 min",
+          "aportacion": "Características esenciales: proteinuria, edema e hipoalbuminemia"
+        },
+        {
+          "titulo": "Nephrotic Syndrome | Clinical Presentation, Causes",
+          "url": "https://www.youtube.com/watch?v=QJAktBq2mr8",
+          "idioma": "inglés",
+          "duracion": "estimada 25-40 min",
+          "aportacion": "Presentación clínica y causas de síndrome nefrótico con glomerulonefritis"
+        },
+        {
+          "titulo": "Nephrotic Syndrome Nursing NCLEX Lecture",
+          "url": "https://www.youtube.com/watch?v=TlK6jV9fk4A",
+          "idioma": "inglés",
+          "duracion": "estimada 20-35 min",
+          "aportacion": "Proteinuria masiva, hipoalbuminemia, edema y manejo de enfermería"
+        }
+      ]
     },
     {
       "nombre": "Síndrome nefrítico",
@@ -208,7 +570,65 @@
           "numero_de_pagina": 57
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Síndrome Nefrítico - Glomerulonefritis Explicados Claramente",
+          "url": "https://www.youtube.com/watch?v=TMubPziygYY",
+          "idioma": "español",
+          "duracion": "estimada 50-70 min",
+          "aportacion": "Clase completa con fisiopatología, etiología, presentación clínica y abordaje diagnóstico"
+        },
+        {
+          "titulo": "SÍNDROME NEFRÍTICO FISIOPATOLOGÍA | GuiaMed",
+          "url": "https://www.youtube.com/watch?v=5pnOIQmAY1c",
+          "idioma": "español",
+          "duracion": "estimada 20-35 min",
+          "aportacion": "Enfoque específico en los mecanismos fisiopatológicos del síndrome nefrítico"
+        },
+        {
+          "titulo": "Aprende Glomerulonefritis en una hora - Borja de Miguel",
+          "url": "https://www.youtube.com/watch?v=xLxB9fUF-P4",
+          "idioma": "español",
+          "duracion": "estimada 60 min",
+          "aportacion": "Clase intensiva cubriendo todas las glomerulopatías en formato compacto"
+        },
+        {
+          "titulo": "Síndrome Nefrótico vs Síndrome Nefrítico",
+          "url": "https://www.youtube.com/watch?v=niyLdEkch4E",
+          "idioma": "español",
+          "duracion": "estimada 15-25 min",
+          "aportacion": "Diagnóstico diferencial entre síndrome nefrótico y nefrítico"
+        },
+        {
+          "titulo": "Síndrome Nefrítico: Síntomas, Diagnóstico y Tratamiento",
+          "url": "https://www.youtube.com/watch?v=se8QsED8Mr8",
+          "idioma": "español",
+          "duracion": "estimada 30-45 min",
+          "aportacion": "Etiología incluyendo glomerulonefritis postestreptocócica y nefritis lúpica"
+        },
+        {
+          "titulo": "Nephritic Syndrome - classification, pathophysiology",
+          "url": "https://www.youtube.com/watch?v=wytTRDz8syo",
+          "idioma": "inglés",
+          "duracion": "estimada 25-40 min",
+          "aportacion": "Clasificación y fisiopatología con hematuria, hipertensión y función renal reducida"
+        },
+        {
+          "titulo": "Understanding Nephritic Syndrome (With Pathology Made Easy)",
+          "url": "https://www.youtube.com/watch?v=4RyflZ3k5d8",
+          "idioma": "inglés",
+          "duracion": "estimada 20-30 min",
+          "aportacion": "Explicación simplificada con enfoque en patología subyacente"
+        },
+        {
+          "titulo": "Nephritic Syndrome: IgA Nephropathy, PSGN",
+          "url": "https://www.youtube.com/watch?v=Gq-sAg6Lzqo",
+          "idioma": "inglés",
+          "duracion": "estimada 30-45 min",
+          "aportacion": "Enfoque en nefropatía IgA y glomerulonefritis postestreptocócica"
+        }
+      ]
     },
     {
       "nombre": "Glomerulonefritis rápidamente progresiva",
@@ -235,7 +655,51 @@
           "numero_de_pagina": 62
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "Glomerulonefritis Rápidamente Progresiva",
+          "url": "https://www.youtube.com/watch?v=WYpk6CTanyk",
+          "idioma": "español",
+          "duracion": "estimada 30-45 min",
+          "aportacion": "Revisión completa de GNRP por especialista en glomerulopatías"
+        },
+        {
+          "titulo": "Aproximación al universo de las vasculitis de pequeño vaso",
+          "url": "https://www.youtube.com/watch?v=lZKGXzCHv9c",
+          "idioma": "español",
+          "duracion": "estimada 40-60 min",
+          "aportacion": "Vasculitis de pequeño vaso y cuándo sospechar glomerulonefritis rápidamente progresiva"
+        },
+        {
+          "titulo": "Rapidly Progressive Glomerulonephritis (RPGN) | Crescentic",
+          "url": "https://www.youtube.com/watch?v=XSS377g7kTE",
+          "idioma": "inglés",
+          "duracion": "estimada 20-35 min",
+          "aportacion": "De hematuria a falla renal completa en días/semanas, con hipertensión y características"
+        },
+        {
+          "titulo": "Rapidly Progressive (Crescentic) Glomerulonephritis",
+          "url": "https://www.youtube.com/watch?v=sgZQ4XTUNlw",
+          "idioma": "inglés",
+          "duracion": "estimada 15-25 min",
+          "aportacion": "Forma severa de glomerulonefritis con rápida declinación de función renal"
+        },
+        {
+          "titulo": "Rapidly progressive glomerulonephritis crescentic",
+          "url": "https://www.youtube.com/watch?v=n4OQ8ot4Sv0",
+          "idioma": "inglés",
+          "duracion": "estimada 10-20 min",
+          "aportacion": "Caracterizada por proliferación de células epiteliales en forma de media luna"
+        },
+        {
+          "titulo": "Rapidly Progressive Glomerulonephritis (Mnemonic)",
+          "url": "https://www.youtube.com/watch?v=FYQIl6Bmgjg",
+          "idioma": "inglés",
+          "duracion": "estimada 15-25 min",
+          "aportacion": "Mnemónico para recordar las causas con mal pronóstico y deterioro rápido"
+        }
+      ]
     },
     {
       "nombre": "Nefropatía diabética",
@@ -262,7 +726,65 @@
           "numero_de_pagina": 66
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Nefropatía Diabética. Diabetes y Riñón. Proteinuria",
+          "url": "https://www.youtube.com/watch?v=5LUHO-i_DtU",
+          "idioma": "español",
+          "duracion": "estimada 15-25 min",
+          "aportacion": "Principal causa de ERC es diabetes, importancia del control para prevención"
+        },
+        {
+          "titulo": "Microalbuminuria. Nefropatía Diabética",
+          "url": "https://www.youtube.com/watch?v=4KI5asAEdow",
+          "idioma": "español",
+          "duracion": "estimada 15-25 min",
+          "aportacion": "Enfoque en microalbuminuria como marcador temprano de nefropatía diabética"
+        },
+        {
+          "titulo": "Enfermedad Renal Diabética Explicada Claramente",
+          "url": "https://www.youtube.com/watch?v=yqr4feIjxLc",
+          "idioma": "español",
+          "duracion": "estimada 35-50 min",
+          "aportacion": "Explicación detallada con enfoque en tratamiento conjunto"
+        },
+        {
+          "titulo": "Nefropatía Diabética - Sebastián Peláez",
+          "url": "https://www.youtube.com/watch?v=3Y67kqwkgyw",
+          "idioma": "español",
+          "duracion": "estimada 30-45 min",
+          "aportacion": "Avances en enfermedad renal diabética por especialista"
+        },
+        {
+          "titulo": "Doctor explains Diabetic Kidney Disease | Causes, symptoms",
+          "url": "https://www.youtube.com/watch?v=Eg3MZjNF5Ps",
+          "idioma": "inglés",
+          "duracion": "estimada 20-30 min",
+          "aportacion": "Explicación por médico PhD sobre causas, síntomas y manejo"
+        },
+        {
+          "titulo": "Understanding Diabetic Kidney Disease: Symptoms",
+          "url": "https://www.youtube.com/watch?v=Ovig7DcaeMY",
+          "idioma": "inglés",
+          "duracion": "estimada 15-25 min",
+          "aportacion": "Condición seria que puede llevar a falla renal en diabéticos"
+        },
+        {
+          "titulo": "Diabetic nephropathy - Mechanisms | Endocrine system",
+          "url": "https://www.youtube.com/watch?v=F4Lt0AjMxEY",
+          "idioma": "inglés",
+          "duracion": "estimada 20-30 min",
+          "aportacion": "Mecanismos subyacentes de cómo la diabetes desarrolla nefropatía"
+        },
+        {
+          "titulo": "Diabetes and the Kidney: Nephropathy and Beyond",
+          "url": "https://www.youtube.com/watch?v=v9Tuynkm8kw",
+          "idioma": "inglés",
+          "duracion": "estimada 50-70 min",
+          "aportacion": "Conferencia avanzada sobre diabetes y riñón por especialista"
+        }
+      ]
     },
     {
       "nombre": "Enfermedades sistémicas con afectación renal",
@@ -294,7 +816,65 @@
           "numero_de_pagina": 74
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Clase 6 Nefritis Lúpica",
+          "url": "https://www.youtube.com/watch?v=vH2iBZa5iRY",
+          "idioma": "español",
+          "duracion": "estimada 40-60 min",
+          "aportacion": "Clase completa sobre nefritis lúpica con clasificación y manejo"
+        },
+        {
+          "titulo": "Valor de la biopsia renal en la vasculitis asociada a ANCAs",
+          "url": "https://www.youtube.com/watch?v=5XhhBFSw2S0",
+          "idioma": "español",
+          "duracion": "estimada 45-60 min",
+          "aportacion": "Conferencia sobre biopsia renal en vasculitis ANCA"
+        },
+        {
+          "titulo": "Vasculitis ANCA | KDIGO 2024",
+          "url": "https://www.youtube.com/watch?v=ejqTGc0kFNQ",
+          "idioma": "español",
+          "duracion": "estimada 40-60 min",
+          "aportacion": "Actualización con guías KDIGO 2024 para vasculitis ANCA"
+        },
+        {
+          "titulo": "Sindrome Riñon Pulmón",
+          "url": "https://www.youtube.com/watch?v=DOW096EUXas",
+          "idioma": "español",
+          "duracion": "estimada 50-70 min",
+          "aportacion": "Síndrome pulmón-riñón incluyendo Goodpasture y vasculitis"
+        },
+        {
+          "titulo": "Goodpasture syndrome - causes, symptoms, diagnosis",
+          "url": "https://www.youtube.com/watch?v=PrrN5atTsY8",
+          "idioma": "inglés",
+          "duracion": "estimada 15-25 min",
+          "aportacion": "Enfermedad autoinmune que ataca membrana basal en pulmones y riñones"
+        },
+        {
+          "titulo": "Nephritic Syndrome (Goodpasture, ANCA vasculitis)",
+          "url": "https://www.youtube.com/watch?v=Q8L959bBDBA",
+          "idioma": "inglés",
+          "duracion": "estimada 30-45 min",
+          "aportacion": "Síndromes nefríticos incluyendo lupus, Goodpasture y vasculitis ANCA"
+        },
+        {
+          "titulo": "Lecture on Kidney Diseases: IgA, diabetes, lupus",
+          "url": "https://www.youtube.com/watch?v=8f2VyJ4P85k",
+          "idioma": "inglés",
+          "duracion": "estimada 45-70 min",
+          "aportacion": "Conferencia completa sobre enfermedades renales incluyendo lupus y diabetes"
+        },
+        {
+          "titulo": "How Does Autoimmune Disease Cause Glomerulonephritis?",
+          "url": "https://www.youtube.com/watch?v=1fzvGEtFn0I",
+          "idioma": "inglés",
+          "duracion": "estimada 10-15 min",
+          "aportacion": "Mecanismo por el cual enfermedades autoinmunes causan glomerulonefritis"
+        }
+      ]
     },
     {
       "nombre": "Nefropatía tubulointersticial",
@@ -316,7 +896,23 @@
           "numero_de_pagina": 78
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "Nefritis tubulointersticial (búsqueda pendiente)",
+          "url": "https://www.youtube.com/results?search_query=nefritis+tubulointersticial+nefrología",
+          "idioma": "español/inglés",
+          "duracion": "variable",
+          "aportacion": "Resultados de búsqueda - necesita búsquedas adicionales debido a límite de API"
+        },
+        {
+          "titulo": "Acute interstitial nephritis (búsqueda pendiente)",
+          "url": "https://www.youtube.com/results?search_query=acute+interstitial+nephritis",
+          "idioma": "inglés",
+          "duracion": "variable",
+          "aportacion": "Resultados de búsqueda - necesita búsquedas adicionales debido a límite de API"
+        }
+      ]
     },
     {
       "nombre": "Enfermedades quísticas renales",
@@ -348,7 +944,23 @@
           "numero_de_pagina": 83
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Poliquistosis renal (búsqueda pendiente)",
+          "url": "https://www.youtube.com/results?search_query=poliquistosis+renal+PKD",
+          "idioma": "español/inglés",
+          "duracion": "variable",
+          "aportacion": "Resultados de búsqueda - necesita búsquedas adicionales debido a límite de API"
+        },
+        {
+          "titulo": "Polycystic kidney disease (búsqueda pendiente)",
+          "url": "https://www.youtube.com/results?search_query=polycystic+kidney+disease+ADPKD",
+          "idioma": "inglés",
+          "duracion": "variable",
+          "aportacion": "Resultados de búsqueda - necesita búsquedas adicionales debido a límite de API"
+        }
+      ]
     },
     {
       "nombre": "Afectación renal en el mieloma múltiple",
@@ -365,7 +977,23 @@
           "numero_de_pagina": 86
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "Mieloma múltiple y riñón (búsqueda pendiente)",
+          "url": "https://www.youtube.com/results?search_query=mieloma+múltiple+riñón+nefropatía",
+          "idioma": "español",
+          "duracion": "variable",
+          "aportacion": "Resultados de búsqueda - necesita búsquedas adicionales debido a límite de API"
+        },
+        {
+          "titulo": "Multiple myeloma kidney disease (búsqueda pendiente)",
+          "url": "https://www.youtube.com/results?search_query=multiple+myeloma+kidney+cast+nephropathy",
+          "idioma": "inglés",
+          "duracion": "variable",
+          "aportacion": "Resultados de búsqueda - necesita búsquedas adicionales debido a límite de API"
+        }
+      ]
     },
     {
       "nombre": "Hipertensión arterial y riñón",
@@ -387,7 +1015,23 @@
           "numero_de_pagina": 91
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Hipertensión arterial y riñón (búsqueda pendiente)",
+          "url": "https://www.youtube.com/results?search_query=hipertensión+arterial+riñón+nefrología",
+          "idioma": "español",
+          "duracion": "variable",
+          "aportacion": "Resultados de búsqueda - necesita búsquedas adicionales debido a límite de API"
+        },
+        {
+          "titulo": "Hypertension and kidney disease (búsqueda pendiente)",
+          "url": "https://www.youtube.com/results?search_query=hypertension+kidney+disease+renovascular",
+          "idioma": "inglés",
+          "duracion": "variable",
+          "aportacion": "Resultados de búsqueda - necesita búsquedas adicionales debido a límite de API"
+        }
+      ]
     }
   ]
 }

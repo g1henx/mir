@@ -21,7 +21,58 @@
           "numero_de_pagina": 5
         }
       ],
-      "total_paginas": 8
+      "total_paginas": 8,
+      "videos": [
+        {
+          "titulo": "Hematologia (4/12) - Introducción a las anemias",
+          "url": "https://www.youtube.com/watch?v=ojZ0FjDZjyA",
+          "idioma": "español",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Introducción completa a las anemias, clasificación en adquiridas y hereditarias, marcadores como LDH, bilirrubina y reticulocitos"
+        },
+        {
+          "titulo": "HEMATOPOYESIS | HEMATOLOGÍA",
+          "url": "https://www.youtube.com/watch?v=2hFsoeR4cXc",
+          "idioma": "español",
+          "duracion": "estimada 10-15 min",
+          "aportacion": "Explicación detallada del proceso de hematopoyesis con enfoque educativo para estudiantes"
+        },
+        {
+          "titulo": "HEMATOLOGÍA #1: INTRODUCCIÓN A LAS ANEMIAS",
+          "url": "https://www.youtube.com/watch?v=WPjlbUSdY8g",
+          "idioma": "español",
+          "duracion": "estimada 20-30 min",
+          "aportacion": "Primera clase del módulo de hematología enfocada en el aprendizaje correcto de las anemias"
+        },
+        {
+          "titulo": "Hematology | Erythropoiesis: Red Blood Cell Formation: Part 1",
+          "url": "https://www.youtube.com/watch?v=kcnOXlr-9Ic",
+          "idioma": "inglés",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Proceso de eritropoyesis y formación de glóbulos rojos en profundidad"
+        },
+        {
+          "titulo": "Hematopoiesis | Erythropoiesis",
+          "url": "https://www.youtube.com/watch?v=anfpX7NzExg",
+          "idioma": "inglés",
+          "duracion": "estimada 10-15 min",
+          "aportacion": "Explicación de cómo se forman las células sanguíneas: eritrocitos, leucocitos, monocitos, neutrófilos"
+        },
+        {
+          "titulo": "Hematology | Types of Anemias",
+          "url": "https://www.youtube.com/watch?v=mOrRJBqm744",
+          "idioma": "inglés",
+          "duracion": "estimada 20-25 min",
+          "aportacion": "Clasificación completa de tipos de anemias según su fisiopatología"
+        },
+        {
+          "titulo": "Anaemia - An overview",
+          "url": "https://www.youtube.com/watch?v=Lek2zAOhOTg",
+          "idioma": "inglés",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Definición, fisiología de producción de GR, signos clínicos de anemia"
+        }
+      ]
     },
     {
       "nombre": "Síndrome hemolítico. Anemias hemolíticas adquiridas",
@@ -48,7 +99,58 @@
           "numero_de_pagina": 12
         }
       ],
-      "total_paginas": 8
+      "total_paginas": 8,
+      "videos": [
+        {
+          "titulo": "Anemia 4: Anemia hemolítica",
+          "url": "https://www.youtube.com/watch?v=ZkMdMblZgSc",
+          "idioma": "español",
+          "duracion": "estimada 20-25 min",
+          "aportacion": "Clasificación y aspectos fundamentales de los tipos más frecuentes de anemia hemolítica"
+        },
+        {
+          "titulo": "Diagnostico y tratamiento de anemia hemolítica inmune en adultos",
+          "url": "https://www.youtube.com/watch?v=6DxPqgkAVz0",
+          "idioma": "español",
+          "duracion": "estimada 30-40 min",
+          "aportacion": "Enfoque diagnóstico y tratamiento específico de anemias hemolíticas inmunes - Dr. Nicolás Ardila"
+        },
+        {
+          "titulo": "Diagnóstico diferencial. Anemia Hemolítica por anticuerpos calientes y anticuerpos fríos",
+          "url": "https://www.youtube.com/watch?v=iheY41nDRO8",
+          "idioma": "español",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Diferenciación entre anemias hemolíticas autoinmunes por anticuerpos calientes vs fríos"
+        },
+        {
+          "titulo": "Anemias hemolíticas: tipos, causas y clínica",
+          "url": "https://www.youtube.com/watch?v=yKvGcKzci3Y",
+          "idioma": "español",
+          "duracion": "estimada 10-15 min",
+          "aportacion": "Tipos, causas y presentación clínica de anemias hemolíticas de forma concisa"
+        },
+        {
+          "titulo": "Acquired Hemolytic Anemias | Hematology Medicine Lectures",
+          "url": "https://www.youtube.com/watch?v=svMLu0IxbJ0",
+          "idioma": "inglés",
+          "duracion": "estimada 25-30 min",
+          "aportacion": "Conferencia médica detallada sobre anemias hemolíticas adquiridas"
+        },
+        {
+          "titulo": "Hemolytic Anemia | Acquired Causes",
+          "url": "https://www.youtube.com/watch?v=UbFf-gyysPs",
+          "idioma": "inglés",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Causas extrínsecas de anemia hemolítica y sus desencadenantes externos"
+        },
+        {
+          "titulo": "Cold and warm autoimmune hemolytic anemia",
+          "url": "https://www.youtube.com/watch?v=b-I6VQNBU2k",
+          "idioma": "inglés",
+          "duracion": "estimada 10-15 min",
+          "aportacion": "Comparación entre anemias hemolíticas autoinmunes por anticuerpos IgM fríos vs IgG calientes"
+        }
+      ]
     },
     {
       "nombre": "Anemias hemolíticas congénitas",
@@ -70,7 +172,58 @@
           "numero_de_pagina": 20
         }
       ],
-      "total_paginas": 10
+      "total_paginas": 10,
+      "videos": [
+        {
+          "titulo": "Anemias hemolíticas: tipos, causas y clínica",
+          "url": "https://www.youtube.com/watch?v=yKvGcKzci3Y",
+          "idioma": "español",
+          "duracion": "estimada 10-15 min",
+          "aportacion": "Incluye hemoglobinopatías (drepanocitosis, beta-talasemia), enzimopatías (déficit G6PD)"
+        },
+        {
+          "titulo": "Anemias Hemolíticas Congénitas",
+          "url": "https://www.youtube.com/watch?v=YiAC-uByalw",
+          "idioma": "español",
+          "duracion": "estimada 20-25 min",
+          "aportacion": "Enfoque específico en anemias hemolíticas hereditarias/congénitas"
+        },
+        {
+          "titulo": "Sesión de Experto: Hemoglobinopatías y Anemia Hemolítica",
+          "url": "https://www.youtube.com/watch?v=iR9Ikipmzng",
+          "idioma": "español",
+          "duracion": "estimada 45-60 min",
+          "aportacion": "Sesión experta profunda sobre hemoglobinopatías como causa de anemia hemolítica"
+        },
+        {
+          "titulo": "G6PD deficiency, Hereditary Spherocytosis, Sickle cell disease, Thalassaemia",
+          "url": "https://www.youtube.com/watch?v=5J7225c1i54",
+          "idioma": "inglés",
+          "duracion": "estimada 30-40 min",
+          "aportacion": "Comparación entre enzimopatías (G6PD), membranopatías (esferocitosis) y hemoglobinopatías"
+        },
+        {
+          "titulo": "Introduction to Hereditary Hemolytic Anemia",
+          "url": "https://www.youtube.com/watch?v=40NaGjnTY6Y",
+          "idioma": "inglés",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Introducción a trastornos hereditarios con destrucción prematura de glóbulos rojos"
+        },
+        {
+          "titulo": "Hemolytic Anemias- Part 3: HEREDITARY SPHEROCYTOSIS",
+          "url": "https://www.youtube.com/watch?v=yKqFZPOY9Cs",
+          "idioma": "inglés",
+          "duracion": "estimada 20-25 min",
+          "aportacion": "Enfoque específico en esferocitosis hereditaria como membranopatía principal"
+        },
+        {
+          "titulo": "Hematology | Types of Anemias",
+          "url": "https://www.youtube.com/watch?v=mOrRJBqm744",
+          "idioma": "inglés",
+          "duracion": "estimada 20-25 min",
+          "aportacion": "Anemias normocíticas hemolíticas: esferocitosis, déficit G6PD, anemia falciforme"
+        }
+      ]
     },
     {
       "nombre": "Anemias carenciales",
@@ -92,7 +245,58 @@
           "numero_de_pagina": 32
         }
       ],
-      "total_paginas": 10
+      "total_paginas": 10,
+      "videos": [
+        {
+          "titulo": "Anemias Carenciais - Por Dra. Helena Bacha",
+          "url": "https://www.youtube.com/watch?v=z9wxzIer2uE",
+          "idioma": "portugués",
+          "duracion": "estimada 30-40 min",
+          "aportacion": "Anemias por deficiencia de micronutrientes: hierro, vitamina B12, folato"
+        },
+        {
+          "titulo": "Anemia carencial - Anemia ferropriva",
+          "url": "https://www.youtube.com/watch?v=n4jXVXimCHE",
+          "idioma": "portugués",
+          "duracion": "estimada 40-50 min",
+          "aportacion": "Presentación de especialista sobre anemia ferropénica - Dra. Suellen Henriques"
+        },
+        {
+          "titulo": "Anemias Carenciais - Descomplica, Malu",
+          "url": "https://www.youtube.com/watch?v=aF5XvyUz8IQ",
+          "idioma": "portugués",
+          "duracion": "estimada 20-30 min",
+          "aportacion": "Todo sobre anemias: microcítica, macrocítica, sideroblástica, megaloblástica, talasemia"
+        },
+        {
+          "titulo": "Anemias Carenciais, Aulão completo",
+          "url": "https://www.youtube.com/watch?v=1f33NaSVq6U",
+          "idioma": "portugués",
+          "duracion": "estimada 60-90 min",
+          "aportacion": "Clase completa sobre anemias carenciales incluyendo diagnóstico de anemia ferropénica"
+        },
+        {
+          "titulo": "MACROCYTIC ANEMIA - Megaloblastic Anemia, Vitamin B12 & Folate Deficiency",
+          "url": "https://www.youtube.com/watch?v=Zrd_2r1Ivek",
+          "idioma": "inglés",
+          "duracion": "estimada 25-30 min",
+          "aportacion": "Anemia macrocítica: megaloblástica y no megaloblástica, déficit de B12 y folato"
+        },
+        {
+          "titulo": "Megaloblastic Anemia (Including B12 and folate deficiency)",
+          "url": "https://www.youtube.com/watch?v=pxhXneBxaOI",
+          "idioma": "inglés",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Causas principales de anemia megaloblástica: deficiencias de vitamina B12 y ácido fólico"
+        },
+        {
+          "titulo": "Causes of Megaloblastic Anemia | Medical Case Discussion",
+          "url": "https://www.youtube.com/watch?v=WLbjvAaglAs",
+          "idioma": "inglés",
+          "duracion": "estimada 20-25 min",
+          "aportacion": "Discusión de casos clínicos sobre síntesis alterada de ADN por déficit B12 y folato"
+        }
+      ]
     },
     {
       "nombre": "Síndromes de insuficiencia medular",
@@ -114,7 +318,44 @@
           "numero_de_pagina": 40
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "WHAT IS MEDULLARY APLASIA? | APLASIC ANEMIA",
+          "url": "https://www.youtube.com/watch?v=lR-fYbtcuss",
+          "idioma": "inglés",
+          "duracion": "estimada 10-15 min",
+          "aportacion": "Explicación completa de anemia aplásica, enfermedad rara que afecta médula ósea"
+        },
+        {
+          "titulo": "Aplastic Anemia - All you need to know - Definition, Causes & Treatment",
+          "url": "https://www.youtube.com/watch?v=b8z4CFstPGQ",
+          "idioma": "inglés",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Fallo medular completo con pancitopenia: definición, causas y tratamiento"
+        },
+        {
+          "titulo": "Aplastic Anemia, Bone Marrow Failure & Pancytopenia",
+          "url": "https://www.youtube.com/watch?v=2pDRCy2HFRM",
+          "idioma": "inglés",
+          "duracion": "estimada 20-25 min",
+          "aportacion": "Relación entre aplasia medular, fallo de médula ósea y pancitopenia"
+        },
+        {
+          "titulo": "Immune-mediated bone marrow failure diseases & their pathophysiology",
+          "url": "https://www.youtube.com/watch?v=VO8Cmp28uxY",
+          "idioma": "inglés",
+          "duracion": "estimada 30-40 min",
+          "aportacion": "Enfermedades de fallo medular inmunomediadas: anemia aplásica, SMD de bajo riesgo, HPN"
+        },
+        {
+          "titulo": "Aplastic Anemia: Causes, Types, and Pathophysiology",
+          "url": "https://www.youtube.com/watch?v=xqJB6rezNcI",
+          "idioma": "inglés",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Fisiopatología del fallo medular y desarrollo de pancitopenia"
+        }
+      ]
     },
     {
       "nombre": "Síndromes mieloproliferativos crónicos",
@@ -146,7 +387,58 @@
           "numero_de_pagina": 49
         }
       ],
-      "total_paginas": 10
+      "total_paginas": 10,
+      "videos": [
+        {
+          "titulo": "Síndromes Mieloproliferativos Crónicos | Súper Resumen",
+          "url": "https://www.youtube.com/watch?v=d2pwJkMo2OQ",
+          "idioma": "español",
+          "duracion": "estimada 10-15 min",
+          "aportacion": "Resumen visual con mapa mental de síndromes mieloproliferativos crónicos"
+        },
+        {
+          "titulo": "Chronic myeloproliferative syndromes - ENARM",
+          "url": "https://www.youtube.com/watch?v=jwbv0KAXjGQ",
+          "idioma": "español",
+          "duracion": "estimada 20-25 min",
+          "aportacion": "Policitemia vera, leucemia granulocítica crónica, mielofibrosis - enfoque MIR/ENARM"
+        },
+        {
+          "titulo": "Myeloproliferative Neoplasias (MPN) | Clinical Medicine",
+          "url": "https://www.youtube.com/watch?v=1OfmRqE_87E",
+          "idioma": "inglés",
+          "duracion": "estimada 40-50 min",
+          "aportacion": "Mutaciones JAK2, CALR, MPL. Las 4 MPN clásicas: PV, TE, MFP, LMC"
+        },
+        {
+          "titulo": "Blood Review Series – Myeloproliferative Neoplasms",
+          "url": "https://www.youtube.com/watch?v=SwEleV8VfIE",
+          "idioma": "inglés",
+          "duracion": "estimada 30-40 min",
+          "aportacion": "Revisión de avances en trastornos mieloproliferativos tratados por hematólogos"
+        },
+        {
+          "titulo": "Essential Thrombocytosis (ET) | Myeloproliferative Neoplasm",
+          "url": "https://www.youtube.com/watch?v=g14v3jx5sCI",
+          "idioma": "inglés",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Trombocitemia esencial como trastorno mieloproliferativo con aumento de plaquetas"
+        },
+        {
+          "titulo": "Myeloproliferative Neoplasms & Myelodysplastic Syndromes",
+          "url": "https://www.youtube.com/watch?v=6JSkVGbwkCw",
+          "idioma": "inglés",
+          "duracion": "estimada 25-30 min",
+          "aportacion": "Comparación entre MPN (PV, TE, MFP) y síndromes mielodisplásicos"
+        },
+        {
+          "titulo": "Myeloproliferative Neoplasia | Podcast",
+          "url": "https://www.youtube.com/watch?v=iAaKWAu-gtM",
+          "idioma": "inglés",
+          "duracion": "estimada 30-45 min",
+          "aportacion": "Podcast educativo sobre policitemia vera, trombocitemia esencial, LMC"
+        }
+      ]
     },
     {
       "nombre": "Síndromes mielodisplásicos",
@@ -178,7 +470,37 @@
           "numero_de_pagina": 56
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "Síndromes mielodisplásicos (SMD) - MDS Alliance",
+          "url": "https://www.youtube.com/watch?v=44dQDz0avvM",
+          "idioma": "español",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Enfermedades de médula ósea por células madre anormales - Alianza SMD"
+        },
+        {
+          "titulo": "síndrome mielodisplásico inclasificable (SMD-U)",
+          "url": "https://www.youtube.com/watch?v=Kevu1BeKKkA",
+          "idioma": "español",
+          "duracion": "estimada 10-15 min",
+          "aportacion": "Células madre con mutaciones de ADN o cambios cromosómicos - SMD inclasificable"
+        },
+        {
+          "titulo": "Síndromes mielodisplásicos MDS y su relación con otras enfermedades",
+          "url": "https://www.youtube.com/watch?v=Y0Mf9W3p82E",
+          "idioma": "español",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Qué es la mielodisplasia y su relación con otras patologías hematológicas"
+        },
+        {
+          "titulo": "SÍNDROMES MIELODISPLÁSICOS. PRESENTACIÓN CLÍNICA",
+          "url": "https://www.youtube.com/watch?v=xlFHzrylbpc",
+          "idioma": "español",
+          "duracion": "estimada 20-25 min",
+          "aportacion": "Presentación clínica y manifestaciones de síndromes mielodisplásicos"
+        }
+      ]
     },
     {
       "nombre": "Leucemia aguda",
@@ -200,7 +522,58 @@
           "numero_de_pagina": 62
         }
       ],
-      "total_paginas": 8
+      "total_paginas": 8,
+      "videos": [
+        {
+          "titulo": "LEUCEMIA AGUDA LINFOBLASTICA Y MIELOBLASTICA (LEUCEMIAS) - ENARM",
+          "url": "https://www.youtube.com/watch?v=-am2wPf90Gw",
+          "idioma": "español",
+          "duracion": "estimada 30-40 min",
+          "aportacion": "Todo sobre LAL y LAM para examen MIR/ENARM - completo y enfocado"
+        },
+        {
+          "titulo": "Leucemias: cómo distinguir síntomas y tratamientos",
+          "url": "https://www.youtube.com/watch?v=TTHgAetn_Ss",
+          "idioma": "español",
+          "duracion": "estimada 20-25 min",
+          "aportacion": "Diferenciación de síntomas y tratamientos de leucemias agudas"
+        },
+        {
+          "titulo": "Leucemias Explicado Claramente",
+          "url": "https://www.youtube.com/watch?v=jpM-xMJQpJE",
+          "idioma": "español",
+          "duracion": "estimada 60-90 min",
+          "aportacion": "Definición, clasificación de neoplasias hematológicas, fisiopatología detallada"
+        },
+        {
+          "titulo": "86/100 LEUCEMIA LINFOBLÁSTICA AGUDA. ENARM",
+          "url": "https://www.youtube.com/watch?v=FbUSaFNebTM",
+          "idioma": "español",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Enfoque específico en LAL para preparación de examen"
+        },
+        {
+          "titulo": "Acute Leukemia | Clinical Medicine",
+          "url": "https://www.youtube.com/watch?v=fUEWCxaeVvA",
+          "idioma": "inglés",
+          "duracion": "estimada 50-60 min",
+          "aportacion": "ALL y AML: tipos, fisiopatología, presentación clásica - medicina clínica"
+        },
+        {
+          "titulo": "Acute Leukemia - ALL and AML - Hematology and Oncology",
+          "url": "https://www.youtube.com/watch?v=Uyp6WLVsnys",
+          "idioma": "inglés",
+          "duracion": "estimada 30-40 min",
+          "aportacion": "Comparación entre LAL y LAM: patogénesis, síntomas, diagnóstico"
+        },
+        {
+          "titulo": "Acute Myeloid Leukemia | Clinical Presentation",
+          "url": "https://www.youtube.com/watch?v=j0ruBn1XM24",
+          "idioma": "inglés",
+          "duracion": "estimada 20-25 min",
+          "aportacion": "Presentación clínica de LMA: células madre anormales acumuladas en médula"
+        }
+      ]
     },
     {
       "nombre": "Síndromes linfoproliferativos crónicos con expresión leucémica",
@@ -222,7 +595,37 @@
           "numero_de_pagina": 69
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Understanding Hairy Cell Leukemia: Presentations and Treatment",
+          "url": "https://www.youtube.com/watch?v=gGHhLUpIzHA",
+          "idioma": "inglés",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Presentación de tricoleucemia con síntomas de citopenias"
+        },
+        {
+          "titulo": "ALL, CLL, Hairy Cell Leukemia, Adult T-Cell Leukemia",
+          "url": "https://www.youtube.com/watch?v=ZZlKuUvFaEE",
+          "idioma": "inglés",
+          "duracion": "estimada 30-40 min",
+          "aportacion": "Comparación entre ALL, LLC, tricoleucemia y leucemia de células T del adulto"
+        },
+        {
+          "titulo": "Hairy Cell Leukemia | Pathology",
+          "url": "https://www.youtube.com/watch?v=69Tu99oszGo",
+          "idioma": "inglés",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Patología de tricoleucemia y características distintivas"
+        },
+        {
+          "titulo": "Leukemias Part 2: CLL, CML & Hairy Cell",
+          "url": "https://www.youtube.com/watch?v=LOYZig1A3EU",
+          "idioma": "inglés",
+          "duracion": "estimada 25-30 min",
+          "aportacion": "Leucemia linfática crónica, leucemia mieloide crónica y tricoleucemia"
+        }
+      ]
     },
     {
       "nombre": "Linfoma de Hodgkin",
@@ -259,7 +662,51 @@
           "numero_de_pagina": 76
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "De 'enfermedad de Hodgkin' a LINFOMA de Hodgkin",
+          "url": "https://www.youtube.com/watch?v=CpqlBRPM3lw",
+          "idioma": "español",
+          "duracion": "estimada 10-15 min",
+          "aportacion": "Células Reed-Sternberg cancerosas características del linfoma Hodgkin clásico"
+        },
+        {
+          "titulo": "Linfoma de Hodgkin",
+          "url": "https://www.youtube.com/watch?v=htdxNH-WOWc",
+          "idioma": "español",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Células Reed-Sternberg: linfocitos B anormales multilobulados y simétricos"
+        },
+        {
+          "titulo": "Sesión de Experto: Linfoma de Hodgkin clásico",
+          "url": "https://www.youtube.com/watch?v=bJEtA5la8KE",
+          "idioma": "español",
+          "duracion": "estimada 45-60 min",
+          "aportacion": "Sesión de experto sobre linfoma de Hodgkin clásico - diagnóstico temprano"
+        },
+        {
+          "titulo": "Hodgkin's Lymphoma Explained (With Classification)",
+          "url": "https://www.youtube.com/watch?v=cYMK_uAGf5I",
+          "idioma": "inglés",
+          "duracion": "estimada 20-25 min",
+          "aportacion": "Fisiopatología, síntomas más comunes y clasificación del linfoma de Hodgkin"
+        },
+        {
+          "titulo": "Hodgkin Lymphoma Staging: From Diagnosis to Prognosis",
+          "url": "https://www.youtube.com/watch?v=ttFAdykOhDY",
+          "idioma": "inglés",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Estadificación completa: desde diagnóstico hasta pronóstico"
+        },
+        {
+          "titulo": "HODGKIN LYMPHOMA | Staging| Clinical Features",
+          "url": "https://www.youtube.com/watch?v=tJwVT3bh5Pc",
+          "idioma": "inglés",
+          "duracion": "estimada 20-25 min",
+          "aportacion": "Estadificación, características clínicas y modalidades de tratamiento"
+        }
+      ]
     },
     {
       "nombre": "Linfoma no Hodgkin",
@@ -306,7 +753,44 @@
           "numero_de_pagina": 85
         }
       ],
-      "total_paginas": 10
+      "total_paginas": 10,
+      "videos": [
+        {
+          "titulo": "Non-Hodgkin Lymphoma: Symptoms & Treatment | Stanford",
+          "url": "https://www.youtube.com/watch?v=ZrC_PMMtIDw",
+          "idioma": "inglés",
+          "duracion": "estimada 20-30 min",
+          "aportacion": "Síntomas clave, clasificación y tratamiento de linfomas no Hodgkin - Stanford"
+        },
+        {
+          "titulo": "Non Hodgkin Lymphoma Overview",
+          "url": "https://www.youtube.com/watch?v=bO-6z4ywYOo",
+          "idioma": "inglés",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Entidad heterogénea dividida en linfomas agresivos vs indolentes"
+        },
+        {
+          "titulo": "Exciting advancements in NHL from EHA 2024",
+          "url": "https://www.youtube.com/watch?v=GLcb_Jjgvv0",
+          "idioma": "inglés",
+          "duracion": "estimada 10-15 min",
+          "aportacion": "Avances recientes: anticuerpos biespecíficos en LBCL y linfoma folicular"
+        },
+        {
+          "titulo": "Follicular Lymphoma - Indolent B-Cell Lymphoma - Non-Hodgkin",
+          "url": "https://www.youtube.com/watch?v=Er6MxHP3dUk",
+          "idioma": "inglés",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Linfoma folicular como linfoma B indolente no Hodgkin"
+        },
+        {
+          "titulo": "Key takeaways & trials from ICML in DLBCL, MCL, and FL",
+          "url": "https://www.youtube.com/watch?v=e8RQeT3EsMM",
+          "idioma": "inglés",
+          "duracion": "estimada 20-25 min",
+          "aportacion": "Ensayos clínicos en linfoma difuso de células B grandes, linfoma de células del manto, folicular"
+        }
+      ]
     },
     {
       "nombre": "Mieloma múltiple y otras neoplasias de células plasmáticas",
@@ -343,7 +827,58 @@
           "numero_de_pagina": 93
         }
       ],
-      "total_paginas": 8
+      "total_paginas": 8,
+      "videos": [
+        {
+          "titulo": "Mieloma Múltiple: Signos, Síntomas Y Manejo",
+          "url": "https://www.youtube.com/watch?v=PmdzL5UW0zw",
+          "idioma": "español",
+          "duracion": "estimada 30-40 min",
+          "aportacion": "Signos, síntomas y estrategias de manejo - Dr. Mateo Mejia, Weill Cornell"
+        },
+        {
+          "titulo": "Multiple myeloma | Symptoms, causes, and treatment",
+          "url": "https://www.youtube.com/watch?v=OVHTDRgr9Dc",
+          "idioma": "español",
+          "duracion": "estimada 20-25 min",
+          "aportacion": "Segundo tumor hematológico más frecuente - Dra. Paula Rodríguez Otero"
+        },
+        {
+          "titulo": "Tutorial de Medicina Interna - Gammapatía monoclonal de significado clínico",
+          "url": "https://www.youtube.com/watch?v=GS0BRcpTzrs",
+          "idioma": "español",
+          "duracion": "estimada 45-60 min",
+          "aportacion": "Gammapatías monoclonales dentro del espectro de neoplasias de células plasmáticas"
+        },
+        {
+          "titulo": "What are CRAB and pre-CRAB criteria in myeloma diagnosis",
+          "url": "https://www.youtube.com/watch?v=HDGfLWD-NPs",
+          "idioma": "inglés",
+          "duracion": "estimada 10-15 min",
+          "aportacion": "Criterios CRAB y pre-CRAB para diagnóstico y decisiones de tratamiento"
+        },
+        {
+          "titulo": "SLiM-CRAB Explained: Myeloma Symptoms & Diagnosis",
+          "url": "https://www.youtube.com/watch?v=Fu3Ry4J98Es",
+          "idioma": "inglés",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Criterios CRAB: Calcio, Renal, Anemia, Bone - y criterios SLiM actualizados"
+        },
+        {
+          "titulo": "Active multiple myeloma or not? Here's how it's diagnosed",
+          "url": "https://www.youtube.com/watch?v=ZbFHH5nMNM0",
+          "idioma": "inglés",
+          "duracion": "estimada 10-15 min",
+          "aportacion": "Criterios CRAB más eventos definitorios: 60% células plasmáticas clonales"
+        },
+        {
+          "titulo": "Multiple Myeloma Symptoms, Diagnosis, and Treatment",
+          "url": "https://www.youtube.com/watch?v=pSmkNqtvdOk",
+          "idioma": "inglés",
+          "duracion": "estimada 20-25 min",
+          "aportacion": "Características clínicas CRAB: hipercalcemia, fallo renal, anemia, dolor óseo"
+        }
+      ]
     },
     {
       "nombre": "Hemostasia. Fisiología y exploración. Trombocitopenias",
@@ -365,7 +900,58 @@
           "numero_de_pagina": 99
         }
       ],
-      "total_paginas": 8
+      "total_paginas": 8,
+      "videos": [
+        {
+          "titulo": "Hemostasia Explicada Claramente",
+          "url": "https://www.youtube.com/watch?v=n3sjM1qQvpk",
+          "idioma": "español",
+          "duracion": "estimada 40-50 min",
+          "aportacion": "Proceso completo de hemostasia: adhesión, agregación, coagulación"
+        },
+        {
+          "titulo": "ALTERACIONES PLAQUETARIAS - HEMATOLOGÍA",
+          "url": "https://www.youtube.com/watch?v=VmcYyKQk2W0",
+          "idioma": "español",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Plaquetas en coagulación, control por trombopoyetina, alteraciones plaquetarias"
+        },
+        {
+          "titulo": "Sesión 10. Abordaje de las Trombocitopenias",
+          "url": "https://www.youtube.com/watch?v=nUuOs_heTwM",
+          "idioma": "español",
+          "duracion": "estimada 30-40 min",
+          "aportacion": "Trombocitopenia: plaquetas bajas, importancia en coagulación, abordaje clínico"
+        },
+        {
+          "titulo": "Cascada de la Coagulación Explicada Claramente",
+          "url": "https://www.youtube.com/watch?v=CLfq703z4TU",
+          "idioma": "español",
+          "duracion": "estimada 30-40 min",
+          "aportacion": "Hemostasia, tapón plaquetario, vía intrínseca y extrínseca de coagulación"
+        },
+        {
+          "titulo": "Immune Thrombocytopenia (ITP) — Most COMPREHENSIVE",
+          "url": "https://www.youtube.com/watch?v=7IUt0AAvy3E",
+          "idioma": "inglés",
+          "duracion": "estimada 30-40 min",
+          "aportacion": "PTI: sobredestrucción de plaquetas y problemas de agregación plaquetaria"
+        },
+        {
+          "titulo": "Bleeding Disorders (ITP vs TTP vs HUS vs DIC) || USMLE",
+          "url": "https://www.youtube.com/watch?v=U3VbjS7WqOE",
+          "idioma": "inglés",
+          "duracion": "estimada 20-25 min",
+          "aportacion": "Diagnóstico diferencial de trastornos hemorrágicos con trombocitopenia"
+        },
+        {
+          "titulo": "Thrombocytopenia Review (ITP, TTP, HUS, DIC, HIT)",
+          "url": "https://www.youtube.com/watch?v=azT9jPHsSUI",
+          "idioma": "inglés",
+          "duracion": "estimada 25-30 min",
+          "aportacion": "Revisión de trombocitopenias: PTI, PTT, SHU, CID, TIH"
+        }
+      ]
     },
     {
       "nombre": "Alteraciones de la coagulación",
@@ -387,7 +973,44 @@
           "numero_de_pagina": 108
         }
       ],
-      "total_paginas": 8
+      "total_paginas": 8,
+      "videos": [
+        {
+          "titulo": "Videoclase sobre los Trastornos de la Hemostasia",
+          "url": "https://www.youtube.com/watch?v=MlaWTuF90ak",
+          "idioma": "español",
+          "duracion": "estimada 45-60 min",
+          "aportacion": "PTI, SHU, CID, Hemofilias A y B, enfermedad de Von Willebrand"
+        },
+        {
+          "titulo": "Polycythemia & Coagulation Disorders (Hemophilia, ITP, HIT, vWD, DIC)",
+          "url": "https://www.youtube.com/watch?v=xCCrTLNvSRs",
+          "idioma": "inglés",
+          "duracion": "estimada 30-40 min",
+          "aportacion": "Trastornos de coagulación: hemofilia, PTI, TIH, Von Willebrand, CID"
+        },
+        {
+          "titulo": "Disseminated Intravascular Coagulation (DIC)",
+          "url": "https://www.youtube.com/watch?v=yO9oj2ScR-g",
+          "idioma": "inglés",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "CID: trastorno trombohemolítico con coagulación y sangrado simultáneos"
+        },
+        {
+          "titulo": "Coagulopathy | Podcast",
+          "url": "https://www.youtube.com/watch?v=iRYBP6m3_DE",
+          "idioma": "inglés",
+          "duracion": "estimada 40-50 min",
+          "aportacion": "Hemofilia A y B: causas genéticas y tratamientos modernos, Von Willebrand, CID"
+        },
+        {
+          "titulo": "Coagulopathies | Disseminated Intravascular Coagulation",
+          "url": "https://www.youtube.com/watch?v=2ahHlQ0jwzU",
+          "idioma": "inglés",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "CID: formación de trombos de forma diseminada en la circulación"
+        }
+      ]
     },
     {
       "nombre": "Anticoagulantes, antiagregantes y fibrinolíticos",
@@ -409,7 +1032,51 @@
           "numero_de_pagina": 117
         }
       ],
-      "total_paginas": 8
+      "total_paginas": 8,
+      "videos": [
+        {
+          "titulo": "ANTICOAGULANTES Comparación!! APUNTES de hematología",
+          "url": "https://www.youtube.com/watch?v=yLCGFYFLcjs",
+          "idioma": "español",
+          "duracion": "estimada 20-25 min",
+          "aportacion": "Comparación de anticoagulantes: heparina y warfarina, ventajas y desventajas"
+        },
+        {
+          "titulo": "Nuevos anticoagulantes: consideraciones en el perioperatorio",
+          "url": "https://www.youtube.com/watch?v=PIwvyjE59fs",
+          "idioma": "español",
+          "duracion": "estimada 30-40 min",
+          "aportacion": "Mecanismo de acción de dabigatrán, rivaroxabán, apixabán, edoxabán vs tradicionales"
+        },
+        {
+          "titulo": "Antiplatelets, Anticoagulants, and Thrombolytics | Clinical Medicine",
+          "url": "https://www.youtube.com/watch?v=8E5VwvN0MCU",
+          "idioma": "inglés",
+          "duracion": "estimada 50-60 min",
+          "aportacion": "Antiagregantes (aspirina, clopidogrel), anticoagulantes (heparina, warfarina, DOAC), fibrinolíticos"
+        },
+        {
+          "titulo": "Anticoagulants & Antiplatelets - Pharmacology",
+          "url": "https://www.youtube.com/watch?v=Kz2zGiO6vLE",
+          "idioma": "inglés",
+          "duracion": "estimada 20-25 min",
+          "aportacion": "Inhibidores del Factor Xa, inhibidores de agregación plaquetaria, inhibidores de trombina"
+        },
+        {
+          "titulo": "Antiplatelets vs Anticoagulants Explained",
+          "url": "https://www.youtube.com/watch?v=CirRjXQWz6Y",
+          "idioma": "inglés",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Diferencias entre antiagregantes y anticoagulantes: cuándo usar cada uno"
+        },
+        {
+          "titulo": "Anticoagulants (heparin & warfarin) - Pharmacology",
+          "url": "https://www.youtube.com/watch?v=HTCQiXZBdCU",
+          "idioma": "inglés",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Farmacología de anticoagulantes clave: heparina y warfarina"
+        }
+      ]
     },
     {
       "nombre": "Medicina transfusional",
@@ -436,7 +1103,58 @@
           "numero_de_pagina": 123
         }
       ],
-      "total_paginas": 8
+      "total_paginas": 8,
+      "videos": [
+        {
+          "titulo": "Sistema ABO, Rh, y otros sistemas de grupo sanguíneo - Dra. Virginia Callao",
+          "url": "https://www.youtube.com/watch?v=n9lg6IQ4aGg",
+          "idioma": "español",
+          "duracion": "estimada 40-60 min",
+          "aportacion": "Sistema ABO, Rh y otros sistemas de grupos sanguíneos por especialista"
+        },
+        {
+          "titulo": "Blood Compatibility - Transfusions [Physiology] Rh and ABO",
+          "url": "https://www.youtube.com/watch?v=kJhOPcqNSYc",
+          "idioma": "español",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Compatibilidad sanguínea en transfusiones: sistema Rh y ABO, tipos de sangre"
+        },
+        {
+          "titulo": "Grupos Sanguineos (Tipos de sangre): Sistema ABO y sistema Rh",
+          "url": "https://www.youtube.com/watch?v=uwZayOvRn7w",
+          "idioma": "español",
+          "duracion": "estimada 20-25 min",
+          "aportacion": "Grupos sanguíneos completos: sistema ABO y sistema Rh explicados"
+        },
+        {
+          "titulo": "Grupos Sanguíneos: Sistema ABO y Factor Rh | Todo lo que debes saber",
+          "url": "https://www.youtube.com/watch?v=BNRtx3_HpUQ",
+          "idioma": "español",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Sistema ABO descubierto por Landsteiner (Premio Nobel), revolución en medicina transfusional"
+        },
+        {
+          "titulo": "Blood Types Explained | Blood Groups (ABO) and Rh Factor Nursing",
+          "url": "https://www.youtube.com/watch?v=0aQ21iwx9cA",
+          "idioma": "inglés",
+          "duracion": "estimada 20-25 min",
+          "aportacion": "Compatibilidad del donante para prevenir reacciones transfusionales"
+        },
+        {
+          "titulo": "Blood Transfusions (ABO & Rh Compatibility)",
+          "url": "https://www.youtube.com/watch?v=rR49TbhHT04",
+          "idioma": "inglés",
+          "duracion": "estimada 15-20 min",
+          "aportacion": "Fundamentos de compatibilidad ABO y Rh: por qué solo ciertos grupos son compatibles"
+        },
+        {
+          "titulo": "Hematology | Blood Typing",
+          "url": "https://www.youtube.com/watch?v=9DnlP6AgQdQ",
+          "idioma": "inglés",
+          "duracion": "estimada 20-25 min",
+          "aportacion": "Sistemas ABO y Rh, determinación de tipos sanguíneos, importancia en medicina transfusional"
+        }
+      ]
     }
   ]
 }

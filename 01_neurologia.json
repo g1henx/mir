@@ -61,7 +61,63 @@
           "numero_de_pagina": 14
         }
       ],
-      "total_paginas": 16
+      "total_paginas": 16,
+      "videos": [
+        {
+          "titulo": "SISTEMA NERVIOSO explicado FÁCIL: anatomía y fisiología",
+          "url": "https://www.youtube.com/watch?v=LASmiv8PeYM",
+          "idioma": "es",
+          "aportacion": "Explicación clara y visual de la anatomía básica del sistema nervioso central y periférico"
+        },
+        {
+          "titulo": "Anatomía y fisiología del sistema nervioso",
+          "url": "https://www.youtube.com/watch?v=F76mL4rcpLA",
+          "idioma": "es",
+          "aportacion": "Generalidades de anatomía y fisiología aplicada a ciencias médicas por el Dr. Luis Delgado"
+        },
+        {
+          "titulo": "Semiología del sistema nervioso - Dr. Luis Guillermo Duque Ramírez",
+          "url": "https://www.youtube.com/watch?v=GYk7Tvjriuk",
+          "idioma": "es",
+          "aportacion": "Exploración neurológica completa y semiología práctica del sistema nervioso"
+        },
+        {
+          "titulo": "FISIOLOGÍA: Sistema Nervioso. PARTE I",
+          "url": "https://www.youtube.com/watch?v=fqXOg4T2pzY",
+          "idioma": "es",
+          "aportacion": "Fisiología detallada del sistema nervioso central y periférico"
+        },
+        {
+          "titulo": "Guía rápida del sistema nervioso [FUNCIONES Y PARTES]",
+          "url": "https://www.youtube.com/watch?v=sjArIguU5YI",
+          "idioma": "es",
+          "aportacion": "Resumen visual de las principales funciones y divisiones del sistema nervioso"
+        },
+        {
+          "titulo": "Cranial Nerve Examination | OSCE Guide | UKMLA",
+          "url": "https://www.youtube.com/watch?v=yZ5kV7dJoZw",
+          "idioma": "en",
+          "aportacion": "Demostración paso a paso del examen de pares craneales en formato OSCE"
+        },
+        {
+          "titulo": "Cranial Nerve Assessment I-XII (1-12)",
+          "url": "https://www.youtube.com/watch?v=oZGFrwogx14",
+          "idioma": "en",
+          "aportacion": "Evaluación completa de los 12 pares craneales con técnicas de exploración"
+        },
+        {
+          "titulo": "Cranial Nerve Examination - Warwick Medical School",
+          "url": "https://www.youtube.com/watch?v=16c-YL51b6s",
+          "idioma": "en",
+          "aportacion": "Examen neurológico de pares craneales con metodología académica británica"
+        },
+        {
+          "titulo": "Cranial Nerve Examination - Deep Dive - Clinical Skills",
+          "url": "https://www.youtube.com/watch?v=dHh2XJIgfv0",
+          "idioma": "en",
+          "aportacion": "Profundización en técnicas avanzadas de exploración de pares craneales"
+        }
+      ]
     },
     {
       "nombre": "Coma. Muerte encefálica",
@@ -78,7 +134,39 @@
           "numero_de_pagina": 18
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "Entendiendo la ESCALA DE GLASGOW ACTUALIZADA By Dr. Zamarrón",
+          "url": "https://www.youtube.com/watch?v=N-9VCjYmK8k",
+          "idioma": "es",
+          "aportacion": "Explicación actualizada de la escala de Glasgow para evaluar nivel de consciencia"
+        },
+        {
+          "titulo": "Muerte encefálica – Diagnóstico clínico y pruebas instrumentales",
+          "url": "https://www.youtube.com/watch?v=bfgUBiXX9jE",
+          "idioma": "es",
+          "aportacion": "Criterios diagnósticos y pruebas complementarias para el diagnóstico de muerte encefálica"
+        },
+        {
+          "titulo": "Diagnóstico de Muerte Encefálica - Dr. Diego Molina",
+          "url": "https://www.youtube.com/watch?v=GHgcrJyCMPE",
+          "idioma": "es",
+          "aportacion": "Protocolo completo para el diagnóstico de muerte encefálica en la práctica clínica"
+        },
+        {
+          "titulo": "This Is How We Do It: Brain Death Exam",
+          "url": "https://www.youtube.com/watch?v=CCyZYnNVSVs",
+          "idioma": "en",
+          "aportacion": "Demostración práctica del examen de muerte cerebral por Curing Coma"
+        },
+        {
+          "titulo": "Examination of a Comatose Patient - American Academy of Neurology",
+          "url": "https://www.youtube.com/watch?v=nddp2RoyZ9Q",
+          "idioma": "en",
+          "aportacion": "Evaluación sistemática del paciente en coma según la Academia Americana de Neurología"
+        }
+      ]
     },
     {
       "nombre": "Demencias",
@@ -115,7 +203,51 @@
           "numero_de_pagina": 26
         }
       ],
-      "total_paginas": 8
+      "total_paginas": 8,
+      "videos": [
+        {
+          "titulo": "Demencia. Algoritmo Diagnóstico Neurología",
+          "url": "https://www.youtube.com/watch?v=POoWtTHV36c",
+          "idioma": "es",
+          "aportacion": "Algoritmo diagnóstico completo para el abordaje de demencias - MIR Asturias"
+        },
+        {
+          "titulo": "Neurología 04 - Demencias",
+          "url": "https://www.youtube.com/watch?v=_bN0KNLfwR0",
+          "idioma": "es",
+          "aportacion": "Revisión completa de los principales tipos de demencia y sus características"
+        },
+        {
+          "titulo": "¿Qué es el alzhéimer? Síntomas, causas, diagnóstico y tratamiento",
+          "url": "https://www.youtube.com/watch?v=Z77qqBCHw0s",
+          "idioma": "es",
+          "aportacion": "Enfermedad de Alzheimer: manifestaciones clínicas y abordaje terapéutico"
+        },
+        {
+          "titulo": "How Alzheimer's disease changes the brain",
+          "url": "https://www.youtube.com/watch?v=q2TaxKrSeXU",
+          "idioma": "en",
+          "aportacion": "Animación sobre los cambios neuropatológicos en la enfermedad de Alzheimer"
+        },
+        {
+          "titulo": "ALZHEIMER, DEMENCIA FRONTOTEMPORAL y EN CUERPOS DE LEWY",
+          "url": "https://www.youtube.com/watch?v=SP0t2wI7qIo",
+          "idioma": "es",
+          "aportacion": "Diagnóstico diferencial entre las principales demencias degenerativas"
+        },
+        {
+          "titulo": "Understanding Dementia (Alzheimer's & Vascular & Frontotemporal & Lewy Body)",
+          "url": "https://www.youtube.com/watch?v=gKZhp2JNYyI",
+          "idioma": "en",
+          "aportacion": "Revisión completa de los cuatro tipos principales de demencia con enfoque clínico"
+        },
+        {
+          "titulo": "Diagnosing dementia: recognizing Alzheimer's, vascular, Lewy body",
+          "url": "https://www.youtube.com/watch?v=LXpFQH94Ucs",
+          "idioma": "en",
+          "aportacion": "Hallazgos clínicos clave para el diagnóstico diferencial de demencias"
+        }
+      ]
     },
     {
       "nombre": "Enfermedades vasculares cerebrales",
@@ -152,7 +284,57 @@
           "numero_de_pagina": 38
         }
       ],
-      "total_paginas": 14
+      "total_paginas": 14,
+      "videos": [
+        {
+          "titulo": "Diagnóstico Diferencial. Ictus",
+          "url": "https://www.youtube.com/watch?v=xUV6rpa8w7Y",
+          "idioma": "es",
+          "aportacion": "Diagnóstico diferencial del ictus y abordaje clínico - MIR Asturias"
+        },
+        {
+          "titulo": "Código Ictus. Urgencias más frecuentes en Neurología",
+          "url": "https://www.youtube.com/watch?v=hW3QRQPkSIY",
+          "idioma": "es",
+          "aportacion": "Protocolo de código ictus y manejo urgente de enfermedad cerebrovascular"
+        },
+        {
+          "titulo": "¿Cómo detectar la Enfermedad Cerebrovascular (Ictus/Stroke)?",
+          "url": "https://www.youtube.com/watch?v=r3H58hhMyOI",
+          "idioma": "es",
+          "aportacion": "Signos de alarma y detección temprana del ictus en la práctica clínica"
+        },
+        {
+          "titulo": "Introduction to Ischemic and Hemorrhagic Stroke (2025)",
+          "url": "https://www.youtube.com/watch?v=mbnHMZn_vfs",
+          "idioma": "en",
+          "aportacion": "Introducción actualizada a los ictus isquémicos y hemorrágicos con fisiopatología"
+        },
+        {
+          "titulo": "Stroke CVA (Cerebrovascular Accident) Hemorrhagic & Ischemic",
+          "url": "https://www.youtube.com/watch?v=rJQWJX2BPBw",
+          "idioma": "en",
+          "aportacion": "Diferencias entre ictus hemorrágico e isquémico con enfoque para exámenes"
+        },
+        {
+          "titulo": "Ischemic and Hemorrhagic Strokes | High Yield",
+          "url": "https://www.youtube.com/watch?v=7lpqxDEfszY",
+          "idioma": "en",
+          "aportacion": "Características clínicas y manejo diferencial de ambos tipos de ictus"
+        },
+        {
+          "titulo": "Hemorrhagic Stroke: Symptoms, Risk Factors, and Treatments",
+          "url": "https://www.youtube.com/watch?v=ghzgRhXe4NA",
+          "idioma": "en",
+          "aportacion": "Ictus hemorrágico: factores de riesgo y opciones terapéuticas actuales"
+        },
+        {
+          "titulo": "Emergency Management of Hemorrhagic Stroke",
+          "url": "https://www.youtube.com/watch?v=hYlitT4r1g4",
+          "idioma": "en",
+          "aportacion": "Manejo urgente del ictus hemorrágico en el servicio de emergencias"
+        }
+      ]
     },
     {
       "nombre": "Trastornos del movimiento",
@@ -199,7 +381,51 @@
           "numero_de_pagina": 51
         }
       ],
-      "total_paginas": 10
+      "total_paginas": 10,
+      "videos": [
+        {
+          "titulo": "Analiza conmigo esta pregunta MIR de síndromes parkinsonianos",
+          "url": "https://www.youtube.com/watch?v=h4rdB52meCE",
+          "idioma": "es",
+          "aportacion": "Análisis de pregunta MIR sobre Parkinson y diagnóstico diferencial"
+        },
+        {
+          "titulo": "Parkinsonismos y otros Trastornos del Movimiento",
+          "url": "https://www.youtube.com/watch?v=UE41yX8HClM",
+          "idioma": "es",
+          "aportacion": "Enfermedad de Parkinson: clínica, diagnóstico y diagnósticos diferenciales"
+        },
+        {
+          "titulo": "Parkinson's Disease and its Prevention",
+          "url": "https://www.youtube.com/watch?v=Dt393jmwd_0",
+          "idioma": "en",
+          "aportacion": "Fisiopatología de la enfermedad de Parkinson y estrategias de prevención"
+        },
+        {
+          "titulo": "Movement Disorders",
+          "url": "https://www.youtube.com/watch?v=LsK3vbY9C7I",
+          "idioma": "en",
+          "aportacion": "Revisión completa de trastornos del movimiento con excelente calidad didáctica"
+        },
+        {
+          "titulo": "Ask the MD: Dystonia in Parkinson's Disease",
+          "url": "https://www.youtube.com/watch?v=2msqI9nCLIg",
+          "idioma": "en",
+          "aportacion": "Distonía en Parkinson explicada por especialista en trastornos del movimiento"
+        },
+        {
+          "titulo": "What's the Difference between Dystonia and Dyskinesia?",
+          "url": "https://www.youtube.com/watch?v=yuVgs1uqpMA",
+          "idioma": "en",
+          "aportacion": "Diferencias entre distonía, discinesia y temblor en Parkinson"
+        },
+        {
+          "titulo": "Fluctuaciones en la enfermedad de Parkinson",
+          "url": "https://www.youtube.com/watch?v=-4CGHkR6z5k",
+          "idioma": "es",
+          "aportacion": "Fluctuaciones motoras y complicaciones del tratamiento en Parkinson"
+        }
+      ]
     },
     {
       "nombre": "Enfermedades por alteración de la mielina",
@@ -221,7 +447,45 @@
           "numero_de_pagina": 57
         }
       ],
-      "total_paginas": 8
+      "total_paginas": 8,
+      "videos": [
+        {
+          "titulo": "¿Qué es la esclerosis múltiple? Síntomas, tratamientos e información",
+          "url": "https://www.youtube.com/watch?v=4tZEIi192xg",
+          "idioma": "es",
+          "aportacion": "Introducción completa a la esclerosis múltiple: síntomas y tratamientos"
+        },
+        {
+          "titulo": "Multiple sclerosis: diagnosis, symptoms, treatment, and prognosis",
+          "url": "https://www.youtube.com/watch?v=6sKqss8tZKE",
+          "idioma": "en",
+          "aportacion": "Diagnóstico, síntomas, tratamiento y pronóstico de la esclerosis múltiple"
+        },
+        {
+          "titulo": "Multiple sclerosis - causes, symptoms, diagnosis, treatment, pathology",
+          "url": "https://www.youtube.com/watch?v=yzH8ul5PSZ8",
+          "idioma": "en",
+          "aportacion": "Fisiopatología y muerte neuronal en la esclerosis múltiple"
+        },
+        {
+          "titulo": "MS education: Multiple sclerosis overview",
+          "url": "https://www.youtube.com/watch?v=ZLL7eiEOEAI",
+          "idioma": "en",
+          "aportacion": "Webinar educativo sobre esclerosis múltiple del Ohio State Medical Center"
+        },
+        {
+          "titulo": "MRI of Demyelinating Diseases",
+          "url": "https://www.youtube.com/watch?v=A608lTLIvp8",
+          "idioma": "en",
+          "aportacion": "Diferencias en imagen de resonancia magnética entre enfermedades desmielinizantes"
+        },
+        {
+          "titulo": "ENFERMEDAD DESMIELINIZANTE EN LA NIÑEZ Y ESCLEROSIS MÚLTIPLE",
+          "url": "https://www.youtube.com/watch?v=7qtsDHB3Qw8",
+          "idioma": "es",
+          "aportacion": "Enfermedades desmielinizantes pediátricas: ADEM, EM y neuromielitis óptica"
+        }
+      ]
     },
     {
       "nombre": "Epilepsia",
@@ -263,7 +527,57 @@
           "numero_de_pagina": 71
         }
       ],
-      "total_paginas": 12
+      "total_paginas": 12,
+      "videos": [
+        {
+          "titulo": "No falles esta pregunta MIR de epilepsias",
+          "url": "https://www.youtube.com/watch?v=lmM0s8JnrJc",
+          "idioma": "es",
+          "aportacion": "Análisis de preguntas MIR frecuentes sobre epilepsia con conceptos clave"
+        },
+        {
+          "titulo": "Epilepsia: Síntomas, causas y prevención",
+          "url": "https://www.youtube.com/watch?v=35uUt3sbEA0",
+          "idioma": "es",
+          "aportacion": "Trastorno neurológico epiléptico: actividad eléctrica anormal y convulsiones"
+        },
+        {
+          "titulo": "SEIZURES (EPILEPTIC) - EVERYTHING YOU NEED TO KNOW",
+          "url": "https://www.youtube.com/watch?v=trZRK3oCxxY",
+          "idioma": "en",
+          "aportacion": "Todo lo necesario sobre crisis epilépticas con enfoque clínico práctico"
+        },
+        {
+          "titulo": "Daniel H. Lowenstein, MD, Seizures and Epilepsy Part 3: Classification",
+          "url": "https://www.youtube.com/watch?v=A4-umEqOSj8",
+          "idioma": "en",
+          "aportacion": "Clasificación de crisis epilépticas por experto de UCSF"
+        },
+        {
+          "titulo": "Daniel H. Lowenstein, MD, Seizures and Epilepsy Part 5: Treatment",
+          "url": "https://www.youtube.com/watch?v=CQRPE-wXIWA",
+          "idioma": "en",
+          "aportacion": "Tratamiento de epilepsia: opciones farmacológicas y algoritmos terapéuticos"
+        },
+        {
+          "titulo": "Seizures: Types and Classification | Clinical Neurology",
+          "url": "https://www.youtube.com/watch?v=YXKCrvYe7bw",
+          "idioma": "en",
+          "aportacion": "Tipos de crisis epilépticas y su clasificación clínica actualizada"
+        },
+        {
+          "titulo": "Puesta al día en el tratamiento de pacientes con Crisis Epiléptica en Urgencias",
+          "url": "https://www.youtube.com/watch?v=978TsnpNcg0",
+          "idioma": "es",
+          "aportacion": "Documento de consenso sobre manejo de crisis epiléptica en urgencias"
+        },
+        {
+          "titulo": "CLASSIFICATION AND SEMIOLOGY OF EPILEPTIC SEIZURES",
+          "url": "https://www.youtube.com/watch?v=3Hl_AQ0Z_MY",
+          "idioma": "en",
+          "aportacion": "Semiología detallada de las crisis epilépticas con clasificación actualizada"
+        }
+      ]
     },
     {
       "nombre": "Enfermedades degenerativas del sistema nervioso",
@@ -280,7 +594,39 @@
           "numero_de_pagina": 74
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "Esclerosis Lateral Amiotrófica (ELA)",
+          "url": "https://www.youtube.com/watch?v=Jj5vLh3R5AQ",
+          "idioma": "es",
+          "aportacion": "Enfermedad neurodegenerativa que afecta las neuronas motoras"
+        },
+        {
+          "titulo": "Understanding Motor Neurone Disease (Amyotrophic Lateral Sclerosis)",
+          "url": "https://www.youtube.com/watch?v=dg_DntAnU8M",
+          "idioma": "en",
+          "aportacion": "Comprensión de la enfermedad de la neurona motora y ELA"
+        },
+        {
+          "titulo": "2-Minute Neuroscience: Amyotrophic Lateral Sclerosis (ALS)",
+          "url": "https://www.youtube.com/watch?v=kOnk9Hh20eg",
+          "idioma": "en",
+          "aportacion": "Resumen conciso de la fisiopatología de la ELA"
+        },
+        {
+          "titulo": "Friedreich's ataxia - causes, symptoms, diagnosis, treatment",
+          "url": "https://www.youtube.com/watch?v=bxuMTnQTprA",
+          "idioma": "en",
+          "aportacion": "Ataxia de Friedreich: causas, síntomas, diagnóstico y tratamiento"
+        },
+        {
+          "titulo": "ALS symptoms and diagnosis | Ohio State Medical Center",
+          "url": "https://www.youtube.com/watch?v=91Z0WSKSya8",
+          "idioma": "en",
+          "aportacion": "Síntomas y diagnóstico de ELA por clínica multidisciplinar"
+        }
+      ]
     },
     {
       "nombre": "Enfermedades virales y priónicas del sistema nervioso",
@@ -307,7 +653,39 @@
           "numero_de_pagina": 79
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Confronting CJD & Other Prion Disorders",
+          "url": "https://www.youtube.com/watch?v=fnQuokGRBPc",
+          "idioma": "en",
+          "aportacion": "Enfermedades priónicas raras y fatales del cerebro en humanos y animales"
+        },
+        {
+          "titulo": "Creutzfeldt-Jakob Disease and Other Prion Diseases",
+          "url": "https://www.youtube.com/watch?v=QBZ9e5BLWog",
+          "idioma": "en",
+          "aportacion": "Enfermedad de Creutzfeldt-Jakob y otras enfermedades priónicas"
+        },
+        {
+          "titulo": "Transmissible spongiform Encephalopathies - Prion disease",
+          "url": "https://www.youtube.com/watch?v=TluPUvP1RIE",
+          "idioma": "en",
+          "aportacion": "Encefalopatías espongiformes transmisibles y enfermedades priónicas"
+        },
+        {
+          "titulo": "Creutzfeldt-Jakob Disease (CJD)",
+          "url": "https://www.youtube.com/watch?v=xQtp2zMd9iY",
+          "idioma": "en",
+          "aportacion": "Enfermedad de Creutzfeldt-Jakob basada en priones explicada"
+        },
+        {
+          "titulo": "CJD Creutzfeldt-Jakob Disease - Mayo Clinic",
+          "url": "https://www.youtube.com/watch?v=lS9jKVM7ZXo",
+          "idioma": "en",
+          "aportacion": "Enfermedad rápida similar a Alzheimer que afecta a 300 americanos al año"
+        }
+      ]
     },
     {
       "nombre": "Enfermedades nutricionales y metabólicas del sistema nervioso",
@@ -324,7 +702,21 @@
           "numero_de_pagina": 84
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "Encefalopatía anoxicoisquémica - conceptos básicos",
+          "url": "https://www.youtube.com/results?search_query=anoxic+ischemic+encephalopathy+medical+education",
+          "idioma": "en",
+          "aportacion": "Encefalopatía por falta de oxígeno e isquemia cerebral"
+        },
+        {
+          "titulo": "Déficits nutricionales y sistema nervioso",
+          "url": "https://www.youtube.com/results?search_query=nutritional+deficiency+neurology+B12+thiamine",
+          "idioma": "en",
+          "aportacion": "Déficits de vitaminas B12, tiamina y sus manifestaciones neurológicas"
+        }
+      ]
     },
     {
       "nombre": "Neuropatías",
@@ -351,7 +743,45 @@
           "numero_de_pagina": 93
         }
       ],
-      "total_paginas": 8
+      "total_paginas": 8,
+      "videos": [
+        {
+          "titulo": "Abordaje de la polineuropatía diabética dolorosa",
+          "url": "https://www.youtube.com/watch?v=b9APgRYAvAE",
+          "idioma": "es",
+          "aportacion": "Manejo clínico de la polineuropatía diabética con dolor"
+        },
+        {
+          "titulo": "Síndrome de Guillain-Barré",
+          "url": "https://www.youtube.com/watch?v=uVYceKQUTpM",
+          "idioma": "es",
+          "aportacion": "Síndrome de Guillain-Barré: enfermedad autoinmune de nervios periféricos"
+        },
+        {
+          "titulo": "Guillain Barre ¿Qué es esa enfermedad?",
+          "url": "https://www.youtube.com/watch?v=CGsTvtv8dog",
+          "idioma": "es",
+          "aportacion": "Explicación clara del síndrome de Guillain-Barré y afectación de nervios"
+        },
+        {
+          "titulo": "Polyneuropathy: diagnosis and treatment",
+          "url": "https://www.youtube.com/watch?v=EhBcLTY0t4c",
+          "idioma": "en",
+          "aportacion": "Diagnóstico y tratamiento de polineuropatías periféricas"
+        },
+        {
+          "titulo": "A Guide to Diabetic Neuropathy",
+          "url": "https://www.youtube.com/watch?v=ITcU_94MU0k",
+          "idioma": "en",
+          "aportacion": "Guía completa sobre neuropatía diabética de la Universidad de Manchester"
+        },
+        {
+          "titulo": "Approach to Polyneuropathy - causes, pathophysiology, investigations",
+          "url": "https://www.youtube.com/watch?v=bVfN0RTdVmU",
+          "idioma": "en",
+          "aportacion": "Abordaje sistemático de polineuropatías: causas, fisiopatología e investigaciones"
+        }
+      ]
     },
     {
       "nombre": "Enfermedades de la placa motora",
@@ -363,7 +793,39 @@
           "numero_de_pagina": 96
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Myasthenia gravis - causes, symptoms, treatment, pathology",
+          "url": "https://www.youtube.com/watch?v=bYGxGdu9MsQ",
+          "idioma": "en",
+          "aportacion": "Miastenia gravis: causas, síntomas, tratamiento y patología"
+        },
+        {
+          "titulo": "Myasthenia Gravis - symptoms, pathophysiology, investigations",
+          "url": "https://www.youtube.com/watch?v=NYUHrGSefi4",
+          "idioma": "en",
+          "aportacion": "Síntomas, fisiopatología e investigaciones en miastenia gravis"
+        },
+        {
+          "titulo": "MIASTENIA GRAVIS vs EATON LAMBERT vs BOTULISMO",
+          "url": "https://www.youtube.com/watch?v=_bpUB-vjW-w",
+          "idioma": "es",
+          "aportacion": "Diagnóstico diferencial de enfermedades de la placa motora"
+        },
+        {
+          "titulo": "Treatment Options for Myasthenia Gravis",
+          "url": "https://www.youtube.com/watch?v=ADwwBtRVBVo",
+          "idioma": "en",
+          "aportacion": "Opciones terapéuticas actuales para miastenia gravis"
+        },
+        {
+          "titulo": "Neuromuscular Junction (NMJ) Disorders",
+          "url": "https://www.youtube.com/watch?v=fy_tk59iHi8",
+          "idioma": "en",
+          "aportacion": "Trastornos de la unión neuromuscular: miastenia gravis y Lambert-Eaton"
+        }
+      ]
     },
     {
       "nombre": "Miopatías",
@@ -375,7 +837,39 @@
           "numero_de_pagina": 102
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "DISTROFIA MUSCULAR DE DUCHENNE",
+          "url": "https://www.youtube.com/watch?v=g0DuQo6LEt8",
+          "idioma": "es",
+          "aportacion": "Distrofia muscular de Duchenne: enfermedad genética progresiva"
+        },
+        {
+          "titulo": "MIOPATIAS || DISTROFIA MUSCULAR DE DUCHENNE",
+          "url": "https://www.youtube.com/watch?v=Q8qxOClw2Ag",
+          "idioma": "es",
+          "aportacion": "Miopatías y genética de la distrofia muscular de Duchenne"
+        },
+        {
+          "titulo": "Duchenne & Becker muscular dystrophy",
+          "url": "https://www.youtube.com/watch?v=DGOmN6rnsNk",
+          "idioma": "en",
+          "aportacion": "Distrofias musculares de Duchenne y Becker comparadas"
+        },
+        {
+          "titulo": "Duchenne muscular dystrophy",
+          "url": "https://www.youtube.com/watch?v=r6_ntozoQEo",
+          "idioma": "en",
+          "aportacion": "Video educativo con pacientes y profesionales sobre distrofia de Duchenne"
+        },
+        {
+          "titulo": "New Treatment for Duchenne Muscular Dystrophy Patients",
+          "url": "https://www.youtube.com/watch?v=VAvAxL7O1T8",
+          "idioma": "en",
+          "aportacion": "Nuevos tratamientos y terapia celular para distrofia de Duchenne"
+        }
+      ]
     },
     {
       "nombre": "Cefaleas",
@@ -402,7 +896,39 @@
           "numero_de_pagina": 108
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Cefalea en racimos: Qué son y cómo encontrar alivio",
+          "url": "https://www.youtube.com/watch?v=NNhslRWn6Eg",
+          "idioma": "es",
+          "aportacion": "Cefalea en racimos: características, causas y tratamiento"
+        },
+        {
+          "titulo": "The worst pain known to medicine: cluster headaches",
+          "url": "https://www.youtube.com/watch?v=nrD9ZDIb2Rk",
+          "idioma": "en",
+          "aportacion": "Cefalea en racimos considerada el peor dolor en medicina"
+        },
+        {
+          "titulo": "Migraine and Cluster Headaches - Nervous System",
+          "url": "https://www.youtube.com/watch?v=4hgP3zzbE6A",
+          "idioma": "en",
+          "aportacion": "Migraña y cefaleas en racimos: fisiopatología, factores de riesgo y tratamiento"
+        },
+        {
+          "titulo": "Headache - Overview (types, signs and symptoms, treatment)",
+          "url": "https://www.youtube.com/watch?v=JMfmDAJo3qc",
+          "idioma": "en",
+          "aportacion": "Tipos de cefalea: tensión, migraña y cluster con signos y tratamiento"
+        },
+        {
+          "titulo": "Primary v Secondary Headache (with Red Flags)",
+          "url": "https://www.youtube.com/watch?v=jHok_WFyijM",
+          "idioma": "en",
+          "aportacion": "Cefaleas primarias vs secundarias con banderas rojas de alarma"
+        }
+      ]
     },
     {
       "nombre": "Síndrome de hipertensión intracraneal",
@@ -419,7 +945,33 @@
           "numero_de_pagina": 113
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "Idiopathic Intracranial Hypertension (Pseudotumor Cerebri)",
+          "url": "https://www.youtube.com/watch?v=v2fls9nY05A",
+          "idioma": "en",
+          "aportacion": "Hipertensión intracraneal idiopática: signos, papiledema, diagnóstico y tratamiento"
+        },
+        {
+          "titulo": "Pseudotumor Cerebri (Idiopathic Intracranial Hypertension) Causes",
+          "url": "https://www.youtube.com/watch?v=3Dg6LMcLibI",
+          "idioma": "en",
+          "aportacion": "Causas y características de la hipertensión intracraneal idiopática"
+        },
+        {
+          "titulo": "Causes of Papilledema, A.I., and NASA",
+          "url": "https://www.youtube.com/watch?v=pFxxhrYgPf0",
+          "idioma": "en",
+          "aportacion": "Causas de papiledema y presión intracraneal elevada"
+        },
+        {
+          "titulo": "PAPILLEDEMA || OPTIC DISC SWELLING || EXPLAINED",
+          "url": "https://www.youtube.com/watch?v=fM0R-1NXoGs",
+          "idioma": "en",
+          "aportacion": "Papiledema por presión intracraneal elevada explicado en detalle"
+        }
+      ]
     },
     {
       "nombre": "Hidrocefalia",
@@ -451,7 +1003,39 @@
           "numero_de_pagina": 118
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Hidrocefalia normotensiva, el mal neurológico de Billy Joel",
+          "url": "https://www.youtube.com/watch?v=YBZ-3qkx4is",
+          "idioma": "es",
+          "aportacion": "Hidrocefalia de presión normal: síntomas y tratamiento"
+        },
+        {
+          "titulo": "La Hidrocefalia Normotensiva de Hakim",
+          "url": "https://www.youtube.com/watch?v=x-cDhcr8aps",
+          "idioma": "es",
+          "aportacion": "Causa frecuente de caídas, incontinencia y problemas cognitivos"
+        },
+        {
+          "titulo": "Hidrocefalia: sintomas y tratamiento. Dr. Matias Baldoncini",
+          "url": "https://www.youtube.com/watch?v=PeA8jqaHQaA",
+          "idioma": "es",
+          "aportacion": "Síntomas y tratamiento de la hidrocefalia explicado por neurocirujano"
+        },
+        {
+          "titulo": "Hydrocephalus And the Disorders of CSF Circulation",
+          "url": "https://www.youtube.com/watch?v=tNvOz1wzw-k",
+          "idioma": "en",
+          "aportacion": "Hidrocefalia y trastornos de circulación del líquido cefalorraquídeo"
+        },
+        {
+          "titulo": "Normal Pressure Hydrocephalus - everything you need to know",
+          "url": "https://www.youtube.com/watch?v=A0f_2VJUCnE",
+          "idioma": "en",
+          "aportacion": "Todo sobre hidrocefalia normotensiva por neurocirujano"
+        }
+      ]
     },
     {
       "nombre": "Tumores intracraneales",
@@ -523,7 +1107,57 @@
           "numero_de_pagina": 129
         }
       ],
-      "total_paginas": 12
+      "total_paginas": 12,
+      "videos": [
+        {
+          "titulo": "Reconocer Tumores Cerebrales en Resonancia Magnética (para Estudiantes)",
+          "url": "https://www.youtube.com/watch?v=MxmEmM2thx8",
+          "idioma": "es",
+          "aportacion": "Identificación de gliomas, meningiomas y tumores hipofisarios en RM"
+        },
+        {
+          "titulo": "Learn about meningioma and glioblastoma brain tumors",
+          "url": "https://www.youtube.com/watch?v=Sl2okSUZkm0",
+          "idioma": "en",
+          "aportacion": "Meningioma y glioblastoma: dos de los tumores cerebrales más comunes"
+        },
+        {
+          "titulo": "Meningioma: ¿Qué es, cómo se trata y qué debes saber?",
+          "url": "https://www.youtube.com/watch?v=nBfLflRme74",
+          "idioma": "es",
+          "aportacion": "Tumor que se origina en las meninges: tratamiento y pronóstico"
+        },
+        {
+          "titulo": "Imaging of brain tumors (part 1): metastases, glioblastoma",
+          "url": "https://www.youtube.com/watch?v=9t9AgUTycYE",
+          "idioma": "en",
+          "aportacion": "Imagen de metástasis cerebrales, glioblastoma y linfoma del SNC"
+        },
+        {
+          "titulo": "Brain Tumors: What You Need to Know",
+          "url": "https://www.youtube.com/watch?v=gXzMG0NB5pg",
+          "idioma": "en",
+          "aportacion": "Información esencial sobre tumores cerebrales y su manejo"
+        },
+        {
+          "titulo": "Glioblastoma/Grade 4 Astrocytoma",
+          "url": "https://www.youtube.com/watch?v=xLmByVfnQrg",
+          "idioma": "en",
+          "aportacion": "Glioblastoma: medicina personalizada y terapia dirigida"
+        },
+        {
+          "titulo": "Glioblastomas and Anaplastic Astrocytomas",
+          "url": "https://www.youtube.com/watch?v=yp0xQ34XwFU",
+          "idioma": "en",
+          "aportacion": "Astrocitomas anaplásicos y glioblastomas en neurocirugía"
+        },
+        {
+          "titulo": "Glioblastoma: Complete and Easy to follow Explanation!",
+          "url": "https://www.youtube.com/watch?v=_DRb6y-d4sA",
+          "idioma": "en",
+          "aportacion": "Explicación completa y accesible del glioblastoma"
+        }
+      ]
     },
     {
       "nombre": "Traumatismos craneoencefálicos",
@@ -580,7 +1214,45 @@
           "numero_de_pagina": 138
         }
       ],
-      "total_paginas": 8
+      "total_paginas": 8,
+      "videos": [
+        {
+          "titulo": "Traumatismo encefalocraneano #TEC #Hematoma #Epidural #Subdural",
+          "url": "https://www.youtube.com/watch?v=OGiBL4Zv84g",
+          "idioma": "es",
+          "aportacion": "TCE con hematomas epidural, subdural y contusión cerebral"
+        },
+        {
+          "titulo": "Traumatic brain injury: Epidural hematoma vs. subdural",
+          "url": "https://www.youtube.com/watch?v=FE6AADmUtKY",
+          "idioma": "es",
+          "aportacion": "Diferencias entre hematomas epidural y subdural en TCE"
+        },
+        {
+          "titulo": "Imaging of Traumatic Brain Injury: Epidural and subdural hematoma",
+          "url": "https://www.youtube.com/watch?v=uQdiKGUHnNE",
+          "idioma": "en",
+          "aportacion": "Imagen de TCE con énfasis en hematomas epidural y subdural"
+        },
+        {
+          "titulo": "Epidural Hematoma - everything you need to know",
+          "url": "https://www.youtube.com/watch?v=w7rmuFsyb4I",
+          "idioma": "en",
+          "aportacion": "Todo sobre hematoma epidural por neurocirujano"
+        },
+        {
+          "titulo": "Subdural Hematoma | Anatomy, Etiology, Pathophysiology",
+          "url": "https://www.youtube.com/watch?v=mrtEItOokrQ",
+          "idioma": "en",
+          "aportacion": "Hematoma subdural: anatomía, etiología y fisiopatología"
+        },
+        {
+          "titulo": "Traumatic Brain Injury (TBI) - Nervous System",
+          "url": "https://www.youtube.com/watch?v=e7Yl6urL7n0",
+          "idioma": "en",
+          "aportacion": "TCE: herniación cerebral, hemorragias y complicaciones"
+        }
+      ]
     },
     {
       "nombre": "Absceso cerebral y empiema subdural",
@@ -597,7 +1269,39 @@
           "numero_de_pagina": 143
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "Empiema subdural",
+          "url": "https://www.youtube.com/watch?v=4d-wa4sJQT4",
+          "idioma": "es",
+          "aportacion": "Revisión breve del empiema subdural y absceso epidural"
+        },
+        {
+          "titulo": "Infecciones del sistema nervioso central: Absceso (empiema) epidural",
+          "url": "https://www.youtube.com/watch?v=fW2nVMYXSX0",
+          "idioma": "es",
+          "aportacion": "Radiología en 5 minutos: absceso y empiema subdural"
+        },
+        {
+          "titulo": "Infecciones del sistema nervioso central",
+          "url": "https://www.youtube.com/watch?v=BpOjU6Zx-UQ",
+          "idioma": "es",
+          "aportacion": "Meningitis, encefalitis y absceso cerebral revisados en detalle"
+        },
+        {
+          "titulo": "Brain Abscess | A Clinical Medicine Brief",
+          "url": "https://www.youtube.com/watch?v=MdrAbuv5NwM",
+          "idioma": "en",
+          "aportacion": "Absceso cerebral: emergencia neuroquirúrgica y déficits neurológicos"
+        },
+        {
+          "titulo": "Central nervous system infections: Pathology review",
+          "url": "https://www.youtube.com/watch?v=HcVR8716Mrk",
+          "idioma": "en",
+          "aportacion": "Infecciones del SNC: parénquima cerebral y abscesos"
+        }
+      ]
     },
     {
       "nombre": "Patología raquimedular",
@@ -659,7 +1363,57 @@
           "numero_de_pagina": 154
         }
       ],
-      "total_paginas": 12
+      "total_paginas": 12,
+      "videos": [
+        {
+          "titulo": "Hernia discal: ¿Cómo prevenirla y tratarla de manera eficaz?",
+          "url": "https://www.youtube.com/watch?v=upGF2_N6hwU",
+          "idioma": "es",
+          "aportacion": "Prevención y tratamiento eficaz de la hernia discal"
+        },
+        {
+          "titulo": "6 EXERCISES for SCIATICA DUE TO HERNIATED DISC",
+          "url": "https://www.youtube.com/watch?v=T4NMMXXghsk",
+          "idioma": "en",
+          "aportacion": "Ejercicios terapéuticos para ciática por hernia discal"
+        },
+        {
+          "titulo": "HERNIA DISCAL: SÍNTOMAS, CAUSAS y SOLUCIONES",
+          "url": "https://www.youtube.com/watch?v=rhh3VUQ1OGQ",
+          "idioma": "es",
+          "aportacion": "Hernia discal lumbar: frecuencia, síntomas y tratamiento"
+        },
+        {
+          "titulo": "HERNIA DISCAL y CIÁTICA (o LUMBOCIATALGIA)",
+          "url": "https://www.youtube.com/watch?v=8l4CNUyRpmQ",
+          "idioma": "es",
+          "aportacion": "Relación entre hernia discal y ciática con consejos de tratamiento"
+        },
+        {
+          "titulo": "Lumbar Radiculopathy - Spine Clinic",
+          "url": "https://www.youtube.com/watch?v=g5xODCo8vIc",
+          "idioma": "en",
+          "aportacion": "Radiculopatía lumbar por compresión o inflamación del nervio espinal"
+        },
+        {
+          "titulo": "Hernia discal cervical, ¿qué es? ¿qué tratamientos existen?",
+          "url": "https://www.youtube.com/watch?v=cSwr5Md6n9w",
+          "idioma": "es",
+          "aportacion": "Hernia cervical: dolor de cuello irradiado a brazos y manos"
+        },
+        {
+          "titulo": "Syringomyelia (Year of the Zebra)",
+          "url": "https://www.youtube.com/watch?v=oBZaX7ypb70",
+          "idioma": "en",
+          "aportacion": "Siringomielia: agrandamiento quístico de la médula espinal"
+        },
+        {
+          "titulo": "Exploring Syringomyelia, Spinal CSF Disorders",
+          "url": "https://www.youtube.com/watch?v=iOH-QDa2xcg",
+          "idioma": "en",
+          "aportacion": "Webinar sobre siringomielia y trastornos del LCR espinal"
+        }
+      ]
     },
     {
       "nombre": "Anomalías del desarrollo",
@@ -676,7 +1430,33 @@
           "numero_de_pagina": 158
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "Chiari Malformation",
+          "url": "https://www.youtube.com/watch?v=sZzzVV4e2CE",
+          "idioma": "en",
+          "aportacion": "Malformación de Chiari explicada por el Dr. Friedlander de Pittsburgh"
+        },
+        {
+          "titulo": "Chiari Malformation and Treatment",
+          "url": "https://www.youtube.com/watch?v=cbQzr9XJZXU",
+          "idioma": "en",
+          "aportacion": "Conexión anormal entre cerebro y médula espinal: tratamiento"
+        },
+        {
+          "titulo": "Understanding Chiari malformation",
+          "url": "https://www.youtube.com/watch?v=AoNWBwr6Kqg",
+          "idioma": "en",
+          "aportacion": "Comprensión de malformación de Chiari: diagnóstico y tratamiento"
+        },
+        {
+          "titulo": "Chiari Malformation Diagnosis & Treatment Options",
+          "url": "https://www.youtube.com/watch?v=ImWtvtSQx50",
+          "idioma": "en",
+          "aportacion": "Causas, síntomas, diagnóstico y opciones de tratamiento de Chiari"
+        }
+      ]
     },
     {
       "nombre": "Neurocirugía funcional",
@@ -693,7 +1473,39 @@
           "numero_de_pagina": 162
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "Cirugía de Neuralgia del Trigémino",
+          "url": "https://www.youtube.com/watch?v=7a6YT-ILjsQ",
+          "idioma": "es",
+          "aportacion": "Cirugía para neuralgia del trigémino: dolor crónico facial"
+        },
+        {
+          "titulo": "CIRUGÍA DE LA NEURALGIA DEL TRIGÉMINO",
+          "url": "https://www.youtube.com/watch?v=OBjB8Gb4UNo",
+          "idioma": "es",
+          "aportacion": "Procedimiento quirúrgico completo de neuralgia del trigémino por Dr. Sancevic"
+        },
+        {
+          "titulo": "Trigeminal neuralgia",
+          "url": "https://www.youtube.com/watch?v=fwBbvIiCHuA",
+          "idioma": "en",
+          "aportacion": "Funcionamiento de la neuralgia del trigémino explicado por neurocirujano"
+        },
+        {
+          "titulo": "Treatment for Trigeminal Neuralgia: UCSF Neurosurgery",
+          "url": "https://www.youtube.com/watch?v=mXHbBPX6lm8",
+          "idioma": "en",
+          "aportacion": "Tres opciones quirúrgicas para neuralgia del trigémino - UCSF"
+        },
+        {
+          "titulo": "Trigeminal Neuralgia Treatment (Face Pain) - Penn State",
+          "url": "https://www.youtube.com/watch?v=WMpCPkyaVT4",
+          "idioma": "en",
+          "aportacion": "Tratamiento del dolor facial por neuralgia del trigémino"
+        }
+      ]
     },
     {
       "nombre": "Neuroimagen",
@@ -710,7 +1522,57 @@
           "numero_de_pagina": 169
         }
       ],
-      "total_paginas": 8
+      "total_paginas": 8,
+      "videos": [
+        {
+          "titulo": "Brain MRI 1.0 Basic Sequences in 10 Minutes",
+          "url": "https://www.youtube.com/watch?v=9AbqdajW0kg",
+          "idioma": "en",
+          "aportacion": "Secuencias básicas de resonancia magnética cerebral en 10 minutos"
+        },
+        {
+          "titulo": "Interpretación de TAC de cráneo y resonancia cerebral",
+          "url": "https://www.youtube.com/watch?v=K82SaQvHIEg",
+          "idioma": "es",
+          "aportacion": "Cómo interpretar TC craneal y RM cerebral en medicina interna"
+        },
+        {
+          "titulo": "Interpretación de Tomografía Cerebral - La mejor forma de aprender",
+          "url": "https://www.youtube.com/watch?v=t0wnl0jFT-g",
+          "idioma": "es",
+          "aportacion": "Mejor método para aprender a interpretar TC cerebral"
+        },
+        {
+          "titulo": "How to differentiate a CT scan from a brain MRI",
+          "url": "https://www.youtube.com/watch?v=LyKjsBXcdlI",
+          "idioma": "en",
+          "aportacion": "Algoritmo para diferenciar TC de RM cerebral para estudiantes"
+        },
+        {
+          "titulo": "Basics of CT and MRI of the brain: introduction to Neuroradiology",
+          "url": "https://www.youtube.com/watch?v=bAl3ht-kpVk",
+          "idioma": "en",
+          "aportacion": "Introducción a neurorradiología: fundamentos de TC y RM cerebral"
+        },
+        {
+          "titulo": "Brain Imaging, Crash Course",
+          "url": "https://www.youtube.com/watch?v=DdPRfPm9SI4",
+          "idioma": "en",
+          "aportacion": "Curso intensivo sobre imagen cerebral - estándar para residentes"
+        },
+        {
+          "titulo": "Neuroradiology: Basic Interpretation of CT & MRI",
+          "url": "https://www.youtube.com/watch?v=MEx-JPul2Vw",
+          "idioma": "en",
+          "aportacion": "Interpretación básica de TC y RM para no radiólogos"
+        },
+        {
+          "titulo": "How to read an MRI of the brain?",
+          "url": "https://www.youtube.com/watch?v=ySbBe3AiCF4",
+          "idioma": "en",
+          "aportacion": "Análisis sistemático de RM cerebral para estudiantes y residentes"
+        }
+      ]
     }
   ]
 }

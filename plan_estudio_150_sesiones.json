@@ -1,0 +1,4798 @@
+{
+  "resumen": {
+    "total_sesiones": 150,
+    "sesiones_vuelta1": 90,
+    "sesiones_vuelta2": 60,
+    "paginas_totales_por_vuelta": 2693
+  },
+  "vuelta1": {
+    "descripcion": "Estudio detallado - ritmo lento",
+    "paginas_por_sesion_media": 29.92222222222222,
+    "rango_paginas": {
+      "min": 22,
+      "max": 57
+    },
+    "sesiones": [
+      {
+        "numero_sesion_global": 1,
+        "numero_sesion_vuelta": 1,
+        "total_paginas": 28,
+        "capitulos": [
+          {
+            "manual": "Neurología",
+            "capitulo_numero": 1,
+            "capitulo_nombre": "Introducción: anatomía, semiología y fisiología del sistema nervioso",
+            "paginas": 16
+          },
+          {
+            "manual": "Neurología",
+            "capitulo_numero": 2,
+            "capitulo_nombre": "Coma. Muerte encefálica",
+            "paginas": 4
+          },
+          {
+            "manual": "Neurología",
+            "capitulo_numero": 3,
+            "capitulo_nombre": "Demencias",
+            "paginas": 8
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 2,
+        "numero_sesion_vuelta": 2,
+        "total_paginas": 24,
+        "capitulos": [
+          {
+            "manual": "Neurología",
+            "capitulo_numero": 4,
+            "capitulo_nombre": "Enfermedades vasculares cerebrales",
+            "paginas": 14
+          },
+          {
+            "manual": "Neurología",
+            "capitulo_numero": 5,
+            "capitulo_nombre": "Trastornos del movimiento",
+            "paginas": 10
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 3,
+        "numero_sesion_vuelta": 3,
+        "total_paginas": 24,
+        "capitulos": [
+          {
+            "manual": "Neurología",
+            "capitulo_numero": 6,
+            "capitulo_nombre": "Enfermedades por alteración de la mielina",
+            "paginas": 8
+          },
+          {
+            "manual": "Neurología",
+            "capitulo_numero": 7,
+            "capitulo_nombre": "Epilepsia",
+            "paginas": 12
+          },
+          {
+            "manual": "Neurología",
+            "capitulo_numero": 8,
+            "capitulo_nombre": "Enfermedades degenerativas del sistema nervioso",
+            "paginas": 4
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 4,
+        "numero_sesion_vuelta": 4,
+        "total_paginas": 24,
+        "capitulos": [
+          {
+            "manual": "Neurología",
+            "capitulo_numero": 9,
+            "capitulo_nombre": "Enfermedades virales y priónicas del sistema nervioso",
+            "paginas": 6
+          },
+          {
+            "manual": "Neurología",
+            "capitulo_numero": 10,
+            "capitulo_nombre": "Enfermedades nutricionales y metabólicas del sistema nervioso",
+            "paginas": 4
+          },
+          {
+            "manual": "Neurología",
+            "capitulo_numero": 11,
+            "capitulo_nombre": "Neuropatías",
+            "paginas": 8
+          },
+          {
+            "manual": "Neurología",
+            "capitulo_numero": 12,
+            "capitulo_nombre": "Enfermedades de la placa motora",
+            "paginas": 6
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 5,
+        "numero_sesion_vuelta": 5,
+        "total_paginas": 32,
+        "capitulos": [
+          {
+            "manual": "Neurología",
+            "capitulo_numero": 13,
+            "capitulo_nombre": "Miopatías",
+            "paginas": 4
+          },
+          {
+            "manual": "Neurología",
+            "capitulo_numero": 14,
+            "capitulo_nombre": "Cefaleas",
+            "paginas": 6
+          },
+          {
+            "manual": "Neurología",
+            "capitulo_numero": 15,
+            "capitulo_nombre": "Síndrome de hipertensión intracraneal",
+            "paginas": 4
+          },
+          {
+            "manual": "Neurología",
+            "capitulo_numero": 16,
+            "capitulo_nombre": "Hidrocefalia",
+            "paginas": 6
+          },
+          {
+            "manual": "Neurología",
+            "capitulo_numero": 17,
+            "capitulo_nombre": "Tumores intracraneales",
+            "paginas": 12
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 6,
+        "numero_sesion_vuelta": 6,
+        "total_paginas": 24,
+        "capitulos": [
+          {
+            "manual": "Neurología",
+            "capitulo_numero": 18,
+            "capitulo_nombre": "Traumatismos craneoencefálicos",
+            "paginas": 8
+          },
+          {
+            "manual": "Neurología",
+            "capitulo_numero": 19,
+            "capitulo_nombre": "Absceso cerebral y empiema subdural",
+            "paginas": 4
+          },
+          {
+            "manual": "Neurología",
+            "capitulo_numero": 20,
+            "capitulo_nombre": "Patología raquimedular",
+            "paginas": 12
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 7,
+        "numero_sesion_vuelta": 7,
+        "total_paginas": 24,
+        "capitulos": [
+          {
+            "manual": "Neurología",
+            "capitulo_numero": 21,
+            "capitulo_nombre": "Anomalías del desarrollo",
+            "paginas": 4
+          },
+          {
+            "manual": "Neurología",
+            "capitulo_numero": 22,
+            "capitulo_nombre": "Neurocirugía funcional",
+            "paginas": 4
+          },
+          {
+            "manual": "Neurología",
+            "capitulo_numero": 23,
+            "capitulo_nombre": "Neuroimagen",
+            "paginas": 8
+          },
+          {
+            "manual": "Oftalmología",
+            "capitulo_numero": 1,
+            "capitulo_nombre": "Embriología, anatomía y fisiología oculares",
+            "paginas": 8
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 8,
+        "numero_sesion_vuelta": 8,
+        "total_paginas": 24,
+        "capitulos": [
+          {
+            "manual": "Oftalmología",
+            "capitulo_numero": 2,
+            "capitulo_nombre": "Refracción",
+            "paginas": 4
+          },
+          {
+            "manual": "Oftalmología",
+            "capitulo_numero": 3,
+            "capitulo_nombre": "Párpados",
+            "paginas": 4
+          },
+          {
+            "manual": "Oftalmología",
+            "capitulo_numero": 4,
+            "capitulo_nombre": "Órbita",
+            "paginas": 6
+          },
+          {
+            "manual": "Oftalmología",
+            "capitulo_numero": 5,
+            "capitulo_nombre": "Aparato lagrimal",
+            "paginas": 4
+          },
+          {
+            "manual": "Oftalmología",
+            "capitulo_numero": 6,
+            "capitulo_nombre": "Conjuntiva",
+            "paginas": 6
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 9,
+        "numero_sesion_vuelta": 9,
+        "total_paginas": 26,
+        "capitulos": [
+          {
+            "manual": "Oftalmología",
+            "capitulo_numero": 7,
+            "capitulo_nombre": "Córnea y esclera",
+            "paginas": 6
+          },
+          {
+            "manual": "Oftalmología",
+            "capitulo_numero": 8,
+            "capitulo_nombre": "Cristalino",
+            "paginas": 6
+          },
+          {
+            "manual": "Oftalmología",
+            "capitulo_numero": 9,
+            "capitulo_nombre": "Glaucoma",
+            "paginas": 8
+          },
+          {
+            "manual": "Oftalmología",
+            "capitulo_numero": 10,
+            "capitulo_nombre": "Uveítis",
+            "paginas": 6
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 10,
+        "numero_sesion_vuelta": 10,
+        "total_paginas": 28,
+        "capitulos": [
+          {
+            "manual": "Oftalmología",
+            "capitulo_numero": 11,
+            "capitulo_nombre": "Vítreo y retina",
+            "paginas": 14
+          },
+          {
+            "manual": "Oftalmología",
+            "capitulo_numero": 12,
+            "capitulo_nombre": "Estrabismo",
+            "paginas": 6
+          },
+          {
+            "manual": "Oftalmología",
+            "capitulo_numero": 13,
+            "capitulo_nombre": "Neuroftalmología",
+            "paginas": 8
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 11,
+        "numero_sesion_vuelta": 11,
+        "total_paginas": 24,
+        "capitulos": [
+          {
+            "manual": "Oftalmología",
+            "capitulo_numero": 14,
+            "capitulo_nombre": "Traumatismos oculares",
+            "paginas": 4
+          },
+          {
+            "manual": "Oftalmología",
+            "capitulo_numero": 15,
+            "capitulo_nombre": "Fármacos en oftalmología",
+            "paginas": 4
+          },
+          {
+            "manual": "Oftalmología",
+            "capitulo_numero": 16,
+            "capitulo_nombre": "Oftalmología pediátrica",
+            "paginas": 4
+          },
+          {
+            "manual": "Oftalmología",
+            "capitulo_numero": 17,
+            "capitulo_nombre": "Tomografía de coherencia óptica",
+            "paginas": 6
+          },
+          {
+            "manual": "Oftalmología",
+            "capitulo_numero": 18,
+            "capitulo_nombre": "Cirugía refractiva y láser en oftalmología",
+            "paginas": 6
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 12,
+        "numero_sesion_vuelta": 12,
+        "total_paginas": 43,
+        "capitulos": [
+          {
+            "manual": "Otorrinolaringología",
+            "capitulo_numero": 1,
+            "capitulo_nombre": "Recuerdo anatómico y fisiológico en otorrinolaringología",
+            "paginas": 13
+          },
+          {
+            "manual": "Otorrinolaringología",
+            "capitulo_numero": 2,
+            "capitulo_nombre": "Otología",
+            "paginas": 30
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 13,
+        "numero_sesion_vuelta": 13,
+        "total_paginas": 22,
+        "capitulos": [
+          {
+            "manual": "Otorrinolaringología",
+            "capitulo_numero": 3,
+            "capitulo_nombre": "Rinología",
+            "paginas": 1
+          },
+          {
+            "manual": "Otorrinolaringología",
+            "capitulo_numero": 4,
+            "capitulo_nombre": "Patología de la faringe",
+            "paginas": 0
+          },
+          {
+            "manual": "Otorrinolaringología",
+            "capitulo_numero": 5,
+            "capitulo_nombre": "Patología de la laringe",
+            "paginas": 21
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 14,
+        "numero_sesion_vuelta": 14,
+        "total_paginas": 43,
+        "capitulos": [
+          {
+            "manual": "Otorrinolaringología",
+            "capitulo_numero": 6,
+            "capitulo_nombre": "Patología de las glándulas salivales",
+            "paginas": 6
+          },
+          {
+            "manual": "Otorrinolaringología",
+            "capitulo_numero": 7,
+            "capitulo_nombre": "Cirugía maxilofacial",
+            "paginas": 6
+          },
+          {
+            "manual": "Otorrinolaringología",
+            "capitulo_numero": 8,
+            "capitulo_nombre": "Patología cervical",
+            "paginas": 5
+          },
+          {
+            "manual": "Pediatría",
+            "capitulo_numero": 1,
+            "capitulo_nombre": "Neonatología",
+            "paginas": 26
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 15,
+        "numero_sesion_vuelta": 15,
+        "total_paginas": 28,
+        "capitulos": [
+          {
+            "manual": "Pediatría",
+            "capitulo_numero": 2,
+            "capitulo_nombre": "Desarrollo y nutrición",
+            "paginas": 16
+          },
+          {
+            "manual": "Pediatría",
+            "capitulo_numero": 3,
+            "capitulo_nombre": "Patología respiratoria pediátrica",
+            "paginas": 12
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 16,
+        "numero_sesion_vuelta": 16,
+        "total_paginas": 29,
+        "capitulos": [
+          {
+            "manual": "Pediatría",
+            "capitulo_numero": 4,
+            "capitulo_nombre": "Patología digestiva pediátrica",
+            "paginas": 19
+          },
+          {
+            "manual": "Pediatría",
+            "capitulo_numero": 5,
+            "capitulo_nombre": "Patología nefrourológica pediátrica",
+            "paginas": 10
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 17,
+        "numero_sesion_vuelta": 17,
+        "total_paginas": 24,
+        "capitulos": [
+          {
+            "manual": "Pediatría",
+            "capitulo_numero": 6,
+            "capitulo_nombre": "Oncología pediátrica",
+            "paginas": 6
+          },
+          {
+            "manual": "Pediatría",
+            "capitulo_numero": 7,
+            "capitulo_nombre": "Enfermedades infecciosas",
+            "paginas": 14
+          },
+          {
+            "manual": "Pediatría",
+            "capitulo_numero": 8,
+            "capitulo_nombre": "Síndrome de la muerte súbita del lactante",
+            "paginas": 4
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 18,
+        "numero_sesion_vuelta": 18,
+        "total_paginas": 22,
+        "capitulos": [
+          {
+            "manual": "Pediatría",
+            "capitulo_numero": 9,
+            "capitulo_nombre": "Maltrato infantil",
+            "paginas": 4
+          },
+          {
+            "manual": "Pediatría",
+            "capitulo_numero": 10,
+            "capitulo_nombre": "Vacunas",
+            "paginas": 10
+          },
+          {
+            "manual": "Pediatría",
+            "capitulo_numero": 11,
+            "capitulo_nombre": "Metabolopatías",
+            "paginas": 8
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 19,
+        "numero_sesion_vuelta": 19,
+        "total_paginas": 45,
+        "capitulos": [
+          {
+            "manual": "Pediatría",
+            "capitulo_numero": 12,
+            "capitulo_nombre": "Calendario quirúrgico pediátrico",
+            "paginas": 5
+          },
+          {
+            "manual": "Psiquiatría",
+            "capitulo_numero": 1,
+            "capitulo_nombre": "Trastornos neuróticos",
+            "paginas": 16
+          },
+          {
+            "manual": "Psiquiatría",
+            "capitulo_numero": 2,
+            "capitulo_nombre": "Trastornos del estado de ánimo",
+            "paginas": 24
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 20,
+        "numero_sesion_vuelta": 20,
+        "total_paginas": 26,
+        "capitulos": [
+          {
+            "manual": "Psiquiatría",
+            "capitulo_numero": 3,
+            "capitulo_nombre": "Trastornos psicóticos",
+            "paginas": 12
+          },
+          {
+            "manual": "Psiquiatría",
+            "capitulo_numero": 4,
+            "capitulo_nombre": "Trastornos relacionados con sustancias",
+            "paginas": 14
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 21,
+        "numero_sesion_vuelta": 21,
+        "total_paginas": 22,
+        "capitulos": [
+          {
+            "manual": "Psiquiatría",
+            "capitulo_numero": 5,
+            "capitulo_nombre": "Trastornos neurocognitivos",
+            "paginas": 6
+          },
+          {
+            "manual": "Psiquiatría",
+            "capitulo_numero": 6,
+            "capitulo_nombre": "Trastornos de la conducta alimentaria",
+            "paginas": 6
+          },
+          {
+            "manual": "Psiquiatría",
+            "capitulo_numero": 7,
+            "capitulo_nombre": "Trastornos de la personalidad",
+            "paginas": 4
+          },
+          {
+            "manual": "Psiquiatría",
+            "capitulo_numero": 8,
+            "capitulo_nombre": "Trastornos del sueño",
+            "paginas": 6
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 22,
+        "numero_sesion_vuelta": 22,
+        "total_paginas": 31,
+        "capitulos": [
+          {
+            "manual": "Psiquiatría",
+            "capitulo_numero": 9,
+            "capitulo_nombre": "Trastornos de la infancia y la adolescencia",
+            "paginas": 6
+          },
+          {
+            "manual": "Psiquiatría",
+            "capitulo_numero": 10,
+            "capitulo_nombre": "Trastornos sexuales",
+            "paginas": 2
+          },
+          {
+            "manual": "Psiquiatría",
+            "capitulo_numero": 11,
+            "capitulo_nombre": "Psicología médica, epidemiología y neuroquímica",
+            "paginas": 7
+          },
+          {
+            "manual": "Reumatología",
+            "capitulo_numero": 1,
+            "capitulo_nombre": "Aspectos generales de las enfermedades reumáticas",
+            "paginas": 6
+          },
+          {
+            "manual": "Reumatología",
+            "capitulo_numero": 2,
+            "capitulo_nombre": "Enfermedades metabólicas óseas",
+            "paginas": 10
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 23,
+        "numero_sesion_vuelta": 23,
+        "total_paginas": 24,
+        "capitulos": [
+          {
+            "manual": "Reumatología",
+            "capitulo_numero": 3,
+            "capitulo_nombre": "Artritis reumatoide",
+            "paginas": 12
+          },
+          {
+            "manual": "Reumatología",
+            "capitulo_numero": 4,
+            "capitulo_nombre": "Espondiloartritis",
+            "paginas": 12
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 24,
+        "numero_sesion_vuelta": 24,
+        "total_paginas": 32,
+        "capitulos": [
+          {
+            "manual": "Reumatología",
+            "capitulo_numero": 5,
+            "capitulo_nombre": "Artritis por microcristales",
+            "paginas": 10
+          },
+          {
+            "manual": "Reumatología",
+            "capitulo_numero": 6,
+            "capitulo_nombre": "Infecciones osteoarticulares",
+            "paginas": 6
+          },
+          {
+            "manual": "Reumatología",
+            "capitulo_numero": 7,
+            "capitulo_nombre": "Artrosis",
+            "paginas": 4
+          },
+          {
+            "manual": "Reumatología",
+            "capitulo_numero": 8,
+            "capitulo_nombre": "Vasculitis",
+            "paginas": 12
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 25,
+        "numero_sesion_vuelta": 25,
+        "total_paginas": 26,
+        "capitulos": [
+          {
+            "manual": "Reumatología",
+            "capitulo_numero": 9,
+            "capitulo_nombre": "Lupus eritematoso sistémico",
+            "paginas": 12
+          },
+          {
+            "manual": "Reumatología",
+            "capitulo_numero": 10,
+            "capitulo_nombre": "Esclerosis sistémica",
+            "paginas": 8
+          },
+          {
+            "manual": "Reumatología",
+            "capitulo_numero": 11,
+            "capitulo_nombre": "Amiloidosis y síndromes autoinflamatorios",
+            "paginas": 6
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 26,
+        "numero_sesion_vuelta": 26,
+        "total_paginas": 46,
+        "capitulos": [
+          {
+            "manual": "Reumatología",
+            "capitulo_numero": 12,
+            "capitulo_nombre": "Síndrome de Sjögren",
+            "paginas": 4
+          },
+          {
+            "manual": "Reumatología",
+            "capitulo_numero": 13,
+            "capitulo_nombre": "Miopatías inflamatorias",
+            "paginas": 4
+          },
+          {
+            "manual": "Reumatología",
+            "capitulo_numero": 14,
+            "capitulo_nombre": "Otras enfermedades",
+            "paginas": 8
+          },
+          {
+            "manual": "Traumatología",
+            "capitulo_numero": 1,
+            "capitulo_nombre": "Fracturas",
+            "paginas": 30
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 27,
+        "numero_sesion_vuelta": 27,
+        "total_paginas": 28,
+        "capitulos": [
+          {
+            "manual": "Traumatología",
+            "capitulo_numero": 2,
+            "capitulo_nombre": "Luxaciones",
+            "paginas": 8
+          },
+          {
+            "manual": "Traumatología",
+            "capitulo_numero": 3,
+            "capitulo_nombre": "Lesiones traumáticas e inflamatorias de partes blandas",
+            "paginas": 12
+          },
+          {
+            "manual": "Traumatología",
+            "capitulo_numero": 4,
+            "capitulo_nombre": "Sistema nervioso periférico",
+            "paginas": 8
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 28,
+        "numero_sesion_vuelta": 28,
+        "total_paginas": 28,
+        "capitulos": [
+          {
+            "manual": "Traumatología",
+            "capitulo_numero": 5,
+            "capitulo_nombre": "Tumores y lesiones óseas seudotumorales. Tumores de partes blandas",
+            "paginas": 12
+          },
+          {
+            "manual": "Traumatología",
+            "capitulo_numero": 6,
+            "capitulo_nombre": "Ortopedia infantil y del adolescente",
+            "paginas": 16
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 29,
+        "numero_sesion_vuelta": 29,
+        "total_paginas": 24,
+        "capitulos": [
+          {
+            "manual": "Traumatología",
+            "capitulo_numero": 7,
+            "capitulo_nombre": "Cirugía reconstructiva del adulto",
+            "paginas": 8
+          },
+          {
+            "manual": "Traumatología",
+            "capitulo_numero": 8,
+            "capitulo_nombre": "Patología de la columna vertebral",
+            "paginas": 12
+          },
+          {
+            "manual": "Urgencias y Geriatría",
+            "capitulo_numero": 1,
+            "capitulo_nombre": "Triaje",
+            "paginas": 4
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 30,
+        "numero_sesion_vuelta": 30,
+        "total_paginas": 22,
+        "capitulos": [
+          {
+            "manual": "Urgencias y Geriatría",
+            "capitulo_numero": 2,
+            "capitulo_nombre": "Técnicas diagnóstico-terapéuticas en Urgencias",
+            "paginas": 8
+          },
+          {
+            "manual": "Urgencias y Geriatría",
+            "capitulo_numero": 3,
+            "capitulo_nombre": "Situaciones emergentes en Urgencias",
+            "paginas": 6
+          },
+          {
+            "manual": "Urgencias y Geriatría",
+            "capitulo_numero": 4,
+            "capitulo_nombre": "Síndromes específicos de Urgencias",
+            "paginas": 8
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 31,
+        "numero_sesion_vuelta": 31,
+        "total_paginas": 26,
+        "capitulos": [
+          {
+            "manual": "Urgencias y Geriatría",
+            "capitulo_numero": 5,
+            "capitulo_nombre": "Intoxicaciones",
+            "paginas": 9
+          },
+          {
+            "manual": "Urología",
+            "capitulo_numero": 1,
+            "capitulo_nombre": "Semiología urológica y definiciones. Cistitis intersticial",
+            "paginas": 2
+          },
+          {
+            "manual": "Urología",
+            "capitulo_numero": 2,
+            "capitulo_nombre": "Infecciones del tracto urinario",
+            "paginas": 8
+          },
+          {
+            "manual": "Urología",
+            "capitulo_numero": 3,
+            "capitulo_nombre": "Urolitiasis",
+            "paginas": 7
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 32,
+        "numero_sesion_vuelta": 32,
+        "total_paginas": 24,
+        "capitulos": [
+          {
+            "manual": "Urología",
+            "capitulo_numero": 4,
+            "capitulo_nombre": "Tumores renales",
+            "paginas": 5
+          },
+          {
+            "manual": "Urología",
+            "capitulo_numero": 5,
+            "capitulo_nombre": "Hiperplasia prostática benigna y carcinoma prostático",
+            "paginas": 8
+          },
+          {
+            "manual": "Urología",
+            "capitulo_numero": 6,
+            "capitulo_nombre": "Carcinomas del tracto urinario",
+            "paginas": 6
+          },
+          {
+            "manual": "Urología",
+            "capitulo_numero": 7,
+            "capitulo_nombre": "Tumores testiculares",
+            "paginas": 5
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 33,
+        "numero_sesion_vuelta": 33,
+        "total_paginas": 25,
+        "capitulos": [
+          {
+            "manual": "Urología",
+            "capitulo_numero": 8,
+            "capitulo_nombre": "Trasplante renal",
+            "paginas": 2
+          },
+          {
+            "manual": "Urología",
+            "capitulo_numero": 9,
+            "capitulo_nombre": "Uropatía obstructiva",
+            "paginas": 3
+          },
+          {
+            "manual": "Urología",
+            "capitulo_numero": 10,
+            "capitulo_nombre": "Andrología",
+            "paginas": 6
+          },
+          {
+            "manual": "Neumología",
+            "capitulo_numero": 1,
+            "capitulo_nombre": "Recuerdo anatómico",
+            "paginas": 4
+          },
+          {
+            "manual": "Neumología",
+            "capitulo_numero": 2,
+            "capitulo_nombre": "Síntomas cardinales y exploración del aparato respiratorio",
+            "paginas": 6
+          },
+          {
+            "manual": "Neumología",
+            "capitulo_numero": 3,
+            "capitulo_nombre": "Malformaciones",
+            "paginas": 4
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 34,
+        "numero_sesion_vuelta": 34,
+        "total_paginas": 32,
+        "capitulos": [
+          {
+            "manual": "Neumología",
+            "capitulo_numero": 4,
+            "capitulo_nombre": "Fisiología y fisiopatología",
+            "paginas": 14
+          },
+          {
+            "manual": "Neumología",
+            "capitulo_numero": 5,
+            "capitulo_nombre": "Insuficiencia respiratoria",
+            "paginas": 6
+          },
+          {
+            "manual": "Neumología",
+            "capitulo_numero": 6,
+            "capitulo_nombre": "Enfermedad pulmonar obstructiva crónica",
+            "paginas": 12
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 35,
+        "numero_sesion_vuelta": 35,
+        "total_paginas": 44,
+        "capitulos": [
+          {
+            "manual": "Neumología",
+            "capitulo_numero": 7,
+            "capitulo_nombre": "Asma",
+            "paginas": 14
+          },
+          {
+            "manual": "Neumología",
+            "capitulo_numero": 8,
+            "capitulo_nombre": "Bronquiectasias. Bronquiolitis",
+            "paginas": 4
+          },
+          {
+            "manual": "Neumología",
+            "capitulo_numero": 9,
+            "capitulo_nombre": "Enfermedades pulmonares parenquimatosas difusas",
+            "paginas": 26
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 36,
+        "numero_sesion_vuelta": 36,
+        "total_paginas": 22,
+        "capitulos": [
+          {
+            "manual": "Neumología",
+            "capitulo_numero": 10,
+            "capitulo_nombre": "Enfermedades vasculares pulmonares",
+            "paginas": 14
+          },
+          {
+            "manual": "Neumología",
+            "capitulo_numero": 11,
+            "capitulo_nombre": "Enfermedades de la pleura",
+            "paginas": 8
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 37,
+        "numero_sesion_vuelta": 37,
+        "total_paginas": 22,
+        "capitulos": [
+          {
+            "manual": "Neumología",
+            "capitulo_numero": 12,
+            "capitulo_nombre": "Enfermedades del mediastino y del diafragma",
+            "paginas": 6
+          },
+          {
+            "manual": "Neumología",
+            "capitulo_numero": 13,
+            "capitulo_nombre": "Neoplasias pulmonares",
+            "paginas": 16
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 38,
+        "numero_sesion_vuelta": 38,
+        "total_paginas": 24,
+        "capitulos": [
+          {
+            "manual": "Neumología",
+            "capitulo_numero": 14,
+            "capitulo_nombre": "Trastornos de la ventilación y apnea del sueño",
+            "paginas": 10
+          },
+          {
+            "manual": "Neumología",
+            "capitulo_numero": 15,
+            "capitulo_nombre": "Trasplante de pulmón",
+            "paginas": 6
+          },
+          {
+            "manual": "Inmunología y Genética",
+            "capitulo_numero": 1,
+            "capitulo_nombre": "Introducción al sistema inmunitario",
+            "paginas": 8
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 39,
+        "numero_sesion_vuelta": 39,
+        "total_paginas": 24,
+        "capitulos": [
+          {
+            "manual": "Inmunología y Genética",
+            "capitulo_numero": 2,
+            "capitulo_nombre": "Inmunidad innata",
+            "paginas": 8
+          },
+          {
+            "manual": "Inmunología y Genética",
+            "capitulo_numero": 3,
+            "capitulo_nombre": "Inmunidad adaptativa",
+            "paginas": 10
+          },
+          {
+            "manual": "Inmunología y Genética",
+            "capitulo_numero": 4,
+            "capitulo_nombre": "Reacciones de hipersensibilidad",
+            "paginas": 6
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 40,
+        "numero_sesion_vuelta": 40,
+        "total_paginas": 33,
+        "capitulos": [
+          {
+            "manual": "Inmunología y Genética",
+            "capitulo_numero": 5,
+            "capitulo_nombre": "Inmunodeficiencias",
+            "paginas": 8
+          },
+          {
+            "manual": "Inmunología y Genética",
+            "capitulo_numero": 6,
+            "capitulo_nombre": "Trasplante de precursores hematopoyéticos y de órgano sólido",
+            "paginas": 10
+          },
+          {
+            "manual": "Inmunología y Genética",
+            "capitulo_numero": 7,
+            "capitulo_nombre": "Fundamentos genéticos",
+            "paginas": 15
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 41,
+        "numero_sesion_vuelta": 41,
+        "total_paginas": 26,
+        "capitulos": [
+          {
+            "manual": "Nefrología",
+            "capitulo_numero": 1,
+            "capitulo_nombre": "Recuerdo anatómico y fisiológico renal",
+            "paginas": 8
+          },
+          {
+            "manual": "Nefrología",
+            "capitulo_numero": 2,
+            "capitulo_nombre": "Alteraciones del equilibrio hidroelectrolítico",
+            "paginas": 8
+          },
+          {
+            "manual": "Nefrología",
+            "capitulo_numero": 3,
+            "capitulo_nombre": "Alteraciones del equilibrio ácido-base",
+            "paginas": 10
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 42,
+        "numero_sesion_vuelta": 42,
+        "total_paginas": 26,
+        "capitulos": [
+          {
+            "manual": "Nefrología",
+            "capitulo_numero": 4,
+            "capitulo_nombre": "Fallo renal agudo",
+            "paginas": 8
+          },
+          {
+            "manual": "Nefrología",
+            "capitulo_numero": 5,
+            "capitulo_nombre": "Enfermedad renal crónica",
+            "paginas": 12
+          },
+          {
+            "manual": "Nefrología",
+            "capitulo_numero": 6,
+            "capitulo_nombre": "Síndrome nefrótico",
+            "paginas": 6
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 43,
+        "numero_sesion_vuelta": 43,
+        "total_paginas": 26,
+        "capitulos": [
+          {
+            "manual": "Nefrología",
+            "capitulo_numero": 7,
+            "capitulo_nombre": "Síndrome nefrítico",
+            "paginas": 6
+          },
+          {
+            "manual": "Nefrología",
+            "capitulo_numero": 8,
+            "capitulo_nombre": "Glomerulonefritis rápidamente progresiva",
+            "paginas": 4
+          },
+          {
+            "manual": "Nefrología",
+            "capitulo_numero": 9,
+            "capitulo_nombre": "Nefropatía diabética",
+            "paginas": 6
+          },
+          {
+            "manual": "Nefrología",
+            "capitulo_numero": 10,
+            "capitulo_nombre": "Enfermedades sistémicas con afectación renal",
+            "paginas": 6
+          },
+          {
+            "manual": "Nefrología",
+            "capitulo_numero": 11,
+            "capitulo_nombre": "Nefropatía tubulointersticial",
+            "paginas": 4
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 44,
+        "numero_sesion_vuelta": 44,
+        "total_paginas": 24,
+        "capitulos": [
+          {
+            "manual": "Nefrología",
+            "capitulo_numero": 12,
+            "capitulo_nombre": "Enfermedades quísticas renales",
+            "paginas": 6
+          },
+          {
+            "manual": "Nefrología",
+            "capitulo_numero": 13,
+            "capitulo_nombre": "Afectación renal en el mieloma múltiple",
+            "paginas": 4
+          },
+          {
+            "manual": "Nefrología",
+            "capitulo_numero": 14,
+            "capitulo_nombre": "Hipertensión arterial y riñón",
+            "paginas": 6
+          },
+          {
+            "manual": "Hematología",
+            "capitulo_numero": 1,
+            "capitulo_nombre": "Introducción al sistema hematopoyético. Generalidades de anemias",
+            "paginas": 8
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 45,
+        "numero_sesion_vuelta": 45,
+        "total_paginas": 28,
+        "capitulos": [
+          {
+            "manual": "Hematología",
+            "capitulo_numero": 2,
+            "capitulo_nombre": "Síndrome hemolítico. Anemias hemolíticas adquiridas",
+            "paginas": 8
+          },
+          {
+            "manual": "Hematología",
+            "capitulo_numero": 3,
+            "capitulo_nombre": "Anemias hemolíticas congénitas",
+            "paginas": 10
+          },
+          {
+            "manual": "Hematología",
+            "capitulo_numero": 4,
+            "capitulo_nombre": "Anemias carenciales",
+            "paginas": 10
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 46,
+        "numero_sesion_vuelta": 46,
+        "total_paginas": 28,
+        "capitulos": [
+          {
+            "manual": "Hematología",
+            "capitulo_numero": 5,
+            "capitulo_nombre": "Síndromes de insuficiencia medular",
+            "paginas": 6
+          },
+          {
+            "manual": "Hematología",
+            "capitulo_numero": 6,
+            "capitulo_nombre": "Síndromes mieloproliferativos crónicos",
+            "paginas": 10
+          },
+          {
+            "manual": "Hematología",
+            "capitulo_numero": 7,
+            "capitulo_nombre": "Síndromes mielodisplásicos",
+            "paginas": 4
+          },
+          {
+            "manual": "Hematología",
+            "capitulo_numero": 8,
+            "capitulo_nombre": "Leucemia aguda",
+            "paginas": 8
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 47,
+        "numero_sesion_vuelta": 47,
+        "total_paginas": 30,
+        "capitulos": [
+          {
+            "manual": "Hematología",
+            "capitulo_numero": 9,
+            "capitulo_nombre": "Síndromes linfoproliferativos crónicos con expresión leucémica",
+            "paginas": 6
+          },
+          {
+            "manual": "Hematología",
+            "capitulo_numero": 10,
+            "capitulo_nombre": "Linfoma de Hodgkin",
+            "paginas": 6
+          },
+          {
+            "manual": "Hematología",
+            "capitulo_numero": 11,
+            "capitulo_nombre": "Linfoma no Hodgkin",
+            "paginas": 10
+          },
+          {
+            "manual": "Hematología",
+            "capitulo_numero": 12,
+            "capitulo_nombre": "Mieloma múltiple y otras neoplasias de células plasmáticas",
+            "paginas": 8
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 48,
+        "numero_sesion_vuelta": 48,
+        "total_paginas": 24,
+        "capitulos": [
+          {
+            "manual": "Hematología",
+            "capitulo_numero": 13,
+            "capitulo_nombre": "Hemostasia. Fisiología y exploración. Trombocitopenias",
+            "paginas": 8
+          },
+          {
+            "manual": "Hematología",
+            "capitulo_numero": 14,
+            "capitulo_nombre": "Alteraciones de la coagulación",
+            "paginas": 8
+          },
+          {
+            "manual": "Hematología",
+            "capitulo_numero": 15,
+            "capitulo_nombre": "Anticoagulantes, antiagregantes y fibrinolíticos",
+            "paginas": 8
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 49,
+        "numero_sesion_vuelta": 49,
+        "total_paginas": 26,
+        "capitulos": [
+          {
+            "manual": "Hematología",
+            "capitulo_numero": 16,
+            "capitulo_nombre": "Medicina transfusional",
+            "paginas": 8
+          },
+          {
+            "manual": "Enfermedades Infecciosas",
+            "capitulo_numero": 1,
+            "capitulo_nombre": "Generalidades",
+            "paginas": 12
+          },
+          {
+            "manual": "Enfermedades Infecciosas",
+            "capitulo_numero": 2,
+            "capitulo_nombre": "Infecciones por cocos grampositivos",
+            "paginas": 6
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 50,
+        "numero_sesion_vuelta": 50,
+        "total_paginas": 30,
+        "capitulos": [
+          {
+            "manual": "Enfermedades Infecciosas",
+            "capitulo_numero": 3,
+            "capitulo_nombre": "Infecciones por cocos gramnegativos",
+            "paginas": 6
+          },
+          {
+            "manual": "Enfermedades Infecciosas",
+            "capitulo_numero": 4,
+            "capitulo_nombre": "Infecciones por bacilos grampositivos",
+            "paginas": 4
+          },
+          {
+            "manual": "Enfermedades Infecciosas",
+            "capitulo_numero": 5,
+            "capitulo_nombre": "Infecciones por enterobacterias",
+            "paginas": 8
+          },
+          {
+            "manual": "Enfermedades Infecciosas",
+            "capitulo_numero": 6,
+            "capitulo_nombre": "Infecciones por bacilos gramnegativos no fermentadores",
+            "paginas": 4
+          },
+          {
+            "manual": "Enfermedades Infecciosas",
+            "capitulo_numero": 7,
+            "capitulo_nombre": "Otras infecciones por bacilos gramnegativos",
+            "paginas": 8
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 51,
+        "numero_sesion_vuelta": 51,
+        "total_paginas": 28,
+        "capitulos": [
+          {
+            "manual": "Enfermedades Infecciosas",
+            "capitulo_numero": 8,
+            "capitulo_nombre": "Infecciones por anaerobios",
+            "paginas": 6
+          },
+          {
+            "manual": "Enfermedades Infecciosas",
+            "capitulo_numero": 9,
+            "capitulo_nombre": "Mycobacterias",
+            "paginas": 14
+          },
+          {
+            "manual": "Enfermedades Infecciosas",
+            "capitulo_numero": 10,
+            "capitulo_nombre": "Espiroquetas",
+            "paginas": 8
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 52,
+        "numero_sesion_vuelta": 52,
+        "total_paginas": 32,
+        "capitulos": [
+          {
+            "manual": "Enfermedades Infecciosas",
+            "capitulo_numero": 11,
+            "capitulo_nombre": "Rickettsias",
+            "paginas": 4
+          },
+          {
+            "manual": "Enfermedades Infecciosas",
+            "capitulo_numero": 12,
+            "capitulo_nombre": "Virus",
+            "paginas": 12
+          },
+          {
+            "manual": "Enfermedades Infecciosas",
+            "capitulo_numero": 13,
+            "capitulo_nombre": "Infección por el VIH",
+            "paginas": 16
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 53,
+        "numero_sesion_vuelta": 53,
+        "total_paginas": 26,
+        "capitulos": [
+          {
+            "manual": "Enfermedades Infecciosas",
+            "capitulo_numero": 14,
+            "capitulo_nombre": "Micosis",
+            "paginas": 8
+          },
+          {
+            "manual": "Enfermedades Infecciosas",
+            "capitulo_numero": 15,
+            "capitulo_nombre": "Parasitosis",
+            "paginas": 12
+          },
+          {
+            "manual": "Enfermedades Infecciosas",
+            "capitulo_numero": 16,
+            "capitulo_nombre": "Infecciones nosocomiales",
+            "paginas": 6
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 54,
+        "numero_sesion_vuelta": 54,
+        "total_paginas": 26,
+        "capitulos": [
+          {
+            "manual": "Enfermedades Infecciosas",
+            "capitulo_numero": 17,
+            "capitulo_nombre": "Infecciones del sistema nervioso central",
+            "paginas": 10
+          },
+          {
+            "manual": "Enfermedades Infecciosas",
+            "capitulo_numero": 18,
+            "capitulo_nombre": "Infecciones de vías respiratorias",
+            "paginas": 10
+          },
+          {
+            "manual": "Enfermedades Infecciosas",
+            "capitulo_numero": 19,
+            "capitulo_nombre": "Infecciones gastrointestinales y abdominales",
+            "paginas": 6
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 55,
+        "numero_sesion_vuelta": 55,
+        "total_paginas": 26,
+        "capitulos": [
+          {
+            "manual": "Enfermedades Infecciosas",
+            "capitulo_numero": 20,
+            "capitulo_nombre": "Infecciones de la piel y partes blandas",
+            "paginas": 6
+          },
+          {
+            "manual": "Enfermedades Infecciosas",
+            "capitulo_numero": 21,
+            "capitulo_nombre": "Infecciones del paciente inmunodeprimido no VIH",
+            "paginas": 4
+          },
+          {
+            "manual": "Enfermedades Infecciosas",
+            "capitulo_numero": 22,
+            "capitulo_nombre": "Fármacos antimicrobianos",
+            "paginas": 13
+          },
+          {
+            "manual": "Bioética",
+            "capitulo_numero": 1,
+            "capitulo_nombre": "Bases y principios de la bioética",
+            "paginas": 3
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 56,
+        "numero_sesion_vuelta": 56,
+        "total_paginas": 24,
+        "capitulos": [
+          {
+            "manual": "Bioética",
+            "capitulo_numero": 2,
+            "capitulo_nombre": "Capacidad y competencia para la toma de decisiones",
+            "paginas": 4
+          },
+          {
+            "manual": "Bioética",
+            "capitulo_numero": 3,
+            "capitulo_nombre": "Relación clínica",
+            "paginas": 6
+          },
+          {
+            "manual": "Bioética",
+            "capitulo_numero": 4,
+            "capitulo_nombre": "Ética en el final de la vida. El paciente terminal",
+            "paginas": 14
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 57,
+        "numero_sesion_vuelta": 57,
+        "total_paginas": 25,
+        "capitulos": [
+          {
+            "manual": "Bioética",
+            "capitulo_numero": 5,
+            "capitulo_nombre": "Trasplantes de órganos",
+            "paginas": 4
+          },
+          {
+            "manual": "Bioética",
+            "capitulo_numero": 6,
+            "capitulo_nombre": "Rechazo a las actuaciones médicas. Huelga de hambre. Triaje",
+            "paginas": 4
+          },
+          {
+            "manual": "Bioética",
+            "capitulo_numero": 7,
+            "capitulo_nombre": "Ética de la investigación",
+            "paginas": 4
+          },
+          {
+            "manual": "Bioética",
+            "capitulo_numero": 8,
+            "capitulo_nombre": "Medicina legal",
+            "paginas": 6
+          },
+          {
+            "manual": "Bioética",
+            "capitulo_numero": 9,
+            "capitulo_nombre": "Medicina forense",
+            "paginas": 7
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 58,
+        "numero_sesion_vuelta": 58,
+        "total_paginas": 29,
+        "capitulos": [
+          {
+            "manual": "Cardiología",
+            "capitulo_numero": 1,
+            "capitulo_nombre": "Biología del aparato cardiovascular",
+            "paginas": 3
+          },
+          {
+            "manual": "Cardiología",
+            "capitulo_numero": 2,
+            "capitulo_nombre": "Semiología cardíaca y vascular",
+            "paginas": 7
+          },
+          {
+            "manual": "Cardiología",
+            "capitulo_numero": 3,
+            "capitulo_nombre": "Métodos diagnósticos en Cardiología",
+            "paginas": 7
+          },
+          {
+            "manual": "Cardiología",
+            "capitulo_numero": 4,
+            "capitulo_nombre": "Insuficiencia cardíaca",
+            "paginas": 12
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 59,
+        "numero_sesion_vuelta": 59,
+        "total_paginas": 30,
+        "capitulos": [
+          {
+            "manual": "Cardiología",
+            "capitulo_numero": 5,
+            "capitulo_nombre": "Miocardiopatías",
+            "paginas": 12
+          },
+          {
+            "manual": "Cardiología",
+            "capitulo_numero": 6,
+            "capitulo_nombre": "Valvulopatías",
+            "paginas": 18
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 60,
+        "numero_sesion_vuelta": 60,
+        "total_paginas": 38,
+        "capitulos": [
+          {
+            "manual": "Cardiología",
+            "capitulo_numero": 7,
+            "capitulo_nombre": "Enfermedades del pericardio",
+            "paginas": 6
+          },
+          {
+            "manual": "Cardiología",
+            "capitulo_numero": 8,
+            "capitulo_nombre": "Cardiopatías congénitas",
+            "paginas": 12
+          },
+          {
+            "manual": "Cardiología",
+            "capitulo_numero": 9,
+            "capitulo_nombre": "Tumores y traumatismos cardíacos",
+            "paginas": 2
+          },
+          {
+            "manual": "Cardiología",
+            "capitulo_numero": 10,
+            "capitulo_nombre": "Arritmias",
+            "paginas": 18
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 61,
+        "numero_sesion_vuelta": 61,
+        "total_paginas": 36,
+        "capitulos": [
+          {
+            "manual": "Cardiología",
+            "capitulo_numero": 11,
+            "capitulo_nombre": "Shock, parada cardíaca y reanimación cardiopulmonar",
+            "paginas": 6
+          },
+          {
+            "manual": "Cardiología",
+            "capitulo_numero": 12,
+            "capitulo_nombre": "Síncope",
+            "paginas": 4
+          },
+          {
+            "manual": "Cardiología",
+            "capitulo_numero": 13,
+            "capitulo_nombre": "Enfermedad coronaria",
+            "paginas": 26
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 62,
+        "numero_sesion_vuelta": 62,
+        "total_paginas": 30,
+        "capitulos": [
+          {
+            "manual": "Cardiología",
+            "capitulo_numero": 14,
+            "capitulo_nombre": "Hipertensión arterial",
+            "paginas": 8
+          },
+          {
+            "manual": "Cardiología",
+            "capitulo_numero": 15,
+            "capitulo_nombre": "Enfermedades de la aorta",
+            "paginas": 10
+          },
+          {
+            "manual": "Cardiología",
+            "capitulo_numero": 16,
+            "capitulo_nombre": "Enfermedades de los vasos periféricos",
+            "paginas": 12
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 63,
+        "numero_sesion_vuelta": 63,
+        "total_paginas": 27,
+        "capitulos": [
+          {
+            "manual": "Dermatología",
+            "capitulo_numero": 1,
+            "capitulo_nombre": "Generalidades",
+            "paginas": 7
+          },
+          {
+            "manual": "Dermatología",
+            "capitulo_numero": 2,
+            "capitulo_nombre": "Infecciones víricas",
+            "paginas": 6
+          },
+          {
+            "manual": "Dermatología",
+            "capitulo_numero": 3,
+            "capitulo_nombre": "Infecciones micóticas",
+            "paginas": 4
+          },
+          {
+            "manual": "Dermatología",
+            "capitulo_numero": 4,
+            "capitulo_nombre": "Infecciones bacterianas",
+            "paginas": 6
+          },
+          {
+            "manual": "Dermatología",
+            "capitulo_numero": 5,
+            "capitulo_nombre": "Zoonosis y parasitosis",
+            "paginas": 4
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 64,
+        "numero_sesion_vuelta": 64,
+        "total_paginas": 30,
+        "capitulos": [
+          {
+            "manual": "Dermatología",
+            "capitulo_numero": 6,
+            "capitulo_nombre": "Enfermedades eritemato-descamativas",
+            "paginas": 8
+          },
+          {
+            "manual": "Dermatología",
+            "capitulo_numero": 7,
+            "capitulo_nombre": "Eccemas",
+            "paginas": 6
+          },
+          {
+            "manual": "Dermatología",
+            "capitulo_numero": 8,
+            "capitulo_nombre": "Urticaria y angioedema",
+            "paginas": 4
+          },
+          {
+            "manual": "Dermatología",
+            "capitulo_numero": 9,
+            "capitulo_nombre": "Toxicodermias",
+            "paginas": 6
+          },
+          {
+            "manual": "Dermatología",
+            "capitulo_numero": 10,
+            "capitulo_nombre": "Patología de la unidad pilosebácea",
+            "paginas": 6
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 65,
+        "numero_sesion_vuelta": 65,
+        "total_paginas": 26,
+        "capitulos": [
+          {
+            "manual": "Dermatología",
+            "capitulo_numero": 11,
+            "capitulo_nombre": "Trastornos de la pigmentación",
+            "paginas": 2
+          },
+          {
+            "manual": "Dermatología",
+            "capitulo_numero": 12,
+            "capitulo_nombre": "Fotosensibilidad. Trastornos inducidos por la luz",
+            "paginas": 4
+          },
+          {
+            "manual": "Dermatología",
+            "capitulo_numero": 13,
+            "capitulo_nombre": "Enfermedades ampollosas autoinmunitarias",
+            "paginas": 6
+          },
+          {
+            "manual": "Dermatología",
+            "capitulo_numero": 14,
+            "capitulo_nombre": "Paniculitis",
+            "paginas": 4
+          },
+          {
+            "manual": "Dermatología",
+            "capitulo_numero": 15,
+            "capitulo_nombre": "Manifestaciones cutáneas y enfermedades endocrinas y metabólicas",
+            "paginas": 4
+          },
+          {
+            "manual": "Dermatología",
+            "capitulo_numero": 16,
+            "capitulo_nombre": "Manifestaciones cutáneas de las enfermedades digestivas",
+            "paginas": 2
+          },
+          {
+            "manual": "Dermatología",
+            "capitulo_numero": 17,
+            "capitulo_nombre": "Manifestaciones cutáneas de otras enfermedades sistémicas",
+            "paginas": 4
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 66,
+        "numero_sesion_vuelta": 66,
+        "total_paginas": 28,
+        "capitulos": [
+          {
+            "manual": "Dermatología",
+            "capitulo_numero": 18,
+            "capitulo_nombre": "Facomatosis",
+            "paginas": 4
+          },
+          {
+            "manual": "Dermatología",
+            "capitulo_numero": 19,
+            "capitulo_nombre": "Tumores cutáneos benignos, lesiones cutáneas precancerosas y lesiones melanocíticas benignas",
+            "paginas": 4
+          },
+          {
+            "manual": "Dermatología",
+            "capitulo_numero": 20,
+            "capitulo_nombre": "Cáncer cutáneo no melanoma",
+            "paginas": 4
+          },
+          {
+            "manual": "Dermatología",
+            "capitulo_numero": 21,
+            "capitulo_nombre": "Melanoma maligno",
+            "paginas": 8
+          },
+          {
+            "manual": "Dermatología",
+            "capitulo_numero": 22,
+            "capitulo_nombre": "Linfomas cutáneos",
+            "paginas": 4
+          },
+          {
+            "manual": "Dermatología",
+            "capitulo_numero": 23,
+            "capitulo_nombre": "Otros tumores cutáneos",
+            "paginas": 4
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 67,
+        "numero_sesion_vuelta": 67,
+        "total_paginas": 30,
+        "capitulos": [
+          {
+            "manual": "Dermatología",
+            "capitulo_numero": 24,
+            "capitulo_nombre": "Dermatosis paraneoplásicas",
+            "paginas": 6
+          },
+          {
+            "manual": "Digestivo y Cirugía General",
+            "capitulo_numero": 1,
+            "capitulo_nombre": "Esófago",
+            "paginas": 24
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 68,
+        "numero_sesion_vuelta": 68,
+        "total_paginas": 36,
+        "capitulos": [
+          {
+            "manual": "Digestivo y Cirugía General",
+            "capitulo_numero": 2,
+            "capitulo_nombre": "Estómago",
+            "paginas": 18
+          },
+          {
+            "manual": "Digestivo y Cirugía General",
+            "capitulo_numero": 3,
+            "capitulo_nombre": "Intestino delgado",
+            "paginas": 18
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 69,
+        "numero_sesion_vuelta": 69,
+        "total_paginas": 30,
+        "capitulos": [
+          {
+            "manual": "Digestivo y Cirugía General",
+            "capitulo_numero": 4,
+            "capitulo_nombre": "Colon y recto",
+            "paginas": 30
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 70,
+        "numero_sesion_vuelta": 70,
+        "total_paginas": 57,
+        "capitulos": [
+          {
+            "manual": "Digestivo y Cirugía General",
+            "capitulo_numero": 5,
+            "capitulo_nombre": "Hernias abdominales",
+            "paginas": 4
+          },
+          {
+            "manual": "Digestivo y Cirugía General",
+            "capitulo_numero": 6,
+            "capitulo_nombre": "Hígado",
+            "paginas": 53
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 71,
+        "numero_sesion_vuelta": 71,
+        "total_paginas": 29,
+        "capitulos": [
+          {
+            "manual": "Digestivo y Cirugía General",
+            "capitulo_numero": 7,
+            "capitulo_nombre": "Enfermedades de la vesícula biliar y conductos biliares",
+            "paginas": 10
+          },
+          {
+            "manual": "Digestivo y Cirugía General",
+            "capitulo_numero": 8,
+            "capitulo_nombre": "Páncreas",
+            "paginas": 19
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 72,
+        "numero_sesion_vuelta": 72,
+        "total_paginas": 25,
+        "capitulos": [
+          {
+            "manual": "Digestivo y Cirugía General",
+            "capitulo_numero": 9,
+            "capitulo_nombre": "Cirugía endocrina",
+            "paginas": 7
+          },
+          {
+            "manual": "Digestivo y Cirugía General",
+            "capitulo_numero": 10,
+            "capitulo_nombre": "Bazo y ganglios linfáticos",
+            "paginas": 4
+          },
+          {
+            "manual": "Digestivo y Cirugía General",
+            "capitulo_numero": 11,
+            "capitulo_nombre": "Metástasis hepáticas y carcinomatosis peritoneal",
+            "paginas": 4
+          },
+          {
+            "manual": "Digestivo y Cirugía General",
+            "capitulo_numero": 12,
+            "capitulo_nombre": "Pared abdominal y cirugía mayor ambulatoria",
+            "paginas": 2
+          },
+          {
+            "manual": "Digestivo y Cirugía General",
+            "capitulo_numero": 13,
+            "capitulo_nombre": "Abdomen agudo",
+            "paginas": 4
+          },
+          {
+            "manual": "Digestivo y Cirugía General",
+            "capitulo_numero": 14,
+            "capitulo_nombre": "Politraumatismos, traumatismos abdominales y torácicos",
+            "paginas": 4
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 73,
+        "numero_sesion_vuelta": 73,
+        "total_paginas": 43,
+        "capitulos": [
+          {
+            "manual": "Digestivo y Cirugía General",
+            "capitulo_numero": 15,
+            "capitulo_nombre": "Infecciones intraabdominales",
+            "paginas": 5
+          },
+          {
+            "manual": "Digestivo y Cirugía General",
+            "capitulo_numero": 16,
+            "capitulo_nombre": "Cirugía mínimamente invasiva",
+            "paginas": 3
+          },
+          {
+            "manual": "Digestivo y Cirugía General",
+            "capitulo_numero": 17,
+            "capitulo_nombre": "Complicaciones posoperatorias y cicatrización",
+            "paginas": 6
+          },
+          {
+            "manual": "Digestivo y Cirugía General",
+            "capitulo_numero": 18,
+            "capitulo_nombre": "Cirugía plástica",
+            "paginas": 9
+          },
+          {
+            "manual": "Endocrinología",
+            "capitulo_numero": 1,
+            "capitulo_nombre": "Fisiología del sistema endocrino",
+            "paginas": 20
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 74,
+        "numero_sesion_vuelta": 74,
+        "total_paginas": 48,
+        "capitulos": [
+          {
+            "manual": "Endocrinología",
+            "capitulo_numero": 2,
+            "capitulo_nombre": "Enfermedades de la hipófisis",
+            "paginas": 23
+          },
+          {
+            "manual": "Endocrinología",
+            "capitulo_numero": 3,
+            "capitulo_nombre": "Enfermedades de la glándula tiroides",
+            "paginas": 25
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 75,
+        "numero_sesion_vuelta": 75,
+        "total_paginas": 52,
+        "capitulos": [
+          {
+            "manual": "Endocrinología",
+            "capitulo_numero": 4,
+            "capitulo_nombre": "Enfermedades de las glándulas suprarrenales",
+            "paginas": 24
+          },
+          {
+            "manual": "Endocrinología",
+            "capitulo_numero": 5,
+            "capitulo_nombre": "Diabetes mellitus",
+            "paginas": 28
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 76,
+        "numero_sesion_vuelta": 76,
+        "total_paginas": 30,
+        "capitulos": [
+          {
+            "manual": "Endocrinología",
+            "capitulo_numero": 6,
+            "capitulo_nombre": "Hipoglucemia en el sujeto no diabético",
+            "paginas": 6
+          },
+          {
+            "manual": "Endocrinología",
+            "capitulo_numero": 7,
+            "capitulo_nombre": "Dislipemia, obesidad y desnutrición",
+            "paginas": 24
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 77,
+        "numero_sesion_vuelta": 77,
+        "total_paginas": 33,
+        "capitulos": [
+          {
+            "manual": "Endocrinología",
+            "capitulo_numero": 8,
+            "capitulo_nombre": "Trastornos del metabolismo del calcio",
+            "paginas": 12
+          },
+          {
+            "manual": "Endocrinología",
+            "capitulo_numero": 9,
+            "capitulo_nombre": "Trastornos que afectan a múltiples órganos endocrinos",
+            "paginas": 4
+          },
+          {
+            "manual": "Endocrinología",
+            "capitulo_numero": 10,
+            "capitulo_nombre": "Tumores neuroendocrinos gastroenteropancreáticos. Tumor y síndrome carcinoide",
+            "paginas": 6
+          },
+          {
+            "manual": "Endocrinología",
+            "capitulo_numero": 11,
+            "capitulo_nombre": "Trastornos del desarrollo sexual",
+            "paginas": 11
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 78,
+        "numero_sesion_vuelta": 78,
+        "total_paginas": 30,
+        "capitulos": [
+          {
+            "manual": "Epidemiología, Estadística y Planificación y gestión",
+            "capitulo_numero": 1,
+            "capitulo_nombre": "Conceptos de epidemiología. Estudio de un test",
+            "paginas": 6
+          },
+          {
+            "manual": "Epidemiología, Estadística y Planificación y gestión",
+            "capitulo_numero": 2,
+            "capitulo_nombre": "Formas de medida",
+            "paginas": 6
+          },
+          {
+            "manual": "Epidemiología, Estadística y Planificación y gestión",
+            "capitulo_numero": 3,
+            "capitulo_nombre": "Validez y fiabilidad de los estudios epidemiológicos",
+            "paginas": 4
+          },
+          {
+            "manual": "Epidemiología, Estadística y Planificación y gestión",
+            "capitulo_numero": 4,
+            "capitulo_nombre": "Tipos de estudios epidemiológicos",
+            "paginas": 6
+          },
+          {
+            "manual": "Epidemiología, Estadística y Planificación y gestión",
+            "capitulo_numero": 5,
+            "capitulo_nombre": "El ensayo clínico",
+            "paginas": 8
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 79,
+        "numero_sesion_vuelta": 79,
+        "total_paginas": 26,
+        "capitulos": [
+          {
+            "manual": "Epidemiología, Estadística y Planificación y gestión",
+            "capitulo_numero": 6,
+            "capitulo_nombre": "El metanálisis",
+            "paginas": 4
+          },
+          {
+            "manual": "Epidemiología, Estadística y Planificación y gestión",
+            "capitulo_numero": 7,
+            "capitulo_nombre": "Medicina basada en la evidencia",
+            "paginas": 6
+          },
+          {
+            "manual": "Epidemiología, Estadística y Planificación y gestión",
+            "capitulo_numero": 8,
+            "capitulo_nombre": "Estadística. Generalidades",
+            "paginas": 6
+          },
+          {
+            "manual": "Epidemiología, Estadística y Planificación y gestión",
+            "capitulo_numero": 9,
+            "capitulo_nombre": "Principales leyes de distribución de las variables aleatorias",
+            "paginas": 4
+          },
+          {
+            "manual": "Epidemiología, Estadística y Planificación y gestión",
+            "capitulo_numero": 10,
+            "capitulo_nombre": "El contraste de hipótesis",
+            "paginas": 6
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 80,
+        "numero_sesion_vuelta": 80,
+        "total_paginas": 40,
+        "capitulos": [
+          {
+            "manual": "Epidemiología, Estadística y Planificación y gestión",
+            "capitulo_numero": 11,
+            "capitulo_nombre": "El tamaño muestral",
+            "paginas": 2
+          },
+          {
+            "manual": "Epidemiología, Estadística y Planificación y gestión",
+            "capitulo_numero": 12,
+            "capitulo_nombre": "La salud y los sistemas sanitarios",
+            "paginas": 4
+          },
+          {
+            "manual": "Epidemiología, Estadística y Planificación y gestión",
+            "capitulo_numero": 13,
+            "capitulo_nombre": "La atención sanitaria",
+            "paginas": 4
+          },
+          {
+            "manual": "Epidemiología, Estadística y Planificación y gestión",
+            "capitulo_numero": 14,
+            "capitulo_nombre": "La evaluación económica",
+            "paginas": 4
+          },
+          {
+            "manual": "Epidemiología, Estadística y Planificación y gestión",
+            "capitulo_numero": 15,
+            "capitulo_nombre": "La calidad asistencial y la seguridad del paciente",
+            "paginas": 6
+          },
+          {
+            "manual": "Ginecología y Obstetricia",
+            "capitulo_numero": 1,
+            "capitulo_nombre": "Patología mamaria",
+            "paginas": 20
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 81,
+        "numero_sesion_vuelta": 81,
+        "total_paginas": 30,
+        "capitulos": [
+          {
+            "manual": "Ginecología y Obstetricia",
+            "capitulo_numero": 2,
+            "capitulo_nombre": "Amenorreas",
+            "paginas": 7
+          },
+          {
+            "manual": "Ginecología y Obstetricia",
+            "capitulo_numero": 3,
+            "capitulo_nombre": "Síndrome del ovario poliquístico",
+            "paginas": 5
+          },
+          {
+            "manual": "Ginecología y Obstetricia",
+            "capitulo_numero": 4,
+            "capitulo_nombre": "Anticonceptivos",
+            "paginas": 10
+          },
+          {
+            "manual": "Ginecología y Obstetricia",
+            "capitulo_numero": 5,
+            "capitulo_nombre": "Estudio de la pareja con disfunción reproductiva",
+            "paginas": 8
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 82,
+        "numero_sesion_vuelta": 82,
+        "total_paginas": 28,
+        "capitulos": [
+          {
+            "manual": "Ginecología y Obstetricia",
+            "capitulo_numero": 6,
+            "capitulo_nombre": "Patología uterina benigna",
+            "paginas": 10
+          },
+          {
+            "manual": "Ginecología y Obstetricia",
+            "capitulo_numero": 7,
+            "capitulo_nombre": "Patología uterina maligna",
+            "paginas": 6
+          },
+          {
+            "manual": "Ginecología y Obstetricia",
+            "capitulo_numero": 8,
+            "capitulo_nombre": "Patología ovárica benigna",
+            "paginas": 6
+          },
+          {
+            "manual": "Ginecología y Obstetricia",
+            "capitulo_numero": 9,
+            "capitulo_nombre": "Cáncer de ovario",
+            "paginas": 6
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 83,
+        "numero_sesion_vuelta": 83,
+        "total_paginas": 26,
+        "capitulos": [
+          {
+            "manual": "Ginecología y Obstetricia",
+            "capitulo_numero": 10,
+            "capitulo_nombre": "Prevención del cáncer del cuello de útero",
+            "paginas": 6
+          },
+          {
+            "manual": "Ginecología y Obstetricia",
+            "capitulo_numero": 11,
+            "capitulo_nombre": "Cáncer de cérvix",
+            "paginas": 6
+          },
+          {
+            "manual": "Ginecología y Obstetricia",
+            "capitulo_numero": 12,
+            "capitulo_nombre": "Infecciones vulvovaginales. Enfermedad inflamatoria pélvica",
+            "paginas": 8
+          },
+          {
+            "manual": "Ginecología y Obstetricia",
+            "capitulo_numero": 13,
+            "capitulo_nombre": "Patología vulvar",
+            "paginas": 6
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 84,
+        "numero_sesion_vuelta": 84,
+        "total_paginas": 28,
+        "capitulos": [
+          {
+            "manual": "Ginecología y Obstetricia",
+            "capitulo_numero": 14,
+            "capitulo_nombre": "Control del embarazo normal",
+            "paginas": 6
+          },
+          {
+            "manual": "Ginecología y Obstetricia",
+            "capitulo_numero": 15,
+            "capitulo_nombre": "Diagnóstico prenatal",
+            "paginas": 6
+          },
+          {
+            "manual": "Ginecología y Obstetricia",
+            "capitulo_numero": 16,
+            "capitulo_nombre": "Hemorragias del primer trimestre",
+            "paginas": 10
+          },
+          {
+            "manual": "Ginecología y Obstetricia",
+            "capitulo_numero": 17,
+            "capitulo_nombre": "Hemorragias del tercer trimestre",
+            "paginas": 6
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 85,
+        "numero_sesion_vuelta": 85,
+        "total_paginas": 28,
+        "capitulos": [
+          {
+            "manual": "Ginecología y Obstetricia",
+            "capitulo_numero": 18,
+            "capitulo_nombre": "Trastornos hipertensivos durante la gestación",
+            "paginas": 8
+          },
+          {
+            "manual": "Ginecología y Obstetricia",
+            "capitulo_numero": 19,
+            "capitulo_nombre": "Diabetes gestacional",
+            "paginas": 4
+          },
+          {
+            "manual": "Ginecología y Obstetricia",
+            "capitulo_numero": 20,
+            "capitulo_nombre": "Patología médica y gestación",
+            "paginas": 8
+          },
+          {
+            "manual": "Ginecología y Obstetricia",
+            "capitulo_numero": 21,
+            "capitulo_nombre": "Parto pretérmino",
+            "paginas": 8
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 86,
+        "numero_sesion_vuelta": 86,
+        "total_paginas": 48,
+        "capitulos": [
+          {
+            "manual": "Ginecología y Obstetricia",
+            "capitulo_numero": 22,
+            "capitulo_nombre": "Inducción al parto. Gestación cronológicamente prolongada",
+            "paginas": 4
+          },
+          {
+            "manual": "Ginecología y Obstetricia",
+            "capitulo_numero": 23,
+            "capitulo_nombre": "Control del bienestar fetal",
+            "paginas": 6
+          },
+          {
+            "manual": "Ginecología y Obstetricia",
+            "capitulo_numero": 24,
+            "capitulo_nombre": "Parto normal. Parto instrumental. Cesárea",
+            "paginas": 6
+          },
+          {
+            "manual": "Ginecología y Obstetricia",
+            "capitulo_numero": 25,
+            "capitulo_nombre": "Parto en presentación podálica. Versión cefálica externa. Gestación gemelar",
+            "paginas": 4
+          },
+          {
+            "manual": "Ginecología y Obstetricia",
+            "capitulo_numero": 26,
+            "capitulo_nombre": "Patología del puerperio",
+            "paginas": 8
+          },
+          {
+            "manual": "Radiología",
+            "capitulo_numero": 1,
+            "capitulo_nombre": "Tórax",
+            "paginas": 20
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 87,
+        "numero_sesion_vuelta": 87,
+        "total_paginas": 36,
+        "capitulos": [
+          {
+            "manual": "Radiología",
+            "capitulo_numero": 2,
+            "capitulo_nombre": "Abdomen",
+            "paginas": 36
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 88,
+        "numero_sesion_vuelta": 88,
+        "total_paginas": 48,
+        "capitulos": [
+          {
+            "manual": "Radiología",
+            "capitulo_numero": 3,
+            "capitulo_nombre": "Neurorradiología",
+            "paginas": 24
+          },
+          {
+            "manual": "Radiología",
+            "capitulo_numero": 4,
+            "capitulo_nombre": "Imagen cardíaca",
+            "paginas": 24
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 89,
+        "numero_sesion_vuelta": 89,
+        "total_paginas": 36,
+        "capitulos": [
+          {
+            "manual": "Radiología",
+            "capitulo_numero": 5,
+            "capitulo_nombre": "Musculoesquelético",
+            "paginas": 20
+          },
+          {
+            "manual": "Radiología",
+            "capitulo_numero": 6,
+            "capitulo_nombre": "Ginecología",
+            "paginas": 16
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 90,
+        "numero_sesion_vuelta": 90,
+        "total_paginas": 24,
+        "capitulos": [
+          {
+            "manual": "Radiología",
+            "capitulo_numero": 7,
+            "capitulo_nombre": "Pediatría",
+            "paginas": 18
+          },
+          {
+            "manual": "Radiología",
+            "capitulo_numero": 8,
+            "capitulo_nombre": "Medicina nuclear",
+            "paginas": 6
+          }
+        ]
+      }
+    ]
+  },
+  "vuelta2": {
+    "descripcion": "Repaso rápido - ritmo acelerado",
+    "paginas_por_sesion_media": 44.88333333333333,
+    "rango_paginas": {
+      "min": 34,
+      "max": 84
+    },
+    "sesiones": [
+      {
+        "numero_sesion_global": 91,
+        "numero_sesion_vuelta": 1,
+        "total_paginas": 42,
+        "capitulos": [
+          {
+            "manual": "Neurología",
+            "capitulo_numero": 1,
+            "capitulo_nombre": "Introducción: anatomía, semiología y fisiología del sistema nervioso",
+            "paginas": 16
+          },
+          {
+            "manual": "Neurología",
+            "capitulo_numero": 2,
+            "capitulo_nombre": "Coma. Muerte encefálica",
+            "paginas": 4
+          },
+          {
+            "manual": "Neurología",
+            "capitulo_numero": 3,
+            "capitulo_nombre": "Demencias",
+            "paginas": 8
+          },
+          {
+            "manual": "Neurología",
+            "capitulo_numero": 4,
+            "capitulo_nombre": "Enfermedades vasculares cerebrales",
+            "paginas": 14
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 92,
+        "numero_sesion_vuelta": 2,
+        "total_paginas": 34,
+        "capitulos": [
+          {
+            "manual": "Neurología",
+            "capitulo_numero": 5,
+            "capitulo_nombre": "Trastornos del movimiento",
+            "paginas": 10
+          },
+          {
+            "manual": "Neurología",
+            "capitulo_numero": 6,
+            "capitulo_nombre": "Enfermedades por alteración de la mielina",
+            "paginas": 8
+          },
+          {
+            "manual": "Neurología",
+            "capitulo_numero": 7,
+            "capitulo_nombre": "Epilepsia",
+            "paginas": 12
+          },
+          {
+            "manual": "Neurología",
+            "capitulo_numero": 8,
+            "capitulo_nombre": "Enfermedades degenerativas del sistema nervioso",
+            "paginas": 4
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 93,
+        "numero_sesion_vuelta": 3,
+        "total_paginas": 34,
+        "capitulos": [
+          {
+            "manual": "Neurología",
+            "capitulo_numero": 9,
+            "capitulo_nombre": "Enfermedades virales y priónicas del sistema nervioso",
+            "paginas": 6
+          },
+          {
+            "manual": "Neurología",
+            "capitulo_numero": 10,
+            "capitulo_nombre": "Enfermedades nutricionales y metabólicas del sistema nervioso",
+            "paginas": 4
+          },
+          {
+            "manual": "Neurología",
+            "capitulo_numero": 11,
+            "capitulo_nombre": "Neuropatías",
+            "paginas": 8
+          },
+          {
+            "manual": "Neurología",
+            "capitulo_numero": 12,
+            "capitulo_nombre": "Enfermedades de la placa motora",
+            "paginas": 6
+          },
+          {
+            "manual": "Neurología",
+            "capitulo_numero": 13,
+            "capitulo_nombre": "Miopatías",
+            "paginas": 4
+          },
+          {
+            "manual": "Neurología",
+            "capitulo_numero": 14,
+            "capitulo_nombre": "Cefaleas",
+            "paginas": 6
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 94,
+        "numero_sesion_vuelta": 4,
+        "total_paginas": 34,
+        "capitulos": [
+          {
+            "manual": "Neurología",
+            "capitulo_numero": 15,
+            "capitulo_nombre": "Síndrome de hipertensión intracraneal",
+            "paginas": 4
+          },
+          {
+            "manual": "Neurología",
+            "capitulo_numero": 16,
+            "capitulo_nombre": "Hidrocefalia",
+            "paginas": 6
+          },
+          {
+            "manual": "Neurología",
+            "capitulo_numero": 17,
+            "capitulo_nombre": "Tumores intracraneales",
+            "paginas": 12
+          },
+          {
+            "manual": "Neurología",
+            "capitulo_numero": 18,
+            "capitulo_nombre": "Traumatismos craneoencefálicos",
+            "paginas": 8
+          },
+          {
+            "manual": "Neurología",
+            "capitulo_numero": 19,
+            "capitulo_nombre": "Absceso cerebral y empiema subdural",
+            "paginas": 4
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 95,
+        "numero_sesion_vuelta": 5,
+        "total_paginas": 36,
+        "capitulos": [
+          {
+            "manual": "Neurología",
+            "capitulo_numero": 20,
+            "capitulo_nombre": "Patología raquimedular",
+            "paginas": 12
+          },
+          {
+            "manual": "Neurología",
+            "capitulo_numero": 21,
+            "capitulo_nombre": "Anomalías del desarrollo",
+            "paginas": 4
+          },
+          {
+            "manual": "Neurología",
+            "capitulo_numero": 22,
+            "capitulo_nombre": "Neurocirugía funcional",
+            "paginas": 4
+          },
+          {
+            "manual": "Neurología",
+            "capitulo_numero": 23,
+            "capitulo_nombre": "Neuroimagen",
+            "paginas": 8
+          },
+          {
+            "manual": "Oftalmología",
+            "capitulo_numero": 1,
+            "capitulo_nombre": "Embriología, anatomía y fisiología oculares",
+            "paginas": 8
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 96,
+        "numero_sesion_vuelta": 6,
+        "total_paginas": 36,
+        "capitulos": [
+          {
+            "manual": "Oftalmología",
+            "capitulo_numero": 2,
+            "capitulo_nombre": "Refracción",
+            "paginas": 4
+          },
+          {
+            "manual": "Oftalmología",
+            "capitulo_numero": 3,
+            "capitulo_nombre": "Párpados",
+            "paginas": 4
+          },
+          {
+            "manual": "Oftalmología",
+            "capitulo_numero": 4,
+            "capitulo_nombre": "Órbita",
+            "paginas": 6
+          },
+          {
+            "manual": "Oftalmología",
+            "capitulo_numero": 5,
+            "capitulo_nombre": "Aparato lagrimal",
+            "paginas": 4
+          },
+          {
+            "manual": "Oftalmología",
+            "capitulo_numero": 6,
+            "capitulo_nombre": "Conjuntiva",
+            "paginas": 6
+          },
+          {
+            "manual": "Oftalmología",
+            "capitulo_numero": 7,
+            "capitulo_nombre": "Córnea y esclera",
+            "paginas": 6
+          },
+          {
+            "manual": "Oftalmología",
+            "capitulo_numero": 8,
+            "capitulo_nombre": "Cristalino",
+            "paginas": 6
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 97,
+        "numero_sesion_vuelta": 7,
+        "total_paginas": 34,
+        "capitulos": [
+          {
+            "manual": "Oftalmología",
+            "capitulo_numero": 9,
+            "capitulo_nombre": "Glaucoma",
+            "paginas": 8
+          },
+          {
+            "manual": "Oftalmología",
+            "capitulo_numero": 10,
+            "capitulo_nombre": "Uveítis",
+            "paginas": 6
+          },
+          {
+            "manual": "Oftalmología",
+            "capitulo_numero": 11,
+            "capitulo_nombre": "Vítreo y retina",
+            "paginas": 14
+          },
+          {
+            "manual": "Oftalmología",
+            "capitulo_numero": 12,
+            "capitulo_nombre": "Estrabismo",
+            "paginas": 6
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 98,
+        "numero_sesion_vuelta": 8,
+        "total_paginas": 45,
+        "capitulos": [
+          {
+            "manual": "Oftalmología",
+            "capitulo_numero": 13,
+            "capitulo_nombre": "Neuroftalmología",
+            "paginas": 8
+          },
+          {
+            "manual": "Oftalmología",
+            "capitulo_numero": 14,
+            "capitulo_nombre": "Traumatismos oculares",
+            "paginas": 4
+          },
+          {
+            "manual": "Oftalmología",
+            "capitulo_numero": 15,
+            "capitulo_nombre": "Fármacos en oftalmología",
+            "paginas": 4
+          },
+          {
+            "manual": "Oftalmología",
+            "capitulo_numero": 16,
+            "capitulo_nombre": "Oftalmología pediátrica",
+            "paginas": 4
+          },
+          {
+            "manual": "Oftalmología",
+            "capitulo_numero": 17,
+            "capitulo_nombre": "Tomografía de coherencia óptica",
+            "paginas": 6
+          },
+          {
+            "manual": "Oftalmología",
+            "capitulo_numero": 18,
+            "capitulo_nombre": "Cirugía refractiva y láser en oftalmología",
+            "paginas": 6
+          },
+          {
+            "manual": "Otorrinolaringología",
+            "capitulo_numero": 1,
+            "capitulo_nombre": "Recuerdo anatómico y fisiológico en otorrinolaringología",
+            "paginas": 13
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 99,
+        "numero_sesion_vuelta": 9,
+        "total_paginas": 52,
+        "capitulos": [
+          {
+            "manual": "Otorrinolaringología",
+            "capitulo_numero": 2,
+            "capitulo_nombre": "Otología",
+            "paginas": 30
+          },
+          {
+            "manual": "Otorrinolaringología",
+            "capitulo_numero": 3,
+            "capitulo_nombre": "Rinología",
+            "paginas": 1
+          },
+          {
+            "manual": "Otorrinolaringología",
+            "capitulo_numero": 4,
+            "capitulo_nombre": "Patología de la faringe",
+            "paginas": 0
+          },
+          {
+            "manual": "Otorrinolaringología",
+            "capitulo_numero": 5,
+            "capitulo_nombre": "Patología de la laringe",
+            "paginas": 21
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 100,
+        "numero_sesion_vuelta": 10,
+        "total_paginas": 43,
+        "capitulos": [
+          {
+            "manual": "Otorrinolaringología",
+            "capitulo_numero": 6,
+            "capitulo_nombre": "Patología de las glándulas salivales",
+            "paginas": 6
+          },
+          {
+            "manual": "Otorrinolaringología",
+            "capitulo_numero": 7,
+            "capitulo_nombre": "Cirugía maxilofacial",
+            "paginas": 6
+          },
+          {
+            "manual": "Otorrinolaringología",
+            "capitulo_numero": 8,
+            "capitulo_nombre": "Patología cervical",
+            "paginas": 5
+          },
+          {
+            "manual": "Pediatría",
+            "capitulo_numero": 1,
+            "capitulo_nombre": "Neonatología",
+            "paginas": 26
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 101,
+        "numero_sesion_vuelta": 11,
+        "total_paginas": 47,
+        "capitulos": [
+          {
+            "manual": "Pediatría",
+            "capitulo_numero": 2,
+            "capitulo_nombre": "Desarrollo y nutrición",
+            "paginas": 16
+          },
+          {
+            "manual": "Pediatría",
+            "capitulo_numero": 3,
+            "capitulo_nombre": "Patología respiratoria pediátrica",
+            "paginas": 12
+          },
+          {
+            "manual": "Pediatría",
+            "capitulo_numero": 4,
+            "capitulo_nombre": "Patología digestiva pediátrica",
+            "paginas": 19
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 102,
+        "numero_sesion_vuelta": 12,
+        "total_paginas": 34,
+        "capitulos": [
+          {
+            "manual": "Pediatría",
+            "capitulo_numero": 5,
+            "capitulo_nombre": "Patología nefrourológica pediátrica",
+            "paginas": 10
+          },
+          {
+            "manual": "Pediatría",
+            "capitulo_numero": 6,
+            "capitulo_nombre": "Oncología pediátrica",
+            "paginas": 6
+          },
+          {
+            "manual": "Pediatría",
+            "capitulo_numero": 7,
+            "capitulo_nombre": "Enfermedades infecciosas",
+            "paginas": 14
+          },
+          {
+            "manual": "Pediatría",
+            "capitulo_numero": 8,
+            "capitulo_nombre": "Síndrome de la muerte súbita del lactante",
+            "paginas": 4
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 103,
+        "numero_sesion_vuelta": 13,
+        "total_paginas": 43,
+        "capitulos": [
+          {
+            "manual": "Pediatría",
+            "capitulo_numero": 9,
+            "capitulo_nombre": "Maltrato infantil",
+            "paginas": 4
+          },
+          {
+            "manual": "Pediatría",
+            "capitulo_numero": 10,
+            "capitulo_nombre": "Vacunas",
+            "paginas": 10
+          },
+          {
+            "manual": "Pediatría",
+            "capitulo_numero": 11,
+            "capitulo_nombre": "Metabolopatías",
+            "paginas": 8
+          },
+          {
+            "manual": "Pediatría",
+            "capitulo_numero": 12,
+            "capitulo_nombre": "Calendario quirúrgico pediátrico",
+            "paginas": 5
+          },
+          {
+            "manual": "Psiquiatría",
+            "capitulo_numero": 1,
+            "capitulo_nombre": "Trastornos neuróticos",
+            "paginas": 16
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 104,
+        "numero_sesion_vuelta": 14,
+        "total_paginas": 36,
+        "capitulos": [
+          {
+            "manual": "Psiquiatría",
+            "capitulo_numero": 2,
+            "capitulo_nombre": "Trastornos del estado de ánimo",
+            "paginas": 24
+          },
+          {
+            "manual": "Psiquiatría",
+            "capitulo_numero": 3,
+            "capitulo_nombre": "Trastornos psicóticos",
+            "paginas": 12
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 105,
+        "numero_sesion_vuelta": 15,
+        "total_paginas": 36,
+        "capitulos": [
+          {
+            "manual": "Psiquiatría",
+            "capitulo_numero": 4,
+            "capitulo_nombre": "Trastornos relacionados con sustancias",
+            "paginas": 14
+          },
+          {
+            "manual": "Psiquiatría",
+            "capitulo_numero": 5,
+            "capitulo_nombre": "Trastornos neurocognitivos",
+            "paginas": 6
+          },
+          {
+            "manual": "Psiquiatría",
+            "capitulo_numero": 6,
+            "capitulo_nombre": "Trastornos de la conducta alimentaria",
+            "paginas": 6
+          },
+          {
+            "manual": "Psiquiatría",
+            "capitulo_numero": 7,
+            "capitulo_nombre": "Trastornos de la personalidad",
+            "paginas": 4
+          },
+          {
+            "manual": "Psiquiatría",
+            "capitulo_numero": 8,
+            "capitulo_nombre": "Trastornos del sueño",
+            "paginas": 6
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 106,
+        "numero_sesion_vuelta": 16,
+        "total_paginas": 43,
+        "capitulos": [
+          {
+            "manual": "Psiquiatría",
+            "capitulo_numero": 9,
+            "capitulo_nombre": "Trastornos de la infancia y la adolescencia",
+            "paginas": 6
+          },
+          {
+            "manual": "Psiquiatría",
+            "capitulo_numero": 10,
+            "capitulo_nombre": "Trastornos sexuales",
+            "paginas": 2
+          },
+          {
+            "manual": "Psiquiatría",
+            "capitulo_numero": 11,
+            "capitulo_nombre": "Psicología médica, epidemiología y neuroquímica",
+            "paginas": 7
+          },
+          {
+            "manual": "Reumatología",
+            "capitulo_numero": 1,
+            "capitulo_nombre": "Aspectos generales de las enfermedades reumáticas",
+            "paginas": 6
+          },
+          {
+            "manual": "Reumatología",
+            "capitulo_numero": 2,
+            "capitulo_nombre": "Enfermedades metabólicas óseas",
+            "paginas": 10
+          },
+          {
+            "manual": "Reumatología",
+            "capitulo_numero": 3,
+            "capitulo_nombre": "Artritis reumatoide",
+            "paginas": 12
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 107,
+        "numero_sesion_vuelta": 17,
+        "total_paginas": 44,
+        "capitulos": [
+          {
+            "manual": "Reumatología",
+            "capitulo_numero": 4,
+            "capitulo_nombre": "Espondiloartritis",
+            "paginas": 12
+          },
+          {
+            "manual": "Reumatología",
+            "capitulo_numero": 5,
+            "capitulo_nombre": "Artritis por microcristales",
+            "paginas": 10
+          },
+          {
+            "manual": "Reumatología",
+            "capitulo_numero": 6,
+            "capitulo_nombre": "Infecciones osteoarticulares",
+            "paginas": 6
+          },
+          {
+            "manual": "Reumatología",
+            "capitulo_numero": 7,
+            "capitulo_nombre": "Artrosis",
+            "paginas": 4
+          },
+          {
+            "manual": "Reumatología",
+            "capitulo_numero": 8,
+            "capitulo_nombre": "Vasculitis",
+            "paginas": 12
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 108,
+        "numero_sesion_vuelta": 18,
+        "total_paginas": 34,
+        "capitulos": [
+          {
+            "manual": "Reumatología",
+            "capitulo_numero": 9,
+            "capitulo_nombre": "Lupus eritematoso sistémico",
+            "paginas": 12
+          },
+          {
+            "manual": "Reumatología",
+            "capitulo_numero": 10,
+            "capitulo_nombre": "Esclerosis sistémica",
+            "paginas": 8
+          },
+          {
+            "manual": "Reumatología",
+            "capitulo_numero": 11,
+            "capitulo_nombre": "Amiloidosis y síndromes autoinflamatorios",
+            "paginas": 6
+          },
+          {
+            "manual": "Reumatología",
+            "capitulo_numero": 12,
+            "capitulo_nombre": "Síndrome de Sjögren",
+            "paginas": 4
+          },
+          {
+            "manual": "Reumatología",
+            "capitulo_numero": 13,
+            "capitulo_nombre": "Miopatías inflamatorias",
+            "paginas": 4
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 109,
+        "numero_sesion_vuelta": 19,
+        "total_paginas": 38,
+        "capitulos": [
+          {
+            "manual": "Reumatología",
+            "capitulo_numero": 14,
+            "capitulo_nombre": "Otras enfermedades",
+            "paginas": 8
+          },
+          {
+            "manual": "Traumatología",
+            "capitulo_numero": 1,
+            "capitulo_nombre": "Fracturas",
+            "paginas": 30
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 110,
+        "numero_sesion_vuelta": 20,
+        "total_paginas": 40,
+        "capitulos": [
+          {
+            "manual": "Traumatología",
+            "capitulo_numero": 2,
+            "capitulo_nombre": "Luxaciones",
+            "paginas": 8
+          },
+          {
+            "manual": "Traumatología",
+            "capitulo_numero": 3,
+            "capitulo_nombre": "Lesiones traumáticas e inflamatorias de partes blandas",
+            "paginas": 12
+          },
+          {
+            "manual": "Traumatología",
+            "capitulo_numero": 4,
+            "capitulo_nombre": "Sistema nervioso periférico",
+            "paginas": 8
+          },
+          {
+            "manual": "Traumatología",
+            "capitulo_numero": 5,
+            "capitulo_nombre": "Tumores y lesiones óseas seudotumorales. Tumores de partes blandas",
+            "paginas": 12
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 111,
+        "numero_sesion_vuelta": 21,
+        "total_paginas": 36,
+        "capitulos": [
+          {
+            "manual": "Traumatología",
+            "capitulo_numero": 6,
+            "capitulo_nombre": "Ortopedia infantil y del adolescente",
+            "paginas": 16
+          },
+          {
+            "manual": "Traumatología",
+            "capitulo_numero": 7,
+            "capitulo_nombre": "Cirugía reconstructiva del adulto",
+            "paginas": 8
+          },
+          {
+            "manual": "Traumatología",
+            "capitulo_numero": 8,
+            "capitulo_nombre": "Patología de la columna vertebral",
+            "paginas": 12
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 112,
+        "numero_sesion_vuelta": 22,
+        "total_paginas": 35,
+        "capitulos": [
+          {
+            "manual": "Urgencias y Geriatría",
+            "capitulo_numero": 1,
+            "capitulo_nombre": "Triaje",
+            "paginas": 4
+          },
+          {
+            "manual": "Urgencias y Geriatría",
+            "capitulo_numero": 2,
+            "capitulo_nombre": "Técnicas diagnóstico-terapéuticas en Urgencias",
+            "paginas": 8
+          },
+          {
+            "manual": "Urgencias y Geriatría",
+            "capitulo_numero": 3,
+            "capitulo_nombre": "Situaciones emergentes en Urgencias",
+            "paginas": 6
+          },
+          {
+            "manual": "Urgencias y Geriatría",
+            "capitulo_numero": 4,
+            "capitulo_nombre": "Síndromes específicos de Urgencias",
+            "paginas": 8
+          },
+          {
+            "manual": "Urgencias y Geriatría",
+            "capitulo_numero": 5,
+            "capitulo_nombre": "Intoxicaciones",
+            "paginas": 9
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 113,
+        "numero_sesion_vuelta": 23,
+        "total_paginas": 36,
+        "capitulos": [
+          {
+            "manual": "Urología",
+            "capitulo_numero": 1,
+            "capitulo_nombre": "Semiología urológica y definiciones. Cistitis intersticial",
+            "paginas": 2
+          },
+          {
+            "manual": "Urología",
+            "capitulo_numero": 2,
+            "capitulo_nombre": "Infecciones del tracto urinario",
+            "paginas": 8
+          },
+          {
+            "manual": "Urología",
+            "capitulo_numero": 3,
+            "capitulo_nombre": "Urolitiasis",
+            "paginas": 7
+          },
+          {
+            "manual": "Urología",
+            "capitulo_numero": 4,
+            "capitulo_nombre": "Tumores renales",
+            "paginas": 5
+          },
+          {
+            "manual": "Urología",
+            "capitulo_numero": 5,
+            "capitulo_nombre": "Hiperplasia prostática benigna y carcinoma prostático",
+            "paginas": 8
+          },
+          {
+            "manual": "Urología",
+            "capitulo_numero": 6,
+            "capitulo_nombre": "Carcinomas del tracto urinario",
+            "paginas": 6
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 114,
+        "numero_sesion_vuelta": 24,
+        "total_paginas": 44,
+        "capitulos": [
+          {
+            "manual": "Urología",
+            "capitulo_numero": 7,
+            "capitulo_nombre": "Tumores testiculares",
+            "paginas": 5
+          },
+          {
+            "manual": "Urología",
+            "capitulo_numero": 8,
+            "capitulo_nombre": "Trasplante renal",
+            "paginas": 2
+          },
+          {
+            "manual": "Urología",
+            "capitulo_numero": 9,
+            "capitulo_nombre": "Uropatía obstructiva",
+            "paginas": 3
+          },
+          {
+            "manual": "Urología",
+            "capitulo_numero": 10,
+            "capitulo_nombre": "Andrología",
+            "paginas": 6
+          },
+          {
+            "manual": "Neumología",
+            "capitulo_numero": 1,
+            "capitulo_nombre": "Recuerdo anatómico",
+            "paginas": 4
+          },
+          {
+            "manual": "Neumología",
+            "capitulo_numero": 2,
+            "capitulo_nombre": "Síntomas cardinales y exploración del aparato respiratorio",
+            "paginas": 6
+          },
+          {
+            "manual": "Neumología",
+            "capitulo_numero": 3,
+            "capitulo_nombre": "Malformaciones",
+            "paginas": 4
+          },
+          {
+            "manual": "Neumología",
+            "capitulo_numero": 4,
+            "capitulo_nombre": "Fisiología y fisiopatología",
+            "paginas": 14
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 115,
+        "numero_sesion_vuelta": 25,
+        "total_paginas": 36,
+        "capitulos": [
+          {
+            "manual": "Neumología",
+            "capitulo_numero": 5,
+            "capitulo_nombre": "Insuficiencia respiratoria",
+            "paginas": 6
+          },
+          {
+            "manual": "Neumología",
+            "capitulo_numero": 6,
+            "capitulo_nombre": "Enfermedad pulmonar obstructiva crónica",
+            "paginas": 12
+          },
+          {
+            "manual": "Neumología",
+            "capitulo_numero": 7,
+            "capitulo_nombre": "Asma",
+            "paginas": 14
+          },
+          {
+            "manual": "Neumología",
+            "capitulo_numero": 8,
+            "capitulo_nombre": "Bronquiectasias. Bronquiolitis",
+            "paginas": 4
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 116,
+        "numero_sesion_vuelta": 26,
+        "total_paginas": 40,
+        "capitulos": [
+          {
+            "manual": "Neumología",
+            "capitulo_numero": 9,
+            "capitulo_nombre": "Enfermedades pulmonares parenquimatosas difusas",
+            "paginas": 26
+          },
+          {
+            "manual": "Neumología",
+            "capitulo_numero": 10,
+            "capitulo_nombre": "Enfermedades vasculares pulmonares",
+            "paginas": 14
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 117,
+        "numero_sesion_vuelta": 27,
+        "total_paginas": 40,
+        "capitulos": [
+          {
+            "manual": "Neumología",
+            "capitulo_numero": 11,
+            "capitulo_nombre": "Enfermedades de la pleura",
+            "paginas": 8
+          },
+          {
+            "manual": "Neumología",
+            "capitulo_numero": 12,
+            "capitulo_nombre": "Enfermedades del mediastino y del diafragma",
+            "paginas": 6
+          },
+          {
+            "manual": "Neumología",
+            "capitulo_numero": 13,
+            "capitulo_nombre": "Neoplasias pulmonares",
+            "paginas": 16
+          },
+          {
+            "manual": "Neumología",
+            "capitulo_numero": 14,
+            "capitulo_nombre": "Trastornos de la ventilación y apnea del sueño",
+            "paginas": 10
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 118,
+        "numero_sesion_vuelta": 28,
+        "total_paginas": 38,
+        "capitulos": [
+          {
+            "manual": "Neumología",
+            "capitulo_numero": 15,
+            "capitulo_nombre": "Trasplante de pulmón",
+            "paginas": 6
+          },
+          {
+            "manual": "Inmunología y Genética",
+            "capitulo_numero": 1,
+            "capitulo_nombre": "Introducción al sistema inmunitario",
+            "paginas": 8
+          },
+          {
+            "manual": "Inmunología y Genética",
+            "capitulo_numero": 2,
+            "capitulo_nombre": "Inmunidad innata",
+            "paginas": 8
+          },
+          {
+            "manual": "Inmunología y Genética",
+            "capitulo_numero": 3,
+            "capitulo_nombre": "Inmunidad adaptativa",
+            "paginas": 10
+          },
+          {
+            "manual": "Inmunología y Genética",
+            "capitulo_numero": 4,
+            "capitulo_nombre": "Reacciones de hipersensibilidad",
+            "paginas": 6
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 119,
+        "numero_sesion_vuelta": 29,
+        "total_paginas": 41,
+        "capitulos": [
+          {
+            "manual": "Inmunología y Genética",
+            "capitulo_numero": 5,
+            "capitulo_nombre": "Inmunodeficiencias",
+            "paginas": 8
+          },
+          {
+            "manual": "Inmunología y Genética",
+            "capitulo_numero": 6,
+            "capitulo_nombre": "Trasplante de precursores hematopoyéticos y de órgano sólido",
+            "paginas": 10
+          },
+          {
+            "manual": "Inmunología y Genética",
+            "capitulo_numero": 7,
+            "capitulo_nombre": "Fundamentos genéticos",
+            "paginas": 15
+          },
+          {
+            "manual": "Nefrología",
+            "capitulo_numero": 1,
+            "capitulo_nombre": "Recuerdo anatómico y fisiológico renal",
+            "paginas": 8
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 120,
+        "numero_sesion_vuelta": 30,
+        "total_paginas": 38,
+        "capitulos": [
+          {
+            "manual": "Nefrología",
+            "capitulo_numero": 2,
+            "capitulo_nombre": "Alteraciones del equilibrio hidroelectrolítico",
+            "paginas": 8
+          },
+          {
+            "manual": "Nefrología",
+            "capitulo_numero": 3,
+            "capitulo_nombre": "Alteraciones del equilibrio ácido-base",
+            "paginas": 10
+          },
+          {
+            "manual": "Nefrología",
+            "capitulo_numero": 4,
+            "capitulo_nombre": "Fallo renal agudo",
+            "paginas": 8
+          },
+          {
+            "manual": "Nefrología",
+            "capitulo_numero": 5,
+            "capitulo_nombre": "Enfermedad renal crónica",
+            "paginas": 12
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 121,
+        "numero_sesion_vuelta": 31,
+        "total_paginas": 38,
+        "capitulos": [
+          {
+            "manual": "Nefrología",
+            "capitulo_numero": 6,
+            "capitulo_nombre": "Síndrome nefrótico",
+            "paginas": 6
+          },
+          {
+            "manual": "Nefrología",
+            "capitulo_numero": 7,
+            "capitulo_nombre": "Síndrome nefrítico",
+            "paginas": 6
+          },
+          {
+            "manual": "Nefrología",
+            "capitulo_numero": 8,
+            "capitulo_nombre": "Glomerulonefritis rápidamente progresiva",
+            "paginas": 4
+          },
+          {
+            "manual": "Nefrología",
+            "capitulo_numero": 9,
+            "capitulo_nombre": "Nefropatía diabética",
+            "paginas": 6
+          },
+          {
+            "manual": "Nefrología",
+            "capitulo_numero": 10,
+            "capitulo_nombre": "Enfermedades sistémicas con afectación renal",
+            "paginas": 6
+          },
+          {
+            "manual": "Nefrología",
+            "capitulo_numero": 11,
+            "capitulo_nombre": "Nefropatía tubulointersticial",
+            "paginas": 4
+          },
+          {
+            "manual": "Nefrología",
+            "capitulo_numero": 12,
+            "capitulo_nombre": "Enfermedades quísticas renales",
+            "paginas": 6
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 122,
+        "numero_sesion_vuelta": 32,
+        "total_paginas": 46,
+        "capitulos": [
+          {
+            "manual": "Nefrología",
+            "capitulo_numero": 13,
+            "capitulo_nombre": "Afectación renal en el mieloma múltiple",
+            "paginas": 4
+          },
+          {
+            "manual": "Nefrología",
+            "capitulo_numero": 14,
+            "capitulo_nombre": "Hipertensión arterial y riñón",
+            "paginas": 6
+          },
+          {
+            "manual": "Hematología",
+            "capitulo_numero": 1,
+            "capitulo_nombre": "Introducción al sistema hematopoyético. Generalidades de anemias",
+            "paginas": 8
+          },
+          {
+            "manual": "Hematología",
+            "capitulo_numero": 2,
+            "capitulo_nombre": "Síndrome hemolítico. Anemias hemolíticas adquiridas",
+            "paginas": 8
+          },
+          {
+            "manual": "Hematología",
+            "capitulo_numero": 3,
+            "capitulo_nombre": "Anemias hemolíticas congénitas",
+            "paginas": 10
+          },
+          {
+            "manual": "Hematología",
+            "capitulo_numero": 4,
+            "capitulo_nombre": "Anemias carenciales",
+            "paginas": 10
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 123,
+        "numero_sesion_vuelta": 33,
+        "total_paginas": 40,
+        "capitulos": [
+          {
+            "manual": "Hematología",
+            "capitulo_numero": 5,
+            "capitulo_nombre": "Síndromes de insuficiencia medular",
+            "paginas": 6
+          },
+          {
+            "manual": "Hematología",
+            "capitulo_numero": 6,
+            "capitulo_nombre": "Síndromes mieloproliferativos crónicos",
+            "paginas": 10
+          },
+          {
+            "manual": "Hematología",
+            "capitulo_numero": 7,
+            "capitulo_nombre": "Síndromes mielodisplásicos",
+            "paginas": 4
+          },
+          {
+            "manual": "Hematología",
+            "capitulo_numero": 8,
+            "capitulo_nombre": "Leucemia aguda",
+            "paginas": 8
+          },
+          {
+            "manual": "Hematología",
+            "capitulo_numero": 9,
+            "capitulo_nombre": "Síndromes linfoproliferativos crónicos con expresión leucémica",
+            "paginas": 6
+          },
+          {
+            "manual": "Hematología",
+            "capitulo_numero": 10,
+            "capitulo_nombre": "Linfoma de Hodgkin",
+            "paginas": 6
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 124,
+        "numero_sesion_vuelta": 34,
+        "total_paginas": 42,
+        "capitulos": [
+          {
+            "manual": "Hematología",
+            "capitulo_numero": 11,
+            "capitulo_nombre": "Linfoma no Hodgkin",
+            "paginas": 10
+          },
+          {
+            "manual": "Hematología",
+            "capitulo_numero": 12,
+            "capitulo_nombre": "Mieloma múltiple y otras neoplasias de células plasmáticas",
+            "paginas": 8
+          },
+          {
+            "manual": "Hematología",
+            "capitulo_numero": 13,
+            "capitulo_nombre": "Hemostasia. Fisiología y exploración. Trombocitopenias",
+            "paginas": 8
+          },
+          {
+            "manual": "Hematología",
+            "capitulo_numero": 14,
+            "capitulo_nombre": "Alteraciones de la coagulación",
+            "paginas": 8
+          },
+          {
+            "manual": "Hematología",
+            "capitulo_numero": 15,
+            "capitulo_nombre": "Anticoagulantes, antiagregantes y fibrinolíticos",
+            "paginas": 8
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 125,
+        "numero_sesion_vuelta": 35,
+        "total_paginas": 44,
+        "capitulos": [
+          {
+            "manual": "Hematología",
+            "capitulo_numero": 16,
+            "capitulo_nombre": "Medicina transfusional",
+            "paginas": 8
+          },
+          {
+            "manual": "Enfermedades Infecciosas",
+            "capitulo_numero": 1,
+            "capitulo_nombre": "Generalidades",
+            "paginas": 12
+          },
+          {
+            "manual": "Enfermedades Infecciosas",
+            "capitulo_numero": 2,
+            "capitulo_nombre": "Infecciones por cocos grampositivos",
+            "paginas": 6
+          },
+          {
+            "manual": "Enfermedades Infecciosas",
+            "capitulo_numero": 3,
+            "capitulo_nombre": "Infecciones por cocos gramnegativos",
+            "paginas": 6
+          },
+          {
+            "manual": "Enfermedades Infecciosas",
+            "capitulo_numero": 4,
+            "capitulo_nombre": "Infecciones por bacilos grampositivos",
+            "paginas": 4
+          },
+          {
+            "manual": "Enfermedades Infecciosas",
+            "capitulo_numero": 5,
+            "capitulo_nombre": "Infecciones por enterobacterias",
+            "paginas": 8
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 126,
+        "numero_sesion_vuelta": 36,
+        "total_paginas": 40,
+        "capitulos": [
+          {
+            "manual": "Enfermedades Infecciosas",
+            "capitulo_numero": 6,
+            "capitulo_nombre": "Infecciones por bacilos gramnegativos no fermentadores",
+            "paginas": 4
+          },
+          {
+            "manual": "Enfermedades Infecciosas",
+            "capitulo_numero": 7,
+            "capitulo_nombre": "Otras infecciones por bacilos gramnegativos",
+            "paginas": 8
+          },
+          {
+            "manual": "Enfermedades Infecciosas",
+            "capitulo_numero": 8,
+            "capitulo_nombre": "Infecciones por anaerobios",
+            "paginas": 6
+          },
+          {
+            "manual": "Enfermedades Infecciosas",
+            "capitulo_numero": 9,
+            "capitulo_nombre": "Mycobacterias",
+            "paginas": 14
+          },
+          {
+            "manual": "Enfermedades Infecciosas",
+            "capitulo_numero": 10,
+            "capitulo_nombre": "Espiroquetas",
+            "paginas": 8
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 127,
+        "numero_sesion_vuelta": 37,
+        "total_paginas": 40,
+        "capitulos": [
+          {
+            "manual": "Enfermedades Infecciosas",
+            "capitulo_numero": 11,
+            "capitulo_nombre": "Rickettsias",
+            "paginas": 4
+          },
+          {
+            "manual": "Enfermedades Infecciosas",
+            "capitulo_numero": 12,
+            "capitulo_nombre": "Virus",
+            "paginas": 12
+          },
+          {
+            "manual": "Enfermedades Infecciosas",
+            "capitulo_numero": 13,
+            "capitulo_nombre": "Infección por el VIH",
+            "paginas": 16
+          },
+          {
+            "manual": "Enfermedades Infecciosas",
+            "capitulo_numero": 14,
+            "capitulo_nombre": "Micosis",
+            "paginas": 8
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 128,
+        "numero_sesion_vuelta": 38,
+        "total_paginas": 44,
+        "capitulos": [
+          {
+            "manual": "Enfermedades Infecciosas",
+            "capitulo_numero": 15,
+            "capitulo_nombre": "Parasitosis",
+            "paginas": 12
+          },
+          {
+            "manual": "Enfermedades Infecciosas",
+            "capitulo_numero": 16,
+            "capitulo_nombre": "Infecciones nosocomiales",
+            "paginas": 6
+          },
+          {
+            "manual": "Enfermedades Infecciosas",
+            "capitulo_numero": 17,
+            "capitulo_nombre": "Infecciones del sistema nervioso central",
+            "paginas": 10
+          },
+          {
+            "manual": "Enfermedades Infecciosas",
+            "capitulo_numero": 18,
+            "capitulo_nombre": "Infecciones de vías respiratorias",
+            "paginas": 10
+          },
+          {
+            "manual": "Enfermedades Infecciosas",
+            "capitulo_numero": 19,
+            "capitulo_nombre": "Infecciones gastrointestinales y abdominales",
+            "paginas": 6
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 129,
+        "numero_sesion_vuelta": 39,
+        "total_paginas": 50,
+        "capitulos": [
+          {
+            "manual": "Enfermedades Infecciosas",
+            "capitulo_numero": 20,
+            "capitulo_nombre": "Infecciones de la piel y partes blandas",
+            "paginas": 6
+          },
+          {
+            "manual": "Enfermedades Infecciosas",
+            "capitulo_numero": 21,
+            "capitulo_nombre": "Infecciones del paciente inmunodeprimido no VIH",
+            "paginas": 4
+          },
+          {
+            "manual": "Enfermedades Infecciosas",
+            "capitulo_numero": 22,
+            "capitulo_nombre": "Fármacos antimicrobianos",
+            "paginas": 13
+          },
+          {
+            "manual": "Bioética",
+            "capitulo_numero": 1,
+            "capitulo_nombre": "Bases y principios de la bioética",
+            "paginas": 3
+          },
+          {
+            "manual": "Bioética",
+            "capitulo_numero": 2,
+            "capitulo_nombre": "Capacidad y competencia para la toma de decisiones",
+            "paginas": 4
+          },
+          {
+            "manual": "Bioética",
+            "capitulo_numero": 3,
+            "capitulo_nombre": "Relación clínica",
+            "paginas": 6
+          },
+          {
+            "manual": "Bioética",
+            "capitulo_numero": 4,
+            "capitulo_nombre": "Ética en el final de la vida. El paciente terminal",
+            "paginas": 14
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 130,
+        "numero_sesion_vuelta": 40,
+        "total_paginas": 42,
+        "capitulos": [
+          {
+            "manual": "Bioética",
+            "capitulo_numero": 5,
+            "capitulo_nombre": "Trasplantes de órganos",
+            "paginas": 4
+          },
+          {
+            "manual": "Bioética",
+            "capitulo_numero": 6,
+            "capitulo_nombre": "Rechazo a las actuaciones médicas. Huelga de hambre. Triaje",
+            "paginas": 4
+          },
+          {
+            "manual": "Bioética",
+            "capitulo_numero": 7,
+            "capitulo_nombre": "Ética de la investigación",
+            "paginas": 4
+          },
+          {
+            "manual": "Bioética",
+            "capitulo_numero": 8,
+            "capitulo_nombre": "Medicina legal",
+            "paginas": 6
+          },
+          {
+            "manual": "Bioética",
+            "capitulo_numero": 9,
+            "capitulo_nombre": "Medicina forense",
+            "paginas": 7
+          },
+          {
+            "manual": "Cardiología",
+            "capitulo_numero": 1,
+            "capitulo_nombre": "Biología del aparato cardiovascular",
+            "paginas": 3
+          },
+          {
+            "manual": "Cardiología",
+            "capitulo_numero": 2,
+            "capitulo_nombre": "Semiología cardíaca y vascular",
+            "paginas": 7
+          },
+          {
+            "manual": "Cardiología",
+            "capitulo_numero": 3,
+            "capitulo_nombre": "Métodos diagnósticos en Cardiología",
+            "paginas": 7
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 131,
+        "numero_sesion_vuelta": 41,
+        "total_paginas": 42,
+        "capitulos": [
+          {
+            "manual": "Cardiología",
+            "capitulo_numero": 4,
+            "capitulo_nombre": "Insuficiencia cardíaca",
+            "paginas": 12
+          },
+          {
+            "manual": "Cardiología",
+            "capitulo_numero": 5,
+            "capitulo_nombre": "Miocardiopatías",
+            "paginas": 12
+          },
+          {
+            "manual": "Cardiología",
+            "capitulo_numero": 6,
+            "capitulo_nombre": "Valvulopatías",
+            "paginas": 18
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 132,
+        "numero_sesion_vuelta": 42,
+        "total_paginas": 44,
+        "capitulos": [
+          {
+            "manual": "Cardiología",
+            "capitulo_numero": 7,
+            "capitulo_nombre": "Enfermedades del pericardio",
+            "paginas": 6
+          },
+          {
+            "manual": "Cardiología",
+            "capitulo_numero": 8,
+            "capitulo_nombre": "Cardiopatías congénitas",
+            "paginas": 12
+          },
+          {
+            "manual": "Cardiología",
+            "capitulo_numero": 9,
+            "capitulo_nombre": "Tumores y traumatismos cardíacos",
+            "paginas": 2
+          },
+          {
+            "manual": "Cardiología",
+            "capitulo_numero": 10,
+            "capitulo_nombre": "Arritmias",
+            "paginas": 18
+          },
+          {
+            "manual": "Cardiología",
+            "capitulo_numero": 11,
+            "capitulo_nombre": "Shock, parada cardíaca y reanimación cardiopulmonar",
+            "paginas": 6
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 133,
+        "numero_sesion_vuelta": 43,
+        "total_paginas": 48,
+        "capitulos": [
+          {
+            "manual": "Cardiología",
+            "capitulo_numero": 12,
+            "capitulo_nombre": "Síncope",
+            "paginas": 4
+          },
+          {
+            "manual": "Cardiología",
+            "capitulo_numero": 13,
+            "capitulo_nombre": "Enfermedad coronaria",
+            "paginas": 26
+          },
+          {
+            "manual": "Cardiología",
+            "capitulo_numero": 14,
+            "capitulo_nombre": "Hipertensión arterial",
+            "paginas": 8
+          },
+          {
+            "manual": "Cardiología",
+            "capitulo_numero": 15,
+            "capitulo_nombre": "Enfermedades de la aorta",
+            "paginas": 10
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 134,
+        "numero_sesion_vuelta": 44,
+        "total_paginas": 47,
+        "capitulos": [
+          {
+            "manual": "Cardiología",
+            "capitulo_numero": 16,
+            "capitulo_nombre": "Enfermedades de los vasos periféricos",
+            "paginas": 12
+          },
+          {
+            "manual": "Dermatología",
+            "capitulo_numero": 1,
+            "capitulo_nombre": "Generalidades",
+            "paginas": 7
+          },
+          {
+            "manual": "Dermatología",
+            "capitulo_numero": 2,
+            "capitulo_nombre": "Infecciones víricas",
+            "paginas": 6
+          },
+          {
+            "manual": "Dermatología",
+            "capitulo_numero": 3,
+            "capitulo_nombre": "Infecciones micóticas",
+            "paginas": 4
+          },
+          {
+            "manual": "Dermatología",
+            "capitulo_numero": 4,
+            "capitulo_nombre": "Infecciones bacterianas",
+            "paginas": 6
+          },
+          {
+            "manual": "Dermatología",
+            "capitulo_numero": 5,
+            "capitulo_nombre": "Zoonosis y parasitosis",
+            "paginas": 4
+          },
+          {
+            "manual": "Dermatología",
+            "capitulo_numero": 6,
+            "capitulo_nombre": "Enfermedades eritemato-descamativas",
+            "paginas": 8
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 135,
+        "numero_sesion_vuelta": 45,
+        "total_paginas": 42,
+        "capitulos": [
+          {
+            "manual": "Dermatología",
+            "capitulo_numero": 7,
+            "capitulo_nombre": "Eccemas",
+            "paginas": 6
+          },
+          {
+            "manual": "Dermatología",
+            "capitulo_numero": 8,
+            "capitulo_nombre": "Urticaria y angioedema",
+            "paginas": 4
+          },
+          {
+            "manual": "Dermatología",
+            "capitulo_numero": 9,
+            "capitulo_nombre": "Toxicodermias",
+            "paginas": 6
+          },
+          {
+            "manual": "Dermatología",
+            "capitulo_numero": 10,
+            "capitulo_nombre": "Patología de la unidad pilosebácea",
+            "paginas": 6
+          },
+          {
+            "manual": "Dermatología",
+            "capitulo_numero": 11,
+            "capitulo_nombre": "Trastornos de la pigmentación",
+            "paginas": 2
+          },
+          {
+            "manual": "Dermatología",
+            "capitulo_numero": 12,
+            "capitulo_nombre": "Fotosensibilidad. Trastornos inducidos por la luz",
+            "paginas": 4
+          },
+          {
+            "manual": "Dermatología",
+            "capitulo_numero": 13,
+            "capitulo_nombre": "Enfermedades ampollosas autoinmunitarias",
+            "paginas": 6
+          },
+          {
+            "manual": "Dermatología",
+            "capitulo_numero": 14,
+            "capitulo_nombre": "Paniculitis",
+            "paginas": 4
+          },
+          {
+            "manual": "Dermatología",
+            "capitulo_numero": 15,
+            "capitulo_nombre": "Manifestaciones cutáneas y enfermedades endocrinas y metabólicas",
+            "paginas": 4
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 136,
+        "numero_sesion_vuelta": 46,
+        "total_paginas": 64,
+        "capitulos": [
+          {
+            "manual": "Dermatología",
+            "capitulo_numero": 16,
+            "capitulo_nombre": "Manifestaciones cutáneas de las enfermedades digestivas",
+            "paginas": 2
+          },
+          {
+            "manual": "Dermatología",
+            "capitulo_numero": 17,
+            "capitulo_nombre": "Manifestaciones cutáneas de otras enfermedades sistémicas",
+            "paginas": 4
+          },
+          {
+            "manual": "Dermatología",
+            "capitulo_numero": 18,
+            "capitulo_nombre": "Facomatosis",
+            "paginas": 4
+          },
+          {
+            "manual": "Dermatología",
+            "capitulo_numero": 19,
+            "capitulo_nombre": "Tumores cutáneos benignos, lesiones cutáneas precancerosas y lesiones melanocíticas benignas",
+            "paginas": 4
+          },
+          {
+            "manual": "Dermatología",
+            "capitulo_numero": 20,
+            "capitulo_nombre": "Cáncer cutáneo no melanoma",
+            "paginas": 4
+          },
+          {
+            "manual": "Dermatología",
+            "capitulo_numero": 21,
+            "capitulo_nombre": "Melanoma maligno",
+            "paginas": 8
+          },
+          {
+            "manual": "Dermatología",
+            "capitulo_numero": 22,
+            "capitulo_nombre": "Linfomas cutáneos",
+            "paginas": 4
+          },
+          {
+            "manual": "Dermatología",
+            "capitulo_numero": 23,
+            "capitulo_nombre": "Otros tumores cutáneos",
+            "paginas": 4
+          },
+          {
+            "manual": "Dermatología",
+            "capitulo_numero": 24,
+            "capitulo_nombre": "Dermatosis paraneoplásicas",
+            "paginas": 6
+          },
+          {
+            "manual": "Digestivo y Cirugía General",
+            "capitulo_numero": 1,
+            "capitulo_nombre": "Esófago",
+            "paginas": 24
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 137,
+        "numero_sesion_vuelta": 47,
+        "total_paginas": 66,
+        "capitulos": [
+          {
+            "manual": "Digestivo y Cirugía General",
+            "capitulo_numero": 2,
+            "capitulo_nombre": "Estómago",
+            "paginas": 18
+          },
+          {
+            "manual": "Digestivo y Cirugía General",
+            "capitulo_numero": 3,
+            "capitulo_nombre": "Intestino delgado",
+            "paginas": 18
+          },
+          {
+            "manual": "Digestivo y Cirugía General",
+            "capitulo_numero": 4,
+            "capitulo_nombre": "Colon y recto",
+            "paginas": 30
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 138,
+        "numero_sesion_vuelta": 48,
+        "total_paginas": 57,
+        "capitulos": [
+          {
+            "manual": "Digestivo y Cirugía General",
+            "capitulo_numero": 5,
+            "capitulo_nombre": "Hernias abdominales",
+            "paginas": 4
+          },
+          {
+            "manual": "Digestivo y Cirugía General",
+            "capitulo_numero": 6,
+            "capitulo_nombre": "Hígado",
+            "paginas": 53
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 139,
+        "numero_sesion_vuelta": 49,
+        "total_paginas": 44,
+        "capitulos": [
+          {
+            "manual": "Digestivo y Cirugía General",
+            "capitulo_numero": 7,
+            "capitulo_nombre": "Enfermedades de la vesícula biliar y conductos biliares",
+            "paginas": 10
+          },
+          {
+            "manual": "Digestivo y Cirugía General",
+            "capitulo_numero": 8,
+            "capitulo_nombre": "Páncreas",
+            "paginas": 19
+          },
+          {
+            "manual": "Digestivo y Cirugía General",
+            "capitulo_numero": 9,
+            "capitulo_nombre": "Cirugía endocrina",
+            "paginas": 7
+          },
+          {
+            "manual": "Digestivo y Cirugía General",
+            "capitulo_numero": 10,
+            "capitulo_nombre": "Bazo y ganglios linfáticos",
+            "paginas": 4
+          },
+          {
+            "manual": "Digestivo y Cirugía General",
+            "capitulo_numero": 11,
+            "capitulo_nombre": "Metástasis hepáticas y carcinomatosis peritoneal",
+            "paginas": 4
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 140,
+        "numero_sesion_vuelta": 50,
+        "total_paginas": 53,
+        "capitulos": [
+          {
+            "manual": "Digestivo y Cirugía General",
+            "capitulo_numero": 12,
+            "capitulo_nombre": "Pared abdominal y cirugía mayor ambulatoria",
+            "paginas": 2
+          },
+          {
+            "manual": "Digestivo y Cirugía General",
+            "capitulo_numero": 13,
+            "capitulo_nombre": "Abdomen agudo",
+            "paginas": 4
+          },
+          {
+            "manual": "Digestivo y Cirugía General",
+            "capitulo_numero": 14,
+            "capitulo_nombre": "Politraumatismos, traumatismos abdominales y torácicos",
+            "paginas": 4
+          },
+          {
+            "manual": "Digestivo y Cirugía General",
+            "capitulo_numero": 15,
+            "capitulo_nombre": "Infecciones intraabdominales",
+            "paginas": 5
+          },
+          {
+            "manual": "Digestivo y Cirugía General",
+            "capitulo_numero": 16,
+            "capitulo_nombre": "Cirugía mínimamente invasiva",
+            "paginas": 3
+          },
+          {
+            "manual": "Digestivo y Cirugía General",
+            "capitulo_numero": 17,
+            "capitulo_nombre": "Complicaciones posoperatorias y cicatrización",
+            "paginas": 6
+          },
+          {
+            "manual": "Digestivo y Cirugía General",
+            "capitulo_numero": 18,
+            "capitulo_nombre": "Cirugía plástica",
+            "paginas": 9
+          },
+          {
+            "manual": "Endocrinología",
+            "capitulo_numero": 1,
+            "capitulo_nombre": "Fisiología del sistema endocrino",
+            "paginas": 20
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 141,
+        "numero_sesion_vuelta": 51,
+        "total_paginas": 48,
+        "capitulos": [
+          {
+            "manual": "Endocrinología",
+            "capitulo_numero": 2,
+            "capitulo_nombre": "Enfermedades de la hipófisis",
+            "paginas": 23
+          },
+          {
+            "manual": "Endocrinología",
+            "capitulo_numero": 3,
+            "capitulo_nombre": "Enfermedades de la glándula tiroides",
+            "paginas": 25
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 142,
+        "numero_sesion_vuelta": 52,
+        "total_paginas": 52,
+        "capitulos": [
+          {
+            "manual": "Endocrinología",
+            "capitulo_numero": 4,
+            "capitulo_nombre": "Enfermedades de las glándulas suprarrenales",
+            "paginas": 24
+          },
+          {
+            "manual": "Endocrinología",
+            "capitulo_numero": 5,
+            "capitulo_nombre": "Diabetes mellitus",
+            "paginas": 28
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 143,
+        "numero_sesion_vuelta": 53,
+        "total_paginas": 46,
+        "capitulos": [
+          {
+            "manual": "Endocrinología",
+            "capitulo_numero": 6,
+            "capitulo_nombre": "Hipoglucemia en el sujeto no diabético",
+            "paginas": 6
+          },
+          {
+            "manual": "Endocrinología",
+            "capitulo_numero": 7,
+            "capitulo_nombre": "Dislipemia, obesidad y desnutrición",
+            "paginas": 24
+          },
+          {
+            "manual": "Endocrinología",
+            "capitulo_numero": 8,
+            "capitulo_nombre": "Trastornos del metabolismo del calcio",
+            "paginas": 12
+          },
+          {
+            "manual": "Endocrinología",
+            "capitulo_numero": 9,
+            "capitulo_nombre": "Trastornos que afectan a múltiples órganos endocrinos",
+            "paginas": 4
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 144,
+        "numero_sesion_vuelta": 54,
+        "total_paginas": 47,
+        "capitulos": [
+          {
+            "manual": "Endocrinología",
+            "capitulo_numero": 10,
+            "capitulo_nombre": "Tumores neuroendocrinos gastroenteropancreáticos. Tumor y síndrome carcinoide",
+            "paginas": 6
+          },
+          {
+            "manual": "Endocrinología",
+            "capitulo_numero": 11,
+            "capitulo_nombre": "Trastornos del desarrollo sexual",
+            "paginas": 11
+          },
+          {
+            "manual": "Epidemiología, Estadística y Planificación y gestión",
+            "capitulo_numero": 1,
+            "capitulo_nombre": "Conceptos de epidemiología. Estudio de un test",
+            "paginas": 6
+          },
+          {
+            "manual": "Epidemiología, Estadística y Planificación y gestión",
+            "capitulo_numero": 2,
+            "capitulo_nombre": "Formas de medida",
+            "paginas": 6
+          },
+          {
+            "manual": "Epidemiología, Estadística y Planificación y gestión",
+            "capitulo_numero": 3,
+            "capitulo_nombre": "Validez y fiabilidad de los estudios epidemiológicos",
+            "paginas": 4
+          },
+          {
+            "manual": "Epidemiología, Estadística y Planificación y gestión",
+            "capitulo_numero": 4,
+            "capitulo_nombre": "Tipos de estudios epidemiológicos",
+            "paginas": 6
+          },
+          {
+            "manual": "Epidemiología, Estadística y Planificación y gestión",
+            "capitulo_numero": 5,
+            "capitulo_nombre": "El ensayo clínico",
+            "paginas": 8
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 145,
+        "numero_sesion_vuelta": 55,
+        "total_paginas": 66,
+        "capitulos": [
+          {
+            "manual": "Epidemiología, Estadística y Planificación y gestión",
+            "capitulo_numero": 6,
+            "capitulo_nombre": "El metanálisis",
+            "paginas": 4
+          },
+          {
+            "manual": "Epidemiología, Estadística y Planificación y gestión",
+            "capitulo_numero": 7,
+            "capitulo_nombre": "Medicina basada en la evidencia",
+            "paginas": 6
+          },
+          {
+            "manual": "Epidemiología, Estadística y Planificación y gestión",
+            "capitulo_numero": 8,
+            "capitulo_nombre": "Estadística. Generalidades",
+            "paginas": 6
+          },
+          {
+            "manual": "Epidemiología, Estadística y Planificación y gestión",
+            "capitulo_numero": 9,
+            "capitulo_nombre": "Principales leyes de distribución de las variables aleatorias",
+            "paginas": 4
+          },
+          {
+            "manual": "Epidemiología, Estadística y Planificación y gestión",
+            "capitulo_numero": 10,
+            "capitulo_nombre": "El contraste de hipótesis",
+            "paginas": 6
+          },
+          {
+            "manual": "Epidemiología, Estadística y Planificación y gestión",
+            "capitulo_numero": 11,
+            "capitulo_nombre": "El tamaño muestral",
+            "paginas": 2
+          },
+          {
+            "manual": "Epidemiología, Estadística y Planificación y gestión",
+            "capitulo_numero": 12,
+            "capitulo_nombre": "La salud y los sistemas sanitarios",
+            "paginas": 4
+          },
+          {
+            "manual": "Epidemiología, Estadística y Planificación y gestión",
+            "capitulo_numero": 13,
+            "capitulo_nombre": "La atención sanitaria",
+            "paginas": 4
+          },
+          {
+            "manual": "Epidemiología, Estadística y Planificación y gestión",
+            "capitulo_numero": 14,
+            "capitulo_nombre": "La evaluación económica",
+            "paginas": 4
+          },
+          {
+            "manual": "Epidemiología, Estadística y Planificación y gestión",
+            "capitulo_numero": 15,
+            "capitulo_nombre": "La calidad asistencial y la seguridad del paciente",
+            "paginas": 6
+          },
+          {
+            "manual": "Ginecología y Obstetricia",
+            "capitulo_numero": 1,
+            "capitulo_nombre": "Patología mamaria",
+            "paginas": 20
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 146,
+        "numero_sesion_vuelta": 56,
+        "total_paginas": 52,
+        "capitulos": [
+          {
+            "manual": "Ginecología y Obstetricia",
+            "capitulo_numero": 2,
+            "capitulo_nombre": "Amenorreas",
+            "paginas": 7
+          },
+          {
+            "manual": "Ginecología y Obstetricia",
+            "capitulo_numero": 3,
+            "capitulo_nombre": "Síndrome del ovario poliquístico",
+            "paginas": 5
+          },
+          {
+            "manual": "Ginecología y Obstetricia",
+            "capitulo_numero": 4,
+            "capitulo_nombre": "Anticonceptivos",
+            "paginas": 10
+          },
+          {
+            "manual": "Ginecología y Obstetricia",
+            "capitulo_numero": 5,
+            "capitulo_nombre": "Estudio de la pareja con disfunción reproductiva",
+            "paginas": 8
+          },
+          {
+            "manual": "Ginecología y Obstetricia",
+            "capitulo_numero": 6,
+            "capitulo_nombre": "Patología uterina benigna",
+            "paginas": 10
+          },
+          {
+            "manual": "Ginecología y Obstetricia",
+            "capitulo_numero": 7,
+            "capitulo_nombre": "Patología uterina maligna",
+            "paginas": 6
+          },
+          {
+            "manual": "Ginecología y Obstetricia",
+            "capitulo_numero": 8,
+            "capitulo_nombre": "Patología ovárica benigna",
+            "paginas": 6
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 147,
+        "numero_sesion_vuelta": 57,
+        "total_paginas": 54,
+        "capitulos": [
+          {
+            "manual": "Ginecología y Obstetricia",
+            "capitulo_numero": 9,
+            "capitulo_nombre": "Cáncer de ovario",
+            "paginas": 6
+          },
+          {
+            "manual": "Ginecología y Obstetricia",
+            "capitulo_numero": 10,
+            "capitulo_nombre": "Prevención del cáncer del cuello de útero",
+            "paginas": 6
+          },
+          {
+            "manual": "Ginecología y Obstetricia",
+            "capitulo_numero": 11,
+            "capitulo_nombre": "Cáncer de cérvix",
+            "paginas": 6
+          },
+          {
+            "manual": "Ginecología y Obstetricia",
+            "capitulo_numero": 12,
+            "capitulo_nombre": "Infecciones vulvovaginales. Enfermedad inflamatoria pélvica",
+            "paginas": 8
+          },
+          {
+            "manual": "Ginecología y Obstetricia",
+            "capitulo_numero": 13,
+            "capitulo_nombre": "Patología vulvar",
+            "paginas": 6
+          },
+          {
+            "manual": "Ginecología y Obstetricia",
+            "capitulo_numero": 14,
+            "capitulo_nombre": "Control del embarazo normal",
+            "paginas": 6
+          },
+          {
+            "manual": "Ginecología y Obstetricia",
+            "capitulo_numero": 15,
+            "capitulo_nombre": "Diagnóstico prenatal",
+            "paginas": 6
+          },
+          {
+            "manual": "Ginecología y Obstetricia",
+            "capitulo_numero": 16,
+            "capitulo_nombre": "Hemorragias del primer trimestre",
+            "paginas": 10
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 148,
+        "numero_sesion_vuelta": 58,
+        "total_paginas": 62,
+        "capitulos": [
+          {
+            "manual": "Ginecología y Obstetricia",
+            "capitulo_numero": 17,
+            "capitulo_nombre": "Hemorragias del tercer trimestre",
+            "paginas": 6
+          },
+          {
+            "manual": "Ginecología y Obstetricia",
+            "capitulo_numero": 18,
+            "capitulo_nombre": "Trastornos hipertensivos durante la gestación",
+            "paginas": 8
+          },
+          {
+            "manual": "Ginecología y Obstetricia",
+            "capitulo_numero": 19,
+            "capitulo_nombre": "Diabetes gestacional",
+            "paginas": 4
+          },
+          {
+            "manual": "Ginecología y Obstetricia",
+            "capitulo_numero": 20,
+            "capitulo_nombre": "Patología médica y gestación",
+            "paginas": 8
+          },
+          {
+            "manual": "Ginecología y Obstetricia",
+            "capitulo_numero": 21,
+            "capitulo_nombre": "Parto pretérmino",
+            "paginas": 8
+          },
+          {
+            "manual": "Ginecología y Obstetricia",
+            "capitulo_numero": 22,
+            "capitulo_nombre": "Inducción al parto. Gestación cronológicamente prolongada",
+            "paginas": 4
+          },
+          {
+            "manual": "Ginecología y Obstetricia",
+            "capitulo_numero": 23,
+            "capitulo_nombre": "Control del bienestar fetal",
+            "paginas": 6
+          },
+          {
+            "manual": "Ginecología y Obstetricia",
+            "capitulo_numero": 24,
+            "capitulo_nombre": "Parto normal. Parto instrumental. Cesárea",
+            "paginas": 6
+          },
+          {
+            "manual": "Ginecología y Obstetricia",
+            "capitulo_numero": 25,
+            "capitulo_nombre": "Parto en presentación podálica. Versión cefálica externa. Gestación gemelar",
+            "paginas": 4
+          },
+          {
+            "manual": "Ginecología y Obstetricia",
+            "capitulo_numero": 26,
+            "capitulo_nombre": "Patología del puerperio",
+            "paginas": 8
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 149,
+        "numero_sesion_vuelta": 59,
+        "total_paginas": 80,
+        "capitulos": [
+          {
+            "manual": "Radiología",
+            "capitulo_numero": 1,
+            "capitulo_nombre": "Tórax",
+            "paginas": 20
+          },
+          {
+            "manual": "Radiología",
+            "capitulo_numero": 2,
+            "capitulo_nombre": "Abdomen",
+            "paginas": 36
+          },
+          {
+            "manual": "Radiología",
+            "capitulo_numero": 3,
+            "capitulo_nombre": "Neurorradiología",
+            "paginas": 24
+          }
+        ]
+      },
+      {
+        "numero_sesion_global": 150,
+        "numero_sesion_vuelta": 60,
+        "total_paginas": 84,
+        "capitulos": [
+          {
+            "manual": "Radiología",
+            "capitulo_numero": 4,
+            "capitulo_nombre": "Imagen cardíaca",
+            "paginas": 24
+          },
+          {
+            "manual": "Radiología",
+            "capitulo_numero": 5,
+            "capitulo_nombre": "Musculoesquelético",
+            "paginas": 20
+          },
+          {
+            "manual": "Radiología",
+            "capitulo_numero": 6,
+            "capitulo_nombre": "Ginecología",
+            "paginas": 16
+          },
+          {
+            "manual": "Radiología",
+            "capitulo_numero": 7,
+            "capitulo_nombre": "Pediatría",
+            "paginas": 18
+          },
+          {
+            "manual": "Radiología",
+            "capitulo_numero": 8,
+            "capitulo_nombre": "Medicina nuclear",
+            "paginas": 6
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -61,7 +61,107 @@
           "numero_de_pagina": 23
         }
       ],
-      "total_paginas": 24
+      "total_paginas": 24,
+      "videos": [
+        {
+          "titulo": "Enfermedad por Reflujo Gastroesofágico 2",
+          "url": "https://www.youtube.com/watch?v=VDY_1CfGJ-A",
+          "idioma": "Español",
+          "duracion": "N/D",
+          "aportacion": "Explica reflujo gastroesofágico (ERGE/GERD) y enfermedad de Esófago de Barrett en español"
+        },
+        {
+          "titulo": "Desordenes de la motilidad esofágica",
+          "url": "https://www.youtube.com/watch?v=_qmy_FIy2wE",
+          "idioma": "Español",
+          "duracion": "N/D",
+          "aportacion": "Disfagia esofágica y trastornos motores de esófago por Dr. Casado Caballero"
+        },
+        {
+          "titulo": "Doctor explains Achalasia",
+          "url": "https://www.youtube.com/watch?v=zXARys0ILwg",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "Explicación completa de acalasia: causas, síntomas y tratamiento"
+        },
+        {
+          "titulo": "Achalasia (Year of the Zebra)",
+          "url": "https://www.youtube.com/watch?v=coHQ3UPqvkw",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "Trastorno esofágico con motilidad alterada y relajación incompleta del esfínter esofágico inferior"
+        },
+        {
+          "titulo": "Barrett's Esophagus and Esophagus Cancer",
+          "url": "https://www.youtube.com/watch?v=3g2Yrb-M9qY",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "Células precancerosas en esófago de Barrett y mayor riesgo de cáncer esofágico"
+        },
+        {
+          "titulo": "Acalasia | PortalClínic",
+          "url": "https://www.youtube.com/watch?v=S5retSRddVw",
+          "idioma": "Español",
+          "duracion": "N/D",
+          "aportacion": "Trastorno del esófago que dificulta paso de alimentos y líquidos al estómago"
+        },
+        {
+          "titulo": "Trastornos motores del esófago - ENARM",
+          "url": "https://www.youtube.com/watch?v=a8oa2T8nMq4",
+          "idioma": "Español",
+          "duracion": "N/D",
+          "aportacion": "Cubre acalasia, espasmo esofágico difuso y esclerodermia para preparación MIR/ENARM"
+        },
+        {
+          "titulo": "Tratamientos para la esofagitis eosinofílica",
+          "url": "https://www.youtube.com/watch?v=0V_cAi-qgOA",
+          "idioma": "Español",
+          "duracion": "N/D",
+          "aportacion": "Tratamiento específico de esofagitis eosinofílica"
+        },
+        {
+          "titulo": "Cáncer de esófago",
+          "url": "https://www.youtube.com/watch?v=U8Gz0cfBmSU",
+          "idioma": "Español",
+          "duracion": "N/D",
+          "aportacion": "Síntomas peligrosos de cáncer de estómago: causas, prevención y tratamiento"
+        },
+        {
+          "titulo": "Carcinoma de células escamosas y Adenocarcinoma",
+          "url": "https://www.youtube.com/watch?v=HgZxaQ77lNU",
+          "idioma": "Español",
+          "duracion": "N/D",
+          "aportacion": "Diferencias entre los dos tipos principales de cáncer esofágico"
+        },
+        {
+          "titulo": "Diagnosis and Management of Achalasia",
+          "url": "https://www.youtube.com/watch?v=h8eQG10uBX8",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "Define acalasia, diagnóstico y enfoques endoscópicos y quirúrgicos"
+        },
+        {
+          "titulo": "Esofagitis eosinofílica: Qué es, causas y tratamiento",
+          "url": "https://www.youtube.com/watch?v=YGDvQU5OL1g",
+          "idioma": "Español",
+          "duracion": "N/D",
+          "aportacion": "Síntomas, diagnóstico y tratamiento completo de esofagitis eosinofílica"
+        },
+        {
+          "titulo": "Esofagitis Eosinofílica: Síntomas y tratamiento",
+          "url": "https://www.youtube.com/watch?v=kruW_ttWP4Q",
+          "idioma": "Español",
+          "duracion": "N/D",
+          "aportacion": "Reconocimiento y manejo de esofagitis eosinofílica"
+        },
+        {
+          "titulo": "Reflujo gastroesofágico: ¿qué es y cómo se trata?",
+          "url": "https://www.youtube.com/watch?v=U4C55-vMEd0",
+          "idioma": "Español",
+          "duracion": "N/D",
+          "aportacion": "Dr. Pablo Priego explica síntomas y tratamiento del reflujo gastroesofágico"
+        }
+      ]
     },
     {
       "nombre": "Estómago",
@@ -103,7 +203,79 @@
           "numero_de_pagina": 36
         }
       ],
-      "total_paginas": 18
+      "total_paginas": 18,
+      "videos": [
+        {
+          "titulo": "Fisiopatología 2025. Parte4. Gastritis crónica",
+          "url": "https://www.youtube.com/watch?v=PThj1vtuhSI",
+          "idioma": "Español",
+          "duracion": "N/D",
+          "aportacion": "Fisiopatología de gastritis crónica actualizado 2025"
+        },
+        {
+          "titulo": "Peptic ulcer - ENARM",
+          "url": "https://www.youtube.com/watch?v=kMO1ZeHPtd0",
+          "idioma": "Español/Inglés",
+          "duracion": "N/D",
+          "aportacion": "Úlcera péptica y tratamiento de Helicobacter pylori para ENARM/MIR"
+        },
+        {
+          "titulo": "Gastric Cancer - Complete Lecture",
+          "url": "https://www.youtube.com/watch?v=qLV9CPa4PR8",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "Cáncer gástrico como cuarta causa de nuevos casos de cáncer mundialmente"
+        },
+        {
+          "titulo": "Peptic Ulcer Disease (PUD) | Part-1",
+          "url": "https://www.youtube.com/watch?v=I7AAmoR3ubs",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "Tipos y causas de enfermedad ulcerosa péptica"
+        },
+        {
+          "titulo": "Peptic ulcer disease - causes, symptoms, diagnosis, treatment",
+          "url": "https://www.youtube.com/watch?v=E0IBMWQDEH4",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "Defecto en mucosa del estómago o duodeno: causas, síntomas y tratamiento"
+        },
+        {
+          "titulo": "Gastritis and Peptic Ulcer Disease - Medical-Surgical",
+          "url": "https://www.youtube.com/watch?v=YqhNoeyALIE",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "Factores de riesgo, signos/síntomas, diagnóstico y complicaciones de úlcera péptica"
+        },
+        {
+          "titulo": "Peptic Ulcer Disease | PUD Complications",
+          "url": "https://www.youtube.com/watch?v=txXzwfWKxpw",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "Prevención, complicaciones y opciones de tratamiento de úlcera péptica"
+        },
+        {
+          "titulo": "Gastric Neuroendocrine Tumors",
+          "url": "https://www.youtube.com/watch?v=gNkmcowNwTk",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "Tumores neuroendocrinos gástricos en gastritis atrófica crónica"
+        },
+        {
+          "titulo": "Patient Story: Zollinger-Ellison Syndrome and Gastrinoma",
+          "url": "https://www.youtube.com/watch?v=dVY3Ws3qm0s",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "Historia de paciente con síndrome de Zollinger-Ellison y gastrinoma pancreático"
+        },
+        {
+          "titulo": "Zollinger Ellison Syndrome: Pathogenesis, Pathology",
+          "url": "https://www.youtube.com/watch?v=a-iGJvoAl4M",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "Condición rara con tumores secretores de gastrina y ácido gástrico excesivo"
+        }
+      ]
     },
     {
       "nombre": "Intestino delgado",
@@ -135,7 +307,72 @@
           "numero_de_pagina": 58
         }
       ],
-      "total_paginas": 18
+      "total_paginas": 18,
+      "videos": [
+        {
+          "titulo": "Síndrome de malabsorción intestinal/intolerancia",
+          "url": "https://www.youtube.com/watch?v=qSa3MolCzFw",
+          "idioma": "Español",
+          "duracion": "N/D",
+          "aportacion": "Ponencia sobre malabsorción e intolerancia a nutrientes"
+        },
+        {
+          "titulo": "Malabsorción & Enfermedad Celiaca",
+          "url": "https://www.youtube.com/watch?v=vubyeW0201I",
+          "idioma": "Español",
+          "duracion": "N/D",
+          "aportacion": "Fisiología de digestión, absorción y enfermedad celiaca por Dra. Ale Herzan"
+        },
+        {
+          "titulo": "Patología digestiva 2 (umh1706)",
+          "url": "https://www.youtube.com/watch?v=rJP-37GC4B4",
+          "idioma": "Español",
+          "duracion": "N/D",
+          "aportacion": "Problemas de intestino delgado y grueso: malabsorción para Grado en Farmacia"
+        },
+        {
+          "titulo": "Small bowel obstruction",
+          "url": "https://www.youtube.com/watch?v=4ChGVhjCpa4",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "CT abdominal normal vs obstrucción intestinal: adhesiones, vólvulo, hernia"
+        },
+        {
+          "titulo": "Bowel Obstruction | Clinical Medicine",
+          "url": "https://www.youtube.com/watch?v=6GhdESRDkqY",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "Dos tipos de obstrucción intestinal: mecánica y funcional"
+        },
+        {
+          "titulo": "Small Bowel Tumors",
+          "url": "https://www.youtube.com/watch?v=J9ovVGDvVuo",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "Discusión sobre CT de tumores de intestino delgado"
+        },
+        {
+          "titulo": "Lecture Series #36 Small Bowel Obstruction (SBO)",
+          "url": "https://www.youtube.com/watch?v=GFnu1GU8Yr0",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "Ideal para cirujanos, proveedores de emergencias y estudiantes de medicina"
+        },
+        {
+          "titulo": "What is Celiac Disease?",
+          "url": "https://www.youtube.com/watch?v=Qq095oo7qqw",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "Explicación de enfermedad celiaca: causas, síntomas y malabsorción"
+        },
+        {
+          "titulo": "Celiac Disease: Symptoms, Pathophysiology, Diet Nursing",
+          "url": "https://www.youtube.com/watch?v=CZRcD1U9KOg",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "Trastorno gastrointestinal autoinmune cuando la persona come gluten"
+        }
+      ]
     },
     {
       "nombre": "Colon y recto",
@@ -182,7 +419,114 @@
           "numero_de_pagina": 89
         }
       ],
-      "total_paginas": 30
+      "total_paginas": 30,
+      "videos": [
+        {
+          "titulo": "La enfermedad de Crohn - causas, síntomas, diagnóstico",
+          "url": "https://www.youtube.com/watch?v=NpTHw84VynU",
+          "idioma": "Español",
+          "duracion": "N/D",
+          "aportacion": "Enfermedad inflamatoria intestinal que causa inflamación del tracto digestivo"
+        },
+        {
+          "titulo": "Enfermedad inflamatoria intestinal (EII): diagnóstico",
+          "url": "https://www.youtube.com/watch?v=-uG2pPnPaHU",
+          "idioma": "Español",
+          "duracion": "N/D",
+          "aportacion": "Diferencia entre colitis ulcerosa y enfermedad de Crohn"
+        },
+        {
+          "titulo": "What is Crohn's Disease and Ulcerative Colitis (UC)",
+          "url": "https://www.youtube.com/watch?v=b6qmQqruyxw",
+          "idioma": "Español/Inglés",
+          "duracion": "N/D",
+          "aportacion": "Principales diferencias entre Crohn y colitis ulcerosa en EII"
+        },
+        {
+          "titulo": "Inflammatory Bowel Disease (IBD) | Clinical Medicine",
+          "url": "https://www.youtube.com/watch?v=PBZZ_Cu64aQ",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "Fisiopatología de enfermedad inflamatoria intestinal por Prof. Zach Murphy"
+        },
+        {
+          "titulo": "Inflammatory Bowel Disease - Pathophysiology",
+          "url": "https://www.youtube.com/watch?v=chSyQPKsNk4",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "Mecanismos inmunes en Crohn y colitis ulcerosa"
+        },
+        {
+          "titulo": "DIVERTICULITIS AGUDA: CIRUGÍA Y SEGUIMIENTO",
+          "url": "https://www.youtube.com/watch?v=9arInAO8rcc",
+          "idioma": "Español",
+          "duracion": "N/D",
+          "aportacion": "Manejo quirúrgico y seguimiento de diverticulitis aguda"
+        },
+        {
+          "titulo": "ACUTE APPENDICITIS! Most common emergency surgery",
+          "url": "https://www.youtube.com/watch?v=ha9WMsMSheQ",
+          "idioma": "Español/Inglés",
+          "duracion": "N/D",
+          "aportacion": "Apendicitis aguda como cirugía de urgencia más común en el mundo"
+        },
+        {
+          "titulo": "Appendicitis: Symptoms, Diagnosis, and Treatment",
+          "url": "https://www.youtube.com/watch?v=6P92M5zFBqg",
+          "idioma": "Español/Inglés",
+          "duracion": "N/D",
+          "aportacion": "Función digestiva e inmunológica del apéndice y apendicitis aguda"
+        },
+        {
+          "titulo": "Mayo Clinic Q&A: Colorectal screening",
+          "url": "https://www.youtube.com/watch?v=b1D1XErqZlM",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "Opciones de screening colorrectal y colonoscopia"
+        },
+        {
+          "titulo": "Colorectal Cancer Screening and Polyps Made Simple",
+          "url": "https://www.youtube.com/watch?v=mJfA-_SCe0E",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "Tipos de pólipos: adenoma tubular vs pólipo serrado sésil"
+        },
+        {
+          "titulo": "Studies to DETECT Colon and Rectal Cancer (Screening) 2025",
+          "url": "https://www.youtube.com/watch?v=6p0PfSmIHMA",
+          "idioma": "Español",
+          "duracion": "N/D",
+          "aportacion": "Estudios de tamizaje para detectar pólipos y cáncer colorrectal actualizado 2025"
+        },
+        {
+          "titulo": "Colon cancer surgery: Everything you need to know",
+          "url": "https://www.youtube.com/watch?v=FACbLjka6A0",
+          "idioma": "Español/Inglés",
+          "duracion": "N/D",
+          "aportacion": "Cirugía como único tratamiento para cáncer de colon avanzado"
+        },
+        {
+          "titulo": "Anal Fissure vs. Fistula",
+          "url": "https://www.youtube.com/watch?v=8JdmhOaJFwM",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "Diferencias entre fisura anal (tear superficial) y fístula anal"
+        },
+        {
+          "titulo": "Anorectal Disease: Hemorrhoids, Fissures & Fistulas",
+          "url": "https://www.youtube.com/watch?v=qRTvf_1ac8g",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "Enfermedades anorrectales: hemorroides, fisuras y fístulas"
+        },
+        {
+          "titulo": "Diverticulitis: Why does it occur and how is it treated?",
+          "url": "https://www.youtube.com/watch?v=y7wrjW5-_bU",
+          "idioma": "Español",
+          "duracion": "N/D",
+          "aportacion": "Bolsas abultadas en revestimiento intestinal y su tratamiento"
+        }
+      ]
     },
     {
       "nombre": "Hernias abdominales",
@@ -204,7 +548,30 @@
           "numero_de_pagina": 93
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "Reparación laparoscópica de hernia inguinal",
+          "url": "https://www.youtube.com/watch?v=mVtCqDdp_BM",
+          "idioma": "Español",
+          "duracion": "N/D",
+          "aportacion": "Protuberancia anormal del contenido abdominal y reparación laparoscópica"
+        },
+        {
+          "titulo": "Hernia Inguinal la cirugía abierta",
+          "url": "https://www.youtube.com/watch?v=ixRofzo-vU8",
+          "idioma": "Español",
+          "duracion": "N/D",
+          "aportacion": "Técnica de cirugía abierta para reparación de hernia inguinal"
+        },
+        {
+          "titulo": "TEP vs TAPP en la hernia inguinal",
+          "url": "https://www.youtube.com/watch?v=8EGWi3PbCzE",
+          "idioma": "Español",
+          "duracion": "N/D",
+          "aportacion": "Comparación de técnicas laparoscópicas TEP y TAPP para hernia inguinal"
+        }
+      ]
     },
     {
       "nombre": "Hígado",
@@ -266,7 +633,114 @@
           "numero_de_pagina": 141
         }
       ],
-      "total_paginas": 53
+      "total_paginas": 53,
+      "videos": [
+        {
+          "titulo": "Síntomas y causas de la cirrosis",
+          "url": "https://www.youtube.com/watch?v=ikU4nqZztrQ",
+          "idioma": "Español",
+          "duracion": "N/D",
+          "aportacion": "Causas y síntomas de cirrosis hepática por Dr. Esteban de Icaza del Río"
+        },
+        {
+          "titulo": "¿Qué es la Cirrosis?",
+          "url": "https://www.youtube.com/watch?v=b95c4kYiJss",
+          "idioma": "Español",
+          "duracion": "N/D",
+          "aportacion": "Cirrosis hepática como resultado de daño crónico del hígado"
+        },
+        {
+          "titulo": "What causes hepatitis?",
+          "url": "https://www.youtube.com/watch?v=upCXR_sRsM4",
+          "idioma": "Español/Inglés",
+          "duracion": "N/D",
+          "aportacion": "Enfermedad con inflamación del hígado sin alteración del funcionamiento"
+        },
+        {
+          "titulo": "Cirrhosis of the Liver | Signs, Symptoms, Interventions",
+          "url": "https://www.youtube.com/watch?v=8Mf3uupeTiM",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "Trucos de memoria y consejos para exámenes sobre cirrosis"
+        },
+        {
+          "titulo": "Portal Hypertension, Animation",
+          "url": "https://www.youtube.com/watch?v=LkXQTDb8g2U",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "Presentación clínica de hipertensión portal incluyendo ascitis"
+        },
+        {
+          "titulo": "Liver Cirrhosis (Signs, Pathophysiology, Investigations)",
+          "url": "https://www.youtube.com/watch?v=PGB6dN1KlwQ",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "Signos clínicos, fisiopatología y complicaciones de cirrosis hepática"
+        },
+        {
+          "titulo": "Ascites | Clinical Medicine",
+          "url": "https://www.youtube.com/watch?v=GdGEiVDvCtU",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "Acumulación de fluido en cavidad peritoneal debido a cirrosis hepática"
+        },
+        {
+          "titulo": "¿Qué es el cáncer de hígado? #Oncocanal",
+          "url": "https://www.youtube.com/watch?v=U8McDOYVgVw",
+          "idioma": "Español",
+          "duracion": "N/D",
+          "aportacion": "Desarrollo en personas con hepatitis B/C o enfermedad de hígado graso"
+        },
+        {
+          "titulo": "Carcinoma Hepatocelular (Cáncer del Hígado)",
+          "url": "https://www.youtube.com/watch?v=lAWyholl-pI",
+          "idioma": "Español",
+          "duracion": "N/D",
+          "aportacion": "Programa educativo sobre carcinoma hepatocelular en español"
+        },
+        {
+          "titulo": "Cáncer de hígado: diagnóstico y tratamiento",
+          "url": "https://www.youtube.com/watch?v=Xf7yxsWMd9c",
+          "idioma": "Español",
+          "duracion": "N/D",
+          "aportacion": "Dra. Ana María López sobre hepatocarcinoma, diagnóstico y tratamiento"
+        },
+        {
+          "titulo": "Understanding Cirrhosis & Liver Transplant",
+          "url": "https://www.youtube.com/watch?v=iCw8gkpo0VE",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "Cirrosis como causa más común de fallo hepático y trasplante en EE.UU."
+        },
+        {
+          "titulo": "Fatty liver? What is it and how does it affect your health?",
+          "url": "https://www.youtube.com/watch?v=V-W2-ZY32XA",
+          "idioma": "Español/Inglés",
+          "duracion": "N/D",
+          "aportacion": "Hígado graso (EHNA) cuando se acumula demasiada grasa en el hígado"
+        },
+        {
+          "titulo": "Autoimmune Hepatitis and Primary Biliary Cholangitis",
+          "url": "https://www.youtube.com/watch?v=od3dhzy0FjM",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "Elevación aislada asintomática de fosfatasa alcalina en detección temprana"
+        },
+        {
+          "titulo": "Primary Biliary Cholangitis v. Autoimmune Hepatitis",
+          "url": "https://www.youtube.com/watch?v=5vpN_5zleMk",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "Diferencias clave entre PBC y hepatitis autoinmune para patólogos"
+        },
+        {
+          "titulo": "Understanding Primary Biliary Cholangitis (PBC)",
+          "url": "https://www.youtube.com/watch?v=QlX97sg9cck",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "Enfermedad inmune donde sistema ataca pequeños conductos biliares"
+        }
+      ]
     },
     {
       "nombre": "Enfermedades de la vesícula biliar y conductos biliares",
@@ -303,7 +777,51 @@
           "numero_de_pagina": 157
         }
       ],
-      "total_paginas": 10
+      "total_paginas": 10,
+      "videos": [
+        {
+          "titulo": "Colecistectomía (extirpación de la vesícula biliar)",
+          "url": "https://www.youtube.com/watch?v=QlZ2DbWgDk0",
+          "idioma": "Español",
+          "duracion": "N/D",
+          "aportacion": "Técnicas laparoscópicas con incisiones mínimas y recuperación rápida"
+        },
+        {
+          "titulo": "Colecistectomía Laparoscópica con Sistema Weck",
+          "url": "https://www.youtube.com/watch?v=TrE_6W_US94",
+          "idioma": "Español",
+          "duracion": "N/D",
+          "aportacion": "Técnica quirúrgica con animación de colangiografía"
+        },
+        {
+          "titulo": "Symptoms and TREATMENT of Gallstones (Cholelithiasis)",
+          "url": "https://www.youtube.com/watch?v=wW-x_22lH_Q",
+          "idioma": "Español/Inglés",
+          "duracion": "N/D",
+          "aportacion": "Formación de piedras en vesícula biliar (colelitiasis) con variación de tamaño"
+        },
+        {
+          "titulo": "Cholecystectomy | Gallbladder Removal Surgery",
+          "url": "https://www.youtube.com/watch?v=ffoKThdqo4I",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "Procedimiento quirúrgico para remover vesícula con enfermedad"
+        },
+        {
+          "titulo": "Gallstones / Gallbladder Attack Symptoms & Treatment",
+          "url": "https://www.youtube.com/watch?v=_kLqv8BFlrI",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "Ataque de vesícula biliar (cólico biliar) con dolor en cuadrante superior derecho"
+        },
+        {
+          "titulo": "Doctor explains Acute Cholecystitis",
+          "url": "https://www.youtube.com/watch?v=i18TqP07oDs",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "Inflamación de vesícula biliar (colecistitis) - conocimiento clave"
+        }
+      ]
     },
     {
       "nombre": "Páncreas",
@@ -335,7 +853,72 @@
           "numero_de_pagina": 174
         }
       ],
-      "total_paginas": 19
+      "total_paginas": 19,
+      "videos": [
+        {
+          "titulo": "¿Cómo se trata la pancreatitis crónica?",
+          "url": "https://www.youtube.com/watch?v=5gw9gG5uyEg",
+          "idioma": "Español",
+          "duracion": "N/D",
+          "aportacion": "Objetivos del tratamiento y enfoques para manejo de pancreatitis crónica"
+        },
+        {
+          "titulo": "Chronic pancreatitis",
+          "url": "https://www.youtube.com/watch?v=kUsbWJydhK0",
+          "idioma": "Español/Inglés",
+          "duracion": "N/D",
+          "aportacion": "Causas, síntomas y factores que influyen en desarrollo de pancreatitis crónica"
+        },
+        {
+          "titulo": "¿Qué es la pancreatitis aguda y cuáles son sus causas?",
+          "url": "https://www.youtube.com/watch?v=06Z5cQBUxGI",
+          "idioma": "Español",
+          "duracion": "N/D",
+          "aportacion": "Causas de pancreatitis aguda, síntomas y razón de su gravedad"
+        },
+        {
+          "titulo": "ACUTE (and CHRONIC) PANCREATITIS: Symptoms, Causes",
+          "url": "https://www.youtube.com/watch?v=KZeAqqVo84s",
+          "idioma": "Español/Inglés",
+          "duracion": "N/D",
+          "aportacion": "Pancreatitis aguda y crónica con medicamentos que causan daño pancreático"
+        },
+        {
+          "titulo": "Pancreatic Adenocarcinoma Overview",
+          "url": "https://www.youtube.com/watch?v=rOw73pNIYp4",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "Cuarta causa de muerte por cáncer, no de los más comunes"
+        },
+        {
+          "titulo": "Pancreatic Cancer: Advances in Surgical and Medical",
+          "url": "https://www.youtube.com/watch?v=8RtB1o01XH4",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "Simposio comprensivo sobre avances en tratamiento de cáncer pancreático"
+        },
+        {
+          "titulo": "Mayo Clinic Explains Pancreatic Cancer",
+          "url": "https://www.youtube.com/watch?v=kYgsCfgeGX4",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "Conceptos básicos: qué es, quién lo desarrolla, síntomas, diagnóstico y tratamiento"
+        },
+        {
+          "titulo": "Acute Pancreatitis - Overview",
+          "url": "https://www.youtube.com/watch?v=UVof2fZdfjY",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "Signos/síntomas, fisiopatología, diagnóstico y tratamiento de pancreatitis aguda"
+        },
+        {
+          "titulo": "Pancreatitis | Clinical Medicine",
+          "url": "https://www.youtube.com/watch?v=9j9G3d2gRs4",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "Incluye pancreatitis aguda y crónica en medicina clínica"
+        }
+      ]
     },
     {
       "nombre": "Cirugía endocrina",
@@ -362,7 +945,37 @@
           "numero_de_pagina": 182
         }
       ],
-      "total_paginas": 7
+      "total_paginas": 7,
+      "videos": [
+        {
+          "titulo": "Cirugía endocrina _ EN BONES MANS",
+          "url": "https://www.youtube.com/watch?v=09LIS5qsW34",
+          "idioma": "Español",
+          "duracion": "N/D",
+          "aportacion": "Entrevista al Dr. Pablo Moreno sobre cirugía endocrina"
+        },
+        {
+          "titulo": "Parathyroid Glands: Function, Conditions, Procedures",
+          "url": "https://www.youtube.com/watch?v=jBCM_uzIaq4",
+          "idioma": "Español/Inglés",
+          "duracion": "N/D",
+          "aportacion": "4 pequeñas estructuras en cuello que regulan niveles de calcio"
+        },
+        {
+          "titulo": "Understanding Endocrine Surgery | UCLA Health",
+          "url": "https://www.youtube.com/watch?v=O3Q-CEHQn-U",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "Uno de los programas más activos del mundo con 1000 operaciones/año"
+        },
+        {
+          "titulo": "Meet Dr. James Lee, Chief of Endocrine Surgery",
+          "url": "https://www.youtube.com/watch?v=-JYKPWyUq_Q",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "Jefe de cirugía endocrina y director quirúrgico de centros de tiroides, paratiroides y suprarrenales"
+        }
+      ]
     },
     {
       "nombre": "Bazo y ganglios linfáticos",
@@ -384,7 +997,30 @@
           "numero_de_pagina": 187
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "Tratamiento de esplenomegalia y adenopatías",
+          "url": "https://www.youtube.com/results?search_query=splenectomy+splenomegaly+medical+education",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "Búsqueda de recursos sobre esplenectomía y esplenomegalia"
+        },
+        {
+          "titulo": "Indicaciones de esplenectomía",
+          "url": "https://www.youtube.com/results?search_query=esplenectomia+indicaciones+español",
+          "idioma": "Español",
+          "duracion": "N/D",
+          "aportacion": "Recursos sobre indicaciones quirúrgicas de esplenectomía"
+        },
+        {
+          "titulo": "Lymphadenopathy evaluation",
+          "url": "https://www.youtube.com/results?search_query=lymphadenopathy+evaluation+medical",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "Evaluación de adenopatías en medicina"
+        }
+      ]
     },
     {
       "nombre": "Metástasis hepáticas y carcinomatosis peritoneal",
@@ -401,7 +1037,30 @@
           "numero_de_pagina": 190
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "Treating Liver or Peritoneal Metastases in CRC",
+          "url": "https://www.youtube.com/watch?v=xwDaT9001bE",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "Opciones de tratamiento dirigido al hígado y quimioterapia intraperitoneal hipertérmica"
+        },
+        {
+          "titulo": "Peritoneal Carcinomatosis: Good, Bad, and Ugly",
+          "url": "https://www.youtube.com/watch?v=4bXMyomW-Pc",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "Historia natural, tratamiento y resultados de carcinomatosis peritoneal"
+        },
+        {
+          "titulo": "PERITONEAL CARCINOMATOSIS TREATMENT",
+          "url": "https://www.youtube.com/watch?v=_BS-azlr5bo",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "170+ pacientes/año reciben tratamiento incluyendo cirugía citorreductora y HIPEC"
+        }
+      ]
     },
     {
       "nombre": "Pared abdominal y cirugía mayor ambulatoria",
@@ -418,7 +1077,23 @@
           "numero_de_pagina": 193
         }
       ],
-      "total_paginas": 2
+      "total_paginas": 2,
+      "videos": [
+        {
+          "titulo": "Cirugía ambulatoria y pared abdominal",
+          "url": "https://www.youtube.com/results?search_query=ambulatory+surgery+abdominal+wall",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "Recursos sobre cirugía ambulatoria de pared abdominal"
+        },
+        {
+          "titulo": "Abdominal wall reconstruction",
+          "url": "https://www.youtube.com/results?search_query=abdominal+wall+reconstruction+surgery",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "Reconstrucción quirúrgica de pared abdominal"
+        }
+      ]
     },
     {
       "nombre": "Abdomen agudo",
@@ -440,7 +1115,30 @@
           "numero_de_pagina": 197
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "Abdomen agudo radiológico",
+          "url": "https://www.youtube.com/watch?v=RiXdu4zstxQ",
+          "idioma": "Español",
+          "duracion": "N/D",
+          "aportacion": "Neumoperitoneo, neumoretroperitoneo, neumobilia y gas en vía porta"
+        },
+        {
+          "titulo": "Acute Abdomen: General Principles",
+          "url": "https://www.youtube.com/watch?v=qOT_HpqYN6s",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "Principios generales del abdomen agudo en cirugía general"
+        },
+        {
+          "titulo": "Acute Abdomen - Diagnosis and Management",
+          "url": "https://www.youtube.com/watch?v=qPlxK7hTUZo",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "Evaluación del abdomen quirúrgico agudo: apendicitis vs gastroenteritis vs constipación"
+        }
+      ]
     },
     {
       "nombre": "Politraumatismos, traumatismos abdominales y torácicos",
@@ -462,7 +1160,30 @@
           "numero_de_pagina": 201
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "ATLS | Trauma de abdomen | ENARM2021",
+          "url": "https://www.youtube.com/watch?v=MA1mSC5_nA4",
+          "idioma": "Español",
+          "duracion": "N/D",
+          "aportacion": "ATLS trauma abdominal para preparación ENARM/MIR por Dr. Treviño"
+        },
+        {
+          "titulo": "CIRUGÍA | Politraumatizado y trauma abdominal - ENAM 2020",
+          "url": "https://www.youtube.com/watch?v=F6qKuNyaS00",
+          "idioma": "Español",
+          "duracion": "N/D",
+          "aportacion": "Manejo del paciente politraumatizado y trauma abdominal"
+        },
+        {
+          "titulo": "Chest Trauma - Washington Manual of Surgery",
+          "url": "https://www.youtube.com/watch?v=S3pZb6EdFx4",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "Trauma torácico ocurre en 20-25% de todos los traumas, tema relevante"
+        }
+      ]
     },
     {
       "nombre": "Infecciones intraabdominales",
@@ -489,7 +1210,37 @@
           "numero_de_pagina": 206
         }
       ],
-      "total_paginas": 5
+      "total_paginas": 5,
+      "videos": [
+        {
+          "titulo": "Sepsis Intrabdominal y Peritonitis",
+          "url": "https://www.youtube.com/watch?v=CubnAmwbb1A",
+          "idioma": "Español",
+          "duracion": "N/D",
+          "aportacion": "Infección intraabdominal y peritonitis por Dra. Gina Rojas"
+        },
+        {
+          "titulo": "Infección del paciente quirúrgico y sepsis abdominal",
+          "url": "https://www.youtube.com/watch?v=taSz5h6CZGk",
+          "idioma": "Español",
+          "duracion": "N/D",
+          "aportacion": "Infección del paciente quirúrgico y sepsis abdominal"
+        },
+        {
+          "titulo": "Doctor explains Abdominal Abscess",
+          "url": "https://www.youtube.com/watch?v=cGdqRUptX60",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "Absceso abdominal cuando pus se acumula por infección, lesión o cirugía"
+        },
+        {
+          "titulo": "Intra-abdominal infection pt1",
+          "url": "https://www.youtube.com/watch?v=aH36gFgTtBI",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "Infección intraabdominal mayor: diverticulitis en cuadrante inferior"
+        }
+      ]
     },
     {
       "nombre": "Cirugía mínimamente invasiva",
@@ -506,7 +1257,30 @@
           "numero_de_pagina": 209
         }
       ],
-      "total_paginas": 3
+      "total_paginas": 3,
+      "videos": [
+        {
+          "titulo": "Cirugía de Rendez-vous",
+          "url": "https://www.youtube.com/watch?v=mUlObGMGBtw",
+          "idioma": "Español",
+          "duracion": "N/D",
+          "aportacion": "Técnica mínimamente invasiva que combina endoscopia y cirugía"
+        },
+        {
+          "titulo": "Basic Laparoscopic Surgery",
+          "url": "https://www.youtube.com/watch?v=sPyZRkkxqNs",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "Cirugía abdominopélvica mínimamente invasiva sinónimo de laparoscopia"
+        },
+        {
+          "titulo": "Leading Surgeon Shares Essential Laparoscopy Facts",
+          "url": "https://www.youtube.com/watch?v=pkGxpPlDN9I",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "Cirugía mínimamente invasiva usando pequeñas incisiones para tratar o diagnosticar"
+        }
+      ]
     },
     {
       "nombre": "Complicaciones posoperatorias y cicatrización",
@@ -523,7 +1297,37 @@
           "numero_de_pagina": 214
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Wounded: Common Wound Complications",
+          "url": "https://www.youtube.com/watch?v=Pwj7jUYUtm8",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "Optimización preoperatoria y consideraciones intraoperatorias para reducir eventos de herida"
+        },
+        {
+          "titulo": "Postoperative Complications - USMLE Step 2 Review",
+          "url": "https://www.youtube.com/watch?v=JqoVZCNIeXY",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "Revisión de complicaciones posoperatorias para estudiantes de medicina"
+        },
+        {
+          "titulo": "Fases del proceso de cicatrización de las heridas",
+          "url": "https://www.youtube.com/watch?v=L71UZ5ILnn4",
+          "idioma": "Español",
+          "duracion": "N/D",
+          "aportacion": "Proceso de cicatrización y fases de reparación de heridas"
+        },
+        {
+          "titulo": "HERIDAS Y CICATRIZACIÓN - VILLAMEDIC",
+          "url": "https://www.youtube.com/watch?v=ofSD8jJaM9w",
+          "idioma": "Español",
+          "duracion": "N/D",
+          "aportacion": "Proceso biológico de reparación correcta de heridas con reacciones e interacciones"
+        }
+      ]
     },
     {
       "nombre": "Cirugía plástica",
@@ -555,7 +1359,44 @@
           "numero_de_pagina": 221
         }
       ],
-      "total_paginas": 9
+      "total_paginas": 9,
+      "videos": [
+        {
+          "titulo": "¿¿Injertos Colgajos?? MEJOR opción en MAMA",
+          "url": "https://www.youtube.com/watch?v=EwgtQVb7ZBE",
+          "idioma": "Español",
+          "duracion": "N/D",
+          "aportacion": "Diferencias entre injertos y colgajos en reconstrucción mamaria"
+        },
+        {
+          "titulo": "Reconstrucción mamaria con colgajo TMG",
+          "url": "https://www.youtube.com/watch?v=bju178HPfb4",
+          "idioma": "Español",
+          "duracion": "N/D",
+          "aportacion": "Primera reconstrucción mamaria en España con tejido extraído del muslo"
+        },
+        {
+          "titulo": "Injertos y Colgajos",
+          "url": "https://www.youtube.com/watch?v=8ecKW6LKIeI",
+          "idioma": "Español",
+          "duracion": "N/D",
+          "aportacion": "Utilizados para cubrir grandes extensiones de piel en quemados o para rellenar"
+        },
+        {
+          "titulo": "Skin Grafts and Pedicle Flaps",
+          "url": "https://www.youtube.com/watch?v=ZTRPlrljizA",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "Injertos de piel y colgajos pediculados en cirugía reconstructiva"
+        },
+        {
+          "titulo": "Overview of 12 Plastic Surgery Reconstruction Techniques",
+          "url": "https://www.youtube.com/watch?v=7eawUTZSLzs",
+          "idioma": "Inglés",
+          "duracion": "N/D",
+          "aportacion": "Diferentes técnicas y colgajos para cerrar defectos en cirugía de cabeza y cuello"
+        }
+      ]
     }
   ]
 }

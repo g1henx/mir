@@ -46,7 +46,79 @@
           "numero_de_pagina": 13
         }
       ],
-      "total_paginas": 16
+      "total_paginas": 16,
+      "videos": [
+        {
+          "titulo": "Neurosis vs psicosis",
+          "url": "https://www.youtube.com/watch?v=YtiPu0GgnZM",
+          "idioma": "es",
+          "duracion": null,
+          "aportacion": "Diferenciación conceptual básica entre neurosis y psicosis, fundamental para el MIR Asturias"
+        },
+        {
+          "titulo": "Preguntas y respuestas sobre trastornos de ansiedad",
+          "url": "https://www.youtube.com/watch?v=06adJ6zOosg",
+          "idioma": "es",
+          "duracion": null,
+          "aportacion": "Formato de preguntas clínicas específicas para preparación del MIR en psiquiatría"
+        },
+        {
+          "titulo": "Psiquiatría Vol. 1 (feat. Dr. Taboada)",
+          "url": "https://www.youtube.com/watch?v=-RpErMWQ2KM",
+          "idioma": "es",
+          "duracion": null,
+          "aportacion": "Clase completa sobre trastornos de ansiedad, estrés y somatomorfos por psiquiatra especialista"
+        },
+        {
+          "titulo": "Tratamiento para el Trastorno Obsesivo Compulsivo (TOC)",
+          "url": "https://www.youtube.com/watch?v=hqM1CKl3jYQ",
+          "idioma": "es",
+          "duracion": null,
+          "aportacion": "Enfoque específico en tratamiento cognitivo conductual del TOC"
+        },
+        {
+          "titulo": "TOC: Trastorno obsesivo compulsivo (OCD) | Stanford",
+          "url": "https://www.youtube.com/watch?v=Mf_mRF6M_Jk",
+          "idioma": "es",
+          "duracion": null,
+          "aportacion": "Explicación de signos y síntomas del TOC por especialistas de Stanford"
+        },
+        {
+          "titulo": "TEPT: Trastorno de estrés postraumático | (PTSD)",
+          "url": "https://www.youtube.com/watch?v=OvD8VlR95DI",
+          "idioma": "es",
+          "duracion": null,
+          "aportacion": "Reconocimiento y tratamiento del trastorno de estrés postraumático"
+        },
+        {
+          "titulo": "El trastorno por estrés postraumático - causas, síntomas",
+          "url": "https://www.youtube.com/watch?v=dXO6f7AhIxY",
+          "idioma": "es",
+          "duracion": null,
+          "aportacion": "Conceptos básicos sobre causas y manifestaciones del TEPT"
+        },
+        {
+          "titulo": "Panic attack or anxiety? Panic disorder explained",
+          "url": "https://www.youtube.com/watch?v=dZgMwMVKWWs",
+          "idioma": "en",
+          "duracion": null,
+          "aportacion": "Diferenciación entre ataques de pánico y ansiedad generalizada con estrategias de manejo"
+        },
+        {
+          "titulo": "Anxiety Disorders: OCD, PTSD, Panic Attack, Agoraphobia",
+          "url": "https://www.youtube.com/watch?v=Ha23BbieZO8",
+          "idioma": "en",
+          "duracion": null,
+          "aportacion": "Revisión completa de los principales trastornos de ansiedad en formato educativo"
+        },
+        {
+          "titulo": "How to do Exposure Therapy for Fears and Anxiety",
+          "url": "https://www.youtube.com/watch?v=TYQ2qWgVJrY",
+          "idioma": "en",
+          "duracion": null,
+          "aportacion": "Guía paso a paso sobre terapia de exposición, tratamiento fundamental para trastornos de ansiedad"
+        }
+      ]
     },
     {
       "nombre": "Trastornos del estado de ánimo",
@@ -78,7 +150,86 @@
           "numero_de_pagina": 37
         }
       ],
-      "total_paginas": 24
+      "total_paginas": 24,
+      "videos": [
+        {
+          "titulo": "Medicamentos para el Trastorno Bipolar",
+          "url": "https://www.youtube.com/watch?v=Jgzgy5MBx80",
+          "idioma": "es",
+          "duracion": null,
+          "aportacion": "Revisión de tratamiento farmacológico del trastorno bipolar"
+        },
+        {
+          "titulo": "Depression and bipolar disorder",
+          "url": "https://www.youtube.com/watch?v=QoVWO9iZAuI",
+          "idioma": "en",
+          "duracion": null,
+          "aportacion": "Etiología, cuadro clínico y clasificación diagnóstica de trastornos del estado de ánimo"
+        },
+        {
+          "titulo": "Litio y psiquiatría",
+          "url": "https://www.youtube.com/watch?v=Hno9O3UGD-I",
+          "idioma": "es",
+          "duracion": null,
+          "aportacion": "Uso del litio en el tratamiento del trastorno bipolar, estabilizador del ánimo fundamental"
+        },
+        {
+          "titulo": "Tema 17. Fármacos indicados en la Ansiedad y Depresión",
+          "url": "https://www.youtube.com/watch?v=6cTbDWv-PlU",
+          "idioma": "es",
+          "duracion": null,
+          "aportacion": "Actualización en tratamiento farmacológico de la depresión y fármacos antidepresivos"
+        },
+        {
+          "titulo": "¿Cuál es el tratamiento de trastorno bipolar?",
+          "url": "https://www.youtube.com/watch?v=QPGipuT02EQ",
+          "idioma": "es",
+          "duracion": null,
+          "aportacion": "Abordaje terapéutico adecuado del trastorno bipolar para mejoría del paciente"
+        },
+        {
+          "titulo": "Trastorno Bipolar parte 1",
+          "url": "https://www.youtube.com/watch?v=c34fx7hQqAY",
+          "idioma": "es",
+          "duracion": null,
+          "aportacion": "Actualización en el tratamiento farmacológico del trastorno bipolar por la Asociación Valenciana"
+        },
+        {
+          "titulo": "#SaludMentalalDía. Paul Vöhringer: ¿Qué es el trastorno bipolar?",
+          "url": "https://www.youtube.com/watch?v=Ail_WzxYZzg",
+          "idioma": "es",
+          "duracion": null,
+          "aportacion": "Conversación con psiquiatra subespecialista en trastornos del ánimo y bipolaridad"
+        },
+        {
+          "titulo": "#186 Bipolar disorder",
+          "url": "https://www.youtube.com/watch?v=q2xWdqO-L9w",
+          "idioma": "es",
+          "duracion": null,
+          "aportacion": "Explicación según OMS sobre fluctuaciones extremas del estado de ánimo en trastorno bipolar"
+        },
+        {
+          "titulo": "Corrección MIR 2025 | Preguntas de Psiquiatría",
+          "url": "https://www.youtube.com/watch?v=06adJ6zOosg",
+          "idioma": "es",
+          "duracion": null,
+          "aportacion": "Explicación de preguntas específicas del MIR 2025 por especialista en psiquiatría"
+        },
+        {
+          "titulo": "Mucho+Q2 | Trastorno bipolar. Causas, tratamientos",
+          "url": "https://www.youtube.com/watch?v=9idii27Y4Sc",
+          "idioma": "es",
+          "duracion": null,
+          "aportacion": "Conversación sobre causas, tratamientos y población afectada en trastorno bipolar"
+        },
+        {
+          "titulo": "TEMA18 BIPOLAR",
+          "url": "https://www.youtube.com/watch?v=uIwiW9jfMoc",
+          "idioma": "es",
+          "duracion": null,
+          "aportacion": "Revisión de causas, síntomas y tratamientos del trastorno bipolar en formato académico"
+        }
+      ]
     },
     {
       "nombre": "Trastornos psicóticos",
@@ -110,7 +261,58 @@
           "numero_de_pagina": 51
         }
       ],
-      "total_paginas": 12
+      "total_paginas": 12,
+      "videos": [
+        {
+          "titulo": "Esquizofrenia: diagnóstico, cuidados y tratamientos",
+          "url": "https://www.youtube.com/watch?v=CgcnPllbv_A",
+          "idioma": "es",
+          "duracion": null,
+          "aportacion": "Detección de señales tempranas y guías para el diagnóstico y tratamiento de esquizofrenia"
+        },
+        {
+          "titulo": "Delirios, Alucinaciones y Miedo: Así es Vivir con Esquizofrenia",
+          "url": "https://www.youtube.com/watch?v=6GiS493ymU4",
+          "idioma": "es",
+          "duracion": null,
+          "aportacion": "Experiencia en primera persona de vivir con esquizofrenia, síntomas positivos explicados"
+        },
+        {
+          "titulo": "PSICOSIS Y ESQUIZOFRENIA PARA ESTUDIANTES",
+          "url": "https://www.youtube.com/watch?v=GrA3pScMVNM",
+          "idioma": "es",
+          "duracion": null,
+          "aportacion": "Conceptos fundamentales sobre psicosis y esquizofrenia orientados a estudiantes de medicina"
+        },
+        {
+          "titulo": "¿Qué es un delirio?¿Y una alucinación?",
+          "url": "https://www.youtube.com/watch?v=3KH1rFKtYeI",
+          "idioma": "es",
+          "duracion": null,
+          "aportacion": "Diferenciación clara entre delirios y alucinaciones, síntomas psicóticos fundamentales"
+        },
+        {
+          "titulo": "Esquizofrenia: causas, síntomas y tratamiento",
+          "url": "https://www.youtube.com/watch?v=ZyuM2EsPb3s",
+          "idioma": "es",
+          "duracion": null,
+          "aportacion": "Revisión completa de esquizofrenia como trastorno crónico y grave"
+        },
+        {
+          "titulo": "Psychopharmacology: Antipsychotics & The Dopamine Hypothesis",
+          "url": "https://www.youtube.com/watch?v=9ah8pNwP8hQ",
+          "idioma": "en",
+          "duracion": null,
+          "aportacion": "Base neuroquímica de antipsicóticos y la hipótesis dopaminérgica de la esquizofrenia"
+        },
+        {
+          "titulo": "Dopamine Pathways, Antipsychotics, and EPS",
+          "url": "https://www.youtube.com/watch?v=wCtC3LN2Vfc",
+          "idioma": "en",
+          "duracion": null,
+          "aportacion": "Vías dopaminérgicas cerebrales y efectos secundarios extrapiramidales de antipsicóticos"
+        }
+      ]
     },
     {
       "nombre": "Trastornos relacionados con sustancias",
@@ -147,7 +349,65 @@
           "numero_de_pagina": 65
         }
       ],
-      "total_paginas": 14
+      "total_paginas": 14,
+      "videos": [
+        {
+          "titulo": "Medicamentos para el tratamiento de adicciones",
+          "url": "https://www.youtube.com/watch?v=LDjBHSvNFHI",
+          "idioma": "es",
+          "duracion": null,
+          "aportacion": "Tratamiento farmacológico de adicciones en centros de salud comunitarios"
+        },
+        {
+          "titulo": "Abstinencia de Opioides",
+          "url": "https://www.youtube.com/watch?v=HMAQEBeatHI",
+          "idioma": "es",
+          "duracion": null,
+          "aportacion": "Síndrome de abstinencia de opioides y programas de tratamiento efectivos"
+        },
+        {
+          "titulo": "Neurobiología de las Adicciones",
+          "url": "https://www.youtube.com/watch?v=fE_LjHZxPh8",
+          "idioma": "es",
+          "duracion": null,
+          "aportacion": "Bases neurobiológicas de la adicción y mecanismos cerebrales implicados"
+        },
+        {
+          "titulo": "La Crisis de Opioides en América: Tratamiento Ambulatorio",
+          "url": "https://www.youtube.com/watch?v=Ld1mdpglgaQ",
+          "idioma": "es",
+          "duracion": null,
+          "aportacion": "Trastorno por uso de opioides y opciones de tratamiento ambulatorio"
+        },
+        {
+          "titulo": "Tratamiento de la adicción y la sobredosis de fentanilo",
+          "url": "https://www.youtube.com/watch?v=YfvxTQZEKjI",
+          "idioma": "es",
+          "duracion": null,
+          "aportacion": "Tratamiento asistido con medicamentos (MAT) para adicción a opioides y fentanilo"
+        },
+        {
+          "titulo": "ATRAPADOS DE UNA ADICCIÓN",
+          "url": "https://www.youtube.com/watch?v=wROx9QoyWOU",
+          "idioma": "es",
+          "duracion": null,
+          "aportacion": "Cómo dejar las drogas y conductas adictivas de manera efectiva"
+        },
+        {
+          "titulo": "¿Un chip para curar las adicciones? Implantes subdérmicos",
+          "url": "https://www.youtube.com/watch?v=uNuFABciRmU",
+          "idioma": "es",
+          "duracion": null,
+          "aportacion": "Funcionamiento de implantes subdérmicos en tratamiento de adicciones"
+        },
+        {
+          "titulo": "Cómo la Oxigenación Hiperbárica Ayuda Curar la Adicción",
+          "url": "https://www.youtube.com/watch?v=D-HxfzIS4M0",
+          "idioma": "es",
+          "duracion": null,
+          "aportacion": "Tratamiento complementario con oxigenación hiperbárica en adicción a drogas"
+        }
+      ]
     },
     {
       "nombre": "Trastornos neurocognitivos",
@@ -174,7 +434,37 @@
           "numero_de_pagina": 71
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Trastornos cognitivos del adulto mayor, demencias",
+          "url": "https://www.youtube.com/watch?v=-gUz8L88KEQ",
+          "idioma": "es",
+          "duracion": null,
+          "aportacion": "Revisión completa de demencias degenerativas y vasculares en el adulto mayor"
+        },
+        {
+          "titulo": "Dementia vs. Delirium: Differences",
+          "url": "https://www.youtube.com/watch?v=IFdY3NtcyRA",
+          "idioma": "en",
+          "duracion": null,
+          "aportacion": "Diferenciación clara entre demencia y delirium, diagnóstico diferencial fundamental"
+        },
+        {
+          "titulo": "Deterioro Cognitivo y Demencia: Lo Que DEBES Saber",
+          "url": "https://www.youtube.com/watch?v=W2miIoVktI8",
+          "idioma": "es",
+          "duracion": null,
+          "aportacion": "Deterioro cognitivo leve y demencia: espectro clínico y elementos diagnósticos"
+        },
+        {
+          "titulo": "Dementia, Alzheimer's, and Neurocognitive Disorders",
+          "url": "https://www.youtube.com/watch?v=4-rJJAintLs",
+          "idioma": "en",
+          "duracion": null,
+          "aportacion": "Revisión completa de demencia, Alzheimer y trastornos neurocognitivos"
+        }
+      ]
     },
     {
       "nombre": "Trastornos de la conducta alimentaria",
@@ -196,7 +486,37 @@
           "numero_de_pagina": 76
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Anorexia y Bulimia y los trastornos de la Conducta Alimentaria",
+          "url": "https://www.youtube.com/watch?v=wVJ59c-QgnU",
+          "idioma": "es",
+          "duracion": null,
+          "aportacion": "TCA como enfermedades mentales graves con conductas alteradas respecto a hábitos alimentarios"
+        },
+        {
+          "titulo": "Trastornos de la Conducta Alimentaria: Señales",
+          "url": "https://www.youtube.com/watch?v=S7Q1xyybpc8",
+          "idioma": "es",
+          "duracion": null,
+          "aportacion": "Signos de alerta y detección temprana de TCA, incluyendo bulimia nerviosa según Stanford"
+        },
+        {
+          "titulo": "Anorexia and Bulimia: Causes and Treatments",
+          "url": "https://www.youtube.com/watch?v=4vSNi4sL__w",
+          "idioma": "en",
+          "duracion": null,
+          "aportacion": "Causas y tratamientos de anorexia y bulimia, edad de presentación típica 18-20 años"
+        },
+        {
+          "titulo": "ANOREXIA | SÍNTOMAS, CAUSAS y TRATAMIENTO",
+          "url": "https://www.youtube.com/watch?v=uBy3_z6nE58",
+          "idioma": "es",
+          "duracion": null,
+          "aportacion": "Síntomas, causas y tratamiento específico de anorexia nerviosa y alteración de imagen corporal"
+        }
+      ]
     },
     {
       "nombre": "Trastornos de la personalidad",
@@ -218,7 +538,37 @@
           "numero_de_pagina": 81
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "Personality Disorders | Cluster B | Narcissistic, Antisocial",
+          "url": "https://www.youtube.com/watch?v=_BHUU3F5vNQ",
+          "idioma": "en",
+          "duracion": null,
+          "aportacion": "Revisión de trastornos de personalidad Cluster B: narcisista, antisocial, límite, histriónico"
+        },
+        {
+          "titulo": "TRASTORNO LÍMITE DE LA PERSONALIDAD",
+          "url": "https://www.youtube.com/watch?v=rqtX_y6CiuI",
+          "idioma": "es",
+          "duracion": null,
+          "aportacion": "Explicación detallada del trastorno límite de personalidad (borderline)"
+        },
+        {
+          "titulo": "LOS 5 PRINCIPALES TRASTORNOS DE PERSONALIDAD",
+          "url": "https://www.youtube.com/watch?v=6axvbqvMG2k",
+          "idioma": "es",
+          "duracion": null,
+          "aportacion": "Revisión de los 5 principales trastornos de personalidad y formas de relación"
+        },
+        {
+          "titulo": "Cluster B Personality Disorders",
+          "url": "https://www.youtube.com/watch?v=2VZm7sIgSjM",
+          "idioma": "es",
+          "duracion": null,
+          "aportacion": "Trastornos de personalidad Cluster B: histriónico, limítrofe, antisocial y narcisista"
+        }
+      ]
     },
     {
       "nombre": "Trastornos del sueño",
@@ -250,7 +600,44 @@
           "numero_de_pagina": 86
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Diagnóstico Diferencial. Trastornos del sueño",
+          "url": "https://www.youtube.com/watch?v=IfOS6dpD52M",
+          "idioma": "es",
+          "duracion": null,
+          "aportacion": "Diagnóstico diferencial completo de trastornos del sueño por MIR Asturias"
+        },
+        {
+          "titulo": "Parasomnias (Non-REM Sleep Arousal Disorder) | DSM-5 TR",
+          "url": "https://www.youtube.com/watch?v=LBWS7mgSoME",
+          "idioma": "es",
+          "duracion": null,
+          "aportacion": "Parasomnias según DSM-5 TR: insomnio, sonambulismo, narcolepsia"
+        },
+        {
+          "titulo": "DIAGNÓSTICO, SÍNTOMAS Y TRATAMIENTO DSM 5-TR",
+          "url": "https://www.youtube.com/watch?v=ikRJoqoDF5E",
+          "idioma": "es",
+          "duracion": null,
+          "aportacion": "Trastornos sueño-vigilia: insomnio, hipersomnia, narcolepsia según DSM-5 TR"
+        },
+        {
+          "titulo": "REM SLEEP DISORDER | Parasomnias | DSM-5 TR",
+          "url": "https://www.youtube.com/watch?v=oUVAgocq3CI",
+          "idioma": "es",
+          "duracion": null,
+          "aportacion": "Trastorno del comportamiento del sueño REM: síntomas, diagnóstico y tratamiento"
+        },
+        {
+          "titulo": "ASMR SLEEP DISORDERS: Insomnia, Apnea, Narcolepsy",
+          "url": "https://www.youtube.com/watch?v=FHFiAK4h1UU",
+          "idioma": "es",
+          "duracion": null,
+          "aportacion": "Trastornos del sueño: causas, prevención y tratamiento de insomnio, apnea y narcolepsia"
+        }
+      ]
     },
     {
       "nombre": "Trastornos de la infancia y la adolescencia",
@@ -267,7 +654,30 @@
           "numero_de_pagina": 92
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Principales trastornos del neurodesarrollo infantil",
+          "url": "https://www.youtube.com/watch?v=y_vPo4g_Vi8",
+          "idioma": "es",
+          "duracion": null,
+          "aportacion": "Trastornos del neurodesarrollo infantil y hitos del desarrollo a los 24 meses"
+        },
+        {
+          "titulo": "Los Trastornos del Neurodesarrollo Infantil",
+          "url": "https://www.youtube.com/watch?v=YAJscNc84yE",
+          "idioma": "es",
+          "duracion": null,
+          "aportacion": "Todo sobre autismo y trastornos del neurodesarrollo por especialista Dra. Alicia Vargas"
+        },
+        {
+          "titulo": "Diagnóstico diferencial entre TDAH y TEA - Amanda Meliá",
+          "url": "https://www.youtube.com/watch?v=y1i4aMz6rJI",
+          "idioma": "es",
+          "duracion": null,
+          "aportacion": "Diferenciación diagnóstica entre TDAH y trastorno del espectro autista"
+        }
+      ]
     },
     {
       "nombre": "Trastornos sexuales",
@@ -284,7 +694,23 @@
           "numero_de_pagina": 96
         }
       ],
-      "total_paginas": 2
+      "total_paginas": 2,
+      "videos": [
+        {
+          "titulo": "Salud Mental para todos - 8. Disfunciones sexuales: todo lo",
+          "url": "https://www.youtube.com/watch?v=2NVKci0ndic",
+          "idioma": "es",
+          "duracion": null,
+          "aportacion": "Respuesta sexual humana y diferentes alteraciones que pueden presentarse"
+        },
+        {
+          "titulo": "¿QUE SON LAS PARAFILIAS? / PSICOLOGA",
+          "url": "https://www.youtube.com/watch?v=e1_0l955S3g",
+          "idioma": "es",
+          "duracion": null,
+          "aportacion": "Explicación de parafilias, trastornos sexuales y aberraciones sexuales"
+        }
+      ]
     },
     {
       "nombre": "Psicología médica, epidemiología y neuroquímica",
@@ -306,7 +732,44 @@
           "numero_de_pagina": 100
         }
       ],
-      "total_paginas": 7
+      "total_paginas": 7,
+      "videos": [
+        {
+          "titulo": "Cómo la psicoterapia cambia el cerebro. Charla con Raquel",
+          "url": "https://www.youtube.com/watch?v=NERQDihu_-Q",
+          "idioma": "es",
+          "duracion": null,
+          "aportacion": "Cómo la psicoterapia modifica el cerebro y bases neurobiológicas del tratamiento psicológico"
+        },
+        {
+          "titulo": "Terapia Cognitivo Conductual - Preguntas y respuestas",
+          "url": "https://www.youtube.com/watch?v=Rky_8z7GSsQ",
+          "idioma": "es",
+          "duracion": null,
+          "aportacion": "Preguntas frecuentes sobre terapia cognitivo conductual por Mtra. Pamela González"
+        },
+        {
+          "titulo": "Psicología para la prevención y abordaje de adicciones",
+          "url": "https://www.youtube.com/watch?v=JhKwgYWLEP8",
+          "idioma": "es",
+          "duracion": null,
+          "aportacion": "Psicoterapia cognitivo-conductual con estrategias de tercera generación"
+        },
+        {
+          "titulo": "2-Minute Neuroscience: Schizophrenia",
+          "url": "https://www.youtube.com/watch?v=pjTmZqBNB78",
+          "idioma": "en",
+          "duracion": null,
+          "aportacion": "Glutamato y dopamina en esquizofrenia: bases neuroquímicas actualizadas"
+        },
+        {
+          "titulo": "2-Minute Neuroscience: Antipsychotics",
+          "url": "https://www.youtube.com/watch?v=RSJlCdOba7w",
+          "idioma": "en",
+          "duracion": null,
+          "aportacion": "Neuroquímica de antipsicóticos y actividad dopaminérgica en el tratamiento de psicosis"
+        }
+      ]
     }
   ]
 }

@@ -21,7 +21,30 @@
           "numero_de_pagina": 3
         }
       ],
-      "total_paginas": 3
+      "total_paginas": 3,
+      "videos": [
+        {
+          "titulo": "Ciclo Cardíaco (Períodos, Presiones, Volúmenes)",
+          "url": "https://www.youtube.com/watch?v=m4ITM6Rxu6g",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Explicación detallada del mecanismo del ciclo cardíaco, sus fases o períodos, incluyendo sístole y diástole con sus respectivas presiones y volúmenes"
+        },
+        {
+          "titulo": "Fisiología Cardíaca - Potencial de Acción Cardíaco",
+          "url": "https://www.youtube.com/watch?v=JECWUZu-ZQY",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Fundamentos del potencial de acción cardíaco y bases celulares de la fisiología del corazón"
+        },
+        {
+          "titulo": "Cardiac Mechanics (preload, afterload, contractility)",
+          "url": "https://www.youtube.com/watch?v=emmf2JYAD-0",
+          "idioma": "inglés",
+          "duracion": "N/D",
+          "aportacion": "Explicación de los conceptos de precarga, postcarga, contractilidad y fracción de eyección aplicados a la función cardíaca"
+        }
+      ]
     },
     {
       "nombre": "Semiología cardíaca y vascular",
@@ -53,7 +76,44 @@
           "numero_de_pagina": 10
         }
       ],
-      "total_paginas": 7
+      "total_paginas": 7,
+      "videos": [
+        {
+          "titulo": "Semiología cardiaca",
+          "url": "https://www.youtube.com/watch?v=kuqZ_q11gyg",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Revisión general de la semiología cardiovascular, incluyendo técnicas de exploración física del corazón"
+        },
+        {
+          "titulo": "SEMIOLOGÍA CARDIACA - Explicación simple y completa",
+          "url": "https://www.youtube.com/watch?v=7aXvqGxcI9c",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Detalles esenciales e importantes de la semiología cardíaca explicados de forma didáctica"
+        },
+        {
+          "titulo": "Módulo de semiología cardiovascular - Playlist",
+          "url": "https://www.youtube.com/playlist?list=PLNNrAHBoi2vGO6hfWZrpzRH7u_roUVQ7i",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Serie completa sobre pulso arterial, presión venosa y otros aspectos de la exploración cardiovascular"
+        },
+        {
+          "titulo": "Auscultación Cardiaca",
+          "url": "https://www.youtube.com/watch?v=DkUdu8IPfSk",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Técnicas específicas de auscultación cardíaca y reconocimiento de ruidos normales y patológicos"
+        },
+        {
+          "titulo": "SEMIOLOGÍA DEL PULSO ARTERIAL",
+          "url": "https://www.youtube.com/watch?v=Bp7F6G6omDg",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Exploración detallada del pulso arterial, sus características y alteraciones patológicas"
+        }
+      ]
     },
     {
       "nombre": "Métodos diagnósticos en Cardiología",
@@ -100,7 +160,44 @@
           "numero_de_pagina": 18
         }
       ],
-      "total_paginas": 7
+      "total_paginas": 7,
+      "videos": [
+        {
+          "titulo": "ECOCARDIOGRAMA DE ESFUERZO",
+          "url": "https://www.youtube.com/watch?v=UDcepPYfFPQ",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Explicación de la utilidad, procedimiento e indicaciones del ecocardiograma de esfuerzo"
+        },
+        {
+          "titulo": "Curso de Electrocardiograma ECG-2022 (Clase 1)",
+          "url": "https://www.youtube.com/watch?v=dsEhzZ1wSns",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Interpretación de los trazados del ECG con diferentes patologías y aplicación a la práctica clínica"
+        },
+        {
+          "titulo": "ELECTROCARDIOGRAFÍA (ECG-EKG) COMPLETO",
+          "url": "https://www.youtube.com/playlist?list=PL3BE5DA0A5DF3BF75",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Curso completo de lectura e interpretación del electrocardiograma de forma fácil y minuciosa"
+        },
+        {
+          "titulo": "Interpretación de la Radiografía de Tórax",
+          "url": "https://www.youtube.com/watch?v=2CgawTzXyns",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Cómo describir e interpretar una radiografía de tórax, incluyendo evaluación de la silueta cardíaca"
+        },
+        {
+          "titulo": "CATETERISMO CARDÍACO - Estudio Hemodinámico",
+          "url": "https://www.youtube.com/watch?v=Byl_JSOJWIg",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Procedimiento de cateterismo cardíaco y su importancia en el diagnóstico de enfermedades cardiovasculares"
+        }
+      ]
     },
     {
       "nombre": "Insuficiencia cardíaca",
@@ -137,7 +234,58 @@
           "numero_de_pagina": 27
         }
       ],
-      "total_paginas": 12
+      "total_paginas": 12,
+      "videos": [
+        {
+          "titulo": "Insuficiencia cardiaca aguda",
+          "url": "https://www.youtube.com/watch?v=4AViGnCpYgc",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Manejo de la congestión y tratamiento de la IC aguda con isquemia persistente"
+        },
+        {
+          "titulo": "Insuficiencia cardíaca aguda. Diagnóstico y tratamiento",
+          "url": "https://www.youtube.com/watch?v=3o310fBwHxY",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Abordaje diagnóstico y terapéutico específico de la insuficiencia cardíaca aguda"
+        },
+        {
+          "titulo": "INSUFICIENCIA CARDIACA AGUDA - ABORDAJE EMERGENTE",
+          "url": "https://www.youtube.com/watch?v=VRZGx26rJXg",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Fisiopatología, etiología, manifestaciones clínicas y abordaje emergente de la IC aguda"
+        },
+        {
+          "titulo": "Nueva Guía Falla Cardiaca Crónica ESC 2021",
+          "url": "https://www.youtube.com/watch?v=hQQy_YUZsoA",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Actualización de guías ESC 2021 sobre tratamiento de IC con FEVI reducida, moderadamente reducida y preservada"
+        },
+        {
+          "titulo": "Fisiopatología de la Insuficiencia Cardiaca (Causas)",
+          "url": "https://www.youtube.com/watch?v=HGMfxeCBFfg",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Mecanismos fisiopatológicos y causas de la insuficiencia cardíaca"
+        },
+        {
+          "titulo": "Treatment of Acute Heart Failure",
+          "url": "https://www.youtube.com/watch?v=FpxKkScbvkw",
+          "idioma": "inglés",
+          "duracion": "N/D",
+          "aportacion": "Tratamiento básico de la insuficiencia cardíaca aguda"
+        },
+        {
+          "titulo": "Brain Natriuretic Peptide (BNP) - Heart Failure Diagnosis",
+          "url": "https://www.youtube.com/watch?v=QEt2lvWoMxA",
+          "idioma": "inglés",
+          "duracion": "N/D",
+          "aportacion": "Uso de péptidos natriuréticos (BNP y NT-proBNP) en el diagnóstico de insuficiencia cardíaca"
+        }
+      ]
     },
     {
       "nombre": "Miocardiopatías",
@@ -179,7 +327,58 @@
           "numero_de_pagina": 41
         }
       ],
-      "total_paginas": 12
+      "total_paginas": 12,
+      "videos": [
+        {
+          "titulo": "Miocardiopatía Dilatada",
+          "url": "https://www.youtube.com/watch?v=60HtnD7dWB8",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Características clínicas, diagnóstico y manejo de la miocardiopatía dilatada"
+        },
+        {
+          "titulo": "Miocardiopatía Restrictiva: Diagnóstico y Tratamiento",
+          "url": "https://www.youtube.com/watch?v=R-p_nBeIuo0",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Enfoque diagnóstico y terapéutico de la miocardiopatía restrictiva"
+        },
+        {
+          "titulo": "MIOCARDITIS - CLÍNICA Y ABORDAJE DIAGNÓSTICO",
+          "url": "https://www.youtube.com/watch?v=oA9cZv3h9CM",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Presentación clínica y estrategia diagnóstica en miocarditis"
+        },
+        {
+          "titulo": "Cardiomiopatias - MIOcardiopatias",
+          "url": "https://www.youtube.com/watch?v=SAmNwnr_Sd4",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Revisión general de los diferentes tipos de miocardiopatías"
+        },
+        {
+          "titulo": "Miocardiopatía Arritmogénica del Ventrículo Derecho",
+          "url": "https://www.youtube.com/watch?v=DVX-rQywWp8",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Características específicas de la displasia arritmogénica del ventrículo derecho (DAVD)"
+        },
+        {
+          "titulo": "Takotsubo Cardiomyopathy",
+          "url": "https://www.youtube.com/watch?v=rmYP95XY4bY",
+          "idioma": "inglés",
+          "duracion": "N/D",
+          "aportacion": "Miocardiopatía de Takotsubo y su presentación como síndrome coronario agudo"
+        },
+        {
+          "titulo": "MIOCARDIOPATÍA HIPERTRÓFICA",
+          "url": "https://www.youtube.com/watch?v=SAmNwnr_Sd4",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Fisiopatología, clínica y tratamiento de la miocardiopatía hipertrófica"
+        }
+      ]
     },
     {
       "nombre": "Valvulopatías",
@@ -216,7 +415,72 @@
           "numero_de_pagina": 55
         }
       ],
-      "total_paginas": 18
+      "total_paginas": 18,
+      "videos": [
+        {
+          "titulo": "Valvulopatías - Estenosis e Insuficiencia Aórtica y Mitral",
+          "url": "https://www.youtube.com/watch?v=XvknrhcUDuI",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Revisión completa de las principales valvulopatías: estenosis e insuficiencia aórtica y mitral"
+        },
+        {
+          "titulo": "CARDIO - Valvulopatías ENAM 2020",
+          "url": "https://www.youtube.com/watch?v=LpMydeWSQVw",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Repaso enfocado en examen de valvulopatías incluyendo todas las principales patologías valvulares"
+        },
+        {
+          "titulo": "Valvulopatías - Playlist completa",
+          "url": "https://www.youtube.com/playlist?list=PLnoQDhaFGKTUit_w2D8jEmt-Zb1PyhDJ6",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Serie educativa sobre estenosis e insuficiencia valvular aórtica y mitral"
+        },
+        {
+          "titulo": "Valvulopatía Tricuspídea",
+          "url": "https://www.youtube.com/watch?v=2RliUvbELVo",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Enfoque específico en la patología de la válvula tricúspide"
+        },
+        {
+          "titulo": "Diagnóstico Diferencial Valvulopatías",
+          "url": "https://www.youtube.com/watch?v=q-YpTAbDncg",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Herramientas para diferenciar entre las distintas valvulopatías"
+        },
+        {
+          "titulo": "Valvulopatías - Estado del arte en Diagnóstico y Tratamiento 2021",
+          "url": "https://www.youtube.com/watch?v=jI7_eTgcPfs",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Actualización sobre diagnóstico y tratamiento de valvulopatías incluyendo insuficiencia tricuspídea"
+        },
+        {
+          "titulo": "Válvulas cardiacas protésicas",
+          "url": "https://www.youtube.com/watch?v=J-oK68gqBO0",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Información sobre prótesis valvulares, sus tipos y consideraciones clínicas"
+        },
+        {
+          "titulo": "Estenosis Pulmonar Congénita",
+          "url": "https://www.youtube.com/watch?v=3SXreZNizDA",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Características de la estenosis de la válvula pulmonar congénita"
+        },
+        {
+          "titulo": "Casos clínicos de valvulopatías complejas",
+          "url": "https://canalsec.es/congresos/valvulopatias-25/casos-clinicos-de-valvulopatias-complejas",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Abordajes percutáneos y quirúrgicos en valvulopatías complejas"
+        }
+      ]
     },
     {
       "nombre": "Enfermedades del pericardio",
@@ -238,7 +502,37 @@
           "numero_de_pagina": 65
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Pericarditis aguda, Derrame pericárdico, Taponamiento cardiaco y Pericarditis constrictiva",
+          "url": "https://www.youtube.com/watch?v=ynprbY5mq1g",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Revisión completa de todas las enfermedades del pericardio en un solo video educativo"
+        },
+        {
+          "titulo": "Taponamiento cardiaco vs Pericarditis Constrictiva",
+          "url": "https://www.youtube.com/watch?v=EsQ98CEVrGY",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Diferencias entre taponamiento cardíaco y pericarditis constrictiva, dos cuadros importantes a distinguir"
+        },
+        {
+          "titulo": "Enfermedades del Pericardio - Playlist completa",
+          "url": "https://www.youtube.com/playlist?list=PLfO8cVt8jralfnHbKLYaDFWeDYg4wcKr1",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Serie sobre fisiopatología, electrocardiograma y tratamiento de las enfermedades pericárdicas"
+        },
+        {
+          "titulo": "PERICARDITIS AGUDA",
+          "url": "https://www.youtube.com/watch?v=RuHXAq2YLWo",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Enfoque específico en pericarditis aguda, sus causas virales y presentación clínica"
+        }
+      ]
     },
     {
       "nombre": "Cardiopatías congénitas",
@@ -270,7 +564,58 @@
           "numero_de_pagina": 72
         }
       ],
-      "total_paginas": 12
+      "total_paginas": 12,
+      "videos": [
+        {
+          "titulo": "CARDIOPATÍAS CONGÉNITAS: TETRALOGÍA DE FALLOT",
+          "url": "https://www.youtube.com/watch?v=vI34Rt1tTCg",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Fisiopatología, manifestaciones físicas y diagnóstico por imagen de la tetralogía de Fallot"
+        },
+        {
+          "titulo": "CIA - Comunicación interauricular",
+          "url": "https://www.youtube.com/watch?v=CKqvn4UpOak",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Características de la comunicación interauricular, una cardiopatía congénita acianótica frecuente"
+        },
+        {
+          "titulo": "CARDIOPATÍAS CONGÉNITAS - Playlist",
+          "url": "https://www.youtube.com/playlist?list=PLCPUw2Pjb88jvLf82ZlOFh4gHPLaWEVXy",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Serie completa sobre CIV, PCA, CIA y tetralogía de Fallot"
+        },
+        {
+          "titulo": "ECOCARDIOGRAMA EN CARDIOPATÍAS CONGÉNITAS",
+          "url": "https://www.youtube.com/watch?v=kSpFWYAUj2w",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Uso del ecocardiograma en el diagnóstico de CIA tipo ostium secundum y CIV"
+        },
+        {
+          "titulo": "CIV - Comunicación interventricular",
+          "url": "https://www.youtube.com/watch?v=gV93Ma_O4To",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Explicación detallada de la comunicación interventricular"
+        },
+        {
+          "titulo": "Conducto arterioso persistente",
+          "url": "https://www.youtube.com/watch?v=tc_G-LvZzDs",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Actualización sobre el ductus arterioso persistente y su manejo"
+        },
+        {
+          "titulo": "Patent ductus arteriosus",
+          "url": "https://www.youtube.com/watch?v=b-QQJ-0HKGI",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Características generales de la persistencia del conducto arterioso"
+        }
+      ]
     },
     {
       "nombre": "Tumores y traumatismos cardíacos",
@@ -287,7 +632,23 @@
           "numero_de_pagina": 80
         }
       ],
-      "total_paginas": 2
+      "total_paginas": 2,
+      "videos": [
+        {
+          "titulo": "El Mixoma Auricular Izquierdo",
+          "url": "https://www.youtube.com/watch?v=oXHEUL0_gEw",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Tumor cardíaco primario más común en adultos: el mixoma auricular, sus características y manejo"
+        },
+        {
+          "titulo": "Mixoma cardiaco: ¿qué es y por qué importa?",
+          "url": "https://www.youtube.com/watch?v=K-f2-1fFHZY",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Explicación del mixoma cardíaco y su impacto en la salud cardiovascular"
+        }
+      ]
     },
     {
       "nombre": "Arritmias",
@@ -339,7 +700,79 @@
           "numero_de_pagina": 95
         }
       ],
-      "total_paginas": 18
+      "total_paginas": 18,
+      "videos": [
+        {
+          "titulo": "Arritmias Cardíacas, Animación",
+          "url": "https://www.youtube.com/watch?v=ml19a5_SydM",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Animación educativa sobre fibrilación auricular y taquicardia reentrante nodal auriculoventricular (TSV)"
+        },
+        {
+          "titulo": "Arritmia cardíaca - Fibrilación Auricular",
+          "url": "https://www.youtube.com/watch?v=qpfe2z-YLLE",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Enfoque en fibrilación auricular, la arritmia que puede cambiar tu vida"
+        },
+        {
+          "titulo": "ACLS - Bradiarritmias, Taquiarritmias y Paro Cardiorespiratorio",
+          "url": "https://www.youtube.com/watch?v=ujFY9iXnu2k",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Manejo de bradiarritmias y taquiarritmias en el contexto de ACLS"
+        },
+        {
+          "titulo": "Learn to identify ARRHYTHMIAS easily and quickly",
+          "url": "https://www.youtube.com/watch?v=n3Jx5pkLghQ",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Método rápido y fácil para identificar arritmias en el ECG"
+        },
+        {
+          "titulo": "Repasito de arritmias graves",
+          "url": "https://www.youtube.com/watch?v=ELS1IvS2UZE",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Revisión de las arritmias graves más importantes en urgencias"
+        },
+        {
+          "titulo": "Aspectos electrocardiográficos de las arritmias supraventriculares",
+          "url": "https://www.youtube.com/watch?v=Zr94H-42WDI",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Características del ECG en taquicardias supraventriculares"
+        },
+        {
+          "titulo": "Descubre los secretos de las arritmias: Bradicardias y Taquicardias",
+          "url": "https://www.youtube.com/playlist?list=PLxLCktw4X5z4Tw8EN1c_lNVjLZ4Oqjyh6",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Serie completa sobre síntomas y manejo de bradicardias y taquicardias"
+        },
+        {
+          "titulo": "Identificación y abordaje de arritmias en áreas críticas",
+          "url": "https://www.youtube.com/watch?v=5SRQeRYOpVA",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Identificación de ritmos de paro, taquiarritmias y bradiarritmias en urgencias"
+        },
+        {
+          "titulo": "Ablación con catéter",
+          "url": "https://www.youtube.com/watch?v=7aPmBGJ8sBs",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Procedimiento de ablación con catéter para tratamiento de arritmias"
+        },
+        {
+          "titulo": "Casos difíciles en electrofisiología y ablación",
+          "url": "https://www.youtube.com/watch?v=eIPsX01oiL8",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Casos complejos en electrofisiología, ablación y uso de desfibriladores"
+        }
+      ]
     },
     {
       "nombre": "Shock, parada cardíaca y reanimación cardiopulmonar",
@@ -361,7 +794,37 @@
           "numero_de_pagina": 101
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Shock Hipovolémico vs Shock Séptico: Diferencias y Manejo",
+          "url": "https://www.youtube.com/watch?v=q4yERGBMYfw",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Cómo diferenciar y manejar shock hipovolémico y séptico en emergencias"
+        },
+        {
+          "titulo": "El manejo del paciente en shock cardiogénico refractario",
+          "url": "https://www.youtube.com/watch?v=drp44KaaPnU",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Simulación avanzada y casos reales de shock cardiogénico refractario"
+        },
+        {
+          "titulo": "RCP - Reanimación Cardiopulmonar - Primeros Auxilios Básicos",
+          "url": "https://www.youtube.com/watch?v=8E_tHsTNK6g",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Técnicas básicas de reanimación cardiopulmonar"
+        },
+        {
+          "titulo": "Shock - Urgencias más frecuentes en Cardiología",
+          "url": "https://www.youtube.com/watch?v=E2a5D5EKHqo",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Abordaje del shock en el contexto de urgencias cardiovasculares y RCP"
+        }
+      ]
     },
     {
       "nombre": "Síncope",
@@ -378,7 +841,30 @@
           "numero_de_pagina": 106
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "Síncope recurrente neuromediado",
+          "url": "https://www.youtube.com/watch?v=fappeed8PRQ",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Mejor tratamiento para pacientes con síncope neuromediado recurrente"
+        },
+        {
+          "titulo": "Síncope Vasovagal - Tratamiento Farmacológico",
+          "url": "https://www.youtube.com/watch?v=D6koqQQi_tw",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Opciones de tratamiento farmacológico para síncope vasovagal"
+        },
+        {
+          "titulo": "SÍNCOPE (vasovagal, ortostático y cardíaco)",
+          "url": "https://www.youtube.com/watch?v=ccwHmZJFqpo",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Clasificación completa: síncope reflejo, ortostático y cardíaco con sus características diferenciales"
+        }
+      ]
     },
     {
       "nombre": "Enfermedad coronaria",
@@ -425,7 +911,86 @@
           "numero_de_pagina": 130
         }
       ],
-      "total_paginas": 26
+      "total_paginas": 26,
+      "videos": [
+        {
+          "titulo": "Síndrome coronario agudo y ataque cardíaco",
+          "url": "https://www.youtube.com/watch?v=m8oe-WE9ZMg",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Animación 3D sobre síndrome coronario agudo e infarto de miocardio"
+        },
+        {
+          "titulo": "Nueva Guía Síndrome Coronario Agudo AHA 2025",
+          "url": "https://www.youtube.com/watch?v=Hu1iXvYRLWU",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Actualización de guías AHA 2025 sobre manejo de angina inestable e infarto agudo de miocardio"
+        },
+        {
+          "titulo": "Síndrome Coronario Agudo: ataques al corazón y angina",
+          "url": "https://www.youtube.com/watch?v=oibgqKODweA",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Causas del síndrome coronario agudo por acumulación de placas de grasa"
+        },
+        {
+          "titulo": "SINDROMES CORONARIOS AGUDOS (INTRODUCCIÓN) - ENARM",
+          "url": "https://www.youtube.com/watch?v=xojCDEpsXqk",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Introducción a síndromes coronarios agudos enfocada en examen MIR/ENARM"
+        },
+        {
+          "titulo": "SÍNDROME CORONARIO AGUDO - Playlist",
+          "url": "https://www.youtube.com/playlist?list=PL-EGNtKcTPghZ4hjCYcd6C3UCZkus3bnx",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Serie completa sobre IAM con y sin elevación del ST y angina inestable"
+        },
+        {
+          "titulo": "Infarto y aterosclerosis: lo que debes saber",
+          "url": "https://www.youtube.com/shorts/6vmsOzOBe2Q",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Relación entre infarto agudo de miocardio y enfermedad aterosclerótica"
+        },
+        {
+          "titulo": "Síndrome coronario agudo: IAMCEST, IAMSEST y angina inestable",
+          "url": "https://www.youtube.com/watch?v=zKcB1xccCeM",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Análisis completo del síndrome coronario agudo, principal causa de mortalidad cardiovascular"
+        },
+        {
+          "titulo": "Enfermedad Arterial Coronaria (EAC): Síntomas y causas",
+          "url": "https://www.youtube.com/watch?v=t85uCuSRNiA&vl=en",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Explicación de cardiólogo sobre la enfermedad arterial coronaria"
+        },
+        {
+          "titulo": "Enfermedad coronaria",
+          "url": "https://www.youtube.com/watch?v=dBp4wvB9TaM",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Revisión general de la enfermedad coronaria"
+        },
+        {
+          "titulo": "Bypass coronario vs. Angioplastia: ¿Cuál necesitas?",
+          "url": "https://www.youtube.com/watch?v=kX8uR0NVA_k",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Comparación entre cirugía de revascularización coronaria y angioplastia"
+        },
+        {
+          "titulo": "ANGIOPLASTIA EN BYPASS CORONARIO",
+          "url": "https://www.youtube.com/watch?v=i17QCvIQsrY",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Procedimiento de angioplastia en pacientes con bypass coronario previo"
+        }
+      ]
     },
     {
       "nombre": "Hipertensión arterial",
@@ -452,7 +1017,44 @@
           "numero_de_pagina": 139
         }
       ],
-      "total_paginas": 8
+      "total_paginas": 8,
+      "videos": [
+        {
+          "titulo": "Hipertensión - NUEVA Guía AHA 2025",
+          "url": "https://www.youtube.com/watch?v=aTUMNXVtkG4",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Actualización de guías AHA 2025: definición, diagnóstico, manejo no farmacológico y farmacológico"
+        },
+        {
+          "titulo": "ANTIHIPERTENSIVOS: Clasificación y Mecanismo de Acción",
+          "url": "https://www.youtube.com/watch?v=T9YQw1HLI_Q",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Clasificación de antihipertensivos según últimas guías, mecanismos de acción y aplicaciones"
+        },
+        {
+          "titulo": "Hipertensión arterial secundaria",
+          "url": "https://www.youtube.com/watch?v=Goc64WGsdtY",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Causas y manejo de la hipertensión arterial secundaria"
+        },
+        {
+          "titulo": "Tratamiento farmacológico de la hipertensión arterial",
+          "url": "https://www.youtube.com/watch?v=L7aMFX1gM64",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Opciones terapéuticas farmacológicas para el control de la HTA"
+        },
+        {
+          "titulo": "Nueva Guía Hipertensión Arterial ESC 2024",
+          "url": "https://www.youtube.com/watch?v=BuuvKyA8hQg",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Guías ESC 2024: diagnóstico, clasificación, valoración y manejo farmacológico y no farmacológico"
+        }
+      ]
     },
     {
       "nombre": "Enfermedades de la aorta",
@@ -479,7 +1081,51 @@
           "numero_de_pagina": 150
         }
       ],
-      "total_paginas": 10
+      "total_paginas": 10,
+      "videos": [
+        {
+          "titulo": "Aneurisma aórtico abdominal",
+          "url": "https://www.youtube.com/watch?v=l6TS3gpFbZk",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Animación sobre aneurisma de aorta abdominal y reparación quirúrgica"
+        },
+        {
+          "titulo": "Aneurisma de aorta",
+          "url": "https://www.youtube.com/watch?v=MsmjGcUBD34",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Dilatación de la arteria aorta y manejo por cirugía cardiovascular"
+        },
+        {
+          "titulo": "Rotura de aneurisma de aorta torácica",
+          "url": "https://www.youtube.com/watch?v=sCCJg4tWG9Y",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Complicación grave: rotura de aneurisma torácico y sus consecuencias"
+        },
+        {
+          "titulo": "Aortic Aneurysm and Aortic Dissection",
+          "url": "https://www.youtube.com/watch?v=Bnoo5insrUQ",
+          "idioma": "inglés",
+          "duracion": "N/D",
+          "aportacion": "Animación 3D sobre causas, localizaciones de aneurismas aórticos y formación de disección aórtica"
+        },
+        {
+          "titulo": "Aneurisma de Aorta: causas, síntomas y tratamiento",
+          "url": "https://www.youtube.com/watch?v=5xRg-4LJp84",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Enfoque completo sobre aneurismas aórticos por especialista en cirugía vascular"
+        },
+        {
+          "titulo": "Disección aórtica Stanford B aguda complicada",
+          "url": "https://www.youtube.com/watch?v=vCT1XxMHYKk",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Clasificación de Stanford y manejo de la disección aórtica tipo B complicada"
+        }
+      ]
     },
     {
       "nombre": "Enfermedades de los vasos periféricos",
@@ -511,7 +1157,58 @@
           "numero_de_pagina": 160
         }
       ],
-      "total_paginas": 12
+      "total_paginas": 12,
+      "videos": [
+        {
+          "titulo": "ENFERMEDAD ARTERIAL PERIFÉRICA",
+          "url": "https://www.youtube.com/watch?v=ydnu7peZtYI",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Conferencia completa sobre enfermedad arterial periférica por especialista en cirugía cardiovascular"
+        },
+        {
+          "titulo": "Peripheral Arterial Disease in the Lower Extremities",
+          "url": "https://www.youtube.com/watch?v=U1Oc7WiGRco",
+          "idioma": "inglés/español",
+          "duracion": "N/D",
+          "aportacion": "Enfermedad arterial periférica: epidemiología e historia natural"
+        },
+        {
+          "titulo": "Patología venosa/arterial periférica - ENARM",
+          "url": "https://www.youtube.com/watch?v=FANHn4l3ixI",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Varices e insuficiencia venosa periférica enfocado en examen"
+        },
+        {
+          "titulo": "Isquemia arterial aguda",
+          "url": "https://www.youtube.com/watch?v=XxC2l1Ghd7U",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Manejo de la isquemia arterial aguda de extremidades"
+        },
+        {
+          "titulo": "Enfermedad Vascular Periférica y la Enfermedad Venosa",
+          "url": "https://www.youtube.com/watch?v=-4W6fU1KvZk",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Diferencias entre enfermedad arterial periférica y enfermedad venosa"
+        },
+        {
+          "titulo": "2024 Guías ESC Enfermedad arterial periférica",
+          "url": "https://www.youtube.com/watch?v=XxC2l1Ghd7U",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Actualización de guías europeas 2024 sobre manejo de arteriopatía periférica"
+        },
+        {
+          "titulo": "Claudicación intermitente - Arteriopatía periférica",
+          "url": "https://www.youtube.com/watch?v=ydnu7peZtYI",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Síntoma cardinal de la enfermedad arterial periférica: claudicación intermitente"
+        }
+      ]
     }
   ]
 }

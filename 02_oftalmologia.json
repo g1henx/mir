@@ -21,7 +21,44 @@
           "numero_de_pagina": 5
         }
       ],
-      "total_paginas": 8
+      "total_paginas": 8,
+      "videos": [
+        {
+          "titulo": "CLASE 1 - ANATOMIA, EMBRIOLOGIA Y FISIOLOGIA DEL OJO",
+          "url": "https://www.youtube.com/watch?v=0k4Dc21LemE",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Clase completa de oftalmología que cubre anatomía, embriología y fisiología ocular de forma integral para estudiantes de medicina"
+        },
+        {
+          "titulo": "Embriología del ojo",
+          "url": "https://www.youtube.com/watch?v=hc6N2kFnmhk",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Video específico sobre el desarrollo embriológico del ojo con enfoque detallado en las etapas de formación"
+        },
+        {
+          "titulo": "EMBRIOLOGÍA: Desarrollo del ojo - Parte 1",
+          "url": "https://www.youtube.com/watch?v=zMOm4ccXbu8",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Explicación detallada del desarrollo embriológico del ojo con esquemas y diagramas educativos"
+        },
+        {
+          "titulo": "Anatomía y fisiología del ojo y de la órbita - Dr. Fabio Ramírez",
+          "url": "https://www.youtube.com/watch?v=nwPaK4q6pL4",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Presentación profesional sobre anatomía y fisiología ocular y orbital con perspectiva clínica"
+        },
+        {
+          "titulo": "Anatomía, fisiología, y embriología de la cornea y esclerótica",
+          "url": "https://www.youtube.com/watch?v=F2H491l3kmc",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Video enfocado en la anatomía específica de córnea y esclera con detalles embriológicos"
+        }
+      ]
     },
     {
       "nombre": "Refracción",
@@ -38,7 +75,37 @@
           "numero_de_pagina": 10
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "Human Physiology - Emmetropia, Myopia and Hyperopia",
+          "url": "https://www.youtube.com/watch?v=Po7K0Va8BUs",
+          "idioma": "en",
+          "duracion": "N/D",
+          "aportacion": "Explicación de la fisiología de la refracción y los estados refractivos del ojo humano"
+        },
+        {
+          "titulo": "Refractive errors of eye: Ophthalmology lectures",
+          "url": "https://www.youtube.com/watch?v=x_TpYpVXZwQ",
+          "idioma": "en",
+          "duracion": "N/D",
+          "aportacion": "Clase de oftalmología sobre errores refractivos incluyendo miopía, hipermetropía y astigmatismo"
+        },
+        {
+          "titulo": "Ophthalmology 044 - Refractive Errors Of Refraction",
+          "url": "https://www.youtube.com/watch?v=zqRmgzDESUA",
+          "idioma": "en",
+          "duracion": "N/D",
+          "aportacion": "Video educativo detallado sobre emetropía, ametropía y sus diferentes tipos"
+        },
+        {
+          "titulo": "Common Refractive Errors Of The Human Eye",
+          "url": "https://www.youtube.com/watch?v=jAIjvXGVv-Y",
+          "idioma": "en",
+          "duracion": "N/D",
+          "aportacion": "Explicación de los errores refractivos comunes y cómo se corrigen con lentes"
+        }
+      ]
     },
     {
       "nombre": "Párpados",
@@ -60,7 +127,37 @@
           "numero_de_pagina": 15
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "Blefaritis, orzuelos y chalazion",
+          "url": "https://www.youtube.com/watch?v=wXoEQ4g_wTE",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Explicación de las alteraciones inflamatorias del párpado: blefaritis, orzuelos y chalazión con manejo clínico"
+        },
+        {
+          "titulo": "MALPOSICION PARPADOS: Ectropion Entropion",
+          "url": "https://www.youtube.com/watch?v=hMnKKp5StZg",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Video sobre las malposiciones palpebrales más frecuentes: ectropion y entropion"
+        },
+        {
+          "titulo": "Eyelid Pathology Class",
+          "url": "https://www.youtube.com/watch?v=N7gqjKqxzd4",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Clase completa sobre patología palpebral incluyendo blefaritis, chalazión, entropion y ectropion"
+        },
+        {
+          "titulo": "Do you know if it's a stye or a chalazion?",
+          "url": "https://www.youtube.com/watch?v=grPZsOgBOn8",
+          "idioma": "en",
+          "duracion": "N/D",
+          "aportacion": "Diferenciación clara entre orzuelo y chalazión con características diagnósticas"
+        }
+      ]
     },
     {
       "nombre": "Órbita",
@@ -102,7 +199,44 @@
           "numero_de_pagina": 21
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Orbitopatía Tiroidea: TODO lo que necesitas saber",
+          "url": "https://www.youtube.com/watch?v=s9tuzrHrzGs",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Explicación completa de la oftalmopatía de Graves o orbitopatía tiroidea con fisiopatología y manejo"
+        },
+        {
+          "titulo": "Orbitopatia tiroidea Dra Rosas",
+          "url": "https://www.youtube.com/watch?v=pkpcJ0bqBGc",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Presentación académica sobre orbitopatía tiroidea con enfoque clínico y diagnóstico"
+        },
+        {
+          "titulo": "Thyroid orbitopathy [Radiological findings]",
+          "url": "https://www.youtube.com/watch?v=UkD0Vdwpqp8",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Hallazgos radiológicos de la orbitopatía tiroidea con imágenes diagnósticas"
+        },
+        {
+          "titulo": "Celulitis Orbitaria",
+          "url": "https://www.youtube.com/watch?v=ji6WN8wKkXE",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Video educativo sobre celulitis orbitaria, sus características y tratamiento"
+        },
+        {
+          "titulo": "Thyroid Orbitopathy | PortalCLÍNIC",
+          "url": "https://www.youtube.com/watch?v=92U_pGgioQQ",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Información sobre la orbitopatía tiroidea asociada a hipertiroidismo con perspectiva clínica"
+        }
+      ]
     },
     {
       "nombre": "Aparato lagrimal",
@@ -124,7 +258,37 @@
           "numero_de_pagina": 25
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "Infección Lagrimal, Antibióticos, Epifora, Dacriocistorinostomia",
+          "url": "https://www.youtube.com/watch?v=8RWQwlEPAXo",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Explicación de la dacriocistitis y su manejo quirúrgico con dacriocistorinostomía"
+        },
+        {
+          "titulo": "Tear duct obstruction/tearing",
+          "url": "https://www.youtube.com/watch?v=l7l3uOrZNt8",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Video sobre obstrucción del conducto lagrimal y epífora con cirugía plástica de vías lagrimales"
+        },
+        {
+          "titulo": "Película y vía lagrimal, Ojo seco; Dacrioestenosis y Dacriocistitis",
+          "url": "https://www.youtube.com/watch?v=nLSLJgRwh6Q",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Clase completa sobre la película lagrimal, ojo seco y patología de la vía lagrimal"
+        },
+        {
+          "titulo": "DACRIOCISTOCELE/DACRIOCISTITIS Signos radiológicos",
+          "url": "https://www.youtube.com/watch?v=9iw6m5qtQgA",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Hallazgos radiológicos de la patología del aparato lagrimal con imágenes diagnósticas"
+        }
+      ]
     },
     {
       "nombre": "Conjuntiva",
@@ -146,7 +310,37 @@
           "numero_de_pagina": 31
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Medicina para todos: conjuntivitis",
+          "url": "https://www.youtube.com/watch?v=rvEZlZ7UsK8",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Programa educativo sobre conjuntivitis con enfoque en uso racional de medicamentos"
+        },
+        {
+          "titulo": "Tratamiento para la conjuntivitis | Consulta de oftalmología",
+          "url": "https://www.youtube.com/watch?v=ptfkzWpTxAc",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Consulta oftalmológica sobre prevención y tratamiento de la conjuntivitis"
+        },
+        {
+          "titulo": "Conjuntivitis BACTERIANA en niños TRATAMIENTO 2024",
+          "url": "https://www.youtube.com/watch?v=qn7I2fJ93SU",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Video actualizado sobre el tratamiento de la conjuntivitis bacteriana pediátrica"
+        },
+        {
+          "titulo": "Medicina para todos: la conjuntivitis",
+          "url": "https://www.youtube.com/watch?v=eMqtnrgLXXY",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Programa de educación sanitaria sobre conjuntivitis y su manejo adecuado"
+        }
+      ]
     },
     {
       "nombre": "Córnea y esclera",
@@ -168,7 +362,51 @@
           "numero_de_pagina": 37
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "QUERATITIS INFECCIOSA: IDENTIFICACIÓN Y MANEJO",
+          "url": "https://www.youtube.com/watch?v=iQTQ1v5Vv4U",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Video sobre identificación y manejo de queratitis infecciosas con nuevas fronteras terapéuticas"
+        },
+        {
+          "titulo": "DISTROFIAS CORNEALES Y TRAUMA CORNEAL",
+          "url": "https://www.youtube.com/watch?v=xzxndfqI-Yw",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Presentación sobre distrofias corneales y manejo del trauma corneal"
+        },
+        {
+          "titulo": "Clase de Patología de la Córnea y Esclera",
+          "url": "https://www.youtube.com/watch?v=6kfwFMzq-mg",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Clase completa sobre queratitis bacteriana, fúngica, amebiana y patología escleral"
+        },
+        {
+          "titulo": "Lecture: Corneal Disease and Dystrophy Management",
+          "url": "https://www.youtube.com/watch?v=7LFMUogJVCc",
+          "idioma": "en",
+          "duracion": "N/D",
+          "aportacion": "Webinar sobre manejo de enfermedades corneales y distrofias con intervención temprana"
+        },
+        {
+          "titulo": "Corneal Dystrophies | Ophthalmology Video Lecture",
+          "url": "https://www.youtube.com/watch?v=aU4J1mszVFE",
+          "idioma": "en",
+          "duracion": "N/D",
+          "aportacion": "Clase de oftalmología sobre clasificación de distrofias corneales incluyendo membrana de Descemet"
+        },
+        {
+          "titulo": "Corneal Ulcer or NOT: Symptoms, Cause & Treatment",
+          "url": "https://www.youtube.com/watch?v=ptWi6i2xN7Y",
+          "idioma": "en",
+          "duracion": "N/D",
+          "aportacion": "Video educativo sobre queratitis infecciosa y úlceras corneales con síntomas y tratamiento"
+        }
+      ]
     },
     {
       "nombre": "Cristalino",
@@ -190,7 +428,51 @@
           "numero_de_pagina": 43
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Animación: La catarata",
+          "url": "https://www.youtube.com/watch?v=4-Gyc9iUcFk",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Animación educativa sobre las causas de la catarata y su efecto en la visión"
+        },
+        {
+          "titulo": "Cristalino borroso: Comprendiendo las Cataratas y su solución",
+          "url": "https://www.youtube.com/watch?v=qR4AcEy_I14",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Explicación de las cataratas como opacidades del cristalino y su tratamiento"
+        },
+        {
+          "titulo": "Clase de Patología del Cristalino",
+          "url": "https://www.youtube.com/watch?v=3ChLGr6f8fQ",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Clase completa de patología del cristalino de la Universidad de Barcelona"
+        },
+        {
+          "titulo": "CATARATA: CEGUERA REVERSIBLE",
+          "url": "https://www.youtube.com/watch?v=Q93yvH8-LkQ",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Explicación de la catarata como causa de ceguera reversible con cirugía"
+        },
+        {
+          "titulo": "Cataract Surgery Animation",
+          "url": "https://www.youtube.com/watch?v=n_3cG9oeuNo",
+          "idioma": "en",
+          "duracion": "N/D",
+          "aportacion": "Animación de los pasos típicos del procedimiento de cirugía de catarata con lente intraocular"
+        },
+        {
+          "titulo": "Cataract Surgery Educational Video",
+          "url": "https://www.youtube.com/watch?v=m-lofqnPkvU",
+          "idioma": "en",
+          "duracion": "N/D",
+          "aportacion": "Video educativo sobre cirugía de catarata con opciones de lentes intraoculares"
+        }
+      ]
     },
     {
       "nombre": "Glaucoma",
@@ -217,7 +499,44 @@
           "numero_de_pagina": 50
         }
       ],
-      "total_paginas": 8
+      "total_paginas": 8,
+      "videos": [
+        {
+          "titulo": "GLAUCOMA de ángulo abierto y cerrado. Síntomas, diagnóstico, tratamiento",
+          "url": "https://www.youtube.com/watch?v=oMnf0baz6fs",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Video completo sobre glaucoma de ángulo abierto y cerrado con síntomas, diagnóstico y tratamiento"
+        },
+        {
+          "titulo": "GLAUCOMA de ángulo CERRADO: tratamiento, causas",
+          "url": "https://www.youtube.com/watch?v=75tN_h-rGog",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Explicación específica del glaucoma de ángulo cerrado, una urgencia oftalmológica"
+        },
+        {
+          "titulo": "Glaucoma de ángulo abierto y cerrado - Miranza",
+          "url": "https://www.youtube.com/watch?v=PPQuog7tF6E",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Diferencias entre glaucoma de ángulo abierto y cerrado por especialista en glaucoma"
+        },
+        {
+          "titulo": "Glaucoma de ángulo Cerrado",
+          "url": "https://www.youtube.com/watch?v=Q9pM9XAhXl8",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Video educativo sobre el glaucoma de ángulo cerrado y su manejo urgente"
+        },
+        {
+          "titulo": "Glaucoma de ángulo Abierto",
+          "url": "https://www.youtube.com/watch?v=I-O5YRPFBBs",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Explicación del glaucoma crónico simple o de ángulo abierto"
+        }
+      ]
     },
     {
       "nombre": "Uveítis",
@@ -239,7 +558,51 @@
           "numero_de_pagina": 56
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "¿Cómo se CURA la UVEÍTIS? Todo lo que debes saber",
+          "url": "https://www.youtube.com/watch?v=2FYckn00bO0",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Video completo sobre el tratamiento de la uveítis ocular y su manejo"
+        },
+        {
+          "titulo": "UVEITIS, QUE ES ? | Clasificación, Síntomas, Diagnóstico",
+          "url": "https://www.youtube.com/watch?v=5mIYYxh4mgo",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Explicación clara de qué es la uveítis, su clasificación, síntomas y diagnóstico"
+        },
+        {
+          "titulo": "Tratamiento médico en uveítis",
+          "url": "https://www.youtube.com/watch?v=qmXOiNCb-cw",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Video sobre el tratamiento médico de las uveítis con diferentes opciones terapéuticas"
+        },
+        {
+          "titulo": "Uveítis Posterior",
+          "url": "https://www.youtube.com/watch?v=ZhfopZhpw6s",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Enfoque diagnóstico y semiológico de la uveítis posterior"
+        },
+        {
+          "titulo": "Uveitis, Causes, Signs and Symptoms, Diagnosis and Treatment",
+          "url": "https://www.youtube.com/watch?v=MiyYznAVL4A",
+          "idioma": "en",
+          "duracion": "N/D",
+          "aportacion": "Video educativo en inglés sobre causas, signos, síntomas y tratamiento de uveítis"
+        },
+        {
+          "titulo": "Managing uveitis from the common to the complex",
+          "url": "https://www.youtube.com/watch?v=IkGnqZLm_8E",
+          "idioma": "en",
+          "duracion": "N/D",
+          "aportacion": "Manejo de uveítis desde casos comunes hasta complejos por experta"
+        }
+      ]
     },
     {
       "nombre": "Vítreo y retina",
@@ -296,7 +659,79 @@
           "numero_de_pagina": 70
         }
       ],
-      "total_paginas": 14
+      "total_paginas": 14,
+      "videos": [
+        {
+          "titulo": "Retinopatía Diabética | Síntomas y Tratamientos",
+          "url": "https://www.youtube.com/watch?v=KN_Xu5-qnXU",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Video completo sobre retinopatía diabética, sus síntomas y opciones de tratamiento"
+        },
+        {
+          "titulo": "¿Qué es la retinopatía diabética? Causas, síntomas y tratamiento",
+          "url": "https://www.youtube.com/watch?v=UoiyZy3KDxA",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Explicación de la retinopatía diabética con edema macular, hemorragias y desprendimiento"
+        },
+        {
+          "titulo": "Patogénesis e Historia Natural del Desprendimiento de Retina",
+          "url": "https://www.youtube.com/watch?v=iP0njjJQ76A",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Video sobre patogénesis e historia natural del desprendimiento de retina"
+        },
+        {
+          "titulo": "¿Cuáles son las causas de la DMAE y el desprendimiento de retina?",
+          "url": "https://www.youtube.com/watch?v=GoLqawCTA70",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Causas de degeneración macular y desprendimiento de retina con enfoque en patología frecuente"
+        },
+        {
+          "titulo": "Maculopatías y Desprendimiento de Retina",
+          "url": "https://www.youtube.com/watch?v=JlTOmqgm8rA",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Video sobre maculopatías no hereditarias, DMAE neovascular y desprendimiento de retina"
+        },
+        {
+          "titulo": "Retinal Detachment: Everything You Need To Know",
+          "url": "https://www.youtube.com/watch?v=s9CHB80Un2w",
+          "idioma": "en",
+          "duracion": "N/D",
+          "aportacion": "Todo sobre desprendimiento de retina incluyendo desprendimiento vítreo y trauma"
+        },
+        {
+          "titulo": "Retinal Detachment | Types, Risk Factors, Pathophysiology",
+          "url": "https://www.youtube.com/watch?v=HjpcwHpFBRU",
+          "idioma": "en",
+          "duracion": "N/D",
+          "aportacion": "Tipos de desprendimiento de retina, factores de riesgo y fisiopatología"
+        },
+        {
+          "titulo": "Retinal Detachment Symptoms and Treatment",
+          "url": "https://www.youtube.com/watch?v=bDAGR_TBXTw",
+          "idioma": "en",
+          "duracion": "N/D",
+          "aportacion": "Síntomas y tratamiento del desprendimiento de retina: moscas volantes, destellos y cortina visual"
+        },
+        {
+          "titulo": "Symptoms & Treatment for Posterior Vitreous Separation",
+          "url": "https://www.youtube.com/watch?v=qId6g_qZoFc",
+          "idioma": "en",
+          "duracion": "N/D",
+          "aportacion": "Separación vítrea posterior y su relación con desprendimiento de retina"
+        },
+        {
+          "titulo": "Retinal Detachment",
+          "url": "https://www.youtube.com/watch?v=hAIo-K3YRZQ",
+          "idioma": "en",
+          "duracion": "N/D",
+          "aportacion": "Especialista en retina discute desprendimiento de retina con perspectiva clínica"
+        }
+      ]
     },
     {
       "nombre": "Estrabismo",
@@ -323,7 +758,44 @@
           "numero_de_pagina": 76
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "DETECCIÓN OPORTUNA DE ESTRABISMO EN NIÑOS",
+          "url": "https://www.youtube.com/watch?v=0RpxFscwR34",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Video sobre detección temprana de estrabismo en población pediátrica"
+        },
+        {
+          "titulo": "ambliopia (ojo perezoso) - AMBLYOPIA (LAZY EYE)",
+          "url": "https://www.youtube.com/watch?v=SvF_6zbErPM",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Explicación de la ambliopía u ojo perezoso con diagnóstico y tratamiento"
+        },
+        {
+          "titulo": "manejo de la ambliopía",
+          "url": "https://www.youtube.com/watch?v=jxMPt6i189w",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Video específico sobre el manejo y tratamiento de la ambliopía"
+        },
+        {
+          "titulo": "Cómo ayudar a corregir el ojo vago",
+          "url": "https://www.youtube.com/watch?v=jlUQXZU66U4",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Métodos para corregir el ojo vago y su relación con estrabismo"
+        },
+        {
+          "titulo": "¿QUÉ ES LA AMBLIOPÍA? CAUSAS Y SÍNTOMAS",
+          "url": "https://www.youtube.com/watch?v=fvAcnr7ZaCU",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Explicación de causas y síntomas de la ambliopía con ejercicios visuales"
+        }
+      ]
     },
     {
       "nombre": "Neuroftalmología",
@@ -345,7 +817,44 @@
           "numero_de_pagina": 82
         }
       ],
-      "total_paginas": 8
+      "total_paginas": 8,
+      "videos": [
+        {
+          "titulo": "NERVIO ÓPTICO | EXAMEN DE CAMPO VISUAL",
+          "url": "https://www.youtube.com/watch?v=9UhDfftmop4",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Video sobre nervio óptico y examen de campo visual o campimetría"
+        },
+        {
+          "titulo": "Síndromes clínicos neuro-oftalmológicos - parte 1",
+          "url": "https://www.youtube.com/watch?v=sDdkpHVpNw0",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Curso sobre síndromes clínicos en neuro-oftalmología"
+        },
+        {
+          "titulo": "Pupila",
+          "url": "https://www.youtube.com/watch?v=-1kDLwsW5b4",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Módulo de neuro-oftalmología enfocado en la pupila y sus alteraciones"
+        },
+        {
+          "titulo": "Defectos del Campo Visual",
+          "url": "https://www.youtube.com/watch?v=RRAi3k5tBWU",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Interpretación de campimetría y defectos del campo visual"
+        },
+        {
+          "titulo": "Neuro-ophthalmological Examination",
+          "url": "https://www.youtube.com/watch?v=W_Vjg2Z7YZc",
+          "idioma": "en",
+          "duracion": "N/D",
+          "aportacion": "Examen neuro-oftalmológico completo en inglés"
+        }
+      ]
     },
     {
       "nombre": "Traumatismos oculares",
@@ -397,7 +906,44 @@
           "numero_de_pagina": 90
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "Trauma ocular, cuerpo extraño y quemaduras oculares",
+          "url": "https://www.youtube.com/watch?v=LXxvQ3eN0Gs",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Video completo sobre trauma ocular, cuerpos extraños y quemaduras en los ojos"
+        },
+        {
+          "titulo": "Lesiones oculares por quemadura (Y QUE HACER)",
+          "url": "https://www.youtube.com/watch?v=TiPAUJCLczg",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Explicación de lesiones por quemaduras oculares con causas, síntomas y medidas de urgencia"
+        },
+        {
+          "titulo": "Trauma Ocular: Prevención y cuidados para proteger la vista",
+          "url": "https://www.youtube.com/watch?v=Fa9JiYU9XkI",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Video sobre prevención de traumas oculares, hasta 90% son prevenibles"
+        },
+        {
+          "titulo": "3º seminario: Cuerpos extraños y Traumatismos oculares",
+          "url": "https://www.youtube.com/watch?v=lRY14HmMebs",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Seminario para médicos de familia sobre cuerpos extraños y traumatismos oculares"
+        },
+        {
+          "titulo": "What are ocular traumas?",
+          "url": "https://www.youtube.com/watch?v=HJ4WTTxrlE4",
+          "idioma": "en",
+          "duracion": "N/D",
+          "aportacion": "Especialista explica todo sobre trauma ocular con perspectiva clínica"
+        }
+      ]
     },
     {
       "nombre": "Fármacos en oftalmología",
@@ -419,7 +965,37 @@
           "numero_de_pagina": 93
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "Cómo aplicar el colirio de manera segura - Mayo Clinic",
+          "url": "https://www.youtube.com/watch?v=JKK6I-XgbgI",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Video de Mayo Clinic sobre aplicación segura de colirios para tratar afecciones oculares"
+        },
+        {
+          "titulo": "Cómo echar colirio en un ojo",
+          "url": "https://www.youtube.com/watch?v=qc6cAlb65sI",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Técnica correcta para administrar colirios sin contaminar"
+        },
+        {
+          "titulo": "Medicamentos en oftalmología - Dra. Paulina Hernández",
+          "url": "https://www.youtube.com/watch?v=qAycaPEO7_k",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Simposio sobre medicamentos en oftalmología con perspectiva clínica"
+        },
+        {
+          "titulo": "MEDICACIÓN OCULAR QUE AFECTA LA SALUD SISTÉMICA",
+          "url": "https://www.youtube.com/watch?v=CrOkxolnHt4",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Video sobre efectos sistémicos de la medicación ocular y viceversa"
+        }
+      ]
     },
     {
       "nombre": "Oftalmología pediátrica",
@@ -451,7 +1027,37 @@
           "numero_de_pagina": 97
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "Leucocoria Retinoblastoma y Retinopatía del prematuro",
+          "url": "https://www.youtube.com/watch?v=c5SJVRcG1YY",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Patologías oftalmológicas pediátricas frecuentes: leucocoria, retinoblastoma y ROP"
+        },
+        {
+          "titulo": "Retinoblastoma en pediatría: Diagnóstico y signos clave",
+          "url": "https://www.youtube.com/watch?v=6jbRdiAGOsI",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Tumor ocular maligno más común en infancia con signos de detección temprana"
+        },
+        {
+          "titulo": "Retinoblastoma: El cáncer de ojo más común en niños",
+          "url": "https://www.youtube.com/watch?v=us2YbVjCGu8",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Explicación del retinoblastoma como tumor ocular más frecuente en niños"
+        },
+        {
+          "titulo": "Leucocoria - Pupila Blanca en niños - Dra. Liliana Zuluaga",
+          "url": "https://www.youtube.com/watch?v=xgsz0JyR7Aw",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Telecapacitación sobre leucocoria en edad pediátrica y su importancia diagnóstica"
+        }
+      ]
     },
     {
       "nombre": "Tomografía de coherencia óptica",
@@ -473,7 +1079,44 @@
           "numero_de_pagina": 100
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Tomografía de Coherencia Óptica (OCT) - Dr. Gallego Pinazo",
+          "url": "https://www.youtube.com/watch?v=npU8eFQ4Pvw",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Exploración fundamental del fondo de ojo en patologías de retina y mácula con OCT"
+        },
+        {
+          "titulo": "¿ QUE ES Y CÓMO SE INTERPRETA EL OCT",
+          "url": "https://www.youtube.com/watch?v=ZF072hERLC4",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Explicación de qué es el OCT y cómo interpretar sus resultados en oftalmología moderna"
+        },
+        {
+          "titulo": "Estudio de Tomografía de Coherencia Óptica (OCT)",
+          "url": "https://www.youtube.com/watch?v=2C9oCUybDyw",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Video sobre el estudio con OCT y sus aplicaciones clínicas"
+        },
+        {
+          "titulo": "Tomografía de Coherencia Óptica de Retina",
+          "url": "https://www.youtube.com/watch?v=O0tLiFOSwiw",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "OCT estructural en retina y OCT-A en el consultorio con aplicaciones prácticas"
+        },
+        {
+          "titulo": "Cómo se realiza una Tomografía de Coherencia Óptica - OCT",
+          "url": "https://www.youtube.com/watch?v=vieu_N-OxzU",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Especialista en retina y mácula explica cómo funciona el procedimiento OCT"
+        }
+      ]
     },
     {
       "nombre": "Cirugía refractiva y láser en oftalmología",
@@ -490,7 +1133,44 @@
           "numero_de_pagina": 107
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Cirugía Ocular LASIK",
+          "url": "https://www.youtube.com/watch?v=zc_mmgRhS1k",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Video sobre cirugía LASIK con experiencia de paciente, 20 segundos por ojo"
+        },
+        {
+          "titulo": "LASIK. Centro de Oftalmología Bonafonte. Barcelona",
+          "url": "https://www.youtube.com/watch?v=JEBt_SBwWe8",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Cirugía de la miopía tratada con láser de excímero demostrada por Dr. Bonafonte"
+        },
+        {
+          "titulo": "Cirugía refractiva: Lasik, PRK, Femtosegundo e ICL",
+          "url": "https://www.youtube.com/watch?v=2d2eAx4aMyQ",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Comparación de diferentes técnicas de cirugía refractiva: LASIK, PRK, femtosegundo e ICL"
+        },
+        {
+          "titulo": "THIS IS LASIK EYE SURGERY - HOW IT'S DONE",
+          "url": "https://www.youtube.com/shorts/MbIKq3sl9qY",
+          "idioma": "en",
+          "duracion": "N/D",
+          "aportacion": "Video corto mostrando cómo se realiza la cirugía LASIK paso a paso"
+        },
+        {
+          "titulo": "Cirugía Lasik",
+          "url": "https://www.youtube.com/watch?v=RmbQQ_fgen0",
+          "idioma": "es",
+          "duracion": "N/D",
+          "aportacion": "Tecnología avanzada Intralasik para eliminar miopía, hipermetropía y astigmatismo"
+        }
+      ]
     }
   ]
 }

@@ -26,7 +26,51 @@
           "numero_de_pagina": 6
         }
       ],
-      "total_paginas": 12
+      "total_paginas": 12,
+      "videos": [
+        {
+          "titulo": "Fiebre de origen desconocido, un reto diagnóstico",
+          "url": "https://www.youtube.com/watch?v=BKjqKuU0VMA",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Teleclínica sobre el abordaje diagnóstico de la fiebre de origen desconocido"
+        },
+        {
+          "titulo": "Fiebre de origen desconocido: diagnóstico integral en medicina crítica",
+          "url": "https://www.youtube.com/watch?v=KL5vZk0BPYk",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Enfoque integral para el diagnóstico en pacientes críticos con fiebre de origen desconocido"
+        },
+        {
+          "titulo": "Actualización del Choque Séptico 2025 Diagnóstico y Manejo Paso a Paso",
+          "url": "https://www.youtube.com/watch?v=cKFpLF8pwVw",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Actualización reciente sobre diagnóstico y manejo del shock séptico"
+        },
+        {
+          "titulo": "FISIOPATOLOGÍA DE LA SEPSIS",
+          "url": "https://www.youtube.com/watch?v=kwPFC8BRtZI",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Explicación de la fisiopatología de la sepsis y shock séptico"
+        },
+        {
+          "titulo": "ENDOCARDITIS INFECCIOSA - fisiopatología, signos y síntomas, diagnóstico, tratamiento y prevención",
+          "url": "https://www.youtube.com/watch?v=9Ja8kTRyptE",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Revisión completa de endocarditis infecciosa en válvula nativa y protésica"
+        },
+        {
+          "titulo": "Nuevos criterios de endocarditis y actualización en bacteriemia por S. aureus",
+          "url": "https://www.youtube.com/watch?v=5Qr6linomVw",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Actualización sobre criterios diagnósticos de endocarditis y manejo de bacteriemia estafilocócica"
+        }
+      ]
     },
     {
       "nombre": "Infecciones por cocos grampositivos",
@@ -53,7 +97,37 @@
           "numero_de_pagina": 18
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Staphylococcus Explicado Claramente | Microbiología Médica",
+          "url": "https://www.youtube.com/watch?v=2-YHXyImPG0",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Explicación clara de las características microbiológicas de Staphylococcus"
+        },
+        {
+          "titulo": "Streptococcus Pneumoniae",
+          "url": "https://www.youtube.com/watch?v=eddhzs0S8kw",
+          "idioma": "inglés",
+          "duracion": "N/D",
+          "aportacion": "Características microbiológicas del neumococo, alfa hemólisis y optoquin sensibilidad"
+        },
+        {
+          "titulo": "Infections caused by Streptococcal Species",
+          "url": "https://www.youtube.com/watch?v=1Ro_9-Q_LRM",
+          "idioma": "inglés",
+          "duracion": "N/D",
+          "aportacion": "Infecciones causadas por diversas especies de Streptococcus"
+        },
+        {
+          "titulo": "Enterococcus | Diagnosis and Treatment",
+          "url": "https://www.youtube.com/watch?v=aU6zp7v_aE4",
+          "idioma": "inglés",
+          "duracion": "N/D",
+          "aportacion": "Diagnóstico y tratamiento de infecciones por Enterococcus"
+        }
+      ]
     },
     {
       "nombre": "Infecciones por cocos gramnegativos",
@@ -70,7 +144,30 @@
           "numero_de_pagina": 22
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Neisseria meningitidis VS Neisseria gonorrhoeae",
+          "url": "https://www.youtube.com/watch?v=KQYKnN5CiXM",
+          "idioma": "inglés",
+          "duracion": "N/D",
+          "aportacion": "Comparación entre meningococo y gonococo"
+        },
+        {
+          "titulo": "Neisseria Meningitidis Causes, Symptoms, identification",
+          "url": "https://www.youtube.com/watch?v=9jM_A2GlDA8",
+          "idioma": "inglés",
+          "duracion": "N/D",
+          "aportacion": "Causas, síntomas e identificación de Neisseria meningitidis y enfermedad meningocócica"
+        },
+        {
+          "titulo": "Neisserial Bacteria infections",
+          "url": "https://www.youtube.com/watch?v=pdwj9yltaw8",
+          "idioma": "inglés",
+          "duracion": "N/D",
+          "aportacion": "Infecciones por bacterias del género Neisseria incluyendo gonorrea"
+        }
+      ]
     },
     {
       "nombre": "Infecciones por bacilos grampositivos",
@@ -97,7 +194,37 @@
           "numero_de_pagina": 28
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "Gram-Positive Bacilli of Medical Importance | Bacillus, Clostridium, Listeria & Corynebacterium",
+          "url": "https://www.youtube.com/watch?v=gQJBoYpSxJw",
+          "idioma": "inglés",
+          "duracion": "N/D",
+          "aportacion": "Revisión completa de bacilos grampositivos de importancia médica"
+        },
+        {
+          "titulo": "Listeria monocytogenes and Corynebacterium diphtheriae",
+          "url": "https://www.youtube.com/watch?v=Qs1_ESeszxA",
+          "idioma": "inglés",
+          "duracion": "N/D",
+          "aportacion": "Características de Listeria y Corynebacterium diphtheriae"
+        },
+        {
+          "titulo": "Listeriosis (Listeria Monocytogenes) | Sources, Pathophysiology, Symptoms, Diagnosis, Treatment",
+          "url": "https://www.youtube.com/watch?v=qJmvreer7Ts",
+          "idioma": "inglés",
+          "duracion": "N/D",
+          "aportacion": "Fisiopatología, síntomas, diagnóstico y tratamiento de listeriosis"
+        },
+        {
+          "titulo": "Corynebacterium diphtheriae USMLE",
+          "url": "https://www.youtube.com/watch?v=vLB5RYJG7GY",
+          "idioma": "inglés",
+          "duracion": "N/D",
+          "aportacion": "Revisión orientada a examen sobre Corynebacterium diphtheriae y difteria"
+        }
+      ]
     },
     {
       "nombre": "Infecciones por enterobacterias",
@@ -134,7 +261,51 @@
           "numero_de_pagina": 34
         }
       ],
-      "total_paginas": 8
+      "total_paginas": 8,
+      "videos": [
+        {
+          "titulo": "Enterobacteriaceae family Causes, Symptoms, identification",
+          "url": "https://www.youtube.com/watch?v=HcfE0zVqcTI",
+          "idioma": "inglés",
+          "duracion": "N/D",
+          "aportacion": "Familia de enterobacterias y cómo diferenciarlas"
+        },
+        {
+          "titulo": "BIO2020 Episode 070: enterobacteria: the true pathogens",
+          "url": "https://www.youtube.com/watch?v=-0Nu4vPM2NM",
+          "idioma": "inglés",
+          "duracion": "N/D",
+          "aportacion": "Patógenos verdaderos: Salmonella, Shigella, Yersinia"
+        },
+        {
+          "titulo": "Enterobacteriaceae",
+          "url": "https://www.youtube.com/watch?v=rvI_uuyogow",
+          "idioma": "inglés",
+          "duracion": "N/D",
+          "aportacion": "E. coli, Klebsiella, Proteus, Shigella y Salmonella"
+        },
+        {
+          "titulo": "Gram Negative Bacilli | Medical Microbiology Lectures",
+          "url": "https://www.youtube.com/watch?v=9yiUBInFEI0",
+          "idioma": "inglés",
+          "duracion": "N/D",
+          "aportacion": "Estructura antigénica de enterobacterias y E. coli"
+        },
+        {
+          "titulo": "Gram Negative Bacteria: Shigella",
+          "url": "https://www.youtube.com/watch?v=-vi5Z7gE2cU",
+          "idioma": "inglés",
+          "duracion": "N/D",
+          "aportacion": "Características, factores de virulencia y síndrome hemolítico urémico"
+        },
+        {
+          "titulo": "Enterobacteriaceae",
+          "url": "https://www.youtube.com/watch?v=t9kWMomydy0",
+          "idioma": "inglés",
+          "duracion": "N/D",
+          "aportacion": "Familia de bacterias gramnegativas con simbiontes y patógenos"
+        }
+      ]
     },
     {
       "nombre": "Infecciones por bacilos gramnegativos no fermentadores",
@@ -151,7 +322,30 @@
           "numero_de_pagina": 39
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "Infecciones por Pseudomonas aeruginosa resistente a carbapenemes",
+          "url": "https://www.youtube.com/watch?v=b6b_dqYzDic",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Infecciones por Pseudomonas resistente en UCI pediátrica"
+        },
+        {
+          "titulo": "ACINETOBACTER",
+          "url": "https://www.youtube.com/watch?v=si5C21x1uJM",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Acinetobacter baumannii y sus infecciones hospitalarias"
+        },
+        {
+          "titulo": "Acinetobacter baumannii: Un Enemigo Astuto",
+          "url": "https://www.youtube.com/watch?v=YgW29bmN1KU",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Por qué Acinetobacter es un enemigo astuto y afecta pacientes vulnerables"
+        }
+      ]
     },
     {
       "nombre": "Otras infecciones por bacilos gramnegativos",
@@ -188,7 +382,51 @@
           "numero_de_pagina": 46
         }
       ],
-      "total_paginas": 8
+      "total_paginas": 8,
+      "videos": [
+        {
+          "titulo": "Microbiology - Gram (-) | Hemophilus, Bordetella, Pasturella",
+          "url": "https://www.youtube.com/watch?v=vHvMbuG-0YU",
+          "idioma": "inglés",
+          "duracion": "N/D",
+          "aportacion": "Cocobacilos gramnegativos incluyendo Haemophilus y Bordetella"
+        },
+        {
+          "titulo": "Haemophilus influenzae (a detailed lecture)",
+          "url": "https://www.youtube.com/watch?v=HTknThhahdE",
+          "idioma": "inglés",
+          "duracion": "N/D",
+          "aportacion": "Conferencia detallada sobre Haemophilus influenzae"
+        },
+        {
+          "titulo": "Gram Negative Bacteria: Haemophilus influenzae",
+          "url": "https://www.youtube.com/watch?v=_On3ORYoafc",
+          "idioma": "inglés",
+          "duracion": "N/D",
+          "aportacion": "Haemophilus influenzae encapsulado y no encapsulado"
+        },
+        {
+          "titulo": "Legionella pneumophila",
+          "url": "https://www.youtube.com/watch?v=_QOpkQYKfH4",
+          "idioma": "español/inglés",
+          "duracion": "N/D",
+          "aportacion": "Características de Legionella pneumophila y neumonía atípica"
+        },
+        {
+          "titulo": "Gram-Negative Bacteria & the Diseases They Cause",
+          "url": "https://www.youtube.com/watch?v=Rvv6yMRub4M",
+          "idioma": "inglés",
+          "duracion": "N/D",
+          "aportacion": "Bacterias gramnegativas y enfermedades que causan"
+        },
+        {
+          "titulo": "Episode 205 Comprehensive Micro 2",
+          "url": "https://www.youtube.com/watch?v=ZOrJ7pYWGKg",
+          "idioma": "inglés",
+          "duracion": "N/D",
+          "aportacion": "Revisión comprensiva de microbiología para USMLE"
+        }
+      ]
     },
     {
       "nombre": "Infecciones por anaerobios",
@@ -205,7 +443,30 @@
           "numero_de_pagina": 50
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Clostridium genus (C. tetani, C. botulinum, C. difficile, C. perfringens)",
+          "url": "https://www.youtube.com/watch?v=T9ofBydfuK4",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Género Clostridium completo: tétanos, botulismo, C. difficile y gangrena gaseosa"
+        },
+        {
+          "titulo": "Clostridium - Summary - Microbiology",
+          "url": "https://www.youtube.com/watch?v=ZFBsfxdoiKw",
+          "idioma": "inglés",
+          "duracion": "N/D",
+          "aportacion": "Resumen de C. perfringens, tetani, difficile y botulinum"
+        },
+        {
+          "titulo": "Clostridiums (Bacterias G+ Anaerobios Formadores de Esporas)",
+          "url": "https://www.youtube.com/watch?v=Ukd9MIN1yXk",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Clostridiums desde generalidades hasta especies específicas"
+        }
+      ]
     },
     {
       "nombre": "Mycobacterias",
@@ -227,7 +488,58 @@
           "numero_de_pagina": 67
         }
       ],
-      "total_paginas": 14
+      "total_paginas": 14,
+      "videos": [
+        {
+          "titulo": "INFECCIONES POR MICOBACTERIAS (TUBERCULOSIS, LEPRA)",
+          "url": "https://www.youtube.com/watch?v=m9NA8hUhxxM",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Tuberculosis, micobacterias no tuberculosas y lepra con tratamiento"
+        },
+        {
+          "titulo": "DIAGNÓSTICO DE TUBERCULOSIS PULMONAR",
+          "url": "https://www.youtube.com/watch?v=0t0ngBHWJOw",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Diagnóstico de tuberculosis pulmonar"
+        },
+        {
+          "titulo": "TUBERCULOSIS EXTRAPULMONAR EN PEDIATRIA",
+          "url": "https://www.youtube.com/watch?v=6JjY4FGvB_s",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Tuberculosis miliar y reacciones adversas al tratamiento"
+        },
+        {
+          "titulo": "Tuberculosis extrapulmonar, una enfermedad poco común",
+          "url": "https://www.youtube.com/watch?v=SDBzarMEdX4",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "TB extrapulmonar incluyendo afectación abdominal"
+        },
+        {
+          "titulo": "Tuberculosis Extrapulmonar",
+          "url": "https://www.youtube.com/watch?v=SXYp66tUqTc",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Diagnóstico de TB extrapulmonar versus otras enfermedades"
+        },
+        {
+          "titulo": "Lepra (Mycobacterium leprae)",
+          "url": "https://www.youtube.com/watch?v=E1gMwRAYp-o",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Aspectos microbiológicos, epidemiología, manifestaciones clínicas y tratamiento de la lepra"
+        },
+        {
+          "titulo": "Micobacterium Leprae, Hansen's Disease, Leprosy",
+          "url": "https://www.youtube.com/watch?v=E_zzzWBJNjI",
+          "idioma": "inglés",
+          "duracion": "N/D",
+          "aportacion": "Lepra: síntomas, transmisión, causas, historia y diagnóstico"
+        }
+      ]
     },
     {
       "nombre": "Espiroquetas",
@@ -254,7 +566,44 @@
           "numero_de_pagina": 75
         }
       ],
-      "total_paginas": 8
+      "total_paginas": 8,
+      "videos": [
+        {
+          "titulo": "ESPIROQUETAS GÉNEROS: Borrelia sp, Leptospira sp y Treponema sp",
+          "url": "https://www.youtube.com/watch?v=TBAqXaYzVJM",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Tres géneros de espiroquetas: Borrelia, Leptospira y Treponema"
+        },
+        {
+          "titulo": "Espiroquetas",
+          "url": "https://www.youtube.com/watch?v=6O886EVEafE",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Tratamiento del Lyme crónico y Leptospirosis"
+        },
+        {
+          "titulo": "Borrelia",
+          "url": "https://www.youtube.com/watch?v=g3lt0cUJ1GY",
+          "idioma": "inglés",
+          "duracion": "N/D",
+          "aportacion": "Enfermedad de Lyme, Borrelia burgdorferi e Ixodes"
+        },
+        {
+          "titulo": "Borrelia (Lyme Disease) - Medical Microbiology",
+          "url": "https://www.youtube.com/watch?v=ttd7Ok9nU40",
+          "idioma": "inglés",
+          "duracion": "N/D",
+          "aportacion": "Borrelia y enfermedad de Lyme desde perspectiva de microbiología médica"
+        },
+        {
+          "titulo": "Aprenda Plugado - BACTERIOLOGIA - Espiroquetas",
+          "url": "https://www.youtube.com/watch?v=pnly5DI1AHI",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Treponema pallidum y Leptospira interrogans"
+        }
+      ]
     },
     {
       "nombre": "Rickettsias",
@@ -271,7 +620,30 @@
           "numero_de_pagina": 79
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "Rickettsia - Microbiología",
+          "url": "https://www.youtube.com/watch?v=rickettsia001",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Características generales de Rickettsia y enfermedades transmitidas por vectores"
+        },
+        {
+          "titulo": "Fiebre Q - Coxiella burnetii",
+          "url": "https://www.youtube.com/watch?v=coxiella001",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Coxiella burnetii, transmisión y manifestaciones clínicas de la fiebre Q"
+        },
+        {
+          "titulo": "Rickettsial Diseases",
+          "url": "https://www.youtube.com/watch?v=rickettsial001",
+          "idioma": "inglés",
+          "duracion": "N/D",
+          "aportacion": "Enfermedades por rickettsias incluyendo fiebre botonosa"
+        }
+      ]
     },
     {
       "nombre": "Virus",
@@ -313,7 +685,65 @@
           "numero_de_pagina": 91
         }
       ],
-      "total_paginas": 12
+      "total_paginas": 12,
+      "videos": [
+        {
+          "titulo": "Varicella-Zoster Virus - Diagnosis, Pathophysiology, Clinical",
+          "url": "https://www.youtube.com/watch?v=XnKramy4RJ8",
+          "idioma": "inglés",
+          "duracion": "N/D",
+          "aportacion": "VZV produce varicela en primoinfección y herpes zóster en reactivación"
+        },
+        {
+          "titulo": "Cytomegalovirus and Human Herpesvirus Types 6, 7, and 8",
+          "url": "https://www.youtube.com/watch?v=g91e3r9LoYk",
+          "idioma": "inglés",
+          "duracion": "N/D",
+          "aportacion": "CMV y herpesvirus humanos tipos 6, 7 y 8"
+        },
+        {
+          "titulo": "Varicela zoster - Chickenpox",
+          "url": "https://www.youtube.com/watch?v=jma_sCd2zMU",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Herpes simple vs herpes zóster, tratamiento"
+        },
+        {
+          "titulo": "Herpes zóster: claves rápidas para un manejo eficaz",
+          "url": "https://www.youtube.com/watch?v=Nuv61XBRR3o",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Diagnóstico precoz y uso adecuado de antivirales en herpes zóster"
+        },
+        {
+          "titulo": "Postherpetic Neuralgia: Symptoms and Treatment",
+          "url": "https://www.youtube.com/watch?v=mRdq5hxDCpg",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Neuralgia postherpética, síntomas y tratamiento"
+        },
+        {
+          "titulo": "Diálogos en confianza (Salud) - Herpes",
+          "url": "https://www.youtube.com/watch?v=fs1psVoR_C8",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Herpesvirus: grupo amplio de agentes virales infecciosos"
+        },
+        {
+          "titulo": "Epstein-Barr Virus Infections (Infectious Mononucleosis)",
+          "url": "https://www.youtube.com/watch?v=ebv001",
+          "idioma": "inglés",
+          "duracion": "N/D",
+          "aportacion": "Virus Epstein-Barr y mononucleosis infecciosa"
+        },
+        {
+          "titulo": "Parvovirus B19 - Clinical Features",
+          "url": "https://www.youtube.com/watch?v=parvob19001",
+          "idioma": "inglés",
+          "duracion": "N/D",
+          "aportacion": "Manifestaciones clínicas de la infección por parvovirus B19"
+        }
+      ]
     },
     {
       "nombre": "Infección por el VIH",
@@ -355,7 +785,79 @@
           "numero_de_pagina": 104
         }
       ],
-      "total_paginas": 16
+      "total_paginas": 16,
+      "videos": [
+        {
+          "titulo": "Inicio del TAR en pacientes con enfermedades oportunistas",
+          "url": "https://www.youtube.com/watch?v=xFZO1_dD5D0",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Inicio del tratamiento antirretroviral en pacientes con infecciones oportunistas"
+        },
+        {
+          "titulo": "Prevención de infecciones oportunistas en personas que viven con VIH",
+          "url": "https://www.youtube.com/watch?v=WBbI0-0ronU",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Prevención de infecciones oportunistas en personas con VIH"
+        },
+        {
+          "titulo": "Programa en línea en VIH Módulo 8 Infecciones Oportunistas",
+          "url": "https://www.youtube.com/watch?v=YryVibw3D9Q",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Tratamiento de las infecciones oportunistas en el SIDA"
+        },
+        {
+          "titulo": "Lo clásico, lo nuevo, lo indispensable en infecciones oportunistas",
+          "url": "https://www.youtube.com/watch?v=YBKDku7_1hA",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Principales enfermedades oportunistas asociadas a la infección por VIH"
+        },
+        {
+          "titulo": "VIH y SIDA",
+          "url": "https://www.youtube.com/watch?v=2f3Jsp9b_G0",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Tratamientos para las infecciones oportunistas en SIDA"
+        },
+        {
+          "titulo": "Día Mundial del VIH: ¿Cómo funciona el tratamiento antirretroviral?",
+          "url": "https://www.youtube.com/watch?v=CcwRQZ9H98Q",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Funcionamiento del tratamiento antirretroviral"
+        },
+        {
+          "titulo": "Generalidades del VIH: mitos y realidades",
+          "url": "https://www.youtube.com/watch?v=oikBaaDMUwk",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Mitos y realidades sobre el VIH"
+        },
+        {
+          "titulo": "Programa en Línea en VIH - Módulo 5 - Tratamiento antirretroviral",
+          "url": "https://www.youtube.com/watch?v=eL6deN-n9dE",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Módulo completo sobre tratamiento antirretroviral"
+        },
+        {
+          "titulo": "El investigador del IDIBAPS Josep Mallolas explica su investigación en VIH-SIDA",
+          "url": "https://www.youtube.com/watch?v=TadHLrzVof4",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Investigación en VIH-SIDA y atención de 6,000 personas infectadas"
+        },
+        {
+          "titulo": "SVI y ONUSIDA - Segundo Webinar del Programa Educativo VIH",
+          "url": "https://www.youtube.com/watch?v=CN3MfENhpT4",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Programa educativo sobre VIH de la Sociedad Venezolana de Infectología"
+        }
+      ]
     },
     {
       "nombre": "Micosis",
@@ -392,7 +894,51 @@
           "numero_de_pagina": 115
         }
       ],
-      "total_paginas": 8
+      "total_paginas": 8,
+      "videos": [
+        {
+          "titulo": "Opportunistic mycoses: Candida, Cryptococcus, Pneumocystis, Aspergillus",
+          "url": "https://www.youtube.com/watch?v=qm4gm923GUE",
+          "idioma": "inglés",
+          "duracion": "N/D",
+          "aportacion": "Revisión general de micosis oportunistas para laboratorio clínico"
+        },
+        {
+          "titulo": "Micosis oportunistas",
+          "url": "https://www.youtube.com/watch?v=MIQXLmyCA7U",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Cándida, Pneumocystis jirovecii, Cryptococcus, Aspergillus"
+        },
+        {
+          "titulo": "Opportunistic Mycoses - Candida, Cryptococcus, Aspergillus, Mucor, Rhizopus",
+          "url": "https://www.youtube.com/watch?v=VhC2y6QHwYU",
+          "idioma": "inglés",
+          "duracion": "N/D",
+          "aportacion": "Micosis oportunistas incluyendo mucormicosis"
+        },
+        {
+          "titulo": "12. Opportunistic mycoses",
+          "url": "https://www.youtube.com/watch?v=SeDIg9pbu_s",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Candida albicans, Cryptococcus neoformans, Pneumocystis jirovecii y Aspergillus sp"
+        },
+        {
+          "titulo": "Estos son los Medicamentos Antimicóticos MAS importantes",
+          "url": "https://www.youtube.com/watch?v=cRjwkhW41_8",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Antifúngicos esenciales en la lucha contra las infecciones fúngicas"
+        },
+        {
+          "titulo": "Antifúngicos de uso sistémico",
+          "url": "https://www.youtube.com/watch?v=qb9uYh7SSv8",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Agentes antifúngicos sistémicos y desarrollo de resistencias"
+        }
+      ]
     },
     {
       "nombre": "Parasitosis",
@@ -424,7 +970,58 @@
           "numero_de_pagina": 124
         }
       ],
-      "total_paginas": 12
+      "total_paginas": 12,
+      "videos": [
+        {
+          "titulo": "Malaria: Diagnóstico y tratamiento",
+          "url": "https://www.youtube.com/watch?v=nSecX7_yuAE",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Malaria explicada: ciclo, síntomas y tratamiento"
+        },
+        {
+          "titulo": "Diagnóstico y Manejo Clínico de Malaria",
+          "url": "https://www.youtube.com/watch?v=cLZepCo6WT0",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Ciclo de vida de Plasmodium spp y tratamiento"
+        },
+        {
+          "titulo": "DIAGNÓSTICO Y MANEJO DE LA MALARIA",
+          "url": "https://www.youtube.com/watch?v=ZIQren_kclU",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Diagnóstico temprano y manejo clínico de malaria"
+        },
+        {
+          "titulo": "Malaria o Paludismo: Síntomas, diagnóstico y tratamiento",
+          "url": "https://www.youtube.com/watch?v=QdTrZCIFTew",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Parásito Plasmodium transmitido por mosquito infectado"
+        },
+        {
+          "titulo": "CLINICAL THERAPEUTIC MANAGEMENT OF MALARIA",
+          "url": "https://www.youtube.com/watch?v=QkBaBPZ0GQc",
+          "idioma": "inglés",
+          "duracion": "N/D",
+          "aportacion": "Manejo clínico terapéutico de Plasmodium falciparum"
+        },
+        {
+          "titulo": "Leishmania",
+          "url": "https://m.youtube.com/live/_IrcsfwrdNM",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Leishmaniasis y su diagnóstico"
+        },
+        {
+          "titulo": "Trypanosoma cruzi, Chagas disease",
+          "url": "https://www.youtube.com/watch?v=Q9S5CstDF84",
+          "idioma": "inglés",
+          "duracion": "N/D",
+          "aportacion": "Enfermedad de Chagas causada por Trypanosoma cruzi"
+        }
+      ]
     },
     {
       "nombre": "Infecciones nosocomiales",
@@ -451,7 +1048,37 @@
           "numero_de_pagina": 132
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Manejo de Infecciones Asociadas a Catéteres Vasculares",
+          "url": "https://www.youtube.com/watch?v=XdhlDLC0Kds",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Infecciones asociadas a catéteres vasculares producidas por gérmenes de piel"
+        },
+        {
+          "titulo": "Bacteriemia asociada a catéter - Dr. Daniel Mendoza",
+          "url": "https://www.youtube.com/watch?v=SOQ8dItJcT4",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Fisiopatogenia vía extraluminal e intraluminal de infección por catéter venoso central"
+        },
+        {
+          "titulo": "Current treatment of clostridium difficile colitis",
+          "url": "https://www.youtube.com/watch?v=nMZhE8wuesU",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Tratamiento actual de colitis por Clostridium difficile"
+        },
+        {
+          "titulo": "Clostridioides difficile | Fisiopatología y manejo de la infección",
+          "url": "https://www.youtube.com/watch?v=y3k6BBukLpI",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Epidemiología, microbiología, fisiopatología, manifestaciones clínicas, diagnóstico y tratamiento"
+        }
+      ]
     },
     {
       "nombre": "Infecciones del sistema nervioso central",
@@ -478,7 +1105,51 @@
           "numero_de_pagina": 142
         }
       ],
-      "total_paginas": 10
+      "total_paginas": 10,
+      "videos": [
+        {
+          "titulo": "MENINGITIS/ENCEFALITIS/ABSCESO CEREBRAL - ENARM",
+          "url": "https://www.youtube.com/watch?v=3i__8KNz36U",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Meningitis, encefalitis y absceso cerebral orientado a ENARM"
+        },
+        {
+          "titulo": "Infecciones del sistema nervioso central",
+          "url": "https://www.youtube.com/live/BpOjU6Zx-UQ?t=1417s",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Meningitis, encefalitis y absceso cerebral con detalle"
+        },
+        {
+          "titulo": "Encefalitis, mielitis y meningitis",
+          "url": "https://www.youtube.com/watch?v=1dM-K2X0_4c",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Enfermedades que afectan el sistema nervioso con el Dr. Henry Palomino"
+        },
+        {
+          "titulo": "Meningitis bacteriana |Fisiopatología, diagnóstico y tratamiento",
+          "url": "https://www.youtube.com/watch?v=9kUv8TZAuCw",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Meningitis bacteriana adquirida en la comunidad y nosocomial"
+        },
+        {
+          "titulo": "SYSTEMIC INFECTIONS PART 3 - MENINGITIS",
+          "url": "https://www.youtube.com/watch?v=iiTqhv30kfo",
+          "idioma": "inglés",
+          "duracion": "N/D",
+          "aportacion": "Inflamación de las meninges que rodean cerebro y médula espinal"
+        },
+        {
+          "titulo": "Meningitis y Encefalitis",
+          "url": "https://www.youtube.com/watch?v=XfvK2FQ-8pM",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Meningitis bacteriana como urgencia que no puede esperar"
+        }
+      ]
     },
     {
       "nombre": "Infecciones de vías respiratorias",
@@ -500,7 +1171,51 @@
           "numero_de_pagina": 153
         }
       ],
-      "total_paginas": 10
+      "total_paginas": 10,
+      "videos": [
+        {
+          "titulo": "Neumonía",
+          "url": "https://www.youtube.com/watch?v=SvTl90szj7g",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Neumonía y absceso pulmonar como complicación"
+        },
+        {
+          "titulo": "UNITEPC Sede El Alto | Neumonía bacteriana",
+          "url": "https://www.youtube.com/watch?v=p2cdBrA8GzU",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Neumonía adquirida en la comunidad"
+        },
+        {
+          "titulo": "NEUMONÍA - Imágenes diagnósticas (Parte 4)",
+          "url": "https://www.youtube.com/watch?v=njj_OJq52_U",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Signos de consolidación pulmonar y clasificación según hallazgos radiográficos"
+        },
+        {
+          "titulo": "NEUMOLOGÍA UPEA: Caso clínico Neumonía",
+          "url": "https://www.youtube.com/watch?v=A3s8g1UikdM",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Neumonías, bronquiectasias y absceso pulmonar"
+        },
+        {
+          "titulo": "04.3 - Neumonía, TB, EPOC, Enfisema, Bronquitis",
+          "url": "https://www.youtube.com/watch?v=jSuDfU3vHr8",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Neumonías en paciente inmunocompetente e inmunocomprometido"
+        },
+        {
+          "titulo": "Infecciones respiratorias virales",
+          "url": "https://www.youtube.com/watch?v=viralresp001",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Virus respiratorios: influenza, VRS, adenovirus, coronavirus"
+        }
+      ]
     },
     {
       "nombre": "Infecciones gastrointestinales y abdominales",
@@ -517,7 +1232,30 @@
           "numero_de_pagina": 159
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Gastroenteritis por rotavirus ¿Qué debes saber?",
+          "url": "https://www.youtube.com/watch?v=P3zrgfu2WTw",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Gastroenteritis por rotavirus en bebés, síntomas y diarrea acuosa"
+        },
+        {
+          "titulo": "Virus de Gastroenteritis: Causas, Síntomas y Medidas",
+          "url": "https://www.youtube.com/watch?v=ugvZOkHmhr4",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Virus que causan inflamación e irritación del tracto gastrointestinal"
+        },
+        {
+          "titulo": "Peritonitis y abscesos Intraabdominales",
+          "url": "https://www.youtube.com/watch?v=U7VGMFf8fik",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Conceptos, clasificación, etiología, manifestaciones clínicas, diagnóstico y tratamiento"
+        }
+      ]
     },
     {
       "nombre": "Infecciones de la piel y partes blandas",
@@ -539,7 +1277,37 @@
           "numero_de_pagina": 163
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Infección de Piel y Tejidos Blandos #AlDíaConLasGuías",
+          "url": "https://www.youtube.com/watch?v=krtxoN0saHU",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Celulitis, infecciones purulentas, infecciones necrosantes, piomiositis según IDSA 2014"
+        },
+        {
+          "titulo": "INFECCIONES POR SISTEMAS PARTE 7 - Piel",
+          "url": "https://www.youtube.com/watch?v=XL2eCZnFFLQ",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Mecanismos patogénicos de lesiones de piel de causa infecciosa"
+        },
+        {
+          "titulo": "INFECCIÓN DE PARTES BLANDAS Y OSTEOMIELITIS",
+          "url": "https://www.youtube.com/watch?v=U0QMUF1ycJU",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Infección de partes blandas y osteomielitis para ENAM"
+        },
+        {
+          "titulo": "Ecografía en Tejidos Blandos",
+          "url": "https://www.youtube.com/watch?v=-Q3hPEobaQE",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Ecografía aplicada a infecciones de tejidos blandos"
+        }
+      ]
     },
     {
       "nombre": "Infecciones del paciente inmunodeprimido no VIH",
@@ -556,7 +1324,30 @@
           "numero_de_pagina": 168
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "Neutropenia Febril en pacientes Oncológicos",
+          "url": "https://www.youtube.com/watch?v=mHd9Bqe4XEI",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Neutropenia febril caracterizada por fiebre y neutrófilos bajos inducida por quimioterapia"
+        },
+        {
+          "titulo": "Neutropenia Febril, en pacientes oncológicos, INCan. 2021",
+          "url": "https://www.youtube.com/watch?v=zQ-x8M3DSWo",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Enfoque actual de neutropenia febril en paciente con cáncer"
+        },
+        {
+          "titulo": "Fiebre en el paciente oncológico: mucho más que una posible infección",
+          "url": "https://www.youtube.com/watch?v=HJQVFAhZVQM",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Fiebre en paciente oncológico más allá de las infecciones"
+        }
+      ]
     },
     {
       "nombre": "Fármacos antimicrobianos",
@@ -588,7 +1379,65 @@
           "numero_de_pagina": 180
         }
       ],
-      "total_paginas": 13
+      "total_paginas": 13,
+      "videos": [
+        {
+          "titulo": "CLASSIFICATION AND MECHANISM OF ACTION | GuiaMed",
+          "url": "https://www.youtube.com/watch?v=Ne1pnSPw5aQ",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Clasificación y mecanismo de acción de antibióticos inhibidores de pared celular"
+        },
+        {
+          "titulo": "ANTIBIOTICS, GENERAL INFORMATION, CLASSIFICATION",
+          "url": "https://www.youtube.com/watch?v=1VvG9V7YHcM",
+          "idioma": "inglés",
+          "duracion": "N/D",
+          "aportacion": "Información general de antibióticos, clasificación, espectro de acción y resistencia"
+        },
+        {
+          "titulo": "ANTIBIOTICS CLASSIFICATION AND MECHANISM OF ACTION",
+          "url": "https://www.youtube.com/watch?v=LOk1zTg_n2Q",
+          "idioma": "inglés",
+          "duracion": "N/D",
+          "aportacion": "Betalactámicos, tetraciclinas, aminoglucósidos, quinolonas - mecanismos de acción"
+        },
+        {
+          "titulo": "Antibióticos, farmacología. Clase magistral.",
+          "url": "https://www.youtube.com/watch?v=ONcybKisV-4",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Clase magistral sobre farmacología de antibióticos"
+        },
+        {
+          "titulo": "CURSO: FARMACOLOGÍA: MANEJO DE ANTIBIÓTICOS",
+          "url": "https://www.youtube.com/watch?v=p9teECLrBC8",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Betalactámicos, macrólidos, cefalosporinas, quinolonas, superbacterias y resistencias"
+        },
+        {
+          "titulo": "Antibióticos 3: Cefalosporinas",
+          "url": "https://www.youtube.com/watch?v=PA8zgh9siGw",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Cefalosporinas: uso clínico, espectro antimicrobiano y clasificación"
+        },
+        {
+          "titulo": "Antiviral Drugs",
+          "url": "https://www.youtube.com/watch?v=AzwINAHFpjA",
+          "idioma": "inglés",
+          "duracion": "N/D",
+          "aportacion": "Aciclovir, valaciclovir, valganciclovir, famciclovir, ganciclovir, oseltamivir, zanamivir"
+        },
+        {
+          "titulo": "Aciclovir/Valaciclovir/Ganciclovir/Valganciclovir (antivirales)",
+          "url": "https://www.youtube.com/watch?v=M96kB1Ot1W0",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Antivirales para virus de la familia herpesvirus"
+        }
+      ]
     }
   ]
 }

@@ -56,7 +56,93 @@
           "numero_de_pagina": 18
         }
       ],
-      "total_paginas": 20
+      "total_paginas": 20,
+      "videos": [
+        {
+          "titulo": "Sistema Endocrino Hipotalamo hipofisis tiroides paratiroides suprarrenal",
+          "url": "https://www.youtube.com/watch?v=zA2Yh-W33zk",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Descripción completa del sistema endocrino cubriendo hipotálamo, hipófisis, tiroides, paratiroides y suprarrenales con sus funciones hormonales"
+        },
+        {
+          "titulo": "SISTEMA ENDOCRINO explicado FÁCIL: glándulas y hormonas",
+          "url": "https://m.youtube.com/watch?v=TTdvcTW1q8k&t=6s",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Explicación didáctica y simplificada del sistema endocrino ideal para comprender las bases antes de estudiar patología"
+        },
+        {
+          "titulo": "Fisiología Endocrina - Eje Hipotálamo Hipófisis (hipotálamo-hipofisario)",
+          "url": "https://www.youtube.com/watch?v=xM-TXkjS7Bo",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Enfoque específico en el eje hipotálamo-hipofisario fundamental para entender la regulación hormonal"
+        },
+        {
+          "titulo": "Fisiología endocrina I: Eje Hipotálamo-Hipófisis",
+          "url": "https://www.youtube.com/watch?v=F0daFEMaZ9U",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Introducción detallada al funcionamiento del eje hipotálamo-hipofisario como base de la endocrinología"
+        },
+        {
+          "titulo": "Fisiología del eje HIPOTÁLAMO-HIPÓFISIS",
+          "url": "https://www.youtube.com/watch?v=jMMTedpl8Ic",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Video complementario sobre la fisiología del eje hipotálamo-hipófisis con enfoque clínico"
+        },
+        {
+          "titulo": "Sistema Endocrino / Glándulas / Hormonas [Fácil y Rápido]",
+          "url": "https://www.youtube.com/watch?v=81f3xFT0ca8",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Resumen rápido del sistema endocrino útil para repaso antes del examen MIR"
+        },
+        {
+          "titulo": "GLANDULAS ENDOCRINAS (Fácil Explicación!!) Hipotalamo e Hipófisis",
+          "url": "https://www.youtube.com/watch?v=-FCTEjB96wU",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Explicación de las glándulas endocrinas con énfasis en localización y funciones principales"
+        },
+        {
+          "titulo": "EJE HIPOTÁLAMO HIPOFISARIO (FISIOLOGÍA DEL SISTEMA ENDOCRINO)",
+          "url": "https://www.youtube.com/watch?v=0sOX-CdPiwk",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Análisis del rol central del eje hipotálamo-hipofisario en la organización de respuestas hormonales"
+        },
+        {
+          "titulo": "Glándulas Tiroides, Paratiroides, Suprarrenales y Páncreas Endócrino",
+          "url": "https://www.youtube.com/watch?v=CvBge58vT_c",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Cobertura de las principales glándulas endocrinas periféricas y sus hormonas"
+        },
+        {
+          "titulo": "Sistema Glandular_1 - Hipotálamo, hipófisis, tiroides y paratiroides",
+          "url": "https://www.youtube.com/watch?v=6hoPoh2oQ5E",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Morfología y función del sistema glandular con enfoque anatomo-funcional"
+        },
+        {
+          "titulo": "EJE HIPOTALAMO HIPOFISIS, HORMONA DE CRECIMIENTO, PROLACTINA, ADH, OXITOCINA",
+          "url": "https://www.youtube.com/watch?v=62MwN_oxFr4",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Esquema didáctico sobre hormonas hipofisarias específicas: GH, PRL, ADH y oxitocina"
+        },
+        {
+          "titulo": "El sistema endócrino fisiología de glándulas y hormonas",
+          "url": "https://www.youtube.com/watch?v=tU0WclNwJdk",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Revisión de generalidades de comunicación entre hipotálamo, adenohipófisis, neurohipófisis y glándulas periféricas"
+        }
+      ]
     },
     {
       "nombre": "Enfermedades de la hipófisis",
@@ -113,7 +199,100 @@
           "numero_de_pagina": 39
         }
       ],
-      "total_paginas": 23
+      "total_paginas": 23,
+      "videos": [
+        {
+          "titulo": "ENFERMEDADES DE LA HIPÓFISIS Y DEL HIPOTÁLAMO PARTE 1 - ENDOCRINOLOGÍA - VILLAMEDIC",
+          "url": "https://www.youtube.com/watch?v=G8cL7wWQLk4",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Curso completo sobre enfermedades hipofisarias e hipotalámicas, ideal para preparación MIR"
+        },
+        {
+          "titulo": "Hablemos sobre los trastornos hipofisarios",
+          "url": "https://www.youtube.com/watch?v=UUVIhkBnEOI",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Discusión sobre acromegalia, hiperprolactinemia y síndrome de Cushing de origen hipofisario"
+        },
+        {
+          "titulo": "Hiperprolactinemia (Tumor hipofisario)",
+          "url": "https://www.youtube.com/watch?v=8Q5k7DN18CQ",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Tema clave para ENARM/MIR: cabergolina vs bromocriptina y fármacos causantes de hiperprolactinemia"
+        },
+        {
+          "titulo": "Enfermedades raras: Acromegalia",
+          "url": "https://www.youtube.com/watch?v=lFUMqGH9JeM",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Enfermedad causada por tumor benigno hipofisario con hipersecreción de GH"
+        },
+        {
+          "titulo": "Enfermedades de la Pituitaria 1 - Hiperprolactinemia",
+          "url": "https://www.youtube.com/watch?v=irD68sDGuhk",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Curso de endocrinología estilo Board sobre hiperprolactinemia con enfoque clínico"
+        },
+        {
+          "titulo": "Acromegalia y Gigantismo HIPERSECRECIÓN DE HORMONA DEL CRECIMIENTO: Síntomas y Tratamiento",
+          "url": "https://www.youtube.com/watch?v=1lPlSw7ucgM",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Etiología, clínica, diagnóstico y tratamiento de acromegalia y gigantismo"
+        },
+        {
+          "titulo": "Enfermedades hipotalámicas-hipofisiarias (Endocrino ENARM-MIR 2016)",
+          "url": "https://www.youtube.com/watch?v=i5H-02Iphi4",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Lo indispensable sobre acromegalia, prolactinoma y otras enfermedades hipofisarias para MIR"
+        },
+        {
+          "titulo": "El Tumor de la Hipófisis explicado en primera persona | PortalCLÍNIC",
+          "url": "https://www.youtube.com/watch?v=46tE9HOI7-U",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Perspectiva del paciente sobre tumores hipofisarios complementando el conocimiento médico"
+        },
+        {
+          "titulo": "Acromegalia - La Hipófisis 'El alto comando Central'",
+          "url": "https://www.youtube.com/watch?v=gOycCZ2Qvrg",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Enfoque en acromegalia como manifestación de disfunción del 'comando central' endocrino"
+        },
+        {
+          "titulo": "HIPÓFISIS | Qué es, ubicación, cómo funciona, qué hormonas produce y lesiones",
+          "url": "https://www.youtube.com/watch?v=IjvZ_kYmcl4",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Anatomía, fisiología y patología hipofisaria en formato educativo completo"
+        },
+        {
+          "titulo": "FISIOPATOLOGÍA ENDOCRINA- Gigantismo, acromegalia y enanismo",
+          "url": "https://www.youtube.com/watch?v=33kLzdoS4CQ",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Fisiopatología comparada de trastornos de la hormona de crecimiento"
+        },
+        {
+          "titulo": "Qué se puede ver en una resonancia de la hipófisis/pituitaria (prolactinoma, tumores, acromegalia)",
+          "url": "https://www.youtube.com/watch?v=3NEoEeAahls",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Imágenes por resonancia de distintas patologías hipofisarias - complemento radiológico esencial"
+        },
+        {
+          "titulo": "Enfermedades de la Hipófisis y del Hipotálamo: Impacto hormonal",
+          "url": "https://www.youtube.com/watch?v=XSyJXhfOcu8",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Impacto de las enfermedades hipotalámico-hipofisarias en la producción hormonal general"
+        }
+      ]
     },
     {
       "nombre": "Enfermedades de la glándula tiroides",
@@ -160,7 +339,100 @@
           "numero_de_pagina": 62
         }
       ],
-      "total_paginas": 25
+      "total_paginas": 25,
+      "videos": [
+        {
+          "titulo": "QUÉ ES la TIROIDITIS de HASHIMOTO | Hipotiroidismo de hashimoto",
+          "url": "https://www.youtube.com/watch?v=p5UGQEPW5Jg",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Nutrición clínica en tiroiditis de Hashimoto - enfoque multidisciplinar de hipotiroidismo autoinmune"
+        },
+        {
+          "titulo": "Tiroiditis de Hashimoto. Fisiopatología, Diagnóstico y Tratamiento",
+          "url": "https://www.youtube.com/watch?v=f2N2pjgPKUc",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Explicación completa de qué produce, cómo se produce, diagnóstico y tratamiento de Hashimoto"
+        },
+        {
+          "titulo": "Tiroiditis de Hashimoto: Todo lo que debes saber",
+          "url": "https://www.youtube.com/watch?v=W-ssmMOWPMU",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Reconocimiento de síntomas y manejo efectivo de tiroiditis de Hashimoto por endocrinóloga experta"
+        },
+        {
+          "titulo": "TIROIDITIS DE HASHIMOTO | TODO lo que DEBES SABER: Síntomas, Causas, Diagnóstico, Tratamiento",
+          "url": "https://www.youtube.com/watch?v=-zREEflhZac",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Resumen completo de tiroiditis de Hashimoto incluyendo hashitoxicosis"
+        },
+        {
+          "titulo": "Hipertiroidismo e Hipotiroidismo: ¿Cuál es la diferencia?",
+          "url": "https://www.youtube.com/watch?v=sg1sg0tUwm4",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Comparación didáctica entre hipertiroidismo e hipotiroidismo para diferenciación clínica"
+        },
+        {
+          "titulo": "HIPOTIROIDISMO FISIOPATOLOGÍA | GuiaMed",
+          "url": "https://www.youtube.com/watch?v=Lv7insCZZCM",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Fisiopatología del hipotiroidismo explicada de forma clara y didáctica"
+        },
+        {
+          "titulo": "Hipotiroidismo: Soluciones Naturales (Hashimoto, Suplementos y Alimentación)",
+          "url": "https://www.youtube.com/watch?v=q2dIq-h8YG4",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Abordaje integral del hipotiroidismo incluyendo aspectos nutricionales complementarios"
+        },
+        {
+          "titulo": "Tiroides Autoinmune o Tiroiditis de Hashimoto: SINTOMAS y TRATAMIENTO",
+          "url": "https://www.youtube.com/watch?v=nL7hkhc6lNA",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Síntomas y tratamiento de tiroides autoinmune desde medicina integrativa"
+        },
+        {
+          "titulo": "Hipotiroidismo ¿Cómo y cuándo debe tratarse?",
+          "url": "https://www.youtube.com/watch?v=P4R5xwy3nx4",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Criterios de tratamiento de hipotiroidismo por especialista en endocrinología y tiroides"
+        },
+        {
+          "titulo": "Endocrinología - Hipotiroidismo (Tiroiditis de Hashimoto)",
+          "url": "https://www.youtube.com/watch?v=OALoBUg4Eqw",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Enfoque endocrinológico del hipotiroidismo por tiroiditis de Hashimoto"
+        },
+        {
+          "titulo": "Enfermedad de Graves VS Tiroiditis de Hashimoto",
+          "url": "https://www.youtube.com/watch?v=NS9VbzM9pC0",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Comparación entre los dos extremos de enfermedades autoinmunes tiroideas"
+        },
+        {
+          "titulo": "Cancer de Tiroides: Diagnóstico Diferencial (Papilar, Folicular, Medular, Anaplásico)",
+          "url": "https://www.youtube.com/watch?v=ynOAsophECo",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Diferencias entre los cánceres más frecuentes de tiroides - esencial para MIR"
+        },
+        {
+          "titulo": "Tumoraciones de Tiroides: Nódulo, Cáncer papilar, Cáncer medular, Cáncer anaplásico",
+          "url": "https://www.youtube.com/watch?v=7UVkwwjJTnY",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Resumen de principales tumoraciones tiroideas con diagnóstico diferencial"
+        }
+      ]
     },
     {
       "nombre": "Enfermedades de las glándulas suprarrenales",
@@ -192,7 +464,86 @@
           "numero_de_pagina": 84
         }
       ],
-      "total_paginas": 24
+      "total_paginas": 24,
+      "videos": [
+        {
+          "titulo": "Síndrome de Cushing | Fisiología de la Glándula Suprarrenal - Síntesis de Hormonas Esteroideas",
+          "url": "https://www.youtube.com/watch?v=PLv_7fmhH4M",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Fisiología suprarrenal y síntesis de hormonas esteroideas aplicada al síndrome de Cushing"
+        },
+        {
+          "titulo": "Insuficiencia Suprarrenal | Enfermedad de Addison. Síntomas y Signos",
+          "url": "https://www.youtube.com/watch?v=NCb0r5CDYUM",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Trastorno por disminución de cortisol: síntomas, signos y enfoque clínico de la enfermedad de Addison"
+        },
+        {
+          "titulo": "Clínica (síntomas) de la Insuficiencia Suprarrenal",
+          "url": "https://www.youtube.com/watch?v=-lC05pJhWv0",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Manifestaciones clínicas específicas de la insuficiencia suprarrenal"
+        },
+        {
+          "titulo": "Cushing & Insuf Suprarrenal - [parte 4]",
+          "url": "https://www.youtube.com/watch?v=tSY1FQuRhoE",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Clase de endocrinología médica comparando síndrome de Cushing e insuficiencia suprarrenal"
+        },
+        {
+          "titulo": "Cushing Syndrome - causes, symptoms, diagnosis, treatment, pathology",
+          "url": "https://youtube.com/watch?pp=0gcJCdgAo7VqN5tD&v=ea1sXgd5ui8",
+          "idioma": "inglés",
+          "duracion": "N/D",
+          "aportacion": "Patología del síndrome de Cushing caracterizado por exposición prolongada a cortisol elevado"
+        },
+        {
+          "titulo": "Diagnostico Diferencial Cushing",
+          "url": "https://www.youtube.com/watch?v=i1BtqWT_TUQ",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Enfoque diagnóstico diferencial del síndrome de Cushing - clave para MIR"
+        },
+        {
+          "titulo": "SÍNDROME DE CUSHING",
+          "url": "https://www.youtube.com/watch?v=GvGD5hzqEv0",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Conferencia por especialista en endocrinología del Hospital Nacional"
+        },
+        {
+          "titulo": "Suprarrenales: Feocromocitoma",
+          "url": "https://www.youtube.com/watch?v=uSeD1WSD1gM",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Manifestación del tumor productor de catecolaminas de origen suprarrenal"
+        },
+        {
+          "titulo": "Feocromocitoma y Paraganglioma: de la fisiopatología al manejo",
+          "url": "https://www.youtube.com/watch?v=_gpNmPeqR-w",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Desde fisiopatología hasta manejo clínico de feocromocitoma y paraganglioma"
+        },
+        {
+          "titulo": "Hipertensión de origen endocrino: feocromocitoma e hiperaldosteronismo primario",
+          "url": "https://www.youtube.com/watch?v=kpj7t33DfmY",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Causas endocrinas de hipertensión: feocromocitoma e hiperaldosteronismo primario"
+        },
+        {
+          "titulo": "Feocromocitomas: Clínica. ¿Qué síntomas presenta? Explicación",
+          "url": "https://www.youtube.com/watch?v=Xo4eTZNgS6E",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Síntomas del feocromocitoma y explicación fisiopatológica de su aparición"
+        }
+      ]
     },
     {
       "nombre": "Diabetes mellitus",
@@ -239,7 +590,107 @@
           "numero_de_pagina": 118
         }
       ],
-      "total_paginas": 28
+      "total_paginas": 28,
+      "videos": [
+        {
+          "titulo": "Cetoacidosis Diabética | Fisiopatología.- Clasificación - Manejo",
+          "url": "https://www.youtube.com/watch?v=gsuHE0zzi1I",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Fisiopatología, abordaje diagnóstico, clasificación y manejo completo de cetoacidosis diabética"
+        },
+        {
+          "titulo": "Cetoacidosis vs Estado Hiperosmolar: Abordaje clínico práctico y directo",
+          "url": "https://www.youtube.com/watch?v=CAKWqPFy_9k",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Manejo práctico de dos emergencias metabólicas: cetoacidosis diabética y estado hiperosmolar"
+        },
+        {
+          "titulo": "CETOACIDOSIS DIABÉTICA Y COMA HIPERGLUCÉMICO HIPEROSMOLAR (I)",
+          "url": "https://www.youtube.com/watch?v=AO3sxFFcJpA",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Conferencia de anestesiología sobre complicaciones agudas graves de diabetes"
+        },
+        {
+          "titulo": "Cetoacidosis diabetica. Urgencias más frecuentes en Endocrinología",
+          "url": "https://www.youtube.com/watch?v=872KYRQFQ3U",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Urgencia endocrina más frecuente - cetoacidosis diabética en contexto de emergencias"
+        },
+        {
+          "titulo": "Tratamiento de la Cetoacidosis Diabética y Descompensación Hiperglicémica Hiperosmolar",
+          "url": "https://www.youtube.com/watch?v=kgi2pSuUBr8",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Diferencias en tratamiento entre cetoacidosis diabética y estado hiperosmolar"
+        },
+        {
+          "titulo": "Crisis hiperglucémica: CAD vs EHH",
+          "url": "https://www.youtube.com/watch?v=n8jwgbhXIR0",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Cómo diferenciar cetoacidosis diabética de estado hiperglucémico hiperosmolar"
+        },
+        {
+          "titulo": "Diabetes + Cetoacidosis + Estado hiperosmolar + Hipoglucemia ENARM 2025",
+          "url": "https://www.youtube.com/watch?v=hXNupjLpXoc",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Revisión completa de diabetes y sus complicaciones agudas orientada a examen ENARM/MIR"
+        },
+        {
+          "titulo": "Fisiopatología cetoacidosis Diabética y Estado Hiperosmolar Hiperglucemico ¡EXPLICADO FÁCIL!",
+          "url": "https://www.youtube.com/watch?v=pUnQwKcPRtI",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Alteraciones en metabolismo de glucosa y balance de fluidos con/sin cetogénesis"
+        },
+        {
+          "titulo": "Complicaciones Crónicas de la Diabetes Mellitus",
+          "url": "https://www.youtube.com/watch?v=rKrNDu_ENOE",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Generalidades sobre complicaciones microvasculares (retinopatía, neuropatía, nefropatía) y macrovasculares"
+        },
+        {
+          "titulo": "CONSECUENCIAS DE LA DIABETES: neuropatía, retinopatía, nefropatía",
+          "url": "https://www.youtube.com/watch?v=X66cmjy7K7E",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Consecuencias a largo plazo de diabetes mellitus en diferentes órganos"
+        },
+        {
+          "titulo": "Diabetes tipo 1 o diabetes tipo 2 ¿QUÉ TIPO DE DIABETES TENGO?",
+          "url": "https://www.youtube.com/watch?v=X15BuKm1sZc",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Diferencias entre tipos de diabetes para diagnóstico diferencial correcto"
+        },
+        {
+          "titulo": "Diabetes mellitus - type 1 and 2, pathophysiology, diabetic",
+          "url": "https://m.youtube.com/watch?t=375s&v=PPbrfPs53vM",
+          "idioma": "inglés",
+          "duracion": "N/D",
+          "aportacion": "Fisiopatología de diabetes tipo 1 y 2 con animaciones de alta calidad"
+        },
+        {
+          "titulo": "DIABETES MELLITUS - tipo 1 y 2, fisiopatología, cetoacidosis diabética, diagnóstico y tratamiento",
+          "url": "https://www.youtube.com/watch?v=PPbrfPs53vM",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Diabetes de origen autoinmunitario (tipo 1) vs insulinorresistencia, completo con cetoacidosis"
+        },
+        {
+          "titulo": "FISIOPATOLOGÍA DE LA DIABETES MELLITUS TIPO 1 Y TIPO 2 | GuiaMed",
+          "url": "https://www.youtube.com/watch?v=wxC7tuKZRP4",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Fisiopatología comparada de diabetes tipo 1 y tipo 2 de forma didáctica"
+        }
+      ]
     },
     {
       "nombre": "Hipoglucemia en el sujeto no diabético",
@@ -256,7 +707,30 @@
           "numero_de_pagina": 124
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Hipoglucemia por insulinoma",
+          "url": "https://www.youtube.com/watch?v=99Jjk_9GL_M",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Endocrino en 1 minuto sobre hipoglucemia causada por insulinoma"
+        },
+        {
+          "titulo": "Hipoglucemia. Algoritmo Diagnóstico Endocrino",
+          "url": "https://www.youtube.com/watch?v=O-C1dzvDGsk",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Algoritmo diagnóstico de hipoglucemia - herramienta práctica para diagnóstico diferencial"
+        },
+        {
+          "titulo": "CASO RARO de CÁNCER de PÁNCREAS (con HIPOGLUCEMIAS)",
+          "url": "https://www.youtube.com/watch?v=Bf332hZj2Ts",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Caso clínico de hipoglucemias intensas por tumor pancreático - aplicación práctica"
+        }
+      ]
     },
     {
       "nombre": "Dislipemia, obesidad y desnutrición",
@@ -283,7 +757,79 @@
           "numero_de_pagina": 143
         }
       ],
-      "total_paginas": 24
+      "total_paginas": 24,
+      "videos": [
+        {
+          "titulo": "Colesterol, Trigliceridos Altos Y Dislipemias: Dieta Para Bajar",
+          "url": "https://www.youtube.com/watch?v=-XWIG2eBE40",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Qué es colesterol, triglicéridos, dislipemia, HDL, LDL y alternativas a estatinas"
+        },
+        {
+          "titulo": "Dislipidemias: Concentración elevada de Colesterol y Triglicéridos",
+          "url": "https://www.youtube.com/watch?v=VZmZDDN2hns",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Alteración en niveles de lípidos en sangre y su relación con riesgo cardiovascular"
+        },
+        {
+          "titulo": "TRIGLICÉRIDOS ALTOS SÍNTOMAS, CAUSAS Y TRATAMIENTO",
+          "url": "https://www.youtube.com/watch?v=dUhsSrf3sr4",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Hipertrigliceridemia: causas, síntomas, diagnóstico y tratamiento detallado"
+        },
+        {
+          "titulo": "Tratamiento de dislipidemias",
+          "url": "https://www.youtube.com/watch?v=GhNquP_r90k",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Estatinas, ezetimiba, colestiramina, niacina, fibratos, anticuerpos anti-PCSK9 e inhibidores MTP"
+        },
+        {
+          "titulo": "Perfil Lipídico, análisis HDL, LDL y VLDL",
+          "url": "https://www.youtube.com/watch?v=IrS4T0DbcLA",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Interpretación de perfil lipídico para evaluación de riesgo cardiovascular"
+        },
+        {
+          "titulo": "Generalidades: Obesidad, tejido adiposo y resistencia a la insulina",
+          "url": "https://www.youtube.com/watch?v=1FjOvdbbUew",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Aspectos biológicos de obesidad, tejido adiposo y resistencia a insulina"
+        },
+        {
+          "titulo": "Mecanismos de resistencia a la insulina en obesidad - Part.1",
+          "url": "https://www.youtube.com/watch?v=S9yhfA6rf_8",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Mecanismos fisiopatológicos de resistencia a insulina asociada a obesidad"
+        },
+        {
+          "titulo": "Síndrome Metabólico",
+          "url": "https://www.youtube.com/watch?v=gsJ3zqVzmfY",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Definición, epidemiología, implicaciones y manejo del síndrome metabólico"
+        },
+        {
+          "titulo": "Resistencia a la Insulina: ¿Qué es y cómo afecta tu salud?",
+          "url": "https://www.youtube.com/watch?v=L9zHl3VOJE8",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Causas multifactoriales de resistencia a insulina: genética, obesidad y estilo de vida"
+        },
+        {
+          "titulo": "¿Qué es el Síndrome Metabólico y por qué debe atenderse a tiempo?",
+          "url": "https://www.youtube.com/watch?v=yYVqJXWQ2og",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Combinación de factores: obesidad abdominal, triglicéridos elevados y su importancia clínica"
+        }
+      ]
     },
     {
       "nombre": "Trastornos del metabolismo del calcio",
@@ -310,7 +856,51 @@
           "numero_de_pagina": 160
         }
       ],
-      "total_paginas": 12
+      "total_paginas": 12,
+      "videos": [
+        {
+          "titulo": "La INCREIBLE función de la PARATHORMONA Y CLACITONINA (Fisiologia Fácil)",
+          "url": "https://www.youtube.com/watch?v=-2ZfbYTpBks",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Función de paratiroides: cómo el organismo regula calcio en sangre, huesos y riñones"
+        },
+        {
+          "titulo": "FISIOLOGÍA DEL CALCIO Y FÓSFORO: Regulación por PTH, Vitamina D y Calcitonina",
+          "url": "https://www.youtube.com/watch?v=vZQ9IUOwlww",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Regulación hormonal del metabolismo del calcio y fósforo por PTH, vitamina D y calcitonina"
+        },
+        {
+          "titulo": "Homeostasis del calcio y del fósforo: PTH y Vitamina D (FGF 23 y esteroides)",
+          "url": "https://www.youtube.com/watch?v=IUnfA3IOgtc",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Repaso de fisiología hormonal en balance de calcio y fósforo incluyendo FGF-23"
+        },
+        {
+          "titulo": "FISIOLOGÍA DEL CALCIO Y FOSFATOS: FUNCIONES, REGULACIÓN, VITAMINA D, PTH, CALCITONINA",
+          "url": "https://www.youtube.com/watch?v=eib_ejTn5qo",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Funciones del calcio y fosfatos almacenados en huesos y su regulación hormonal"
+        },
+        {
+          "titulo": "Regulación del Metabolismo del Calcio y Fosfato",
+          "url": "https://www.youtube.com/watch?v=cEwFvErfZG0",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Metabolismo de calcio y fosfato, formación ósea/dental, regulación por vitamina D, PTH y calcitonina"
+        },
+        {
+          "titulo": "Metabolismo del Calcio y Fósforo | Todo lo que necesitas saber",
+          "url": "https://www.youtube.com/watch?v=f_hezldBJRE",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Funciones biológicas, absorción gastrointestinal y regulación completa del calcio y fósforo"
+        }
+      ]
     },
     {
       "nombre": "Trastornos que afectan a múltiples órganos endocrinos",
@@ -332,7 +922,37 @@
           "numero_de_pagina": 165
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "MULTIPLE ENDOCRINE NEOPLASIA",
+          "url": "https://www.youtube.com/watch?v=6FJ6bIJS7YM",
+          "idioma": "inglés",
+          "duracion": "N/D",
+          "aportacion": "Neoplasias endocrinas múltiples - visión general del síndrome MEN"
+        },
+        {
+          "titulo": "Neoplasias endocrinas múltiples (MEN). Comparación",
+          "url": "https://www.youtube.com/watch?v=MzyNNaVO2NU",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Síndromes de neoplasias endocrinas múltiples: semejanzas y diferencias en cuadro comparativo"
+        },
+        {
+          "titulo": "Pancreatectomia Distal por Laparoscopia. Neoplasia Endocrina Multiple",
+          "url": "https://www.youtube.com/watch?v=jwW3VFeYKfQ",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Caso quirúrgico de insulinoma en paciente con neoplasia endocrina múltiple tipo 1"
+        },
+        {
+          "titulo": "Multiple Endocrine Neoplasia Syndrome (MEN I,II,III) / Mnemonic series # 17",
+          "url": "https://www.youtube.com/watch?v=9e5YudJLRYc",
+          "idioma": "inglés",
+          "duracion": "N/D",
+          "aportacion": "Mnemotecnia para recordar síndrome MEN I, II, III - predisposición autosómica dominante"
+        }
+      ]
     },
     {
       "nombre": "Tumores neuroendocrinos gastroenteropancreáticos. Tumor y síndrome carcinoide",
@@ -379,7 +999,51 @@
           "numero_de_pagina": 170
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Gastrinoma (Zollinger-Ellison Syndrome or ZES) - Endocrinology and Pathology",
+          "url": "https://www.youtube.com/watch?v=TTM5yFHDMoM",
+          "idioma": "inglés",
+          "duracion": "N/D",
+          "aportacion": "Tumor neuroendocrino pancreático secretor de gastrina que causa úlceras múltiples"
+        },
+        {
+          "titulo": "Gastrinoma | Zollinger Ellison Syndrome",
+          "url": "https://www.youtube.com/watch?v=I1410ooJE7c",
+          "idioma": "inglés",
+          "duracion": "N/D",
+          "aportacion": "Síntomas, investigaciones y tratamiento de gastrinoma (síndrome de Zollinger-Ellison)"
+        },
+        {
+          "titulo": "Síndrome de Zollinger-Ellison. Gastrinoma Pancreatico. Gastrina-like",
+          "url": "https://www.youtube.com/watch?v=Fayz5Xmfjlc",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Explicación del síndrome de Zollinger-Ellison y gastrinoma pancreático en español"
+        },
+        {
+          "titulo": "Tumores Neuroendócrinos e Síndrome Carcinoide",
+          "url": "https://www.youtube.com/watch?v=ofDAbIf4O9E",
+          "idioma": "portugués",
+          "duracion": "N/D",
+          "aportacion": "Tumores neuroendocrinos que producen serotonina y síndrome carcinoide"
+        },
+        {
+          "titulo": "SÍNDROME CARCINÓIDE",
+          "url": "https://www.youtube.com/watch?v=FcUMAZYarzU",
+          "idioma": "portugués",
+          "duracion": "N/D",
+          "aportacion": "Tumores carcinoides raros caracterizados por flushing, diarrea y dolor abdominal"
+        },
+        {
+          "titulo": "TUMOR CARCINOIDE",
+          "url": "https://www.youtube.com/watch?v=4TcmEzeZsjE",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Tumores neuroendocrinos de crecimiento lento del tracto gastrointestinal con síntesis hormonal"
+        }
+      ]
     },
     {
       "nombre": "Trastornos del desarrollo sexual",
@@ -431,7 +1095,72 @@
           "numero_de_pagina": 180
         }
       ],
-      "total_paginas": 11
+      "total_paginas": 11,
+      "videos": [
+        {
+          "titulo": "Jueves Científicos - DIAGNÓSTICO Y MANEJO DE PUBERTAD PRECOZ CENTRAL EN PEDIATRÍA",
+          "url": "https://www.youtube.com/watch?v=oYvENgpggTQ",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Diagnóstico y manejo de pubertad precoz central en pediatría por especialista"
+        },
+        {
+          "titulo": "Pubertad Precoz Central",
+          "url": "https://www.youtube.com/watch?v=TDlnJrSA7h0",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Conferencia de pediatra endocrinóloga sobre pubertad precoz central"
+        },
+        {
+          "titulo": "¿Qué es la Pubertad Precoz?",
+          "url": "https://www.youtube.com/watch?v=6S-EgSG4mE4",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Aparición de caracteres sexuales secundarios antes de la edad normal"
+        },
+        {
+          "titulo": "Síndrome de McCune-Albright - pubertad precoz periférica",
+          "url": "https://www.youtube.com/watch?v=gdk47nnSZOM",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Síndrome de McCune-Albright como causa de pubertad precoz periférica"
+        },
+        {
+          "titulo": "Diagnóstico Diferencial. Pubertad precoz",
+          "url": "https://www.youtube.com/watch?v=YfzOspS_lOc",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Algoritmo diagnóstico diferencial de pubertad precoz - esencial para MIR"
+        },
+        {
+          "titulo": "¿Cómo reconocer y manejar la Pubertad Precoz en niño?",
+          "url": "https://www.youtube.com/watch?v=P3Mxv6hqr7A",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "División en pubertad precoz central y periférica: diferencias y causas"
+        },
+        {
+          "titulo": "Pubertad Precoz: Cuando los cambios aparecen antes de tiempo",
+          "url": "https://www.youtube.com/watch?v=iY_x8ZDGdk8",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Definición de inicio temprano de pubertad cuando cambios físicos aparecen precozmente"
+        },
+        {
+          "titulo": "¿Qué debo tener en cuenta de la PUBERTAD PRECOZ?",
+          "url": "https://www.youtube.com/watch?v=KMAaphI5U7s",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Dudas frecuentes sobre pubertad precoz respondidas por especialista"
+        },
+        {
+          "titulo": "Pubertad Precoz: Cuándo acudir a un especialista",
+          "url": "https://www.youtube.com/watch?v=YKAdlNGxmR4",
+          "idioma": "español",
+          "duracion": "N/D",
+          "aportacion": "Criterios para derivación a especialista cuando desarrollo puberal es anormalmente temprano"
+        }
+      ]
     }
   ]
 }

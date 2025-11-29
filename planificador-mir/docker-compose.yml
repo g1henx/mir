@@ -1,0 +1,18 @@
+version: '3.8'
+
+services:
+  planificador-mir:
+    build: .
+    container_name: planificador-mir
+    ports:
+      - "3000:3000"
+    volumes:
+      # Persist SQLite database
+      - mir-data:/app/prisma
+    environment:
+      - NODE_ENV=production
+      - DATABASE_URL=file:/app/prisma/dev.db
+    restart: unless-stopped
+
+volumes:
+  mir-data:

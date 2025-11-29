@@ -16,7 +16,29 @@
           "numero_de_pagina": 3
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "Triaje extrahospitalario, protocolo PAS y manejo en urgencias",
+          "url": "https://www.youtube.com/watch?v=VMJJn20dvII",
+          "idioma": "es",
+          "duracion": "8:43",
+          "aportacion": "Explica el triaje extrahospitalario, protocolo PAS (Proteger, Avisar, Socorrer), cadena de supervivencia y escalas SOFA/qSOFA para urgencias MIR"
+        },
+        {
+          "titulo": "SISTEMA DE TRIAJE DE URGENCIAS",
+          "url": "https://www.youtube.com/watch?v=bq9MsuysqAQ",
+          "idioma": "es",
+          "duracion": "6:17",
+          "aportacion": "Organización funcional de urgencias basada en triaje hospitalario y extrahospitalario, Sistema Español de Triaje con niveles y tiempos estimados"
+        },
+        {
+          "titulo": "Triage - Emergency Department Patient Journey",
+          "url": "https://www.youtube.com/watch?v=zLq4Ae-5tPE",
+          "idioma": "en",
+          "aportacion": "Emergency Severity Index y consejos de triaje para enfermeras de urgencias, enfoque práctico del proceso de clasificación"
+        }
+      ]
     },
     {
       "nombre": "Técnicas diagnóstico-terapéuticas en Urgencias",
@@ -38,7 +60,40 @@
           "numero_de_pagina": 9
         }
       ],
-      "total_paginas": 8
+      "total_paginas": 8,
+      "videos": [
+        {
+          "titulo": "Introducción al POCUS en urgencias",
+          "url": "https://www.youtube.com/watch?v=lz9bjMurorc",
+          "idioma": "es",
+          "duracion": "1:24:51",
+          "aportacion": "Introducción completa al Point-of-Care Ultrasound (POCUS) en medicina de urgencias, técnicas y aplicaciones prácticas"
+        },
+        {
+          "titulo": "Ultrasonido en Urgencia (POCUS). APRENDE este superpoder",
+          "url": "https://www.youtube.com/watch?v=A0YW9MoRDPM",
+          "idioma": "es",
+          "aportacion": "Explica el ultrasonido clínico como herramienta fundamental en urgencias para mejorar diagnóstico y manejo del paciente"
+        },
+        {
+          "titulo": "Ventilación NO invasiva en EMERGENCIAS: Evita la Intubación",
+          "url": "https://www.youtube.com/watch?v=WVDt5PjP2rA",
+          "idioma": "es",
+          "aportacion": "Cómo y cuándo usar la ventilación mecánica no invasiva (VMNI) para evitar intubación en situaciones de emergencia"
+        },
+        {
+          "titulo": "Ventilación mecánica no invasiva en urgencias - Dr. Gustavo Delgado",
+          "url": "https://www.youtube.com/watch?v=qEPhCNnyxuQ",
+          "idioma": "es",
+          "aportacion": "Estado del arte de VMNI en urgencias, indicaciones y contraindicaciones por especialista en medicina de urgencias"
+        },
+        {
+          "titulo": "Ventilación Mecánica en Urgencia. De manera SIMPLE y SENCILLA",
+          "url": "https://www.youtube.com/watch?v=0e7lGuRVbVE",
+          "idioma": "es",
+          "aportacion": "Explicación simplificada de ventilación mecánica invasiva para entender los conceptos básicos en urgencias"
+        }
+      ]
     },
     {
       "nombre": "Situaciones emergentes en Urgencias",
@@ -55,7 +110,27 @@
           "numero_de_pagina": 16
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "RCP Avanzada - Soporte Vital Avanzado",
+          "url": "https://www.youtube.com/watch?v=SYkFyOQDwGM",
+          "idioma": "es",
+          "aportacion": "Actualización de guías de soporte vital avanzado en urgencias y emergencias, protocolos de reanimación cardiopulmonar"
+        },
+        {
+          "titulo": "The Systematic Approach to Emergency Situations - ACLS",
+          "url": "https://www.youtube.com/watch?v=t0XOK7MkKec",
+          "idioma": "en",
+          "aportacion": "Enfoque sistemático de la AHA para manejar situaciones de emergencia que amenazan la vida del paciente"
+        },
+        {
+          "titulo": "MANEJO INICIAL DEL POLITRAUMATIZADO",
+          "url": "https://www.youtube.com/watch?v=b-f4vOYaGhk",
+          "idioma": "es",
+          "aportacion": "Enfoque inicial del paciente politraumatizado según principios ATLS, revisión primaria y manejo urgente"
+        }
+      ]
     },
     {
       "nombre": "Síndromes específicos de Urgencias",
@@ -82,7 +157,39 @@
           "numero_de_pagina": 24
         }
       ],
-      "total_paginas": 8
+      "total_paginas": 8,
+      "videos": [
+        {
+          "titulo": "Abordaje inicial en urgencias del choque séptico",
+          "url": "https://www.youtube.com/watch?v=Js3WrBvaSCI",
+          "idioma": "es",
+          "aportacion": "Manejo inicial del choque séptico en urgencias, reconocimiento precoz y tratamiento según guías actuales"
+        },
+        {
+          "titulo": "Actualización del Choque Séptico 2025 Diagnóstico y Manejo",
+          "url": "https://www.youtube.com/watch?v=cKFpLF8pwVw",
+          "idioma": "es",
+          "aportacion": "Repaso paso a paso de las recomendaciones 2025 en manejo de choque séptico, actualización de protocolos"
+        },
+        {
+          "titulo": "Entendiendo la ESCALA DE GLASGOW ACTUALIZADA",
+          "url": "https://www.youtube.com/watch?v=N-9VCjYmK8k",
+          "idioma": "es",
+          "aportacion": "Evaluación del nivel de consciencia en pacientes con coma mediante la Escala de Glasgow actualizada"
+        },
+        {
+          "titulo": "Actuaciones ante un paciente en coma. Urgencias más frecuentes en Neurología",
+          "url": "https://www.youtube.com/watch?v=js4W8TopyEg",
+          "idioma": "es",
+          "aportacion": "Protocolo de actuación ante paciente en coma en urgencias, evaluación neurológica y manejo inicial"
+        },
+        {
+          "titulo": "Síndrome de distrés respiratorio agudo (SDRA)",
+          "url": "https://www.youtube.com/watch?v=DkQ4TBR4kD0",
+          "idioma": "es",
+          "aportacion": "Explicación del SDRA/ARDS, causas y opciones de tratamiento disponibles para pacientes críticos"
+        }
+      ]
     },
     {
       "nombre": "Intoxicaciones",
@@ -104,7 +211,39 @@
           "numero_de_pagina": 32
         }
       ],
-      "total_paginas": 9
+      "total_paginas": 9,
+      "videos": [
+        {
+          "titulo": "Manejo de Intoxicación Aguda - Dr. Ricardo Carpio Guzmán",
+          "url": "https://www.youtube.com/watch?v=p4uDheR8gP8",
+          "idioma": "es",
+          "aportacion": "Enfoque general del manejo de intoxicaciones agudas en urgencias, evaluación y tratamiento inicial"
+        },
+        {
+          "titulo": "Uso correcto del carbón activado",
+          "url": "https://www.youtube.com/watch?v=d0MMqm8EIbo",
+          "idioma": "es",
+          "aportacion": "Técnica de descontaminación gastrointestinal con carbón activado, indicaciones y administración correcta"
+        },
+        {
+          "titulo": "Preparación y administración de carbón activado en intoxicaciones",
+          "url": "https://www.youtube.com/watch?v=QXvv6-RWnE4",
+          "idioma": "es",
+          "aportacion": "Procedimiento para preparar y administrar carbón activado en casos de intoxicación medicamentosa, dosis adecuadas"
+        },
+        {
+          "titulo": "Toxins & Antidotes for the USMLE Step 1",
+          "url": "https://www.youtube.com/watch?v=PWxZ3KznKwU",
+          "idioma": "en",
+          "aportacion": "Mecanismos de toxinas y antídotos específicos, mnemotecnias para recordar tratamientos de intoxicaciones"
+        },
+        {
+          "titulo": "Acetaminophen Overdose & NAC: What ER Nurses Must Know",
+          "url": "https://www.youtube.com/watch?v=gv9slEEL2D0",
+          "idioma": "en",
+          "aportacion": "Cuándo y cómo administrar N-Acetilcisteína en intoxicación por paracetamol, prevención de daño hepático"
+        }
+      ]
     }
   ]
 }

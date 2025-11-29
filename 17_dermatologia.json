@@ -21,7 +21,44 @@
           "numero_de_pagina": 4
         }
       ],
-      "total_paginas": 7
+      "total_paginas": 7,
+      "videos": [
+        {
+          "titulo": "Anatomía y Fisiología de la Piel",
+          "url": "https://www.youtube.com/watch?v=cWRIeRgHQrY",
+          "idioma": "Español",
+          "duracion": "Video completo",
+          "aportacion": "Explicación detallada de la estructura y función de la piel con énfasis en epidermis, dermis e hipodermis"
+        },
+        {
+          "titulo": "Lesiones primarias y secundarias de la piel",
+          "url": "https://www.youtube.com/watch?v=ZUirydK9JSY",
+          "idioma": "Español",
+          "duracion": "Video educativo",
+          "aportacion": "Clasificación completa de lesiones cutáneas con fotos y cuadro resumen"
+        },
+        {
+          "titulo": "Lesiones Elementales de la Piel",
+          "url": "https://www.youtube.com/watch?v=QbEHr18XVE8",
+          "idioma": "Español",
+          "duracion": "Video completo",
+          "aportacion": "Propedéutica en dermatología y descripción de lesiones elementales primarias y secundarias"
+        },
+        {
+          "titulo": "Lesiones Cutáneas (Piel) Elementales - Dr. Alejandro D'angelo",
+          "url": "https://www.youtube.com/watch?v=8IEO7f4ezhI",
+          "idioma": "Español",
+          "duracion": "Video práctico",
+          "aportacion": "Abordaje práctico y conciso de lesiones cutáneas primarias y secundarias"
+        },
+        {
+          "titulo": "Anatomía de la Piel - Epidermis, Dermis, Hipodermis",
+          "url": "https://www.youtube.com/watch?v=cwQkH7oMZVU",
+          "idioma": "Español",
+          "duracion": "Video educativo",
+          "aportacion": "Sistema integumentario completo con énfasis en capas y estructuras nerviosas"
+        }
+      ]
     },
     {
       "nombre": "Infecciones víricas",
@@ -48,7 +85,37 @@
           "numero_de_pagina": 13
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "¿Qué es el herpes zóster y cómo funciona la culebrilla?",
+          "url": "https://www.youtube.com/watch?v=H9SVXxg-wCo",
+          "idioma": "Español",
+          "duracion": "Video informativo",
+          "aportacion": "Explicación del herpes zóster, características clínicas y manifestaciones cutáneas"
+        },
+        {
+          "titulo": "Herpes zóster o culebrilla: causas, síntomas, tratamiento",
+          "url": "https://www.youtube.com/watch?v=gpI-JYAjYzg",
+          "idioma": "Español",
+          "duracion": "Video completo",
+          "aportacion": "Abordaje completo del herpes zóster por dermatóloga experta"
+        },
+        {
+          "titulo": "Infección por el virus del herpes simple (HSV-1 y HSV-2)",
+          "url": "https://www.youtube.com/shorts/WP-Yexx9NEw",
+          "idioma": "Español",
+          "duracion": "Short educativo",
+          "aportacion": "Etiología y diferenciación entre HSV-1 y HSV-2 con flashcards"
+        },
+        {
+          "titulo": "Herpes Zoster: Diagnóstico y Tratamiento",
+          "url": "https://www.youtube.com/watch?v=pvp2z2Wsin4",
+          "idioma": "Español",
+          "duracion": "Video médico",
+          "aportacion": "Enfoque geriátrico del herpes zóster con prevención y tratamiento"
+        }
+      ]
     },
     {
       "nombre": "Infecciones micóticas",
@@ -80,7 +147,37 @@
           "numero_de_pagina": 18
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "¿Cuál es el tratamiento de la tiña o dermatofitosis?",
+          "url": "https://www.youtube.com/watch?v=qLZN1qn012o",
+          "idioma": "Español",
+          "duracion": "Video educativo",
+          "aportacion": "Tratamiento específico de tiñas según localización corporal"
+        },
+        {
+          "titulo": "Dermatofitosis/Tiña - Generalidades",
+          "url": "https://www.youtube.com/watch?v=EyPBVOzYY2A",
+          "idioma": "Español",
+          "duracion": "Video completo",
+          "aportacion": "Descripción de diferentes variedades de tiña incluyendo cabeza, barba y cuerpo"
+        },
+        {
+          "titulo": "Pie de Atleta - Tratamiento y Hongos en Pies",
+          "url": "https://www.youtube.com/watch?v=309DQroFsNY",
+          "idioma": "Español",
+          "duracion": "Video médico",
+          "aportacion": "Tinea pedis: causas, manifestaciones y tratamiento específico"
+        },
+        {
+          "titulo": "Tratamiento de las Dermatofitosis o Tiñas",
+          "url": "https://www.youtube.com/watch?v=M1mQhx7WKfQ",
+          "idioma": "Español",
+          "duracion": "Video profesional",
+          "aportacion": "Enfoque terapéutico amplio según experiencia profesional"
+        }
+      ]
     },
     {
       "nombre": "Infecciones bacterianas",
@@ -107,7 +204,37 @@
           "numero_de_pagina": 22
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "La erisipela puede ser confundida con celulitis infecciosa",
+          "url": "https://www.youtube.com/watch?v=T7r1KnUvV94",
+          "idioma": "Español",
+          "duracion": "Video médico",
+          "aportacion": "Diferenciación entre erisipela y celulitis, síntomas y causas"
+        },
+        {
+          "titulo": "Celulitis y erisipela: todo lo que necesitas saber",
+          "url": "https://www.youtube.com/watch?v=9CbH4e5VOT4",
+          "idioma": "Español",
+          "duracion": "Video completo",
+          "aportacion": "Explicación completa de infecciones bacterianas de piel y partes blandas"
+        },
+        {
+          "titulo": "Erisipela y celulitis infecciosa - ¿Es contagiosa?",
+          "url": "https://www.youtube.com/watch?v=n6MXV484NNQ",
+          "idioma": "Español",
+          "duracion": "Video clínico",
+          "aportacion": "Secuelas, contagio y manejo clínico de infecciones cutáneas"
+        },
+        {
+          "titulo": "Celulitis infecciosa: Cómo tratarla",
+          "url": "https://www.youtube.com/watch?v=g22NkNgARO0",
+          "idioma": "Español",
+          "duracion": "Video educativo",
+          "aportacion": "Diagnóstico y tratamiento de celulitis bacteriana en menos de 10 minutos"
+        }
+      ]
     },
     {
       "nombre": "Zoonosis y parasitosis",
@@ -124,7 +251,37 @@
           "numero_de_pagina": 26
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "Sarna o escabiosis - Todo lo que debes saber",
+          "url": "https://www.youtube.com/watch?v=mq66Tk4KhOU",
+          "idioma": "Español",
+          "duracion": "Video médico",
+          "aportacion": "Síntoma principal de picor nocturno intenso, explicación por dermatóloga"
+        },
+        {
+          "titulo": "Escabiosis (La Sarna) - Síntomas y Tratamiento",
+          "url": "https://www.youtube.com/watch?v=iVm1UzIjLvU",
+          "idioma": "Español",
+          "duracion": "Video educativo",
+          "aportacion": "Parásito causante, síntomas completos y opciones de tratamiento"
+        },
+        {
+          "titulo": "Sarna-escabiosis: tratamiento, síntomas - Detalles completos",
+          "url": "https://www.youtube.com/watch?v=vyQHmFySb0I",
+          "idioma": "Español",
+          "duracion": "Video especialista",
+          "aportacion": "Cura y tratamiento detallado por dermatólogo experto"
+        },
+        {
+          "titulo": "Dermatólogo explica la sarna (escabiosis)",
+          "url": "https://www.youtube.com/watch?v=2rHiio714TY",
+          "idioma": "Español",
+          "duracion": "Video profesional",
+          "aportacion": "Qué es, transmisión, manifestaciones y tratamiento adecuado"
+        }
+      ]
     },
     {
       "nombre": "Enfermedades eritemato-descamativas",
@@ -151,7 +308,44 @@
           "numero_de_pagina": 33
         }
       ],
-      "total_paginas": 8
+      "total_paginas": 8,
+      "videos": [
+        {
+          "titulo": "Pitiriasis rosada de Gibert - El resfriado de la piel",
+          "url": "https://www.youtube.com/watch?v=ycWD1nZ0dg8",
+          "idioma": "Español",
+          "duracion": "Video educativo",
+          "aportacion": "Trastorno benigno y transitorio que aparece en jóvenes y mediana edad"
+        },
+        {
+          "titulo": "Todo sobre la pitiriasis rosada",
+          "url": "https://www.youtube.com/watch?v=HV62j9WLxss",
+          "idioma": "Español",
+          "duracion": "Video médico",
+          "aportacion": "Manifestación clínica con placa inicial sonrosada o roja"
+        },
+        {
+          "titulo": "Psoriasis: causas, síntomas y tratamiento",
+          "url": "https://www.youtube.com/watch?v=L7KABj8Rels",
+          "idioma": "Español",
+          "duracion": "Video completo",
+          "aportacion": "Abordaje completo de psoriasis incluyendo cremas y tratamientos"
+        },
+        {
+          "titulo": "Tratamiento de fototerapia contra la psoriasis",
+          "url": "https://www.youtube.com/watch?v=YpUOMFX9rNw",
+          "idioma": "Español",
+          "duracion": "Video terapéutico",
+          "aportacion": "Opciones de fototerapia para manejo de psoriasis"
+        },
+        {
+          "titulo": "Medicamentos biológicos para psoriasis en placa",
+          "url": "https://www.youtube.com/watch?v=wdyRq4xwsWg",
+          "idioma": "Español",
+          "duracion": "Video especializado",
+          "aportacion": "Modificación del proceso inflamatorio con medicamentos biológicos"
+        }
+      ]
     },
     {
       "nombre": "Eccemas",
@@ -183,7 +377,37 @@
           "numero_de_pagina": 41
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Eccema dishidrótico - Lesiones en manos y pies no contagiosas",
+          "url": "https://www.youtube.com/watch?v=KAgXff2KxtA",
+          "idioma": "Español",
+          "duracion": "Video médico",
+          "aportacion": "Erupción cutánea en palmas y pies por dermatóloga especialista"
+        },
+        {
+          "titulo": "Dishidrosis - Eccema dishidrótico - Pompholyx",
+          "url": "https://www.youtube.com/watch?v=LmgBnUbdtT0",
+          "idioma": "Español",
+          "duracion": "Video completo",
+          "aportacion": "Picor, ampollas y descamación de manos y pies con explicación detallada"
+        },
+        {
+          "titulo": "Dermatitis atópica/Eccema y Dermatitis de contacto",
+          "url": "https://www.youtube.com/watch?v=v5tnH_P3fAk",
+          "idioma": "Español",
+          "duracion": "Video hospitalario",
+          "aportacion": "Enfermedad inflamatoria crónica con alteración de barrera cutánea"
+        },
+        {
+          "titulo": "Dermatitis atópica: causas, síntomas y tratamiento",
+          "url": "https://www.youtube.com/watch?v=7HZ21KHXDpA",
+          "idioma": "Español",
+          "duracion": "Video especialista",
+          "aportacion": "Eccema como síntoma principal, causas y abordaje terapéutico"
+        }
+      ]
     },
     {
       "nombre": "Urticaria y angioedema",
@@ -205,7 +429,37 @@
           "numero_de_pagina": 44
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "Angioedema hereditario y síndromes asociados a urticaria",
+          "url": "https://www.youtube.com/watch?v=BBcZKwZOr2s",
+          "idioma": "Español",
+          "duracion": "Video profesional",
+          "aportacion": "Presentación hospitalaria sobre angioedema hereditario y urticaria"
+        },
+        {
+          "titulo": "Angioedema Hereditario: Diagnóstico Temprano y Tratamiento",
+          "url": "https://www.youtube.com/watch?v=Gn6e8Mb47w8",
+          "idioma": "Español",
+          "duracion": "Video especializado",
+          "aportacion": "Enfermedad rara autosómica dominante con diagnóstico y tratamiento oportuno"
+        },
+        {
+          "titulo": "Angioedema Hereditario - Una enfermedad poco frecuente",
+          "url": "https://www.youtube.com/watch?v=FTWdbATu0zI",
+          "idioma": "Español",
+          "duracion": "Video médico",
+          "aportacion": "Explicación por especialista en alergia e inmunología"
+        },
+        {
+          "titulo": "Angioedema: Tipos y tratamientos",
+          "url": "https://www.youtube.com/watch?v=dDteMg0MCrs",
+          "idioma": "Español",
+          "duracion": "Video clínico",
+          "aportacion": "Identificación y respuesta a antihistamínicos por alergóloga"
+        }
+      ]
     },
     {
       "nombre": "Toxicodermias",
@@ -232,7 +486,37 @@
           "numero_de_pagina": 49
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Síndrome de Stevens-Johnson (SSJ) y necrólisis epidérmica tóxica",
+          "url": "https://www.youtube.com/watch?v=nheymnBrQ4g",
+          "idioma": "Español",
+          "duracion": "Video médico",
+          "aportacion": "Presentación completa de toxicodermias graves por dermatóloga"
+        },
+        {
+          "titulo": "Síndrome de Stevens Johnson - Definición, Etiología y Fisiopatología",
+          "url": "https://www.youtube.com/watch?v=q3HSEN06vCk",
+          "idioma": "Español",
+          "duracion": "Video educativo",
+          "aportacion": "Una de las enfermedades más mortales, reacción mucocutánea severa"
+        },
+        {
+          "titulo": "Understanding Stevens-Johnson Syndrome and Toxic Epidermal Necrolysis",
+          "url": "https://www.youtube.com/watch?v=pJzjMSyJUC8",
+          "idioma": "Inglés",
+          "duracion": "Video internacional",
+          "aportacion": "Definiciones, causas y fisiopatología de SJS y TEN"
+        },
+        {
+          "titulo": "Sesión de Experto: Síndrome de Stevens Johnson/NET",
+          "url": "https://www.youtube.com/watch?v=HysjDxLoAD4",
+          "idioma": "Español",
+          "duracion": "Sesión clínica",
+          "aportacion": "Presentación experta de dermatología sobre toxicodermias graves"
+        }
+      ]
     },
     {
       "nombre": "Patología de la unidad pilosebácea",
@@ -259,7 +543,37 @@
           "numero_de_pagina": 55
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Hidradenitis Supurativa: Síntomas, diagnóstico y tratamiento",
+          "url": "https://www.youtube.com/watch?v=Sd8p_HFUYjs",
+          "idioma": "Español",
+          "duracion": "Video hospitalario",
+          "aportacion": "Tratamiento avanzado en hospital de referencia"
+        },
+        {
+          "titulo": "Hidradenitis Supurativa - Qué es y cómo se trata",
+          "url": "https://www.youtube.com/watch?v=w-3VCZ5p8wA",
+          "idioma": "Español",
+          "duracion": "Video residente",
+          "aportacion": "Explicación por residente de dermatología con enfoque práctico"
+        },
+        {
+          "titulo": "Isotretinoína - Elimina el acné - Tratamiento completo",
+          "url": "https://www.youtube.com/watch?v=wewGTaYurfI",
+          "idioma": "Español",
+          "duracion": "Video terapéutico",
+          "aportacion": "Causas del acné y tratamiento con isotretinoína (roaccutan/dercutane)"
+        },
+        {
+          "titulo": "Antibióticos para el acné: Doxiciclina, Eritromicina, Clindamicina",
+          "url": "https://www.youtube.com/watch?v=gaMLD7rC1-c",
+          "idioma": "Español",
+          "duracion": "Video farmacológico",
+          "aportacion": "Mecanismo de acción de antibióticos en tratamiento del acné"
+        }
+      ]
     },
     {
       "nombre": "Trastornos de la pigmentación",
@@ -276,7 +590,30 @@
           "numero_de_pagina": 60
         }
       ],
-      "total_paginas": 2
+      "total_paginas": 2,
+      "videos": [
+        {
+          "titulo": "Vitiligo: cuando la piel pierde su pigmentación",
+          "url": "https://www.youtube.com/watch?v=fmd6PaLHjzY",
+          "idioma": "Español",
+          "duracion": "Video médico",
+          "aportacion": "Enfermedad que causa pérdida de color en manchas, áreas descoloridas"
+        },
+        {
+          "titulo": "Albinismo - ¿Qué es el albinismo?",
+          "url": "https://www.youtube.com/watch?v=9slyXef_XPM",
+          "idioma": "Español",
+          "duracion": "Draw My Life",
+          "aportacion": "Condición genética hereditaria con reducción de melanina en piel y cabello"
+        },
+        {
+          "titulo": "Vitíligo: cómo comienza, origen, causas y tratamiento",
+          "url": "https://www.youtube.com/watch?v=7aEAsD8DimQ",
+          "idioma": "Español",
+          "duracion": "Video completo",
+          "aportacion": "Descripción detallada del origen y causas del vitíligo"
+        }
+      ]
     },
     {
       "nombre": "Fotosensibilidad. Trastornos inducidos por la luz",
@@ -298,7 +635,37 @@
           "numero_de_pagina": 62
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "Lupus: Cuidado de la piel y protección solar",
+          "url": "https://www.youtube.com/watch?v=wMjvFNpDBx4",
+          "idioma": "Español",
+          "duracion": "Video educativo",
+          "aportacion": "Fotosensibilidad en lupus, rutina de cuidado y protección solar"
+        },
+        {
+          "titulo": "Lupus eritematoso cutáneo: Diagnóstico y tratamientos",
+          "url": "https://www.youtube.com/watch?v=lYV5loYEAJo",
+          "idioma": "Español",
+          "duracion": "Video médico",
+          "aportacion": "Enfermedad inflamatoria crónica, síntomas y diferentes tipos"
+        },
+        {
+          "titulo": "Fotosensibilidad por medicamentos: cuidar tu piel del sol",
+          "url": "https://www.youtube.com/shorts/6p2i8xAq_nk",
+          "idioma": "Español",
+          "duracion": "Short educativo",
+          "aportacion": "Medicamentos que aumentan sensibilidad solar, erupciones y manchas"
+        },
+        {
+          "titulo": "Lupus eritematoso cutáneo: histopatología y tratamiento",
+          "url": "https://www.youtube.com/watch?v=W4NrJ5jAVWE",
+          "idioma": "Español",
+          "duracion": "Video especializado",
+          "aportacion": "Actualización de tratamiento e histopatología del lupus cutáneo"
+        }
+      ]
     },
     {
       "nombre": "Enfermedades ampollosas autoinmunitarias",
@@ -340,7 +707,37 @@
           "numero_de_pagina": 69
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Dermatosis ampollosas autoinmunes: Diagnóstico diferencial en 1 minuto",
+          "url": "https://www.youtube.com/watch?v=Hrt1z5Hx8fs",
+          "idioma": "Español",
+          "duracion": "Video breve",
+          "aportacion": "Claves clínicas para diferenciar pénfigo vulgar, penfigoide y dermatitis herpetiforme"
+        },
+        {
+          "titulo": "Pénfigo vs Penfigoide: Comparativa",
+          "url": "https://www.youtube.com/watch?v=XvfIVofrzBA",
+          "idioma": "Español",
+          "duracion": "Video comparativo",
+          "aportacion": "Diferencias entre las dos enfermedades ampollosas autoinmunes más frecuentes"
+        },
+        {
+          "titulo": "Diagnóstico Diferencial: Pénfigo vs Penfigoide",
+          "url": "https://www.youtube.com/watch?v=O9th2EP8_ec",
+          "idioma": "Español",
+          "duracion": "Video educativo",
+          "aportacion": "Análisis diferencial detallado entre pénfigo y penfigoide"
+        },
+        {
+          "titulo": "Dermatosis ampollosas autoinmunes - Tema completo",
+          "url": "https://www.youtube.com/watch?v=BY6cmplFWaU",
+          "idioma": "Español",
+          "duracion": "Video académico",
+          "aportacion": "Videopóster con contenido completo del tema de dermatología"
+        }
+      ]
     },
     {
       "nombre": "Paniculitis",
@@ -362,7 +759,30 @@
           "numero_de_pagina": 72
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "Eritema nodoso",
+          "url": "https://www.youtube.com/watch?v=jKQTB8Ddowc",
+          "idioma": "Español",
+          "duracion": "Video médico",
+          "aportacion": "Inflamación de grasa subcutánea con nódulos y placas eritematosas"
+        },
+        {
+          "titulo": "Paniculitis Eritema Nodoso con Harper Academia",
+          "url": "https://www.youtube.com/watch?v=kffnDYIBO3Y",
+          "idioma": "Español",
+          "duracion": "Video académico",
+          "aportacion": "Revisión académica completa de paniculitis y eritema nodoso"
+        },
+        {
+          "titulo": "Erythema Induratum/Nodular Vasculitis",
+          "url": "https://www.youtube.com/watch?v=0QK7k6G9pZU",
+          "idioma": "Inglés",
+          "duracion": "Video dermatopatología",
+          "aportacion": "Paniculitis y vasculopatía con enfoque en dermatopatología"
+        }
+      ]
     },
     {
       "nombre": "Manifestaciones cutáneas y enfermedades endocrinas y metabólicas",
@@ -389,7 +809,37 @@
           "numero_de_pagina": 77
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "¿Qué es la Acantosis Nigricans y cómo funciona?",
+          "url": "https://www.youtube.com/watch?v=SzreaoGy72c",
+          "idioma": "Español",
+          "duracion": "Video educativo",
+          "aportacion": "Manchas oscuras en cuello y axilas relacionadas con resistencia a insulina"
+        },
+        {
+          "titulo": "Manchas en el cuello o axilas - Diabetes y acantosis nigricans",
+          "url": "https://www.youtube.com/watch?v=wtO1MhNKlvQ",
+          "idioma": "Español",
+          "duracion": "Video médico",
+          "aportacion": "Relación entre acantosis nigricans y diabetes por médico educador"
+        },
+        {
+          "titulo": "Acantosis nigricans: Qué es, por qué aparece y tratamiento",
+          "url": "https://www.youtube.com/watch?v=jYYi9-wLd4E",
+          "idioma": "Español",
+          "duracion": "Video completo",
+          "aportacion": "Manchas como signo de alteración metabólica relacionada con diabetes"
+        },
+        {
+          "titulo": "Acantosis Signo de Diabetes y Prediabetes",
+          "url": "https://www.youtube.com/watch?v=5GE22KbJL-s",
+          "idioma": "Español",
+          "duracion": "Video educativo",
+          "aportacion": "Resistencia a insulina, prediabetes y diabetes manifestadas en piel"
+        }
+      ]
     },
     {
       "nombre": "Manifestaciones cutáneas de las enfermedades digestivas",
@@ -406,7 +856,30 @@
           "numero_de_pagina": 80
         }
       ],
-      "total_paginas": 2
+      "total_paginas": 2,
+      "videos": [
+        {
+          "titulo": "Pioderma gangrenoso - Manifestaciones y tratamiento",
+          "url": "https://www.youtube.com/watch?v=5K1-BnM108U",
+          "idioma": "Italiano/Subtítulos",
+          "duracion": "Video médico",
+          "aportacion": "Enfermedades neutrofílicas donde neutrofílos activados dañan tejidos"
+        },
+        {
+          "titulo": "Pioderma gangrenoso - ¿Diagnóstico de exclusión?",
+          "url": "https://www.youtube.com/watch?v=swEB2uE6_go",
+          "idioma": "Español",
+          "duracion": "Jornada académica",
+          "aportacion": "Presentación académica sobre diagnóstico de pioderma gangrenoso"
+        },
+        {
+          "titulo": "Estado del arte en pioderma gangrenoso",
+          "url": "https://www.youtube.com/watch?v=g8-KK2JrUbI",
+          "idioma": "Español",
+          "duracion": "Video hospitalario",
+          "aportacion": "Actualización completa sobre pioderma gangrenoso por experta"
+        }
+      ]
     },
     {
       "nombre": "Manifestaciones cutáneas de otras enfermedades sistémicas",
@@ -433,7 +906,37 @@
           "numero_de_pagina": 83
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "Sarcoidosis cutánea",
+          "url": "https://www.youtube.com/watch?v=jyXxfFq8arg",
+          "idioma": "Español",
+          "duracion": "Video hospitalario",
+          "aportacion": "Presentación por medicina interna sobre sarcoidosis cutánea"
+        },
+        {
+          "titulo": "Enfermedades granulomatosas, amiloidosis y mucinosis",
+          "url": "https://www.youtube.com/watch?v=wVadEw31dnQ",
+          "idioma": "Español",
+          "duracion": "Sesión académica",
+          "aportacion": "Cápsula introductoria sobre enfermedades granulomatosas y amiloidosis"
+        },
+        {
+          "titulo": "¿Qué es la sarcoidosis?",
+          "url": "https://www.youtube.com/watch?v=zBpj4ByvdiA",
+          "idioma": "Español",
+          "duracion": "Video educativo",
+          "aportacion": "Síntomas, causas, tratamiento e importancia del diagnóstico precoz"
+        },
+        {
+          "titulo": "Understanding Sarcoidosis: A Visual Guide",
+          "url": "https://www.youtube.com/watch?v=p3D7MHr8dr0",
+          "idioma": "Inglés",
+          "duracion": "Video educativo",
+          "aportacion": "Fisiopatología, presentación, investigaciones y complicaciones"
+        }
+      ]
     },
     {
       "nombre": "Facomatosis",
@@ -445,7 +948,37 @@
           "numero_de_pagina": 85
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "Manchas café con leche en Neurofibromatose tipo 1",
+          "url": "https://www.youtube.com/watch?v=tjz5rDAYr_0",
+          "idioma": "Portugués/Visual",
+          "duracion": "Video clínico",
+          "aportacion": "Presentación visual de manchas café con leche características"
+        },
+        {
+          "titulo": "Neurofibromatosis tipo 1 - Manchas Café Con Leche",
+          "url": "https://www.youtube.com/watch?v=Gq6eD3j8_GE",
+          "idioma": "Español",
+          "duracion": "Video médico",
+          "aportacion": "Explicación especializada de manchas café con leche en NF1"
+        },
+        {
+          "titulo": "Neurofibromatosis Type 1 Mnemonic - Signs of NF1",
+          "url": "https://www.youtube.com/watch?v=yL9svVAcDH4",
+          "idioma": "Inglés",
+          "duracion": "Video educativo",
+          "aportacion": "Mnemotecnia y signos característicos de neurofibromatosis tipo 1"
+        },
+        {
+          "titulo": "What is Neurofibromatosis Type 1 (NF1)?",
+          "url": "https://www.youtube.com/watch?v=IM7r-U1sKnI",
+          "idioma": "Inglés",
+          "duracion": "Video animado",
+          "aportacion": "Video animado simple sobre condición genética con bultos en nervios"
+        }
+      ]
     },
     {
       "nombre": "Tumores cutáneos benignos, lesiones cutáneas precancerosas y lesiones melanocíticas benignas",
@@ -467,7 +1000,37 @@
           "numero_de_pagina": 92
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "Queratosis actínica - Lesión cutánea precancerosa",
+          "url": "https://www.youtube.com/watch?v=rTeuq9F8_Qg",
+          "idioma": "Español",
+          "duracion": "Video médico",
+          "aportacion": "Lesiones precancerosas por acumulación de radiación solar"
+        },
+        {
+          "titulo": "Queratosis actínica - Un tumor de piel desconocido",
+          "url": "https://www.youtube.com/watch?v=8yUCOfHQQPk",
+          "idioma": "Español",
+          "duracion": "Video educativo",
+          "aportacion": "Lesiones frecuentes de piel a las que no se presta atención suficiente"
+        },
+        {
+          "titulo": "Queratosis actínica: prevención, diagnóstico y tratamiento",
+          "url": "https://www.youtube.com/watch?v=CS04jlfnrPw",
+          "idioma": "Español",
+          "duracion": "Video hospitalario",
+          "aportacion": "Explicación completa por residente de dermatología"
+        },
+        {
+          "titulo": "Nevus o lunares - Qué son y cómo se pueden tratar",
+          "url": "https://www.youtube.com/watch?v=5LZV4Y5MOmo",
+          "idioma": "Español",
+          "duracion": "Video clínico",
+          "aportacion": "Explicación de nevus y diversas maneras de eliminarlos"
+        }
+      ]
     },
     {
       "nombre": "Cáncer cutáneo no melanoma",
@@ -489,7 +1052,37 @@
           "numero_de_pagina": 94
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "Carcinoma Basocelular - Un tipo de Cáncer de Piel",
+          "url": "https://www.youtube.com/watch?v=iDjxhjVLlng",
+          "idioma": "Español",
+          "duracion": "Video médico",
+          "aportacion": "Subtipo más común de cáncer de piel en aumento por exposición solar"
+        },
+        {
+          "titulo": "Cáncer de piel: carcinoma basocelular y escamocelular",
+          "url": "https://www.youtube.com/watch?v=Yk8fbfrvcfg",
+          "idioma": "Español",
+          "duracion": "Video educativo",
+          "aportacion": "Identificación de los tipos de cánceres de piel más comunes"
+        },
+        {
+          "titulo": "Diagnóstico Diferencial: Carcinoma espinocelular vs basocelular",
+          "url": "https://www.youtube.com/watch?v=d3gpxxYdBgQ",
+          "idioma": "Español",
+          "duracion": "Video comparativo",
+          "aportacion": "Diferenciación entre carcinoma espinocelular y basocelular"
+        },
+        {
+          "titulo": "Carcinoma de Células de Merkel - Papo de Dermato",
+          "url": "https://www.youtube.com/watch?v=BPEnxSm_jWs",
+          "idioma": "Portugués/Subtítulos",
+          "duracion": "Video especializado",
+          "aportacion": "Conversación esclarecedora sobre carcinoma de células de Merkel"
+        }
+      ]
     },
     {
       "nombre": "Melanoma maligno",
@@ -526,7 +1119,44 @@
           "numero_de_pagina": 103
         }
       ],
-      "total_paginas": 8
+      "total_paginas": 8,
+      "videos": [
+        {
+          "titulo": "Inmunoterapia del melanoma",
+          "url": "https://www.youtube.com/watch?v=BLL0ECEozJM",
+          "idioma": "Español",
+          "duracion": "Video académico",
+          "aportacion": "Bases de la inmunoterapia en paciente con melanoma avanzado"
+        },
+        {
+          "titulo": "Nuevos tratamientos para el melanoma avanzado",
+          "url": "https://www.youtube.com/watch?v=bFqm7KZm_3M",
+          "idioma": "Español",
+          "duracion": "Video terapéutico",
+          "aportacion": "Melanoma metastásico con nueva línea terapéutica con inmunoterapia"
+        },
+        {
+          "titulo": "ABCDE and F Guide to detect skin cancer and melanoma",
+          "url": "https://www.youtube.com/watch?v=iiXfaX2wDxU",
+          "idioma": "Inglés",
+          "duracion": "Video educativo",
+          "aportacion": "Guía ABCDE y F para monitorear cambios y detectar melanoma"
+        },
+        {
+          "titulo": "Melanoma: síntomas, causas y tratamiento",
+          "url": "https://www.youtube.com/watch?v=iTTbnTO4rs8",
+          "idioma": "Español",
+          "duracion": "Video médico",
+          "aportacion": "Cáncer de piel originado en melanocitos, tumor maligno potencialmente mortal"
+        },
+        {
+          "titulo": "Mayo Clinic Minute: The ABCDE melanoma check",
+          "url": "https://www.youtube.com/watch?v=ayyBMp_2PC0",
+          "idioma": "Inglés",
+          "duracion": "Video breve",
+          "aportacion": "Detección temprana de melanoma usando regla ABCDE por Mayo Clinic"
+        }
+      ]
     },
     {
       "nombre": "Linfomas cutáneos",
@@ -553,7 +1183,37 @@
           "numero_de_pagina": 107
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "Investigación en micosis fungoide",
+          "url": "https://www.youtube.com/watch?v=6Ge9Mz-9bv0",
+          "idioma": "Español",
+          "duracion": "Video investigación",
+          "aportacion": "Estudio internacional sobre nuevo tratamiento para micosis fungoide"
+        },
+        {
+          "titulo": "Micosis Fungoide/Síndrome de Sezary (MF/SS)",
+          "url": "https://www.youtube.com/watch?v=eZfEUKugAY0",
+          "idioma": "Español",
+          "duracion": "Video académico",
+          "aportacion": "Módulo sobre enfermedades del sistema hemolinfopoyético"
+        },
+        {
+          "titulo": "Micosis Fungoide - El Linfoma cutáneo más común",
+          "url": "https://www.youtube.com/watch?v=eWp_IV9C8pM",
+          "idioma": "Español",
+          "duracion": "Charla académica",
+          "aportacion": "Seminario de investigación en dermatología sobre linfoma cutáneo más frecuente"
+        },
+        {
+          "titulo": "Mycosis Fungoides and Sézary Syndrome Signs and Symptoms",
+          "url": "https://www.youtube.com/watch?v=fGVivf-iAZE",
+          "idioma": "Inglés",
+          "duracion": "Video médico",
+          "aportacion": "Signos y síntomas por profesor de dermatopatología de Columbia"
+        }
+      ]
     },
     {
       "nombre": "Otros tumores cutáneos",
@@ -575,7 +1235,23 @@
           "numero_de_pagina": 110
         }
       ],
-      "total_paginas": 4
+      "total_paginas": 4,
+      "videos": [
+        {
+          "titulo": "Todo Sobre la Mastocitosis: Síntomas, Diagnóstico y Tratamiento",
+          "url": "https://www.youtube.com/watch?v=E7hOS1CkvmI",
+          "idioma": "Español",
+          "duracion": "Video completo",
+          "aportacion": "Enfermedad poco común pero importante, exploración completa"
+        },
+        {
+          "titulo": "Mastocitoma, histiocitoma y alopecia paraneoplásica felina",
+          "url": "https://www.youtube.com/watch?v=8rnCjbHssdA",
+          "idioma": "Español",
+          "duracion": "Video veterinario",
+          "aportacion": "Especialidad de dermatología con enfoque en mastocitoma e histiocitoma"
+        }
+      ]
     },
     {
       "nombre": "Dermatosis paraneoplásicas",
@@ -592,7 +1268,37 @@
           "numero_de_pagina": 114
         }
       ],
-      "total_paginas": 6
+      "total_paginas": 6,
+      "videos": [
+        {
+          "titulo": "Síndrome de Sweet",
+          "url": "https://www.youtube.com/watch?v=rqb7_suTspo",
+          "idioma": "Portugués/Subtítulos",
+          "duracion": "Video médico",
+          "aportacion": "Dermatosis neutrofílica aguda dolorosa con manifestaciones sistémicas"
+        },
+        {
+          "titulo": "Acantosis Nigricans - Enfermedad de la piel",
+          "url": "https://www.youtube.com/watch?v=6mp8UDZ-EfE",
+          "idioma": "Español",
+          "duracion": "Video educativo",
+          "aportacion": "Manchas oscuras en piel que pueden ser paraneoplásicas"
+        },
+        {
+          "titulo": "Acantosis Nigricans: Causas y Tratamiento",
+          "url": "https://www.youtube.com/watch?v=d2Nc8RQAJnk",
+          "idioma": "Español",
+          "duracion": "Video médico",
+          "aportacion": "Piel gruesa, aterciopelada y oscura en pliegues, no es suciedad"
+        },
+        {
+          "titulo": "Acantosis Nigricans - Qué es, por qué aparece y tratamiento",
+          "url": "https://www.youtube.com/watch?v=rv6YTL-Y_iM",
+          "idioma": "Español",
+          "duracion": "Video completo",
+          "aportacion": "Clase completa sobre condición conocida como manchas en cuello y axilas"
+        }
+      ]
     }
   ]
 }
