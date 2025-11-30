@@ -1,8 +1,17 @@
+export interface Video {
+  titulo: string;
+  url: string;
+  idioma: 'es' | 'en' | string;
+  duracion?: string;
+  aportacion: string;
+}
+
 export interface Capitulo {
   manual: string;
   capitulo_numero: number;
   capitulo_nombre: string;
   paginas: number;
+  videos?: Video[];
 }
 
 export interface Sesion {
