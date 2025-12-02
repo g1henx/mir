@@ -3,6 +3,9 @@ Para ello primero tienes que leerte estas guías:
 '/Users/gn1ra/Library/CloudStorage/GoogleDrive-ncrebooted@gmail.com/My Drive/MIR/MIR/10_Planificación_MIR/Obsidian para Estudiar el MIR.md'
 '/Users/gn1ra/Library/CloudStorage/GoogleDrive-ncrebooted@gmail.com/My Drive/MIR/MIR/10_Planificación_MIR/Flashcards_MIR_Guia_Definitiva.md'
 '/Users/gn1ra/Library/CloudStorage/GoogleDrive-ncrebooted@gmail.com/My Drive/MIR/MIR/10_Planificación_MIR/Tags_vs_Notas_Obsidian.md'
-'/Users/gn1ra/Library/CloudStorage/GoogleDrive-ncrebooted@gmail.com/My Drive/MIR/MIR/10_Planificación_MIR/FSRS_Guia_Completa.md'
-Después tienes que crear las notas siguiendo todas esas gías dentro de  {{INSERTAR RUTA DE LA CARPETA}}; si necesitas usar ulgun tag o referenciar otra nota, primero busca a ver si existe alguna parecida y si no existe, crea una nueva para evitar la redundancia. 
+'/Users/gn1ra/Library/CloudStorage/GoogleDrive-ncrebooted@gmail.com/My Drive/MIR/MIR/10_Planificación_MIR/FSRS_Guia_Completa.md'.
+Las plantillas se encuentran en '/Users/gn1ra/Library/CloudStorage/GoogleDrive-ncrebooted@gmail.com/My Drive/MIR/MIR/99_Sistema/Plantillas' y que aquí tienes un ejemplo de notas creaads correctamente a partir de un texto: '/Users/gn1ra/Library/CloudStorage/GoogleDrive-ncrebooted@gmail.com/My Drive/MIR/MIR/99_Sistema/Ejemplo'.
+Después tienes que crear las notas siguiendo todas esas gías dentro de  {{INSERTAR RUTA DE LA CARPETA}}; si necesitas usar algun tag o referenciar otra nota, primero busca a ver si existe alguna parecida y si no existe, crea una nueva para evitar la redundancia. 
+Regla de oro: SIEMPRE que vayas a escribir un medicamento, procedimiento o enfermedad en una nota; hazlo en forma de referencia a otra nota existente([[]]) despues de buscar si existe esa nota; porque si no exsite, seguramente la cree en un futuro. También, a la hora de mencionar familias de medicamentos, usa: #Familia/NombreDeLaFamilia (Platinos por ejemplo); lo mismo para familia de enfermedades: #Familia/TumoesGinecologicos o #Familia/AnemiasHemolíticas; y también usa tags para efectos / síntomas: #Efecto/Fiebre o #Efecto/Hiperpotasemia
+Presta especial atención a los flashcards.
 El texto es: {{INSERTAR EL TEXTO}}
