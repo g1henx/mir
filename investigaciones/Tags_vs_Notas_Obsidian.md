@@ -177,6 +177,50 @@ Los efectos adversos y las causas de síndromes son exactamente eso: **atributos
 #Interaccion/Litio
 ```
 
+
+  | Tipo                | ¿Tiene nota propia?    | Ejemplo
+                |
+  |---------------------|------------------------|----------------------------------------------------
+  --------------|
+  | Elemento individual | ✅ SÍ (obligatorio)     | [[Gentamicina]], [[Pericarditis Aguda]]
+                 |
+  | Familia/Grupo       | ⚠️ OPCIONAL (como MOC) | [[MOC - Aminoglucósidos]], [[MOC - Enfermedades del
+   Pericardio]] |
+
+  La diferencia importante:
+
+  Las familias pueden tener nota, pero funcionan como MOC (Map of Content) o nota hub, NO como nota de
+   contenido detallado:
+
+  ❌ INCORRECTO: Crear nota "Aminoglucósidos" con TODA la info de todos los aminoglucósidos
+
+  ✅ CORRECTO:
+     - [[Gentamicina]] → Nota completa con plantilla Fármaco
+     - [[Amikacina]] → Nota completa con plantilla Fármaco
+     - [[Tobramicina]] → Nota completa con plantilla Fármaco
+     - [[MOC - Aminoglucósidos]] → Solo enlaces + info GENERAL del grupo (opcional)
+
+  ¿Cuándo SÍ crear nota de familia?
+
+  Según Tags_vs_Notas_Obsidian.md, las Notas Hub/MOC para familias son útiles cuando:
+  1. Necesitas añadir contexto del "por qué" que no cabe en un tag
+  2. Quieres visualizar la familia como nodo grande en el grafo
+  3. La familia tiene características comunes a todos los elementos (ej: mecanismo general)
+
+  Conclusión práctica:
+
+  Tu afirmación es correcta para el flujo principal:
+  - Los elementos (fármacos/enfermedades individuales) = notas atómicas obligatorias
+  - Las familias = NO obligatorias; se manejan mejor con tags transversales (#Grupo/Aminoglucósidos) o
+   MOCs opcionales
+
+  La guía prioriza que no dupliques información. Si pones todo sobre aminoglucósidos en una nota de
+  familia, luego tienes que repetirlo o enlazarlo desde cada fármaco individual, lo cual es
+  ineficiente.
+
+
+
+
 ---
 
 ## Fuentes
