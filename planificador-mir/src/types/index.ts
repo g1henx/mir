@@ -11,38 +11,56 @@ export interface Capitulo {
   capitulo_numero: number;
   capitulo_nombre: string;
   paginas: number;
+  apartados?: number;
   videos?: Video[];
 }
 
 export interface Sesion {
-  numero_sesion_global: number;
-  numero_sesion_vuelta: number;
+  numero_sesion: number;
   total_paginas: number;
   capitulos: Capitulo[];
 }
 
-export interface Vuelta {
+export interface Fase {
+  nombre: string;
+  inicio: string;
+  fin: string;
+  semanas: number;
+  objetivo: string;
+  horas_semanales: number;
+  tiempo_anki_diario_min: string;
+  desired_retention: number;
+  simulacros_semanales?: number;
+}
+
+export interface PlanMetadata {
+  version: string;
+  metodologia: string;
+  fecha_creacion: string;
   descripcion: string;
-  paginas_por_sesion_media: number;
-  rango_paginas?: { min: number; max: number };
-  sesiones: Sesion[];
+}
+
+export interface PlanResumen {
+  total_sesiones_contenido: number;
+  paginas_totales: number;
+  capitulos_totales: number;
+  flashcards_estimadas: number;
+  manuales: number;
 }
 
 export interface PlanEstudio {
-  resumen: {
-    total_sesiones: number;
-    sesiones_vuelta1: number;
-    sesiones_vuelta2: number;
-    paginas_totales_por_vuelta: number;
+  metadata: PlanMetadata;
+  resumen: PlanResumen;
+  fases: {
+    fase1_base: Fase;
+    fase2_intensiva: Fase;
   };
-  vuelta1: Vuelta;
-  vuelta2: Vuelta;
+  sesiones: Sesion[];
 }
 
 export interface SessionProgress {
   id: number;
   sessionNumber: number;
-  vuelta: number;
   completed: boolean;
   completedAt: Date | null;
 }

@@ -13,7 +13,6 @@ datasource db {
 model SessionProgress {
   id              Int      @id @default(autoincrement())
   sessionNumber   Int      @unique
-  vuelta          Int      // 1 or 2
   completed       Boolean  @default(false)
   completedAt     DateTime?
   createdAt       DateTime @default(now())

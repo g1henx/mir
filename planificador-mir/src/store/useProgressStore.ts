@@ -8,10 +8,9 @@ interface ProgressState {
 
   // Actions
   loadProgress: () => Promise<void>;
-  toggleSession: (sessionNumber: number, vuelta: number) => Promise<void>;
+  toggleSession: (sessionNumber: number) => Promise<void>;
   isSessionCompleted: (sessionNumber: number) => boolean;
   getCompletedCount: () => number;
-  getCompletedCountByVuelta: (vuelta: number, totalSessions: number, startFrom: number) => number;
 }
 
 export const useProgressStore = create<ProgressState>((set, get) => ({
@@ -36,7 +35,7 @@ export const useProgressStore = create<ProgressState>((set, get) => ({
     }
   },
 
-  toggleSession: async (sessionNumber: number, vuelta: number) => {
+  toggleSession: async (sessionNumber: number) => {
     const { completedSessions } = get();
     const isCurrentlyCompleted = completedSessions.has(sessionNumber);
 
@@ -55,7 +54,6 @@ export const useProgressStore = create<ProgressState>((set, get) => ({
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
           sessionNumber,
-          vuelta,
           completed: !isCurrentlyCompleted,
         }),
       });
@@ -77,14 +75,5 @@ export const useProgressStore = create<ProgressState>((set, get) => ({
 
   getCompletedCount: () => {
     return get().completedSessions.size;
-  },
-
-  getCompletedCountByVuelta: (vuelta: number, totalSessions: number, startFrom: number) => {
-    const { completedSessions } = get();
-    let count = 0;
-    for (let i = startFrom; i < startFrom + totalSessions; i++) {
-      if (completedSessions.has(i)) count++;
-    }
-    return count;
   },
 }));

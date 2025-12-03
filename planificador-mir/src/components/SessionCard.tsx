@@ -5,18 +5,17 @@ import { Check, BookOpen, FileText, Youtube, ChevronDown, ChevronRight, External
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
-import { Sesion, Capitulo } from '@/types';
+import { Sesion } from '@/types';
 import { useProgressStore } from '@/store/useProgressStore';
 import { cn } from '@/lib/utils';
 
 interface SessionCardProps {
   sesion: Sesion;
-  vuelta: number;
 }
 
-export function SessionCard({ sesion, vuelta }: SessionCardProps) {
+export function SessionCard({ sesion }: SessionCardProps) {
   const { isSessionCompleted, toggleSession } = useProgressStore();
-  const completed = isSessionCompleted(sesion.numero_sesion_global);
+  const completed = isSessionCompleted(sesion.numero_sesion);
   const [expandedChapters, setExpandedChapters] = useState<Set<string>>(new Set());
 
   // Group chapters by manual
@@ -32,7 +31,7 @@ export function SessionCard({ sesion, vuelta }: SessionCardProps) {
   const totalVideos = sesion.capitulos.reduce((sum, cap) => sum + (cap.videos?.length || 0), 0);
 
   const handleToggle = () => {
-    toggleSession(sesion.numero_sesion_global, vuelta);
+    toggleSession(sesion.numero_sesion);
   };
 
   const toggleChapter = (chapterKey: string) => {
@@ -58,14 +57,9 @@ export function SessionCard({ sesion, vuelta }: SessionCardProps) {
     >
       <CardHeader className="pb-3">
         <div className="flex items-center justify-between">
-          <div className="flex items-center gap-3">
-            <CardTitle className="text-lg">
-              Sesión {sesion.numero_sesion_global}
-            </CardTitle>
-            <Badge variant={vuelta === 1 ? 'default' : 'secondary'}>
-              {vuelta === 1 ? '1ª Vuelta' : '2ª Vuelta'}
-            </Badge>
-          </div>
+          <CardTitle className="text-lg">
+            Sesión {sesion.numero_sesion}
+          </CardTitle>
           <Button
             variant={completed ? 'default' : 'outline'}
             size="sm"

@@ -19,7 +19,7 @@ export async function GET() {
 export async function POST(request: NextRequest) {
   try {
     const body = await request.json();
-    const { sessionNumber, vuelta, completed } = body;
+    const { sessionNumber, completed } = body;
 
     const progress = await prisma.sessionProgress.upsert({
       where: { sessionNumber },
@@ -29,7 +29,6 @@ export async function POST(request: NextRequest) {
       },
       create: {
         sessionNumber,
-        vuelta,
         completed,
         completedAt: completed ? new Date() : null,
       },
