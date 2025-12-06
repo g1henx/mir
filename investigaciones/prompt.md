@@ -9,4 +9,4 @@ Después tienes que crear las notas siguiendo todas esas gías dentro de  '/User
 También es importante que antes de crear una nota, verifiques que ya no esté creada en ninguna parte/subcarpeta de /Users/gn1ra/Library/CloudStorage/GoogleDrive-ncrebooted@gmail.com/My Drive/MIR/MIR/20_Enciclopedia_Médica; sino, encuntrala  editala si es necesario.
 Regla de oro: SIEMPRE que vayas a escribir un medicamento, procedimiento o enfermedad en una nota; hazlo en forma de referencia a otra nota existente([[]]) despues de buscar si existe esa nota; porque si no exsite, seguramente la cree en un futuro. También, a la hora de mencionar familias de medicamentos, usa: #Familia/NombreDeLaFamilia (Platinos por ejemplo); lo mismo para familia de enfermedades: #Familia/TumoesGinecologicos o #Familia/AnemiasHemolíticas; y también usa tags para efectos / síntomas: #Efecto/Fiebre o #Efecto/Hiperpotasemia.
 Presta especial atención a los flashcards.
-El texto es: {{INSERTAR EL TEXTO}}
+El texto es: {{INSERTAR EL TEXTO}} 
